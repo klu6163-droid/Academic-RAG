@@ -1,0 +1,18 @@
+category,display_name,count,high_priority,medium_priority,low_priority,pct_of_total
+polymer_nanocomposite,Polymer Nanocomposite,14,1,3,10,4.8%
+SAXS_WAXS_FTIR_DSC_characterization,SAXS/WAXS/FTIR/DSC Characterization,25,0,14,11,8.6%
+bio_based_polymer,Bio-Based Polymer,7,0,1,6,2.4%
+TPU_mechanics,TPU Mechanics,27,1,5,21,9.3%
+supramolecular_polymer,Supramolecular Polymer,8,0,0,8,2.8%
+irrelevant_or_low_priority,Irrelevant / Low Priority,70,0,0,70,24.1%
+review_or_background,Review / Background,29,0,29,0,10.0%
+self_healing_elastomer,Self-Healing Elastomer,20,1,8,11,6.9%
+polymer_blend,Polymer Blend,11,0,0,11,3.8%
+shape_memory_polyurethane,Shape Memory Polyurethane,4,0,1,3,1.4%
+polyurethane_microphase_separation,Polyurethane Microphase Separation,12,2,6,4,4.1%
+ionogel_or_magnetic_ionogel,Ionogel / Magnetic Ionogel,22,0,4,18,7.6%
+PVDF_piezoelectric_biomaterials,PVDF/Piezo Biomaterials,23,0,3,20,7.9%
+biodegradable_polyurethane,Biodegradable Polyurethane,4,1,1,2,1.4%
+PCL_based_polyurethane,PCL-Based Polyurethane,4,0,2,2,1.4%
+machine_learning_polymer_properties,ML for Polymer Properties,9,0,1,8,3.1%
+protein_adsorption_cell_response,Protein Adsorption & Cell Response,1,0,0,1,0.3%

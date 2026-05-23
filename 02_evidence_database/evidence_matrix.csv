@@ -1,0 +1,630 @@
+evidence_id,paper_id,title,conclusion,evidence_type,figure_or_table,material_system,method,key_data,mechanism,reliability_level,related_question,possible_limitation,notes
+E0001,P005,View Article Online,"In this study, PBFA copolyesters with varying FDCA content were synthesized by a one-
+n
+pot, two-step method",experimental,,"Furan, Polyimide, Polyurethane, Polylactic acid, Polyester, Elastomer, Polyethylene","FTIR, NMR, Fluorescence, DSC, SEM, TEM, TGA, Tensile, WAXD",,,B,,,
+E0002,P011,pubs.acs.org/Macromolecules Article,"Using commercial TPU with similar modulus (∼8 MPa) but different large strain behavior, we show that the
+describedmechanismstemsfromthemultiphasenatureofTPUanditisnotnecessarilylinkedtoaspecificlarges",experimental,,"Polyimide, Thiourea, Block copolymer, Polyurethane, Polylactic acid, PEG, Polyester, Natural rubber, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, DMA, DSC, SEM, TEM, Cyclic Voltammetry, GPC, Tensile, WAXD",,,B,,,
+E0003,P028,Perspective,"Explosive
+interesting and challenging topics we have faced during the
+growth followed in the ensuing few decades based on the past several decades in our own research “grooves”, taking this
+detailed s",experimental,,"Polyimide, Polyacrylate, Polythiophene, Block copolymer, Polyamide, Polyurethane, Polylactic acid, PEG, Polyester, Elastomer, PVDF, Polyethylene","NMR, SEM, TEM, WAXD, AFM",,,B,,,
+E0004,P040,"CiteThis:Macromolecules2017,50,9525−9527","There were also landmark symposia at the ACS including polymer-stabilized particles for delivery of therapeu-
+National Meetings in San Francisco and Washington, DC",experimental,,"Polyimide, Polyethylene, Polyurethane, Polyelectrolyte, Polylactic acid, Block copolymer","SAXS, DMA, DLS, Neutron Scattering, SEM, Rheology, TEM, Dielectric, NMR",,,B,,,
+E0005,P043,A Journal of the Gesellschaft Deutscher Chemiker,"Here, we reported the first reversible thiyl radical
+addition-fragmentation chain transfer (SRAFT) polymerization
+strategy, which utilizes allyl sulfides as chain transfer agents for
+reversibly deacti",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Block copolymer","NMR, SEM, TEM, DFT",,,B,,,
+E0006,P043,A Journal of the Gesellschaft Deutscher Chemiker,"The SRAFT strategy developed in this work represents a promising
+platform for discovering new controlled polymerizations based on thiyl
+radical chemistry",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Block copolymer","NMR, SEM, TEM, DFT",,,B,,,
+E0007,P049,Green Chemistry,"Green Chemistry
+TUTORIAL REVIEW
+Recycling of polyurethanes: where we are and
+where we are going
+Citethis:GreenChem",experimental,,"Polyimide, Polyamide, Polyurethane, Polylactic acid, PEG, Polyester, Vitrimer, Thiourea, Elastomer, Polyethylene","FTIR, DMA, DSC, SEM, TEM, TGA, GPC, Tensile, Rheology",,,B,,,
+E0008,P055,A Journal of the Gesellschaft Deutscher Chemiker,"The results can be rationalized by the effect of
+intermolecular hydrogen bonding, which is absent in VUO vitrimers, but
+is very pronounced for vinylogous urea moieties",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Vitrimer, Polyethylene","FTIR, NMR, DSC, SEM, Rheology, TEM, Tensile, WAXD",,,B,,,
+E0009,P057,Science AdvAnceS | ReSeAR ch AR ticLe,"materials (6), sometimes called saloplastics (7), have been studied ex- In this work, we introduce a material concept, which we coin com-
+tensively",experimental,,"Furan, Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, Vitrimer, Elastomer, Polyethylene","SAXS, NMR, DMA, Neutron Scattering, DSC, SEM, MD Simulation, Rheology, TEM, TGA, GPC, Tensile, WAXD, XPS",,,B,,,
+E0010,P058,Journal Pre-proof,"To address this vulnerability, here we
+presented a robust all-κCG hydrogel without employing the second synthetic network",experimental,,"Polyimide, Polyurethane, Polylactic acid, Chitosan, Hydrogel, Polyethylene","SAXS, NMR, DLS, SEM, Rheology, TEM, TGA, Tensile, WAXD, AFM",,,B,,,
+E0011,P060,CommuniCation,"the successful noncovalent design in hydrogel will suffer from In this work, the pioneering crystal-type composite gel with
+disturbance in the selected polar solvent; only few work can excellent perfo",experimental,,"Polyimide, Polyurethane, Ionogel, Polylactic acid, Hydrogel, Polyethylene","FTIR, DMA, DSC, SEM, TEM, Dielectric, Cyclic Voltammetry, Tensile, NMR, XPS",,,B,,,
+E0012,P062,www.advmat.de,Summary about anti-freezing self-healing hydrogels reported in this work and other references,experimental,,"Hydrogel, Self-healing, Polyurethane, Polyethylene","Tensile, DSC, TEM, DMA",,,B,,,
+E0013,P062,www.advmat.de,"Healable Temperature Healing time Healing efficiency Stretchability Conductive Temperature Conductivity Long-time test
+[°C] (rt) [%] (RT) (RT) [°C] (RT)
+This work −80 °C (best) 10 minutes 92",experimental,,"Hydrogel, Self-healing, Polyurethane, Polyethylene","Tensile, DSC, TEM, DMA",,,B,,,
+E0014,P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,"Incontrast croscopy(cryo-TEM)testswereperformedon
+Theelasticityofhydrogelsstemsfrom tothefreelyjointedchainmodelcommonly our ultrathin AETC-25 hydrogel, the results
+thereversibleconformationchangesof ",experimental,,"Polyimide, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Hydrogel, Polyethylene","SAXS, DMA, DSC, SEM, Rheology, TEM, Tensile, NMR, AFM, DFT",,,B,,,
+E0015,P066,Materials Today xxx (xxxx) xxx,1 These authors contributed equally to this work,experimental,,"Polyimide, Self-healing, Polyurethane, Polyelectrolyte, Ionogel, Polylactic acid, Chitosan, Natural rubber, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, DSC, SEM, Rheology, TEM, Dielectric, Cyclic Voltammetry, Tensile, WAXD",,,B,,,
+E0016,P070,OPEN ACCESS,"This study presents the similarities and differences between AC-TENG
+and DC-TENG, so that their impact and uniqueness can be clearly understood",experimental,,"Polyimide, Polyamide, Polyurethane, Polylactic acid, PEG, Elastomer, SBR, Polyethylene","DMA, SEM, TEM, Dielectric, Cyclic Voltammetry, NMR",,,B,,,
+E0017,P071,RESEARCH ARTICLE | AUGUST 26 2008,"we report a considerably extended series of contact
+charge exchange measurements on poly(styrene) (PS), The new polymers utilized in this work were custom
+poly(methyl methacrylate) (PMMA), and copolym",experimental,,"Furan, Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Polyethylene","SEM, TGA, TEM, XPS",,,B,,,
+E0018,P071,RESEARCH ARTICLE | AUGUST 26 2008,"In particular, these results reveal reversible tion, and shown to be ll,9minally pure by elemental
+alterations in the sign of the C'ontactcharge e:J",experimental,,"Furan, Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Polyethylene","SEM, TGA, TEM, XPS",,,B,,,
+E0019,P077,www.acsami.org ResearchArticle,"In this study, a soft
+skin-like piezoelectric polymer elastomer composed of poly(vinylidene fluoride) (PVDF) and a
+novel elastic substrate polyacrylonitrile is prepared by combining the radical polyme",experimental,,"Polyimide, PVDF-TrFE, Self-healing, Polyurethane, Polyamide, BaTiO3, Hydrogel, Polylactic acid, PDMS, PEG, Shape memory polymer, Elastomer, PVDF, Polyethylene","FTIR, Piezoelectric, DMA, DSC, SEM, TEM, Dielectric, Cyclic Voltammetry, Tensile, Rheology",,,B,,,
+E0020,P083,Chem Soc Rev,"In this study, we review the state-of-the-art advancements in FSSCs to provide new insights
+onmechanisms,emergingelectrodematerials,flexiblegelelectrolytesandnovelcelldesigns",experimental,,"Polyimide, Polyacrylate, Polythiophene, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, PEDOT:PSS, PDMS, Ionic liquid, PEG, Polyester, Elastomer, Hydrogel, SBR, Polyethylene","Piezoelectric, DMA, DSC, TEM, Cyclic Voltammetry, Tensile, SEM, XPS",,,B,,,
+E0021,P098,ReseaRch aRticle,"In this study, ionic hydrogels are prepared comprising
+simply being flexible and bendable, for
+a double network (DN) of poly(N-hydroxyethylacrylamide-co-acrylamide)/
+wearable applications",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PDMS, Ionic liquid, Chitosan, PEG, Elastomer, Hydrogel, Polyethylene","FTIR, DSC, TEM, Dielectric, Cyclic Voltammetry, Tensile, SEM, AFM",,,B,,,
+E0022,P099,ReseaRch aRticle,"This study that relies on designing functional
+ical strength of 12",experimental,,"Polyimide, Block copolymer, Polyurethane, Ionogel, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, Rheology, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, AFM",,,B,,,
+E0023,P100,pubs.acs.org/Macromolecules Article,"Our results indicate that the molecular weight dependence of center-of-mass diffusion is not affected by
+electrostaticinteractionsofILgroups",experimental,,"Polyimide, Polyacrylate, Polysiloxane, Block copolymer, Polyamide, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, NMR, DMA, Neutron Scattering, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Cyclic Voltammetry, GPC, WAXD",,,B,,,
+E0024,P103,This article is licensed under CC-BY-NC-ND 4.0,"This study revealed that ILs containing hard cation and soft anion exhibited superior conductivity and
+flexibility in the composite films",experimental,,"Polyimide, Polyurethane, Ionogel, Polylactic acid, PEDOT:PSS, PDMS, Ionic liquid, PEG, Elastomer, Polyethylene","DMA, SEM, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, AFM, XPS",,,B,,,
+E0025,P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)","These results are than used to em-
+phasizetheimportant,andoftenignored,roleofshearpiezoe-
+mechanismsofthepiezoelectriccouplinginferroelectricpiezo-
+electrics",experimental,,"Polyimide, Polyurethane, BaTiO3, Polylactic acid, PEG, Elastomer, SBR, Polyethylene","Piezoelectric, DMA, DSC, TEM, Dielectric, SEM, DFT",,,B,,,
+E0026,P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",The piezoelectric properties of perovskite crystals have Here we demonstrate universal applicability of this idea,experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Piezoelectric, DSC, TEM, Dielectric, Tensile",,,B,,,
+E0027,P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)","In contrast to the work of Co-
+discoveryoftheeffectinsimpleperovskites4,5hassuggested
+hen and coworkers, we show that phase transitions related
+that this behavior is a common characteristic of perovsk",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Piezoelectric, DSC, TEM, Dielectric, Tensile",,,B,,,
+E0028,P106,JOURNALOFADVANCEDDIELECTRICS,"This study underscores the importance of the EBs for
+polarizationrotationincharacterizingpiezoelectricpropertiesandproposesatheoreticaldesignmethodforexploringmaterialswith
+highpiezoelectriccoefficien",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","Piezoelectric, DMA, DSC, TEM, Dielectric, SEM, DFT",,,B,,,
+E0029,P111,NanoEnergy102(2022)107690,1 These authors contributed equally to this work,experimental,,"Polyimide, PVDF-TrFE, Polyurethane, BaTiO3, Polylactic acid, PVDF, PEG, Hydrogel, Polyethylene","FTIR, Piezoelectric, DMA, SEM, TEM, Tensile, NMR, AFM, XPS",,,B,,,
+E0030,P112,NanoEnergy105(2023)108024,"Herein, we report a
+Rare earth doping generalizable approach to improving the piezoelectricity of ZnO via suppressing its piezoelectric screening effect
+Screening effect
+at an atomic scale via rare ea",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Chitosan, PVDF, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, Cyclic Voltammetry, SEM, AFM",,,B,,,
+E0031,P112,NanoEnergy105(2023)108024,"Output enhancement
+Combining work function from Kelvin probe force microscopy (KPFM) and piezoelectric response distribution
+from piezoresponse force microscopy (PFM), this work reveals that the RE io",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Chitosan, PVDF, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, Cyclic Voltammetry, SEM, AFM",,,B,,,
+E0032,P112,NanoEnergy105(2023)108024,"Overall, this work opens a new strategy for piezoelectric enhancement and applicative
+piezoelectrics",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Chitosan, PVDF, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, Cyclic Voltammetry, SEM, AFM",,,B,,,
+E0033,P114,NanoEnergy120(2024)109092,"Oladapo*, Qi Zhao
+School of Science and Engineering, University of Dundee, Dundee, United Kingdom
+A R T I C L E I N F O A B S T R A C T
+Keywords: This study explores an innovative energy harvesting te",experimental,,"Polyimide, PVDF-TrFE, Polysiloxane, Self-healing, Polyurethane, BaTiO3, Hydrogel, Polylactic acid, PEDOT:PSS, PDMS, Ionic liquid, PEG, Shape memory polymer, Elastomer, PVDF, SBR, Polyethylene","Piezoelectric, DMA, SEM, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0034,P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)","The results in vitro and in vivo demonstrate that the
+composite hydrogel combined with ultrasound irradiation can enhance the angiogenesis of endothe-
+lial cells, upregulate the neurotrophic effects o",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, Gelatin, Elastomer, Hydrogel, Polyethylene","FTIR, Piezoelectric, SEM, TEM, Dielectric, Cyclic Voltammetry, Tensile, Rheology",,,B,,,
+E0035,P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",1 These authors contributed equally to this work,experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, Gelatin, Elastomer, Hydrogel, Polyethylene","FTIR, Piezoelectric, SEM, TEM, Dielectric, Cyclic Voltammetry, Tensile, Rheology",,,B,,,
+E0036,P119,www.acsami.org ResearchArticle,"In this study, we aim to determine the correlation
+betweenphysiochemicalpropertiesandtheinvitrocellresponseto
+the PHB-based composite scaffolds with rGO or PANi",experimental,,"Polyimide, Polysiloxane, Polyurethane, Hydrogel, Polylactic acid, PCL, PEG, Polyester, PVDF, Polyethylene","FTIR, Piezoelectric, TEM, Dielectric, Cyclic Voltammetry, SEM, AFM, DFT",,,B,,,
+E0037,P136,NanoEnergy102(2022)107690,1 These authors contributed equally to this work,experimental,,"Polyimide, PVDF-TrFE, Polyurethane, BaTiO3, Polylactic acid, PVDF, PEG, Hydrogel, Polyethylene","FTIR, Piezoelectric, DMA, SEM, TEM, Tensile, NMR, AFM, XPS",,,B,,,
+E0038,P144,www.acsami.org ResearchArticle,"In this study, we aim to determine the correlation
+betweenphysiochemicalpropertiesandtheinvitrocellresponseto
+the PHB-based composite scaffolds with rGO or PANi",experimental,,"Polyimide, Polysiloxane, Polyurethane, Hydrogel, Polylactic acid, PCL, PEG, Polyester, PVDF, Polyethylene","FTIR, Piezoelectric, TEM, Dielectric, Cyclic Voltammetry, SEM, AFM, DFT",,,B,,,
+E0039,P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)","25 Vm=N) [33] and Bismuth
+present this study as the development and characterization Triborate(BiB3O6)crystals(0",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, Cyclic Voltammetry, SEM, DFT",,,B,,,
+E0040,P149,pubs.acs.org/macroletters Letter,"This study explores β-amino sulfonamides (BASA) as novel dynamic
+and thermoreversible linkers for CANs",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Polyester, Vitrimer, Elastomer, Hydrogel, Polyethylene","FTIR, DMA, Neutron Scattering, DSC, SEM, Rheology, TEM, TGA, NMR",,,B,,,
+E0041,P149,pubs.acs.org/macroletters Letter,"We showed that bisfunctional vinyl sulfonamide cross-linkers enable the
+synthesisofCANswithtunableproperties,asverifiedthroughthermomechanicalandrheologicalanalysis",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Polyester, Vitrimer, Elastomer, Hydrogel, Polyethylene","FTIR, DMA, Neutron Scattering, DSC, SEM, Rheology, TEM, TGA, NMR",,,B,,,
+E0042,P149,pubs.acs.org/macroletters Letter,"Bottom: the β-amino sulfonamide
+platformdiscussedinthis work",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Polyester, Vitrimer, Elastomer, Hydrogel, Polyethylene","FTIR, DMA, Neutron Scattering, DSC, SEM, Rheology, TEM, TGA, NMR",,,B,,,
+E0043,P151,This article is licensed under CC-BY 4.0,"In this study, we demonstrate the selective
+and self-switchable ring-opening polymerization (ROP) of three
+different cyclic ester monomers (lactide (LA), rac-β-butyrolactone
+(rac-β-BL)andε-caprolacton",experimental,,"Furan, Polyimide, Block copolymer, Polyurethane, Polylactic acid, PCL, Polyester, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, Cyclic Voltammetry, GPC, NMR, DFT",,,B,,,
+E0044,P151,This article is licensed under CC-BY 4.0,"in a thermoplastic
+Herewe report1(Figure1),asahighlyselectivecatalyst that
+elastomer",experimental,,"Furan, Polyimide, Block copolymer, Polyurethane, Polylactic acid, PCL, Polyester, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, Cyclic Voltammetry, GPC, NMR, DFT",,,B,,,
+E0045,P152,"Howtocite:Angew.Chem.Int.Ed.2025,e202514632","Here, we report a versatile strategy to overcome these limitations
+byleveragingthesymmetricdesignofStenhousesalts—structuralanaloguesofDASAs—fordirectbackboneintegration
+into polyurethane backbones",experimental,,"Furan, Polyimide, Polysiloxane, Polyurethane, Polylactic acid, PCL, PEG, Elastomer, Polyethylene","DMA, TEM, GPC, Tensile, NMR",,,B,,,
+E0046,P155,pubs.acs.org/JACS Article,"In this study, we demonstrate that reversible addition−fragmentation
+chaintransfer(RAFT) polymerization overcomes thesechallengesand canbe usedto
+synthesizePLphomopolymerswithahighdegreeofcontrol",experimental,,"Polyimide, Polyacrylate, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Lipoic acid, Elastomer, Hydrogel, Polyethylene","NMR, SEM, TEM, DMA",,,B,,,
+E0047,P155,pubs.acs.org/JACS Article,"Together, these results
+demonstrate that RAFT offers a simple, accessible, and proven strategy to address key challenges in PLp synthesis and long-term
+stability",experimental,,"Polyimide, Polyacrylate, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Lipoic acid, Elastomer, Hydrogel, Polyethylene","NMR, SEM, TEM, DMA",,,B,,,
+E0048,P156,Angewandte Chemie International Edition,"Their segmented morphology, while responsible for excellent
+polyols such as polyethers or polyesters, provide flexibility mechanical performance, is susceptible to damage accumulation
+Changhoon Yu and",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR, AFM",,,B,,,
+E0049,P157,View Article Online,"In this study, PBFA copolyesters with varying FDCA content were synthesized by a one-
+n
+pot, two-step method",experimental,,"Furan, Polyimide, Polyurethane, Polylactic acid, Polyester, Elastomer, Polyethylene","FTIR, NMR, Fluorescence, DSC, SEM, TEM, TGA, Tensile, WAXD",,,B,,,
+E0050,P159,Mechano-responsive hydrogen-bonding array of,"Herein, we report a carbonate-type thermoplastic
+polyurethaneelastomerthatself-healsat35°Candexhibitsatensilestrengthof43MPa;this
+elastomer isas strong asthe soles usedin footwear",experimental,,"Furan, Polyimide, Self-healing, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, MD Simulation, Rheology, TEM, Cyclic Voltammetry, GPC, Tensile, WAXD",,,B,,,
+E0051,P159,Mechano-responsive hydrogen-bonding array of,"Prior to this study, E-IP-SS
+repairbutisalsoverytoughandresilient25,26",experimental,,"Furan, Polyimide, Self-healing, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, MD Simulation, Rheology, TEM, Cyclic Voltammetry, GPC, Tensile, WAXD",,,B,,,
+E0052,P164,A bioinspired and hierarchically structured,"Another require-
+In this work, the reversible keratin transition from α-helix to ment in freeing the fibrous keratin from the hair structure is to
+β-sheet is inspired by nature and is hypothesized to ",experimental,,"Polyimide, Polysiloxane, Polyamide, Polyurethane, Polylactic acid, Gelatin, Shape memory polymer, Elastomer, Hydrogel, Polyethylene","SAXS, SEM, Rheology, TEM, Tensile, WAXD",,,B,,,
+E0053,P166,pubs.acs.org/Macromolecules Article,"Herein, we report a conjugation-
+disruption strategy to fabricate colorless and chemically recyclable HRIPs with
+highmechanicalrobustnessandefficientchemicalrecyclability,denotedasPTU-4",experimental,,"Furan, Polyimide, Polyacrylate, Self-healing, Polyurethane, Polyamide, Polyelectrolyte, Polylactic acid, PCL, Polyester, Vitrimer, Thiourea, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, TEM, TGA, Tensile, WAXD",,,B,,,
+E0054,P166,pubs.acs.org/Macromolecules Article,"This work establishes a generalizable conjugation-disruption strategy for developing
+colorless HRIPs with excellent sustainability and outstanding mechanical performance",experimental,,"Furan, Polyimide, Polyacrylate, Self-healing, Polyurethane, Polyamide, Polyelectrolyte, Polylactic acid, PCL, Polyester, Vitrimer, Thiourea, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, TEM, TGA, Tensile, WAXD",,,B,,,
+E0055,P168,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH","This work provides a significant guideline for triboelectric material’s
+selection and promotes the practical applications of TENG",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, Polyamide, Polyethylene","SEM, TEM, DLS, DMA",,,B,,,
+E0056,P169,NanoEnergy111(2023)108365,"Given the importance of the above
+strategies in improving the performance of TENGs and expanding their functionalities, this work aims to sum-
+marize, categorize, and highlight the recent advancements",experimental,,"Polyimide, PVDF-TrFE, Polyacrylate, Self-healing, Polyurethane, Polyamide, Hydrogel, Polylactic acid, PEDOT:PSS, PDMS, PCL, Chitosan, Alginate, PEG, Polyester, Elastomer, PVDF, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, SEM",,,B,,,
+E0057,P170,NanoEnergy111(2023)108378,"Thus, this work reports a cost-effective, simple fabrication, and
+Smart-textile
+industrially scalable production method of producing fiber TENG using silver conductor fiber encapsulated by
+Wearable se",experimental,,"Polyimide, Polysiloxane, Polyamide, Polyurethane, Polylactic acid, PDMS, Polyester, Shape memory polymer, Elastomer, Polyethylene","Piezoelectric, DMA, TEM, Dielectric, Cyclic Voltammetry, SEM",,,B,,,
+E0058,P171,NanoEnergy110(2023)108385,"This work demonstrates an effective strategy for boosting the output performance
+of TENG and paves a new route to further promote the development of wireless power transmission technologies",experimental,,"Polyimide, PVDF-TrFE, Polyamide, Polyurethane, BaTiO3, Hydrogel, Polylactic acid, PDMS, Gelatin, PVDF, Polyethylene","FTIR, TEM, Dielectric, SEM, XPS",,,B,,,
+E0059,P172,NanoEnergy111(2023)108389,"This work
+provides an effective strategy for boosting the output performance of F-TENGs through charge excitation based
+on the multi-utilization of wind energy",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","Piezoelectric, TEM",,,B,,,
+E0060,P172,NanoEnergy111(2023)108389,"1 These authors have contributed equally to this work
+https://doi",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","Piezoelectric, TEM",,,B,,,
+E0061,P177,Journal Pre-proof,"Furthermore, this work identifies dipole-dipole interactions and
+intramolecular/intermolecular electron transfer as the key intrinsic factors that promote the
+1
+--- PAGE BREAK ---
+synergistic enhancem",experimental,,"Polyimide, Polyurethane, Polylactic acid, PVDF, Polyethylene","AFM, Piezoelectric, TEM, DFT",,,B,,,
+E0062,P178,View Article Online,"Overall, this work introduces a new perspective on how triboelectric surface charges
+r
+should be treated and demonstrates how the STCR model can explain the open-circuit voltage output characteristics",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, Polyester, Polyethylene","TEM, Dielectric",,,B,,,
+E0063,P179,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH","This work presents a new method for design and development of triboelectric materials, as well as
+expanding the functionalities and applications of self-powered system combining with the EMB-
+TENGs",experimental,,"Polyimide, Polysiloxane, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Piezoelectric, DSC, TEM, Dielectric, SEM",,,B,,,
+E0064,P184,Δ‑Learning of High-Fidelity Electronic,"2025,7,3901−3907 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: In this work, we present a Δ-learning approach
+for predicting the eigenvalues calculated wit",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyethylene","SEM, Cyclic Voltammetry, TEM, DFT",,,B,,,
+E0065,P186,nature computational science,"Our results demonstrate that introducing the periodicity prior effectively
+enhances model performance",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, PCL, Polyester, Shape memory polymer, Polyamide, Block copolymer","MD Simulation, TEM, Dielectric, Cyclic Voltammetry, SEM",,,B,,,
+E0066,P187,MacromolecularRapidCommunications,"This work introduces a structure-aware graph convolutional network (GCN)
+framework that addresses this limitation by treating polymer samples as statistical ensembles",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Polyester, Elastomer, Block copolymer","DMA, SEM, MD Simulation, TEM, GPC, Tensile, Rheology",,,B,,,
+E0067,P187,MacromolecularRapidCommunications,"This work establishes a robust and physically realistic paradigm for
+polymer informatics, enabling more accurate property predictions and paving the way for accelerated in silico material design",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Polyester, Elastomer, Block copolymer","DMA, SEM, MD Simulation, TEM, GPC, Tensile, Rheology",,,B,,,
+E0068,P187,MacromolecularRapidCommunications,"This study introduces a GCN-based model developed
+lyzing a molecule’s structure, these algorithms produce a vector specifically for predicting high-level polymer characteristics from
+representation th",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Polyester, Elastomer, Block copolymer","DMA, SEM, MD Simulation, TEM, GPC, Tensile, Rheology",,,B,,,
+E0069,P188,MacromolecularRapidCommunications,"This study provided data-driven insights for the rational design
+of BPUEs with desired mechanical and thermal properties",experimental,,"Furan, Polyimide, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Shape memory polymer, PDMS, PCL, PEG, Vitrimer, Polyester, Elastomer, Hydrogel, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, TGA, Cyclic Voltammetry, Tensile, Rheology",,,B,,,
+E0070,P190,View Article Online,"By providing strategic directions for addressing current limitations,
+d
+from developing universal descriptors to establishing closed-loop discovery systems, this work
+e
+positions the materials science",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, SEM, DFT",,,B,,,
+E0071,P198,pubs.acs.org/JPCL Letter,"Our results provide clear molecular pictures for the force- and flow-induced translocations,
+whichshedlightontheunderstandingoftranslocation dynamicsandprovideguidanceforpracticalapplications suchasmo",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Elastomer, Polyethylene","DSC, MD Simulation, TEM, Tensile, SEM",,,B,,,
+E0072,P200,pubs.acs.org/Macromolecules Article,"Overall, this work clarifies the special role of bending in polymer knots and demonstrates the
+usefulness of the tube model for polymer knots",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Polyethylene","Rheology, SEM, TEM",,,B,,,
+E0073,P200,pubs.acs.org/Macromolecules Article,"8,9 Because of the prevalence of knotting phenomena, Inthiswork,wefirstpresentoursimulationresultsaboutthe
+knots have gained interest from a wide range of scientists far “negative extra bending” in kn",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Polyethylene","Rheology, SEM, TEM",,,B,,,
+E0074,P205,"Chinese Journal of Polymer Science Vol. 35, No. 7, (2017), 874−886 Chinese Journal of Polymer Science","Our results show that,
+when the interaction strength is weak, the block copolymers are uniformly distributed in the ternary mixtures under
+considered concentrations",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Elastomer, Block copolymer",TEM,,,B,,,
+E0075,P205,"Chinese Journal of Polymer Science Vol. 35, No. 7, (2017), 874−886 Chinese Journal of Polymer Science","Furthermore, our findings show
+that with increasing volume fraction of A-b-B diblock copolymer (φ C), copolymer profiles broaden while φ C ≥ 0",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Elastomer, Block copolymer",TEM,,,B,,,
+E0076,P205,"Chinese Journal of Polymer Science Vol. 35, No. 7, (2017), 874−886 Chinese Journal of Polymer Science","Moreover, the results show that, with the
+increase of φ C, the phase interface first gradually transforms from plane to a curved surface rather than micelle or lamellar
+phase while with the increase o",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Elastomer, Block copolymer",TEM,,,B,,,
+E0077,P205,"Chinese Journal of Polymer Science Vol. 35, No. 7, (2017), 874−886 Chinese Journal of Polymer Science",* This work was financially supported by the National Natural Science Foundation of China (Nos,experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Elastomer, Block copolymer",TEM,,,B,,,
+E0078,P209,pubs.acs.org/Macromolecules Article,"This work will broaden the scope of thiol−ene chemistry and open new avenues for the development of robust and
+recyclable cross-linked polymers with tunable material and dynamic properties",experimental,,"Polyimide, Self-healing, Polyurethane, Polysulfide, Polylactic acid, Shape memory polymer, PDMS, PEG, Vitrimer, Elastomer, Polyethylene","FTIR, DMA, DSC, SEM, Rheology, TEM, TGA, GPC, Tensile, NMR",,,B,,,
+E0079,P216,pubs.acs.org/Macromolecules Article,"Here, we demonstrate that
+the end-to-end vector MKF, K(t), can be analytically determined
+by the autocorrelation function C (t) and force−position cross- rr
+correlation C (t)",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","SEM, DSC, MD Simulation, TEM",,,B,,,
+E0080,P220,pubs.acs.org/Macromolecules Article,"This study could help to clarify
+Obviously, t",experimental,,"Furan, Polyimide, Polyacrylate, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, Elastomer, Hydrogel, Polyethylene","FTIR, DMA, Neutron Scattering, DSC, SEM, Rheology, TEM, Dielectric, Cyclic Voltammetry, GPC, Tensile, NMR, XPS",,,B,,,
+E0081,P227,pubs.acs.org/Macromolecules Article,"Our findings break the conventional concentration barrier in
+SCNP synthesis and provide a general framework for the design of next-generation single-chain nanostructures",experimental,,"Polyimide, Polyurethane, Polylactic acid, SBR, Polyethylene","FTIR, DLS, DSC, TEM, SEM, AFM, XPS",,,B,,,
+E0082,P228,"PHYSICAL REVIEW E 112,054404(2025)","matrices—whicharemadeofpolymersandaremechanically
+In this study, we aimed to address this knowledge gap
+complex and spatially heterogeneous—to evade the host im-
+by directly observing the flagellar be",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Hydrogel, Polyethylene","DMA, DSC, SEM, TEM, TGA, Rheology",,,B,,,
+E0083,P229,"PHYSICAL REVIEW E 113,014407(2026)","Further ferences, in combination with environmental constraints and
+distribution of this work must maintain attribution to the author(s) biochemicalcues,canmanifestindifferentmotilityregimes",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, SBR, Polyethylene","DSC, MD Simulation, TEM, Cyclic Voltammetry, SEM",,,B,,,
+E0084,P230,"PHYSICAL REVIEW E 112,054405(2025)","We show that a model, which coarse-grains amino acids into a single spherical backbone bead
+andseveralvariable-sizedside-chainbeadsandenforcesbend-anddihedral-angleconstraintsforthebackbone,
+recapitul",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyethylene","NMR, Neutron Scattering, DSC, SEM, MD Simulation, TEM, WAXD",,,B,,,
+E0085,P233,ARTICLE IN PRESS,"Herein, we report a simple yet effective strategy to resolve this
+T
+strength-toughness confliRct by constructing polyacrylamide (PAAm) networks with abundant
+A
+dangling chains that form transient enta",experimental,,"Polyimide, Polysiloxane, Polyurethane, Polyelectrolyte, Ionogel, Polylactic acid, Natural rubber, Elastomer, Hydrogel, Polyethylene","DLS, SEM, TEM, Rheology, Tensile, NMR",,,B,,,
+E0086,P235,pubs.acs.org/Macromolecules Article,"Herein, we report a hyperbranched PU elastomer (PU-
+HPAE ) synthesized using hyperbranched poly(amino ester) (HPAE) as a
+x
+dual-function macromonomer that acts simultaneously as a chain extender
+and a",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, NMR, Fluorescence, DMA, DSC, SEM, MD Simulation, Rheology, TEM, TGA, GPC, Tensile, WAXD, AFM, DFT",,,B,,,
+E0087,P235,pubs.acs.org/Macromolecules Article,"By leveraging topological structure regulation, this work successfully establishes a novel
+strategyforfluorescentPUelastomersthatintegrateshighperformancewithnondestructivevisualizationofmicrophasemor",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, NMR, Fluorescence, DMA, DSC, SEM, MD Simulation, Rheology, TEM, TGA, GPC, Tensile, WAXD, AFM, DFT",,,B,,,
+E0088,P239,nature materials,"Here we show that calcium cations can
+induce strong paramagnetism of hydrogels rich in groups containing
+carbon–oxygen double bonds, including alginate, carboxymethyl
+chitosan, polyacrylamide and N-is",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, Alginate, Chitosan, Hydrogel, SBR, Polyethylene","Piezoelectric, SEM, DFT, TEM, Rheology, Dielectric, Cyclic Voltammetry, NMR, XPS",,,B,,,
+E0089,P239,nature materials,"Our findings provide
+insights into the origin of magnetism and advance magnetism-related
+biomedical innovations",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, Alginate, Chitosan, Hydrogel, SBR, Polyethylene","Piezoelectric, SEM, DFT, TEM, Rheology, Dielectric, Cyclic Voltammetry, NMR, XPS",,,B,,,
+E0090,P239,nature materials,"moment of such a trace impurity is at least three orders of magnitude
+Here we show that hydrogels rich in groups containing carbon– lower than that of the hydrogel (Supplementary Fig",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, Alginate, Chitosan, Hydrogel, SBR, Polyethylene","Piezoelectric, SEM, DFT, TEM, Rheology, Dielectric, Cyclic Voltammetry, NMR, XPS",,,B,,,
+E0091,P250,Polymer Network Diffusion in Charged Gels,"We demonstrate that the collective diffusion coefficient stemsfrom
+the sum of elastic, mixing, and ionic contributions, without evident cross-correlations",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, Chitosan, PEG, Elastomer, Hydrogel, Polyethylene","Rheology, SEM, TEM, DLS",,,B,,,
+E0092,P254,assembles into a lattice that contains numerous energetically near-,"Kohout7, We report a series of organic salts (Fig",experimental,,"Polyimide, Polyurethane, Polylactic acid, Ionic liquid, Polyethylene","FTIR, DSC, SEM, MD Simulation, TEM, DFT, Dielectric, Cyclic Voltammetry, NMR, XPS",,,B,,,
+E0093,P255,pubs.acs.org/Macromolecules Article,"Previously, we showed that their affinity to
+water and their chain mobility are important aspects to consider
+when designing PEC materials",experimental,,"Furan, Polyimide, Polyacrylate, Polysiloxane, Self-healing, Polyurethane, Polyamide, Polyelectrolyte, Polylactic acid, PDMS, Chitosan, Alginate, PEG, Elastomer, Hydrogel, Polyethylene","SAXS, DMA, Neutron Scattering, SEM, Rheology, TEM, Cyclic Voltammetry, GPC, NMR",,,B,,,
+E0094,P255,pubs.acs.org/Macromolecules Article,"These results establish
+fundamental structure−property relationships for the rational design of functional PEC materials",experimental,,"Furan, Polyimide, Polyacrylate, Polysiloxane, Self-healing, Polyurethane, Polyamide, Polyelectrolyte, Polylactic acid, PDMS, Chitosan, Alginate, PEG, Elastomer, Hydrogel, Polyethylene","SAXS, DMA, Neutron Scattering, SEM, Rheology, TEM, Cyclic Voltammetry, GPC, NMR",,,B,,,
+E0095,P258,"Macromolecules2008,41,5723-5728 5723","The product
+tion and ion mobility; the results however are not conclusive",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PEG, Polyester, Elastomer, Polyethylene","SAXS, FTIR, DSC, SEM, MD Simulation, TEM, Dielectric, NMR",,,B,,,
+E0096,P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,"Here, we report solvent-free, filaments is shown, both theoretically17 and experimentally18, to
+supersoft and superelastic polymer melts and networks pre- raisemarkedlywiththeirdiameterasl (cid:24)D4(",experimental,,"Furan, Polyimide, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, Polyethylene","DMA, DSC, SEM, MD Simulation, Rheology, TEM, Cyclic Voltammetry, GPC, NMR, AFM",,,B,,,
+E0097,P260,This article is licensed under CC-BY 4.0,"These results point to a crucial role of the ion solvation
+structure in the local chain packing, which in turn, influences the polymer dynamics, glass transition, and ionic conductivity",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, FTIR, NMR, DSC, MD Simulation, Rheology, TEM, Dielectric, GPC, WAXD",,,B,,,
+E0098,P261,"PHYSICAL REVIEW E 113,015416(2026)","This work focuses on
+how variations in the steric parameter influence electroconvection across channels with varying degrees of
+confinementandelectricdoublelayer(EDL)overlap,whilemaintainingafixedelec",experimental,,"Polyimide, Polyurethane, Polylactic acid, Ionic liquid, Elastomer, Polyethylene","DLS, SEM, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0099,P262,pubs.acs.org/JACS Article,"This work pioneers a universal MB paradigm for designing advanced polymer electrolytes with superior ionic
+conduction toward high-performance quasi-solid-state batteries",experimental,,"Polyimide, Polyurethane, Polylactic acid, PVDF, Ionic liquid, PEG, Hydrogel, Polyethylene","FTIR, DSC, SEM, MD Simulation, TEM, DFT, Dielectric, Cyclic Voltammetry, NMR, XPS",,,B,,,
+E0100,P263,MaterialsTodayxxx(xxxx)xxx,"Our results suggest the emergence of a self-assembled percolation conductivity
+regimeaboveaspecificZIconcentration,inwhichionhoppingdecouplesfromsegmentaldynamicsbyuptoten
+ordersofmagnitude",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Polyethylene","DMA, SEM, TEM, Dielectric, TGA, Cyclic Voltammetry, NMR, DFT",,,B,,,
+E0101,P269,ISSN 1998-0124 CN 11-5974/O4,"This work provides a promising strategy to prepare ionic conductive
+elastomers with excellent mechanical properties and stable sensing capacity, and further promote the development of
+mechanically ada",experimental,,"Furan, Polyimide, Polysiloxane, Self-healing, Polyurethane, Polyelectrolyte, Hydrogel, Polylactic acid, Ionogel, PDMS, Ionic liquid, Elastomer, PVDF, Polyethylene","SAXS, FTIR, DMA, Neutron Scattering, SEM, TEM, Dielectric, TGA, GPC, Cyclic Voltammetry, Tensile, NMR, AFM, DFT",,,B,,,
+E0102,P272,week ending,"These results call for a revision of the current picture of ionic transport in polymer
+electrolytes",experimental,,"Furan, Polyimide, Polyurethane, Polylactic acid, PEG, Polyethylene","SEM, TEM, Dielectric, Cyclic Voltammetry, NMR",,,B,,,
+E0103,P273,pubs.acs.org/Macromolecules Article,"Using the
+Anderson and Stuart model, we demonstrate that these variations provide strong
+justificationsforthetemperaturevariationofenergybarrierforionhopping",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, DMA, DSC, SEM, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0104,P275,pubs.acs.org/Macromolecules Article,"Here, we report a new EOF mechanism in
+polyelectrolyte (PE) solutions confined within uncharged nanochannels, revealed by
+dissipative particle dynamics simulations",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0105,P275,pubs.acs.org/Macromolecules Article,"This work promotes the investigation of electroosmotic transport of complex fluids and offers insights for designing
+nanofluidic pumping systems based on molecular conformation",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0106,P276,pubs.acs.org/Macromolecules Article,"In this study, the thermal properties, self-assembly, and ion transport of poly(N-
+isopropylacrylamide)-b-poly(ionic liquid) (PNIPAM-b-PIL) BCPs were investigated across a
+broadPILcontentrangingfrom3",experimental,,"Polyimide, Polyacrylate, Polysiloxane, Block copolymer, Polyamide, Polyurethane, Polyelectrolyte, Ionogel, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, FTIR, NMR, DSC, SEM, Rheology, TEM, Dielectric, TGA, Cyclic Voltammetry, WAXD",,,B,,,
+E0107,P276,pubs.acs.org/Macromolecules Article,"If these domains provide a In this study, poly(N-isopropylacrylamide) (PNIPAM) was
+continuous pathway for ion transport, in some cases,
+selected as the neutral block due to its polar and hydrophilic
+c",experimental,,"Polyimide, Polyacrylate, Polysiloxane, Block copolymer, Polyamide, Polyurethane, Polyelectrolyte, Ionogel, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, FTIR, NMR, DSC, SEM, Rheology, TEM, Dielectric, TGA, Cyclic Voltammetry, WAXD",,,B,,,
+E0108,P277,This article is licensed under CC-BY-NC-ND 4.0,"This study revealed that ILs containing hard cation and soft anion exhibited superior conductivity and
+flexibility in the composite films",experimental,,"Polyimide, Polyurethane, Ionogel, Polylactic acid, PEDOT:PSS, PDMS, Ionic liquid, PEG, Elastomer, Polyethylene","DMA, SEM, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, AFM, XPS",,,B,,,
+E0109,P278,This article is licensed under CC-BY 4.0,"In this study, we
+investigate blends of poly(1-(3-sulfonatopropyl)-2-vinylpyridinium) (P2VPPS)
+and poly(lithium (trifluoromethane)sulfonimide methacrylate) (P(MTFSI)Li) of
+varyingmolarratiostodevelop ",experimental,,"Polyimide, Polyacrylate, Polysiloxane, Polyurethane, Polyelectrolyte, Polylactic acid, Ionic liquid, PEG, Polyester, Elastomer, Polyethylene","SAXS, DMA, Neutron Scattering, DSC, SEM, MD Simulation, TEM, Dielectric, TGA, GPC, WAXD",,,B,,,
+E0110,P280,Polymer235(2021)124306,"The results demonstrated the scenario of competitions among the factors of stress
+relaxation, strain rates and temperatures in the crystallization process",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Rheology, SEM, MD Simulation, TEM",,,B,,,
+E0111,P280,Polymer235(2021)124306,"Our results facilitate a better understanding of polymer crystal-
+lization during the fast stretching processing",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Rheology, SEM, MD Simulation, TEM",,,B,,,
+E0112,P286,pubs.acs.org/Macromolecules Article,"In this work, we have
+determinedthecrystalstructuresof long-spacedaliphatic polyestersPE-X,18(−[−
+(CH ) −OCO−(CH ) −COO−] −; X = 2, 3, 4 or 6) and polyester PE-2,13 (−
+2 X 2 16 n
+[−(CH ) −OCO−(CH ) −C",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyester, Polyamide, Polyethylene","FTIR, NMR, DSC, SEM, TEM, Cyclic Voltammetry, Tensile, WAXD, DFT",,,B,,,
+E0113,P288,This article is licensed under CC-BY 4.0,"The TPUs
+formation of Form I, until crystallization of the HS is
+employed in this study have been extensively investigated in
+the literature",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, PEG, Polyester, Elastomer, Block copolymer","SAXS, FTIR, Piezoelectric, DMA, DSC, SEM, TEM, WAXD",,,B,,,
+E0114,P289,pubs.acs.org/Macromolecules Article,"This study investigates the melting and
+crystallization behavior of biaxial stretch-induced crystal structures in
+BOPA56/512 (biaxially oriented PA56/512 films) with varying
+copolymerized compositions",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PCL, Polyester, Polyamide, Polyethylene","SAXS, FTIR, NMR, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, TGA, Tensile, WAXD",,,B,,,
+E0115,P291,"PHYSICAL REVIEW LETTERS 136, 018101 (2026)","Consequently, as shown by fine-grain
+Further distribution of this work must maintain attribution to
+the author(s) and the published article’s title, journal citation, simulations, lamellar growth face",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyester, Polyamide, Polyethylene","SAXS, NMR, DMA, DSC, SEM, MD Simulation, TEM, WAXD",,,B,,,
+E0116,P294,pubs.acs.org/Macromolecules Article,"This study provides a molecular-level synergistic multiperformance optimization strategy for conductive polymers,
+advancing the development of high-fidelity wearable bioelectronics",experimental,,"Polyimide, Polyamide, Polyurethane, Polylactic acid, PEDOT:PSS, PEG, Elastomer, Hydrogel, SBR, Polyethylene","FTIR, NMR, DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Tensile, WAXD, AFM, XPS",,,B,,,
+E0117,P295,pubs.acs.org/Macromolecules Article,"Here, we report a new EOF mechanism in
+polyelectrolyte (PE) solutions confined within uncharged nanochannels, revealed by
+dissipative particle dynamics simulations",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0118,P295,pubs.acs.org/Macromolecules Article,"This work promotes the investigation of electroosmotic transport of complex fluids and offers insights for designing
+nanofluidic pumping systems based on molecular conformation",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0119,P296,Journal Pre-proof,"In this review article, we report a comprehensive summary of the work covering
+polythiourethanes, which from our perspective constitute an interesting alternative to tackle environmental
+issues arisin",experimental,,"Furan, Polyimide, Polyamide, Polyurethane, Polylactic acid, PEG, Thiourea, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, TEM, TGA, WAXD",,,B,,,
+E0120,P297,Science AdvAnceS | ReSeAR ch AR ticle,"This work represents a molecular strategy that combines electronic effect
+and topology network design to modulate materials’ properties, and it will be useful for developing next-
+generation materials",experimental,,"Furan, Polyimide, Boronic ester, Polyurethane, Ionogel, Polylactic acid, PDMS, Vitrimer, Thiourea, Elastomer, Polyethylene","FTIR, DMA, SEM, Rheology, TEM, TGA, Tensile, NMR, AFM",,,B,,,
+E0121,P299,A Journal of the Gesellschaft Deutscher Chemiker,"In this study, by balancing supramolecular superiortoleranceforvariousextremeconditions",experimental,,"Polyimide, Polyurethane, Polylactic acid, Ionic liquid, Polyethylene","DMA, DSC, SEM, MD Simulation, Rheology, TEM, TGA, NMR",,,B,,,
+E0122,P300,pubs.acs.org/Macromolecules Article,"5c02116 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: This study developed a novel photoluminescent
+waterbornepolyurethane(WPU)elastomerwith[2,2′-bipyridin",experimental,,"Furan, Polyimide, Self-healing, Polyurethane, Ionogel, Polylactic acid, PDMS, PCL, Vitrimer, Thiourea, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, Fluorescence, DMA, DSC, SEM, Rheology, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, DFT",,,B,,,
+E0123,P301,www.angewandte.org,"Herein, we report a acids,[14] and proteins[15]) to synthetic nonaromatics (e",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, Lipoic acid, Elastomer, Hydrogel, Polyethylene","SAXS, Fluorescence, DMA, DSC, SEM, Rheology, TEM, Cyclic Voltammetry, Tensile, NMR",,,B,,,
+E0124,P305,pubs.acs.org/Macromolecules Article,"org/Macromolecules Article
+Dissipative Particle Dynamics Simulation of Multiscale Phase-
+Separated Structures in Graft-Type Polymer Electrolyte Membrane
+by Optimization Compared to Scattering Analysis",experimental,,"Polyimide, Polyethylene, Polyamide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Block copolymer","SAXS, DMA, Neutron Scattering, DSC, SEM, MD Simulation, TEM, Cyclic Voltammetry, Tensile, Rheology, DFT",,,B,,,
+E0125,P306,Angewandte Chemie,"Their segmented morphology, while responsible for excellent
+polyols such as polyethers or polyesters, provide flexibility mechanical performance, is susceptible to damage accumulation
+Changhoon Yu and",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR, AFM",,,B,,,
+E0126,P316,This article is licensed under CC-BY 4.0,"In this study,
+moleculardynamics(MD)simulationsareemployedtoinvestigate
+theeffectsofelectrolytes,dopamine,andpoly(ethyleneglycol)400(PEG-400)onPEDOT:PSSmorphologyandrelatethefindings
+to experimental o",experimental,,"Polyimide, Block copolymer, Polyurethane, Polyelectrolyte, Polylactic acid, PEDOT:PSS, Ionic liquid, PEG, Hydrogel, Polyethylene","MD Simulation, TEM, Cyclic Voltammetry, SEM, DFT",,,B,,,
+E0127,P316,This article is licensed under CC-BY 4.0,"19However,theeffectsofadditional In summary, this study investigates how aqueous solutions
+chemicalcomponentspresentinwater,particu",experimental,,"Polyimide, Block copolymer, Polyurethane, Polyelectrolyte, Polylactic acid, PEDOT:PSS, Ionic liquid, PEG, Hydrogel, Polyethylene","MD Simulation, TEM, Cyclic Voltammetry, SEM, DFT",,,B,,,
+E0128,P319,This article is licensed under CC-BY 4.0,"Our findings reveal significant sensitivity in the
+radial distribution function to subtle variations in the tail of the interaction potential,
+particularly in dilute regimes",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, SEM, MD Simulation, TEM, Rheology",,,B,,,
+E0129,P319,This article is licensed under CC-BY 4.0,"These results are particularly relevant for enhancing our understanding of polymeric
+materials’ rheological and mechanical properties",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, SEM, MD Simulation, TEM, Rheology",,,B,,,
+E0130,P320,pubs.acs.org/Macromolecules Article,"This work not only provides fundamental insights into the
+microphase separation dynamics of complex polyurethanes but also establishes a predictive platform for the customized design of
+high-performan",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, PDMS, Vitrimer, Elastomer, SBR, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Tensile, Rheology, DFT",,,B,,,
+E0131,P325,This article is licensed under CC-BY 4.0,"In this work, starting from Monte Carlo
+equilibrated linear polyethylene melts of a uniform molecular
+weight distribution, we perform isothermal molecular dynamics
+simulations of crystallization under",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyethylene","DMA, Neutron Scattering, DSC, SEM, MD Simulation, TEM, Rheology",,,B,,,
+E0132,P325,This article is licensed under CC-BY 4.0,"We showcase, throughout our study, links between
+crystallitemorphologyandthestagesofnucleationandgrowth,sheddingadditionallightonthemechanismswhichgovernpolymer
+crystallization",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Polyethylene","DMA, Neutron Scattering, DSC, SEM, MD Simulation, TEM, Rheology",,,B,,,
+E0133,P327,pubs.acs.org/Macromolecules Article,"Herein, we report a hyperbranched PU elastomer (PU-
+HPAE ) synthesized using hyperbranched poly(amino ester) (HPAE) as a
+x
+dual-function macromonomer that acts simultaneously as a chain extender
+and a",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, NMR, Fluorescence, DMA, DSC, SEM, MD Simulation, Rheology, TEM, TGA, GPC, Tensile, WAXD, AFM, DFT",,,B,,,
+E0134,P327,pubs.acs.org/Macromolecules Article,"By leveraging topological structure regulation, this work successfully establishes a novel
+strategyforfluorescentPUelastomersthatintegrateshighperformancewithnondestructivevisualizationofmicrophasemor",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, NMR, Fluorescence, DMA, DSC, SEM, MD Simulation, Rheology, TEM, TGA, GPC, Tensile, WAXD, AFM, DFT",,,B,,,
+E0135,P328,Angewandte Chemie International Edition,"Their segmented morphology, while responsible for excellent
+polyols such as polyethers or polyesters, provide flexibility mechanical performance, is susceptible to damage accumulation
+Changhoon Yu and",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR, AFM",,,B,,,
+E0136,P334,ASIAN JOURNAL,"This work is currently citable by
+using the Digital Object Identifier (DOI) given below",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Thiourea, Polyethylene","TEM, DMA",,,B,,,
+E0137,P337,pubs.acs.org/Macromolecules Article,"This work offers fundamental insight for designing tough and
+biodegradable polymers with tailored functionalities, thereby advancing the development of the circular plastics economy",experimental,,"Polyimide, Polysiloxane, Self-healing, Polyurethane, Polyamide, Polylactic acid, PDMS, PCL, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, NMR, DSC, SEM, TEM, TGA, GPC, Tensile, WAXD",,,B,,,
+E0138,P339,pubs.acs.org/Macromolecules Article,"In this work, a
+systematicstudyoftheimpactofchainlengthonPCL’sdielectricrelaxation
+is conducted, decoupling for the first time the role of chain length, chain
+ends,entanglements,andcrystallinityontheβ",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0139,P339,pubs.acs.org/Macromolecules Article,"The results are modeled by considering the contributions of end groups, the main chain segments, and the degree of crystallinity,
+whicheffectivelydescribestheexperiments",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0140,P339,pubs.acs.org/Macromolecules Article,"Our results suggest a strong correlation between changes in the local
+dynamics of polymer segments and the presence of a rigid amorphous fraction in semicrystalline polymers",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0141,P339,pubs.acs.org/Macromolecules Article,"Overall, this study
+contributes to the understanding of the microstructure of semicrystalline polymers, which can be applied to other polymers",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0142,P341,pubs.acs.org/Macromolecules Article,"Our results indicate that the particle−polymer system
+exhibits different phases and transition features compared to the
+particle-free system only when the particle is large enough",experimental,,"Polyimide, Polyethylene, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Block copolymer","DSC, MD Simulation, TEM, Cyclic Voltammetry, SEM",,,B,,,
+E0143,P343,"PHYSICAL REVIEW E 112,045431(2025)","These results provide fundamental insights into the interplay between activity and
+r
+boundaryconditionsindeterminingthestructuralanddynamicalbehaviorsofpolaractivepolymers,offering
+potentialimplicatio",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","SEM, DSC, TEM",,,B,,,
+E0144,P344,pubs.acs.org/Macromolecules Article,"(OSB) and Pincus brush regimes under the salt-free
+In this work, we use a cell model to understand the
+assumption, which only take into account the counterions
+electrostatics and swelling−shrinking be",experimental,,"Polyimide, Polyethylene, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Elastomer, SBR, Block copolymer","DMA, DLS, DSC, SEM, MD Simulation, TEM, Dielectric, Rheology",,,B,,,
+E0145,P347,pubs.acs.org/Macromolecules Article,"This work will broaden the scope of thiol−ene chemistry and open new avenues for the development of robust and
+recyclable cross-linked polymers with tunable material and dynamic properties",experimental,,"Polyimide, Self-healing, Polyurethane, Polysulfide, Polylactic acid, Shape memory polymer, PDMS, PEG, Vitrimer, Elastomer, Polyethylene","FTIR, DMA, DSC, SEM, Rheology, TEM, TGA, GPC, Tensile, NMR",,,B,,,
+E0146,P350,This article is licensed under CC-BY-NC-ND 4.0,"We find that the shape, size,
+polymer solutions and melts, the viscosity is independent of
+the shear rate,3−5 whereas at higher shear rates,4,6,7 the and extent of continuity of the ionic domains affe",experimental,,"Furan, Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Polyester, Chitosan, Elastomer, SBR, Polyethylene","SEM, MD Simulation, TEM, Dielectric, Rheology",,,B,,,
+E0147,P350,This article is licensed under CC-BY-NC-ND 4.0,"We show that the inhomogeneity of the systems
+affects their shear response",experimental,,"Furan, Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Polyester, Chitosan, Elastomer, SBR, Polyethylene","SEM, MD Simulation, TEM, Dielectric, Rheology",,,B,,,
+E0148,P351,"PHYSICAL REVIEW LETTERS 135, 268101 (2025)","We report spontaneous entropy-driven chiral symmetry breaking
+from molecular simulations of cholesteric liquid crystals formed from achiral bead-spring rods with a
+continuous spread in contour length ",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","DMA, DSC, MD Simulation, TEM, SEM",,,B,,,
+E0149,P352,"Macromolecules 1981, 14, 727-736 727","Inaddition,byusingthegradientexpansionfortheinteractionenergy,we demonstrateexplicitlytheabsence
+ofall“kinetic” terms involvingthe (inverse) degreeofpolymerizationfromthemean-fieldequations,when
+we ch",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Block copolymer","Cyclic Voltammetry, TEM",,,B,,,
+E0150,P353,The process-directed self-assembly of block copolymer particles,"We show that the process-directed
+self-assemblyofBCPimmersedinapoorsolventleadstotheformationofstripedellipsoids, onion-
+like particles and double-spiral lamellar particles",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Block copolymer","Rheology, DSC, SEM, TEM",,,B,,,
+E0151,P360,pubs.acs.org/JACS Article,"By extending the analysis to
+remain highly sensitive to finite-size and cutoff effects and three additional widely used water models�SPC,42 SPC/E,43
+often require substantial computational effort to c",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","DSC, TEM, Dielectric, SEM, DFT",,,B,,,
+E0152,P363,"5630 Macromolecules 1991, 24, 5630-5638","Using parameters reported in previous studies, we find the
+predictedmixtures’ Tgsare ingoodagreementwithexperiment, allowingan understandingoftheunusual
+variations of Tg with compositionthatare observ",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PEG, Polyamide, Polyethylene","DMA, SEM, TEM, TGA, Cyclic Voltammetry, Rheology",,,B,,,
+E0153,P364,pubs.acs.org/Macromolecules Article,"In this study, in situ small-angle X-ray scattering (SAXS)/wide-angle X-ray scattering (WAXS) are employed to
+investigate thestructural evolutionof PVA gelfilmscontaining glycerolduringstretching at d",experimental,,"Polyimide, Polyurethane, Polylactic acid, Chitosan, Alginate, Gelatin, PEG, Elastomer, Hydrogel, Polyethylene","SAXS, DMA, Neutron Scattering, DSC, SEM, TEM, Tensile, WAXD, AFM",,,B,,,
+E0154,P368,pubs.acs.org/Macromolecules Article,"In this work, however, thermoplastic elastomers based on two thermodynamically immiscible components,
+poly(dimethylsiloxane) (PDMS) and poly(propylene glycol) (PPG), exhibit speed-induced extensibilit",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, DMA, SEM, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0155,P368,pubs.acs.org/Macromolecules Article,"This work opens up the possibility for developing highly
+stretchable and resilient materials, which can be applied in areas such as artificial muscles",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, DMA, SEM, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0156,P368,pubs.acs.org/Macromolecules Article,"By tuning the mole ratios of PPG-DI and HM-DI, a series of
+In this work, a speed-induced extensibility (SIE) thermo- thermoplastic elastomers were synthesized",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, DMA, SEM, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0157,P372,"Polymer Vol.38No.18,pp.4571-4575,1997","Scattering techniques, such as
+We have used it to study the multiphase morphology of
+small-angle X-ray scattering (SAXS), small-angle neutron
+PEGDA/DGEBA IPNs and obtained a satisfactory
+scattering ( ",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PEG, Polyethylene","SEM, SAXS, Neutron Scattering, TEM",,,B,,,
+E0158,P372,"Polymer Vol.38No.18,pp.4571-4575,1997","In this work, SAXS was used to obtain the interphase
+information in interpenetrating polymer networks",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PEG, Polyethylene","SEM, SAXS, Neutron Scattering, TEM",,,B,,,
+E0159,P374,"CiteThis:Macromolecules2018,51,8306−8315 pubs.acs.org/Macromolecules","In this work, the mechanical
+properties of poly(3-dodecylthiophene) (P3DDT) and poly(3-
+hexylthiophene) (P3HT) are measured at different temper-
+atures, and the underlying deformation mechanism is exp",experimental,,"Polyimide, Polyethylene, Polythiophene, Polyamide, Polyurethane, Polylactic acid, Elastomer, Block copolymer","SAXS, DMA, DSC, SEM, TEM, Tensile, WAXD",,,B,,,
+E0160,P375,pubs.acs.org/Macromolecules,"In this study, 1,4-phenylene
+diisocyanate (PPDI)inthepolyurethaneisgraduallysubstituted
+by IPDI, and multiscale effects are examined by normal and
+dichroic Fourier transform infrared spectroscopy (FTI",experimental,,"Polyimide, Block copolymer, Self-healing, Polyurethane, Polyamide, Polylactic acid, PDMS, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, TEM, Dielectric, GPC, Tensile, WAXD, AFM",,,B,,,
+E0161,P375,pubs.acs.org/Macromolecules,"With dichroic FTIR and SAXS, we find that the morphology of hard phases changed
+fromlamellar-liketofibrillar-like,whichismorestableunderstretching",experimental,,"Polyimide, Block copolymer, Self-healing, Polyurethane, Polyamide, Polylactic acid, PDMS, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, TEM, Dielectric, GPC, Tensile, WAXD, AFM",,,B,,,
+E0162,P375,pubs.acs.org/Macromolecules,"The results indicated that PPDI-based polyurethane
+segments, which typically consist of diisocyanate and chain
+exhibited better shape recoverability than its MDI-based
+extender",experimental,,"Polyimide, Block copolymer, Self-healing, Polyurethane, Polyamide, Polylactic acid, PDMS, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, FTIR, NMR, DMA, DSC, SEM, TEM, Dielectric, GPC, Tensile, WAXD, AFM",,,B,,,
+E0163,P377,"Macromolecules2008,41,5723-5728 5723","The product
+tion and ion mobility; the results however are not conclusive",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PEG, Polyester, Elastomer, Polyethylene","SAXS, FTIR, DSC, SEM, MD Simulation, TEM, Dielectric, NMR",,,B,,,
+E0164,P378,HYDROGELS alkyl-watercontactsandmaximizefavorable,"Incontrast croscopy(cryo-TEM)testswereperformedon
+Theelasticityofhydrogelsstemsfrom tothefreelyjointedchainmodelcommonly our ultrathin AETC-25 hydrogel, the results
+thereversibleconformationchangesof ",experimental,,"Polyimide, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Hydrogel, Polyethylene","SAXS, DMA, DSC, SEM, Rheology, TEM, Tensile, NMR, AFM, DFT",,,B,,,
+E0165,P381,pubs.acs.org/Macromolecules Article,"In this work, a
+systematicstudyoftheimpactofchainlengthonPCL’sdielectricrelaxation
+is conducted, decoupling for the first time the role of chain length, chain
+ends,entanglements,andcrystallinityontheβ",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0166,P381,pubs.acs.org/Macromolecules Article,"The results are modeled by considering the contributions of end groups, the main chain segments, and the degree of crystallinity,
+whicheffectivelydescribestheexperiments",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0167,P381,pubs.acs.org/Macromolecules Article,"Our results suggest a strong correlation between changes in the local
+dynamics of polymer segments and the presence of a rigid amorphous fraction in semicrystalline polymers",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0168,P381,pubs.acs.org/Macromolecules Article,"Overall, this study
+contributes to the understanding of the microstructure of semicrystalline polymers, which can be applied to other polymers",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, PEG, Shape memory polymer, Polyester, Elastomer, Polyethylene","SAXS, DSC, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR",,,B,,,
+E0169,P382,Flaw-Tolerant Fracture Enabled by Liquid-like,"This study reveals that during tensile tearing,
+notched P-LCEs demonstrate exceptional strain homogenization across the specimen, effectively mitigating the
+crack-tip strain concentration and suppress",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Hydrogel, SBR, Polyethylene","DMA, SEM, TEM, Tensile, Rheology",,,B,,,
+E0170,P382,Flaw-Tolerant Fracture Enabled by Liquid-like,"Our findings
+contribute to a foundation for designing polymer-based soft materials with superior mechanical properties and
+fracture resistance",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Hydrogel, SBR, Polyethylene","DMA, SEM, TEM, Tensile, Rheology",,,B,,,
+E0171,P390,nature physics,"Employing computer simulations, here we
+show that upon approaching the so-called fatigue limit, the failure times
+of glasses subjected to cyclic shear deformation display a power-law
+divergence, which",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","DSC, SEM, MD Simulation, TEM, Rheology",,,B,,,
+E0172,P392,pubs.acs.org/Macromolecules Article,"In this work, nonequilibrium molecular dynamics
+simulations are used to examine the extensional behavior of
+ionomer melts, emphasizing the interplay between chain length,
+ionicclustering,anddeformatio",experimental,,"Polyimide, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Polyester, Vitrimer, Elastomer, Polyethylene","DSC, SEM, MD Simulation, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0173,P392,pubs.acs.org/Macromolecules Article,"This study clarifies how chain length and ionic associations govern the response of polyampholyte ionomers in
+extensional flow",experimental,,"Polyimide, Self-healing, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Polyester, Vitrimer, Elastomer, Polyethylene","DSC, SEM, MD Simulation, TEM, Dielectric, Tensile, Rheology",,,B,,,
+E0174,P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)","Our findings not only provide physical insights into
+polymer network fracture but offer design principles for tough architected materials",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, Polyethylene","DMA, TEM, Tensile, SEM, AFM",,,B,,,
+E0175,P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)","We find that the intrinsic fracture energy of
+Γ 0 ¼MU bond , where M is the number of broken atomic thenetworkisordersofmagnitudegreaterthantheenergy
+bonds per unit created area and U is the bond requ",experimental,,"Polyimide, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Hydrogel, Polyethylene","DMA, TEM, Tensile, SEM, AFM",,,B,,,
+E0176,P394,"PHYSICAL REVIEW E 113,015405(2026)","Here we perform QENS for a model system of PEO
+*Contactauthor:antonio",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","SAXS, Neutron Scattering, DSC, SEM, TEM, Dielectric, Cyclic Voltammetry, NMR",,,B,,,
+E0177,P394,"PHYSICAL REVIEW E 113,015405(2026)","Further withtheRM,thenapplythisfittodescribethebulkpolymer
+distribution of this work must maintain attribution to the author(s) in the PNC, with a second population used to describe the
+andthepublishe",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","SAXS, Neutron Scattering, DSC, SEM, TEM, Dielectric, Cyclic Voltammetry, NMR",,,B,,,
+E0178,P396,pubs.acs.org/Macromolecules Article,"The results are
+qualitatively consistent with recent experiments on associating PDMS and PPG telechelics of fixed sticker fraction but with
+chemicallydifferentendgroupsofvariableattractionstrengths",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, PDMS, PCL, Elastomer, SBR, Polyethylene","Neutron Scattering, SEM, MD Simulation, TEM, Dielectric, Rheology",,,B,,,
+E0179,P397,pubs.acs.org/Macromolecules Article,"These results thus point to isolated PP-rich domains, which are microphase
+separated from the urethane cross-links, and undergo crystallization processes consistent with neat PP",experimental,,"Polyimide, Block copolymer, Self-healing, Polyurethane, Polylactic acid, Vitrimer, Elastomer, Polyethylene","SAXS, FTIR, DMA, DSC, SEM, Rheology, TEM, GPC, Tensile, WAXD",,,B,,,
+E0180,P398,"PHYSICAL REVIEW LETTERS 135, 218101 (2025)","χmax is proportional to the volume of correlated motions,
+4
+Further distribution of this work must maintain attribution to ð4Þ
+the author(s) and the published article’s title, journal citation, or,cor",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, PDMS, PEG, Elastomer, Polyethylene","DMA, Neutron Scattering, DSC, MD Simulation, TEM, Dielectric, Rheology",,,B,,,
+E0181,P399,pubs.acs.org/Macromolecules Article,"Here, we demonstrate that
+the end-to-end vector MKF, K(t), can be analytically determined
+by the autocorrelation function C (t) and force−position cross- rr
+correlation C (t)",experimental,,"Polyimide, Polyurethane, Polylactic acid, Elastomer, Polyethylene","SEM, DSC, MD Simulation, TEM",,,B,,,
+E0182,P403,pubs.acs.org/Macromolecules Article,"Here, we report a new EOF mechanism in
+polyelectrolyte (PE) solutions confined within uncharged nanochannels, revealed by
+dissipative particle dynamics simulations",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0183,P403,pubs.acs.org/Macromolecules Article,"This work promotes the investigation of electroosmotic transport of complex fluids and offers insights for designing
+nanofluidic pumping systems based on molecular conformation",experimental,,"Polyimide, Polyurethane, Polyelectrolyte, Polylactic acid, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, Dielectric, Cyclic Voltammetry, Rheology",,,B,,,
+E0184,P404,"PHYSICAL REVIEW E 113,015404(2026)","We find that the stretching induced by the force is counterbalanced by
+increasing the torque, which tends to twist the chains and in so doing reduce the extension length",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, MD Simulation, TEM, SEM, AFM",,,B,,,
+E0185,P405,nature physics,"Here we introduce a new framework that uses two-particle
+correlations and a model-free theoretical description to investigate the
+dynamics of glass-forming colloidal suspensions indirectly",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Rheology, SEM, TEM, DLS",,,B,,,
+E0186,P405,nature physics,"Our findings establish
+a connection between the colloidal glass transition and the breaking of
+the translational symmetry in the dispersion medium, thereby revealing
+fundamental aspects of the glass t",experimental,,"Polyimide, Polyacrylate, Polyurethane, Polylactic acid, Elastomer, Polyethylene","Rheology, SEM, TEM, DLS",,,B,,,
+E0187,P406,"PHYSICAL REVIEW E 99,012107(2019)","We find that all types of glasses may become marginally stable, but the extent of the
+marginally stablephase highlydepends on thepreparation protocol",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, TGA, Cyclic Voltammetry, Rheology",,,B,,,
+E0188,P406,"PHYSICAL REVIEW E 99,012107(2019)","Our resultssuggestthatmarginal phases
+shouldbeobservableforcolloidalandnon-Brownianparticlesnearjammingandforpoorlyannealedglasses",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, TGA, Cyclic Voltammetry, Rheology",,,B,,,
+E0189,P408,"PHYSICAL REVIEW X 12, 021001 (2022)","We demonstrate that this apparent evolution is controlled by a temperature-dependent population of
+localized glassy excitations",experimental,,"Polyimide, Polyurethane, Polylactic acid, Shape memory polymer, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, TGA, Cyclic Voltammetry, Rheology",,,B,,,
+E0190,P408,"PHYSICAL REVIEW X 12, 021001 (2022)","It is this mapping which putatively con-
+Further distribution of this work must maintain attribution to
+the author(s) and the published article’s title, journal citation, nects the thermodynamic and d",experimental,,"Polyimide, Polyurethane, Polylactic acid, Shape memory polymer, Elastomer, Polyethylene","DMA, DSC, SEM, MD Simulation, TEM, TGA, Cyclic Voltammetry, Rheology",,,B,,,
+E0191,P409,PUBLISHEDONLINE:18JANUARY2016|DOI:10.1038/NMAT4538,"In this work, we studied the energy landscapes of
+has not been well explored in supramolecular systems",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, Alginate, PEG, Elastomer, Hydrogel, Polyethylene","DLS, DSC, TEM, Cyclic Voltammetry, SEM, AFM",,,B,,,
+E0192,P413,PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663,"We find that these downhill paths, when viewed in this configuration space, are, surprisingly, fractal",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, Rheology",,,B,,,
+E0193,P413,PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663,"Taken together, our findings suggest that much of the
+anunusualpower-lawfrequencydependence2,3,11(cid:21)13,super-di(cid:27)usive common,unexplainedbehaviourseeninsoftglassymaterialsmay
+particlemotion",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, Rheology",,,B,,,
+E0194,P413,PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663,"slightlyincrementedordecrementedinresponsetocomputeddif-
+Here we take a di(cid:27)erent approach, hypothesizing that SGM fusivefluxesfromsmallbubblestolargerones,andthebubbleposi-
+phenomena may emerge",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Polyethylene","DMA, DSC, SEM, TEM, Rheology",,,B,,,
+E0195,P415,pubs.acs.org/Macromolecules Article,"5c01982 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: We report the self-assembly behavior of strictly
+alternating multiblock copolymers with a sulfonated ",experimental,,"Polyimide, Polyethylene, Polyurethane, Polylactic acid, Polyester, Elastomer, Block copolymer","SAXS, NMR, DMA, DSC, SEM, MD Simulation, TEM, WAXD",,,B,,,
+E0196,P416,pubs.acs.org/Macromolecules Article,"Using commercial TPU with similar modulus (∼8 MPa) but different large strain behavior, we show that the
+describedmechanismstemsfromthemultiphasenatureofTPUanditisnotnecessarilylinkedtoaspecificlarges",experimental,,"Polyimide, Thiourea, Block copolymer, Polyurethane, Polylactic acid, PEG, Polyester, Natural rubber, Elastomer, Hydrogel, SBR, Polyethylene","SAXS, FTIR, DMA, DSC, SEM, TEM, Cyclic Voltammetry, GPC, Tensile, WAXD",,,B,,,
+E0197,P417,This article is licensed under CC-BY-NC-ND 4.0,"This study revealed that ILs containing hard cation and soft anion exhibited superior conductivity and
+flexibility in the composite films",experimental,,"Polyimide, Polyurethane, Ionogel, Polylactic acid, PEDOT:PSS, PDMS, Ionic liquid, PEG, Elastomer, Polyethylene","DMA, SEM, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, AFM, XPS",,,B,,,
+E0198,P418,"PHYSICAL REVIEW LETTERS 135, 238101 (2025)","Here we use
+exceeding the NG T",experimental,,"Polylactic acid, Polyimide, Polyurethane, Polyethylene","NMR, DSC, TEM, DMA",,,B,,,
+E0199,P420,ScieNce Adv ANceS | ReSeAR ch AR ticle,"Our results provide a unifying picture of polymer
+glass formation, regarding the role of chain end, length, and topology, a foundational phenomenon with implica-
+tions across fields of chemistry, soft",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0200,P420,ScieNce Adv ANceS | ReSeAR ch AR ticle,", polystyrene (PS), while being less sensitive to M for flexible In this work, we analyzed, experimentally and through molecu-
+w
+polymers, e",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0201,P420,ScieNce Adv ANceS | ReSeAR ch AR ticle,"In addition, the T of polymers varies with molecular topology; and six- arm star PS with multiple ends, within the framework of the
+g
+although there is a strong decrement in T of linear and star PS wi",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0202,P421,ScieNce Adv ANceS | ReSeAR ch AR ticle,"Our results provide a unifying picture of polymer
+glass formation, regarding the role of chain end, length, and topology, a foundational phenomenon with implica-
+tions across fields of chemistry, soft",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0203,P421,ScieNce Adv ANceS | ReSeAR ch AR ticle,", polystyrene (PS), while being less sensitive to M for flexible In this work, we analyzed, experimentally and through molecu-
+w
+polymers, e",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0204,P421,ScieNce Adv ANceS | ReSeAR ch AR ticle,"In addition, the T of polymers varies with molecular topology; and six- arm star PS with multiple ends, within the framework of the
+g
+although there is a strong decrement in T of linear and star PS wi",experimental,,"Polyimide, Polyacrylate, Polyethylene, Polyurethane, Polylactic acid, PEG, Elastomer, Block copolymer","DSC, SEM, MD Simulation, TEM, Rheology, GPC, NMR",,,B,,,
+E0205,P424,pubs.acs.org/Macromolecules Article,"Our results indicate that the particle−polymer system
+exhibits different phases and transition features compared to the
+particle-free system only when the particle is large enough",experimental,,"Polyimide, Polyethylene, Polyurethane, Polyelectrolyte, Polylactic acid, PEG, Block copolymer","DSC, MD Simulation, TEM, Cyclic Voltammetry, SEM",,,B,,,
+E0206,P425,This article is licensed under CC-BY 4.0,"5c02152 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: This work aims to examine the architecture effect
+on the self-assembly of high-χ block copolymers (BC",experimental,,"Furan, Polyimide, Block copolymer, Polyurethane, Polylactic acid, PDMS, Elastomer, Polyethylene","SAXS, NMR, SEM, TEM, Cyclic Voltammetry, GPC, WAXD",,,B,,,
+E0207,P427,pubs.acs.org/Macromolecules Article,"Here, we report a
+polyester-based PU vitrimer (V-PU) synthesized via nonstoichio-
+metric copolymerization of polycaprolactone (PCL), hexam-
+ethylene diisocyanate, and butanediol (BDO) under Sn(Oct)
+2
+",experimental,,"Polyimide, Boronic ester, Polyurethane, Polylactic acid, PCL, PEG, Vitrimer, Polyester, Elastomer, Polyethylene","FTIR, DMA, DSC, SEM, TEM, TGA, Tensile, Rheology",,,B,,,
+E0208,P428,pubs.acs.org/Macromolecules Article,"In this study, we elucidated the effects of
+the structural flexibility of H-bonding groups and the mechanical properties of
+polymers by comparing random copolymers bearing flexible diol groups or rigi",experimental,,"Furan, Polyimide, Polyacrylate, Polyethylene, Self-healing, Polyurethane, Polylactic acid, PEG, Thiourea, Elastomer, Block copolymer","SAXS, DMA, DSC, SEM, Rheology, TEM, GPC, Tensile, NMR, DFT",,,B,,,
+E0209,P430,pubs.acs.org/Macromolecules Article,"5c02116 ReadOnline
+ACCESS *
+Metrics&More ArticleRecommendations sı SupportingInformation
+ABSTRACT: This study developed a novel photoluminescent
+waterbornepolyurethane(WPU)elastomerwith[2,2′-bipyridin",experimental,,"Furan, Polyimide, Self-healing, Polyurethane, Ionogel, Polylactic acid, PDMS, PCL, Vitrimer, Thiourea, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, Fluorescence, DMA, DSC, SEM, Rheology, TEM, TGA, Cyclic Voltammetry, Tensile, NMR, DFT",,,B,,,
+E0210,P432,pubs.acs.org/Macromolecules Article,"This work opens new avenues for applications in extreme mechanical
+environments, from advanced manufacturing to biomedical engineering, and represents a paradigm shift in PNC science",experimental,,"Polyimide, Polysiloxane, Self-healing, Polyurethane, Polylactic acid, PDMS, Vitrimer, Elastomer, Hydrogel, Polyethylene","DMA, SEM, MD Simulation, TEM, Tensile, Rheology",,,B,,,
+E0211,P435,nature nanotechnology,"Here we present a supramolecular
+chemistry principle that results in a catalyst-free and solvent-free
+polymer-to-monomer transformation of a series of kinetically stable
+poly(disulfide)s",experimental,,"Polyimide, Polyamide, Polyurethane, Polylactic acid, Lipoic acid, PCL, Polyester, Elastomer, Polyethylene","FTIR, NMR, DMA, DSC, SEM, MD Simulation, Rheology, TEM, Tensile, WAXD, AFM, DFT",,,B,,,
+E0212,P435,nature nanotechnology,"Our findings offer a supramolecular route for
+designing closed-loop recyclable synthetic polymers",experimental,,"Polyimide, Polyamide, Polyurethane, Polylactic acid, Lipoic acid, PCL, Polyester, Elastomer, Polyethylene","FTIR, NMR, DMA, DSC, SEM, MD Simulation, Rheology, TEM, Tensile, WAXD, AFM, DFT",,,B,,,
+E0213,P438,pubs.acs.org/Macromolecules Article,"This work provided an in-depth analysis of AD
+andUPyH-bonding,elucidatingtheirrespectiverolesinthemechanicalanddynamicpropertiesofthePUUs",experimental,,"Furan, Polyimide, Self-healing, Polyurethane, Polylactic acid, Shape memory polymer, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, DSC, Rheology, TEM, Cyclic Voltammetry, GPC, Tensile, NMR, AFM, XPS",,,B,,,
+E0214,P439,pubs.acs.org/Macromolecules Article,"Here, we report a polyurethane elastomer constructed
+via a multiscale energy-dissipation strategy that establishes a direct structure-fatigue-property
+relationship",experimental,,"Polyimide, Self-healing, Polyurethane, Polylactic acid, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, Neutron Scattering, DSC, SEM, MD Simulation, Rheology, TEM, Tensile, WAXD, AFM",,,B,,,
+E0215,P440,nature materials,"Here we report polymer chain entanglement
+through asymmetric entangled nodes, inspired by macroscopic woven
+materials with different warp and weft strands, achieving the integration of
+polyurethane an",experimental,,"Polyimide, Polysiloxane, Block copolymer, Self-healing, Polyurethane, Polylactic acid, PVDF, PEG, Vitrimer, Elastomer, Hydrogel, Polyethylene","FTIR, Piezoelectric, DMA, DSC, SEM, Rheology, TEM, Cyclic Voltammetry, Tensile, NMR",,,B,,,
+E0216,P442,pubs.acs.org/Macromolecules Article,"This study paves the way to
+transform various diene-based polymers into robust yet dynamic high-performance materials by utilizing the unique features of
+flexible H-bonds",experimental,,"Furan, Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Shape memory polymer, PDMS, PEG, Vitrimer, Elastomer, Hydrogel, Polyethylene","SAXS, NMR, DSC, SEM, MD Simulation, Rheology, TEM, Tensile, WAXD, DFT",,,B,,,
+E0217,P445,Flaw-Tolerant Fracture Enabled by Liquid-like,"This study reveals that during tensile tearing,
+notched P-LCEs demonstrate exceptional strain homogenization across the specimen, effectively mitigating the
+crack-tip strain concentration and suppress",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Hydrogel, SBR, Polyethylene","DMA, SEM, TEM, Tensile, Rheology",,,B,,,
+E0218,P445,Flaw-Tolerant Fracture Enabled by Liquid-like,"Our findings
+contribute to a foundation for designing polymer-based soft materials with superior mechanical properties and
+fracture resistance",experimental,,"Polyimide, Polyurethane, Polylactic acid, PEG, Elastomer, Hydrogel, SBR, Polyethylene","DMA, SEM, TEM, Tensile, Rheology",,,B,,,
+E0219,P448,pubs.acs.org/Macromolecules Article,"In this work, we present a
+supramolecular-polymer double-network (SP-DN) ionic gel
+electrolyte, in which a supramolecular network formed through
+the self-assembly of 1,3:2,4-dibenzylidene sorbitol syn",experimental,,"Polyimide, Self-healing, Polyurethane, Polysulfide, Polyelectrolyte, Ionogel, Polylactic acid, PEDOT:PSS, Ionic liquid, Elastomer, Hydrogel, Polyethylene","FTIR, DMA, DSC, SEM, Rheology, TEM, TGA, Cyclic Voltammetry, Tensile, WAXD",,,B,,,
+E0220,P450,COMMUNICATION,"In this work, we design advanced
+of these materials",experimental,,"Furan, Polyimide, Block copolymer, Self-healing, Polyurethane, Ionogel, Polylactic acid, Ionic liquid, PEG, Elastomer, Polyethylene","SAXS, FTIR, DMA, DSC, MD Simulation, Rheology, TEM, GPC, Tensile, NMR, AFM",,,B,,,
+E0221,P451,pubs.acs.org/Macromolecules Article,"This study investigates the incorporation of orthogonal dynamic
+bonds in both associated (imine) and dissociated (anthracene
+dimerization) mechanisms within a single system to effectively
+regulate the",experimental,,"Polyimide, Boronic ester, Self-healing, Polyurethane, Polylactic acid, Vitrimer, Chitosan, Elastomer, Polyethylene","FTIR, DMA, DSC, SEM, TEM, Cyclic Voltammetry, Tensile, Rheology",,,B,,,
+E0222,P453,Eine Zeitschrift der Gesellschaft Deutscher Chemiker,"Herein, we report a simple and robust method for toughening thermoplastic
+elastomers by rationally tailoring hard–soft phase separation structures containing rigid and
+flexible supramolecular segments",experimental,,"Polyimide, Polyurethane, Polylactic acid, PCL, Elastomer, Polyethylene","SAXS, FTIR, NMR, DSC, SEM, TEM, Tensile, WAXD, DFT",,,B,,,
+E0223,P455,Angewandte Chemie International Edition,"Their segmented morphology, while responsible for excellent
+polyols such as polyethers or polyesters, provide flexibility mechanical performance, is susceptible to damage accumulation
+Changhoon Yu and",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR, AFM",,,B,,,
+E0224,P456,Angewandte Chemie International Edition,"Their segmented morphology, while responsible for excellent
+polyols such as polyethers or polyesters, provide flexibility mechanical performance, is susceptible to damage accumulation
+Changhoon Yu and",experimental,,"Polyimide, Polyacrylate, Self-healing, Polyurethane, Polylactic acid, Polyester, Elastomer, Hydrogel, Polyethylene","SAXS, FTIR, DMA, SEM, MD Simulation, Rheology, TEM, Dielectric, Tensile, NMR, AFM",,,B,,,

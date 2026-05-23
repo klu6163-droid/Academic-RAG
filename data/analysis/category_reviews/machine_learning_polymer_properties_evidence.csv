@@ -1,0 +1,250 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,claim_type,evidence_text,figure_table_source,page_est,keyword,confidence,relevance,ml_feature_candidate
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,measurement,TransPolymer: a Transformer-based language model for polymer property predictions,line 3,1,model,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,general,"Accurateandefficientpredictionofpolymerpropertiesisofgreatsignificanceinpolymerdesign.Conventionally,expensiveand time-consumingexperimentsorsimulationsarerequiredtoevaluatepolymerfunctions.Recently,Transformermodels,equipped",line 7,1,prediction,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,method,"time-consumingexperimentsorsimulationsarerequiredtoevaluatepolymerfunctions.Recently,Transformermodels,equipped withself-attentionmechanisms,haveexhibitedsuperiorperformanceinnaturallanguageprocessing.However,suchmethodshave",line 8,1,model,medium,standard,FALSE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,measurement,"notbeeninvestigated in polymersciences. Herein, wereportTransPolymer, a Transformer-based languagemodel forpolymer propertyprediction. Our proposedpolymer tokenizerwith chemical awarenessenables learningrepresentations from polymer",line 10,1,model,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,finding,propertyprediction. Our proposedpolymer tokenizerwith chemical awarenessenables learningrepresentations from polymer sequences. Rigorousexperiments onten polymerproperty prediction benchmarksdemonstrate thesuperior performance of,line 11,1,prediction,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,excerpt,finding,"sequences. Rigorousexperiments onten polymerproperty prediction benchmarksdemonstrate thesuperior performance of TransPolymer.Moreover,weshowthatTransPolymerbenefitsfrompretraining onlargeunlabeleddatasetviaMaskedLanguage",line 12,1,prediction,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,performance_data,measurement,R-squared: 2,text extraction,,performance,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,performance_data,measurement,Dielectric constant: 52,text extraction,,performance,medium,standard,TRUE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,figure_caption,measurement,"TransPolymer is transferable to various downstream tasks and
+Each polymer SMILES is converted to TransPolymer embedding more efficient, it is necessary to finetune the Transformer
+withthesizeofsequencelength×embeddingsize.Maxpoolingis encoders withtask-related datapointsfor better performance.
+imple",Figure 3,,Figure 3,medium,standard,FALSE
+P182,TransPolymer: a Transformer-based language model for,P182_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Since T usually plays an important role in
+g
+determining the conductivity of polymers64, the finetuned METHODS
+Transpolyemrcouldunderstandtheinfluentialpartsonproperties
+Polymertokenization
+inapolymersequence.However,itisalsowidelyarguedthatthe
+Unlike small molecules which are easily represented by ",Figure 6,,Figure 6,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,abstract,method,"Heterogenous catalysis involves complex reactions
+with dynamic changes in catalyst morphology, challenging the
+capabilities of traditional density functional theory (DFT)
+methods. To address this, we introduce the catalytic large atomic
+model (CLAM), a comprehensive data set and pretrained model
+formachinelearninginteratomicpotential,specificallydesignedfor
+heterogeneouscatalysis.CLAMistrainedonadiversedatasetthat
+includes metal and alloy slabs with adsorbates, oxides, clusters,
+two-dimensional ",abstract section,1,abstract,high,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,conclusion,general,"Data Availability Statement
+In this work, we introduced CLAM, a MLIP data set and Thesourcecode,pretrainedMLIPmodels,documentationand
+modelsuitetailoredforheterogeneouscatalysis.Byassembling examples of CLAM are available at https://github.com/
+a comprehensive and internally consistent data set that spans lalaheihaihei/catalyticLAM.
+diverse catalytic materials and adsorbates, CLAM enables * sı Supporting Information
+generalizable predictions under unified DFT settings. When
+The Supporting Inform",conclusion section,end,conclusion,high,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,A Machine Learning Interatomic Potential Data Set and Model for Catalysis with Local Fine-Tuning to Chemical Accuracy,line 3,1,machine learning,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,"model (CLAM), a comprehensive data set and pretrained model formachinelearninginteratomicpotential,specificallydesignedfor",line 13,1,model,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,"heterogeneouscatalysis.CLAMistrainedonadiversedatasetthat includes metal and alloy slabs with adsorbates, oxides, clusters,",line 15,1,dataset,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,improves the accuracy of machine learning interatomic potentials for structural optimizations and transition state searches. This,line 20,1,machine learning,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,"approach achieves 94% prediction accuracy within chemical accuracy thresholds (<1 kcal/mol) for adsorption energies of small adsorbates on transition metal surfaces, while demonstrating 3.4× computational acceleration relative to conventional DFT",line 22,1,prediction,medium,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,excerpt,general,CLAM model can accurately reproduce reported dynamic catalysis phenomena via molecular dynamics simulations without additional fine-tuning.,line 26,1,model,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,performance_data,measurement,R-squared: 5,text extraction,,performance,medium,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,performance_data,measurement,MAE: 2,text extraction,,performance,medium,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,performance_data,measurement,Accuracy: 87.36,text extraction,,performance,medium,standard,TRUE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,figure_caption,measurement,"Design of metal data set construction. (a) Flowchart of metal data set construction. (b) Example of initial metal and alloy supercell
+structures.(c)Adsorbatesusedforadsorptionontheslab.Examplesofsingleanddoubleintermediatesadsorptionconfigurationson(d)ametal
+slaband(e)analloyslab.Examplesoffourinter",Figure 1,,Figure 1,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,figure_caption,measurement,"Tobalancethedifferent
+includingelementalfrequency(Figures2aandS6),numberof categories of data set, we applied a sampling probability ratio
+atoms per structure (Figure 2b,c), energy per atom (Figure of QM9:2D:Metal:OC22 = 0.1:1:1:0.0005 during training.
+S7), and force distributions (Figure 2d,e). Com",Figure 3,,Figure 3,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,figure_caption,measurement,"Schematic and workflow of local fine-tuning algorithm. (a) Schematic illustration of local fine-tuning on the potential energy surface
+(PES),wheretheboldblacklinerepresentstheaccuratePESandthedashedlineindicatesthedeviationofthemodel-predictedPES.Sideandtop
+views of octahydro-N-ethylcarbazole adsorb",Figure 4,,Figure 4,medium,standard,FALSE
+P183,A Machine Learning Interatomic Potential Data Set and Model for,P183_unidentified.pdf,2025,low,good,figure_caption,measurement,"Modelperformancewithlocalfine-tuningiterations.(a)Sideviewofrepresentativemetalsurfaceswithadsorbed*C,*CH,*CH,*N,
+2
+*NH,and*NH.(b)AdsorptionenergiespredictedbyGNOC-CLAMcomparedwithfinalDFT-optimizedvaluesoftheseadsorbatesondifferent
+2
+transitionmetalsurfaces.Adsorptionenergycomparisonsafterthe(c)fir",Figure 6,,Figure 6,medium,standard,FALSE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,abstract,finding,"In this work, we present a Δ-learning approach
+for predicting the eigenvalues calculated with the hybrid
+functional HSE06 (ϵHSE) for a set of metal and nitrogen nk
+doped graphene catalysts (MNCs) from Perdew-Burke-
+Ernzerhof (PBE) inputs. The model presented here incorpo-
+rateselectronicscalarfeaturesalongwithstructuralinformation
+in a graph neural network (GNN). In particular, the PBE
+eigenvalues for different bands and k-points and orbital-
+resolved projectors are combined with the applied pot",abstract section,1,abstract,high,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,conclusion,finding,"of All Structure/Calculation Parameters
+tations are well-suited for capturing structure-dependent Varied to Create the Training Dataseta
+properties, as they inherently encode atomic positions and
+StructureCategory TargetDataSet
+interatomic distances, making them ideal inputs for neural
+networks. This approach was first demonstrated for materials Activesites MN 1 C,MN 2 C,MN 3 C,MN 4 C
+science applications with the Crystal Graph Convolutional Metalcenters Co,Cu,Fe,Mo,Ni,Pt
+NeuralNetwork(CGCNN),wh",conclusion section,end,conclusion,high,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,general,Structure Using Graph Neural Networks with Modified Node-Level Features,line 2,1,neural network,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,general,"Published as part of ACS Materials Letters special issue “Machine Learning for Materials Chemistry”. Nima Karimitari, Teerachote Pakornchote, Abdulaziz W. Alherz, Jacob M. Clary, Cooper Tezak,",line 4,1,machine learning,medium,standard,FALSE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,general,Ernzerhof (PBE) inputs. The model presented here incorpo- rateselectronicscalarfeaturesalongwithstructuralinformation,line 15,1,model,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,general,"rateselectronicscalarfeaturesalongwithstructuralinformation in a graph neural network (GNN). In particular, the PBE",line 16,1,feature,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,measurement,"in a graph neural network (GNN). In particular, the PBE eigenvalues for different bands and k-points and orbital-",line 17,1,neural network,medium,standard,FALSE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,excerpt,general,as node-level features along with structural information within the Atomistic Line Graph Neural Network (ALIGNN),line 20,1,feature,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,performance_data,measurement,R-squared: 6,text extraction,,performance,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Schematic of the architecture and data set used in this
+that the conventional ALIGNN architecture model that is work.AtypicalMNCsurfacewithCoisdepictedwiththesetof
+1
+trained using typical node-level features obtained from metalsandadsorbatesstudiedinthiswork.Thecrystalgraphand
+Matminer cannot distin",Figure 1,,Figure 1,medium,standard,TRUE
+P184,Δ‑Learning of High-Fidelity Electronic,P184_unidentified.pdf,2025,medium,good,figure_caption,measurement,"important when one is interested in applying the model/ As a final test of the ML model’s generalization to samples
+architecturetonewcatalyticsystems,e.g.,withmetallicsitesor left out of the training set, we trained a single model on, e.g.,
+adsorbates different from those studied here. onlystructure",Figure 2,,Figure 2,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,abstract,general,"Mathematical modeling has long played a crucial role in the development of macromolecular
+systems, offering a framework for designing polymeric materials to achieve specific targets.
+Traditionally, these models have been grounded in first-principles knowledge of the underlying
+physical and chemical processes. However, in recent years, data-driven approaches,
+particularly those based on machine learning (ML), have gained significant traction. Unlike
+conventional models, which are constrained by p",abstract section,1,abstract,medium,standard,TRUE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,Adding Machine Learning to the Polymer Reaction Engineering Toolbox,line 2,1,machine learning,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,To appear in: Progress in Polymer Science Received date: 12 February 2025,line 9,1,polymer,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,"AddingMachineLearningtothePolymerReactionEngineeringToolbox,ProgressinPolymerScience (2025), doi: https://doi.org/10.1016/j.progpolymsci.2025.102029",line 14,1,polymer,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,"Adding Machine Learning to the Polymer Reaction Engineering Toolbox Kiarash Farajzadehahary,1 Shaghayegh Hamzehlou,1 Nicholas Ballard1,2*",line 23,1,machine learning,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,"Mathematical modeling has long played a crucial role in the development of macromolecular systems, offering a framework for designing polymeric materials to achieve specific targets.",line 29,1,model,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,excerpt,general,"systems, offering a framework for designing polymeric materials to achieve specific targets. Traditionally, these models have been grounded in first-principles knowledge of the underlying",line 30,1,polymer,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,performance_data,measurement,R-squared: 025,text extraction,,performance,medium,standard,TRUE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,performance_data,measurement,MAE: 3,text extraction,,performance,medium,standard,TRUE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,figure_caption,measurement,"In supervised learning, data is labeled, meaning the outputs (e.g. reaction outcomes or
+desired polymer properties) are already known for each input (e.g. polymer structure, reaction
+conditions, or processing parameters), and the goal of the ML system is to develop a model
+5
+that establishes the rel",Figure 1,,Figure 1,medium,standard,FALSE
+P185,Adding Machine Learning to the Polymer Reaction Engineering,P185_unidentified.pdf,2025,low,partial,figure_caption,measurement,"For many tasks, there are multiple
+7
+model architectures that will lead to similar predictive performance and it should be noted
+that no single machine learning algorithm consistently outperforms others across all polymer
+property prediction tasks. This means that algorithm selection should be tailo",Figure 2,,Figure 2,medium,standard,TRUE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,general,"Periodicity-aware deep learning for polymers Received: 4 January 2025 Yuhui Wu1,2,5, Cong Wang1,2,5, Xintian Shen1,2, Tianyi Zhang1,2, Peng Zhang 1,2,3",line 3,1,deep learning,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,general,Deep learning has revolutionized chemical research by accelerating the Check for updates,line 8,1,deep learning,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,general,polymer chemistry lacks a unified deep learning framework owing to the complexity of polymer structures. Existing self-supervised learning,line 11,1,deep learning,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,method,the complexity of polymer structures. Existing self-supervised learning methods simplify polymers into repeating units and neglect their inherent,line 12,1,polymer,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,method,"methods simplify polymers into repeating units and neglect their inherent periodicity, thereby limiting the models’ ability to generalize across tasks.",line 13,1,polymer,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,excerpt,interpretation,"periodicity, thereby limiting the models’ ability to generalize across tasks. To address this, we propose a periodicity-aware deep learning framework for",line 14,1,model,medium,standard,FALSE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,performance_data,measurement,R-squared: 025,text extraction,,performance,medium,standard,TRUE
+P186,Periodicity-aware deep learning for polymers,P186_unidentified.pdf,2025,low,partial,performance_data,measurement,Accuracy: 80,text extraction,,performance,medium,standard,TRUE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,conclusion,method,"statistics ( M
+n
+and M
+w
+) are the more numerous smaller chains; or by weight, where the
+reported. probability is proportional to its weight fraction, favoring the
+heavier chains that contribute more to the overall mass. For
+To overcome this data scarcity and to ensure our model is the experiments reported herein, number-based sampling was
+trained on statistically representative ensembles, our framework utilized. In general, mass-based sampling should be preferred for
+generates high-fidelity MMD",conclusion section,end,conclusion,medium,standard,TRUE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,Structure-Aware Machine Learning for Polymers: A Hierarchical Graph Network for Predicting Properties From,line 4,1,machine learning,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,"Germany 5 Bavarian Center For Battery Technology (BayBatt), University of Bayreuth, Bayreuth, Germany 6 Helmholtz Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Jena, Germany 7 Helmholtz-Zentrum Berlin for Materials and Energy (HZB), Berlin, Germany",line 11,1,polymer,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,Keywords: graph neural networks | kinetic Monte Carlo | machine learning | polymer informatics ABSTRACT,line 15,1,machine learning,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,Machine learning applications in polymer science are often inefficient due to molecular representations that neglect the inherent hierarchical and statistical nature of macromolecules. This work introduces a structure-aware graph convolutional network (GCN),line 17,1,machine learning,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,framework that addresses this limitation by treating polymer samples as statistical ensembles. The approach utilizes a hierarchical graph representation where nodes correspond to monomer units and explicitly integrates molecular mass distribution (MMD),line 19,1,polymer,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,excerpt,general,data to account for sample dispersity. A key innovation is an ensemble-based training strategy using topologically realistic graphs generated on-demand via an optimized kinetic Monte Carlo simulation. The model’s efficacy was validated on a broad range of,line 21,1,training,medium,standard,FALSE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,performance_data,measurement,R-squared: 025,text extraction,,performance,medium,standard,TRUE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,performance_data,measurement,MAE: 10,text extraction,,performance,medium,standard,TRUE
+P187,Structure-Aware Machine Learning for Polymers: A,P187_unidentified.pdf,2026,low,partial,performance_data,measurement,Accuracy: 72,text extraction,,performance,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,abstract,method,"Determining solubilities of organic molecules is critical in
+various fields such as pharmaceuticals, agrochemicals, and environmental
+science. Knowing how a solute will dissolve in different solvents and at
+differenttemperaturesisessentialfordrugformulation,synthesis,purification,
+and crystallization. Hard-to-estimate solubility limits currently hinder the
+design of new processes, making innovation more expensive. We propose a
+fast and general method for predicting the solubilities of neutral or",abstract section,1,abstract,high,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,conclusion,interpretation,"of Datasets Used for Training in This Worka
+Name Description Dataentries f(T) f(x) Source
+dHfus_DB Experimentaldataforenthalpyoffusion 5184solutes No No Compiled34−36
+Tmp_DB Experimentaldataformeltingpointtemperatures 273404solutes No No Compiled37−41
+gamma_QM_DB Quantumchemicaldatabase(COSMO-RS)foractivitycoefficients 1162300data Yes Yes COSMO-RS20&SolvGNN44
+11572solutes
+685solvents
+gamma_exp_DB Experimentaldataforinfinitedilutionactivitycoefficients 21284data Yes No Wuetal.45
+302solutes
+447sol",conclusion section,end,conclusion,high,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,"Machine Learning, and Solvent Ensembles Emad Al Ibrahim, Nathan Morgan, Simon Müller, Saikiran Motati, and William H. Green*",line 3,1,machine learning,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,"thermodynamic fusion cycle to combine machine learning predictions of the activity coefficient, fusion enthalpy, and melting point temperature. This",line 16,1,machine learning,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,solute in estimating its solubility in a different solvent. Reference ensembling is also shown to enhance the robustness of models trained directly on solubility data.,line 21,1,model,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,"The prediction of the solubility of organic molecules is a critical aspect of various fields such as pharmaceuticals,1",line 25,1,prediction,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,"science.4 Accuratesolubilityprediction helpsinunderstanding how a compound will behave in different solvents, which is",line 28,1,prediction,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,excerpt,general,"Additionally, solubility predictions aid in the design of chemical processes, where solubility determines the ease of",line 34,1,prediction,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,performance_data,measurement,R-squared: 1,text extraction,,performance,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,performance_data,measurement,MAE: 0.55.,text extraction,,performance,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"Thermodynamicfusionandsublimationcyclesshowingthe
+Theoreticalcalculationsofsolubilityareoftenachievedusing change in free energy at constant temperature upon moving from a
+thermodynamiccycles.7 Figure1showstwopossibleroutesto puresolidphasetoaliquidoragastoasolutionatequilibrium(ata
+go from a solid ",Figure 1,,Figure 1,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"Visual depiction of the iterative process used for the to the large size of the activity coefficient pretraining data set
+solubilitycalculation.Infinitedilutionisusedasaninitialguessofthe (gamma_QM_DB), a randomly down-sampled version of 200,000
+molefractionsolubility(i.e.,x =0).Thecalculatedmolefra",Figure 2,,Figure 2,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"Parityplotofthepredictionona10%scaffold-splittestsetofexperimentalactivitycoefficientdatausinga)pretrainedmodel,andb)fine-
+tuned model.Colorshowsdensity ofthe data points.
+for the enthalpy of fusion and melting point temperature, showstheimportanceoffine-tuning,wherethemeanabsolute
+respectively.Devi",Figure 4,,Figure 4,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"Dependence of mean absolute error in log S ontemperature. Fusion cyclein circles is comparedto the two SolProp methodswith
+10 T
+constantand temperaturedependent dissociation enthalpiesindiamonds.A histogramshowing test datadistributionis showningray.",Figure 6,,Figure 6,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"a) Parity plots of experimentalvs predicted solubility on BiggerSolDB. b) Histogram of the absolute error between experimental and
+calculatedlog SonBiggerSolDB.Using anensemble of reference solventssignificantly improves the predictions.
+10",Figure 8,,Figure 8,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"a shows that predictions are well-
+G https://doi.org/10.1021/jacs.5c13746
+J.Am.Chem.Soc.XXXX,XXX,XXX−XXX
+Journal of the American Chemical Society pubs.acs.org/JACS Article
+centeredabouttheidentityline.Thehistogramoftheabsolute soluteinareferencesolventtoinferitssolubilityinadifferent
+error in Figure",Figure 8,,Figure 8,medium,standard,TRUE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"a)ParityplotoftheresultsfromreferenceensemblingonBiggerSolDB.b)Therelationbetweennumberofreferencesusedandmean
+absoluteerror.",Figure 11,,Figure 11,medium,standard,FALSE
+P189,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",P189_unidentified.pdf,2025,low,good,figure_caption,measurement,"a. Models trained directly on solubility BigSolDB (FastSolv’s training data). Results in Figure 12b
+data will always be limited by the training data noise and showthatthismethodcangreatlyenhancetherobustnessofa
+distribution. While methods relying on thermodynamic modelforout-of-distributionsolvents(",Figure 12,,Figure 12,medium,standard,FALSE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,ANN Artificial neural network Ppy Polypyrrole BoW Bag-of-words PSC Perovskite solar cell,line 39,1,neural network,medium,standard,FALSE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,CNN Convolutional neural network PVA Polyvinyl alcohol CNT Carbon nanotube P(VDF-TrFE) Poly(vinylidene fluoride–trifluoroethylene),line 42,2,neural network,medium,standard,FALSE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,DL Deep learning PVP Poly(vinylpyrrolidone) DPP Diketopyrrolopyrroles R&D Research and development,line 45,2,deep learning,medium,standard,FALSE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,ML Machine learning E Electrical output NC Neuromorphic computing F Force,line 99,3,machine learning,medium,standard,FALSE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,"features of soft multifunctional sensors and briefly highlights their predominant target stimuli. In the second section, important selection criteria for soft multifunctional sensors are",line 237,6,feature,medium,standard,TRUE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,excerpt,general,"Figure 2.[17,43,104–107] In this section, we briefly introduce essential features and basic sensing strategies for these targeted stimuli, and a summary is given in Table 1.",line 303,8,feature,medium,standard,TRUE
+P192,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,P192_unidentified.pdf,2024,low,partial,figure_caption,measurement,"[11,17,90–97] Finally, crucial
+challenges and potential opportunities in soft multifunctional sensors for the next decade are
+addressed as a concluding remark.
+2. Soft Multifunctional Sensors and Their Predominant Target Stimuli
+In general, soft multifunctional sensors are characterized by two disti",Figure 1,,Figure 1,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,abstract,measurement,"This study showed that an optimized structural
+simulationmodelforpolymermaterialsusingactualmeasurements
+asanindicatorcanenabletheexpressionofionchannelstructures
+as digital values that affect ion conductivity. The hierarchical
+structure of polymer electrolyte membranes (PEMs) significantly
+influences their ionic conductivity and durability. Dissipative
+particledynamics(DPD)simulationscanreproducethemultiscale
+phase-separated structures in graft-type PEMs by optimizing
+conservation parameters an",abstract section,1,abstract,high,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,conclusion,method,"from this DPD simulation and subsequent * sı Supporting Information
+analysisthatchangesintheionchannelnetwork,asreflectedin
+The Supporting Information is available free of charge at
+the d ratio, contribute to σ being consistent with recently
+https://pubs.acs.org/doi/10.1021/acs.macromol.5c01257.
+reported SANS measurements of PEMs with different grafting
+degrees.53 The simulation structures must be verified by Basic description of the DPD simulation method and
+accumulating the data of various bas",conclusion section,end,conclusion,high,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,Separated Structures in Graft-Type Polymer Electrolyte Membrane by Optimization Compared to Scattering Analysis,line 3,1,polymer,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,simulationmodelforpolymermaterialsusingactualmeasurements asanindicatorcanenabletheexpressionofionchannelstructures,line 11,1,model,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,structure of polymer electrolyte membranes (PEMs) significantly influences their ionic conductivity and durability. Dissipative,line 14,1,polymer,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,"SANS profiles. The Teubner−Strey model analysis of the simulated scattering profile showed the average diameter d of the ion channel and its deviation ε to be 1.9−2.0 nm and ±0.5 nm, respectively.",line 24,1,model,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,"For machine learning approaches for polymeric materials, searching for new materials, has recently attracted attention.",line 30,1,machine learning,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,excerpt,general,andphysicalpropertiescanbeusedtodevelopamodelforthe from accumulated measurement data by incorporating data,line 34,1,model,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,performance_data,measurement,R-squared: 021,text extraction,,performance,medium,standard,TRUE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,figure_caption,measurement,"Chemical structure and CG model of ETFE (particle A),
+ization. First, the polymer film is irradiated with electron
+PSSA (particle B,C),and water(particle W).
+beamsorγ-raystoproduceradicals.Subsequently,graftchains
+with ionic functional groups are introduced into the base film water. The substructure",Figure 1,,Figure 1,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,figure_caption,measurement,"For and the distance between the center of the probe sphere and
+9251 https://doi.org/10.1021/acs.macromol.5c01257
+Macromolecules2025,58,9249−9258
+Macromolecules pubs.acs.org/Macromolecules Article
+Table 2. Charge Calculation Results for Each CG Particle: (a) Particles A, (b) B, and (c) C
+(a) (b) (c)",Figure 2,,Figure 2,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,figure_caption,measurement,"SimulatedstructuresofETFE-PEM.Thespringconstantwassetto(a)C=4,(b)50,and(c)100.Eachcolorofparticlecorrespondsto
+A: green;B:yellow; C: red;and W:blue.
+positive χ was expected. Furthermore, the χ of the C−W pair validationofthemagnitudesoftheχ-parameters.Furthermore,
+appeared to be an extremely large n",Figure 4,,Figure 4,medium,standard,FALSE
+P305,Separated Structures in Graft-Type Polymer Electrolyte Membrane,P305_unidentified.pdf,2025,low,good,figure_caption,measurement,"In addition,
+ETFE-PEM.22,38,47ThepreviousMDandDPDsimulationsof the PSFs of ETFE, PSSA, and water estimated using the
+Nafionwithdifferentsulfonicacidsidechainspacingsindicate contrast variation SANS/PSF analysis (CV-SANS/PSF)
+thatNafionwithashortersidechainspacingexhibitedsmaller method are overlaid ",Figure 6,,Figure 6,medium,standard,FALSE

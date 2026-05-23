@@ -1,0 +1,620 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,evidence_text,page_est,keyword,confidence
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,abstract,"Imperative integrations of high fracture toughness
+andreusabilityareseeminglycontradictoryinionicelastomersdue
+totheirintrinsicallyoppositenetworkdesigns.Suchcombinations,
+however, are paramount for soft electronics, tissue engineering
+scaffolds,andionicskinswithalongservicelife.Here,weengineer
+a supramolecular ionic elastomer with phase-pinned bicontinuous
+structures to reconcile these incompatible properties through
+elaborately regulating the association dynamics and chain
+entanglement. The co",1,abstract,high
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,conclusion,"lithium bonds in the percolating phase for chain disentangle- In this work, we propose a unique phase-pinned bicontinuous
+ment, supporting a high stretchability and finally dissipating structure design for constructing a novel ionic elastomer with
+the applied energy by the breakage of dipole−dipole excellent mechanical properties and reusability. The continu-
+interactions in the liquid-crystal phase, exactly agreeing with ous liquid-crystal phase established by the aggregation of long
+the propos",end,conclusion,high
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,excerpt,"Fracture Toughness and Reusability of Ionic Elastomers Zibi Wang, Xiaoxu Liu, Fahu Yang, Xinxin Li, Haipeng Li, Dong Liu, and Fei Chen*",1,toughness,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,excerpt,ABSTRACT: Imperative integrations of high fracture toughness andreusabilityareseeminglycontradictoryinionicelastomersdue,1,toughness,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,excerpt,"andreusabilityareseeminglycontradictoryinionicelastomersdue totheirintrinsicallyoppositenetworkdesigns.Suchcombinations,",1,elastomer,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,excerpt,a supramolecular ionic elastomer with phase-pinned bicontinuous structures to reconcile these incompatible properties through,1,elastomer,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,excerpt,"crack growth under single and cyclic loads is suppressed, fulfilling the brilliant toughness (60.3 MJ m−3), fracture energy (63.9 KJ m−2), fatigue threshold (1.56 KJ m−2), and ultrastretchability (∼3040%) requirements, while achieving excellent recyclability and",1,toughness,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,figure_caption,"Design philosophy of the ionic elastomer. (a) Schematic illustration of the phase-pinned bicontinuous structures strategy. Molecular
+structures of (b) continuous liquid-crystal phase, (c) continuous percolating phase and (d) interphase regions. (e) FTIR spectra of LiTFSI,
+PFEMA, MEA and PMP-0.5−1.5 ",,Figure 1,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,figure_caption,"Rheological properties of the PMP ionic elastomer. (a) Typical master curve of G′ and G″ for the PMP-0.5-1.5 ionic elastomer. (b)
+Corresponding linear fitting curve between lna and 1/T. (c) Activation energy of PMP with different PFEMA contents. (d) Three-interval
+T
+thixotropytest (3ITT) curves.
+ord",,Figure 3,medium
+P013,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,P013_unidentified.pdf,2023,high,good,figure_caption,"Mechanism analysis for toughening the ionic elastomer. (a) Cyclic stress−strain curves of PMP-0.5-1.5 at various strains. (b)
+Corresponding dissipated energy and energy dissipation ratio. (c) lg (σ/G)−lg (λ − λ−2) curve of the PMP-0.5-1.5 ionic elastomer. (d) FTIR
+spectraofPMP-0.5-1.5atdifferenttemp",,Figure 5,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,abstract,"Soft polymer networks have seen an explosion
+of recent developments motivated by new high tech
+applications in the biomedical field or in engineering. We
+present a candid and critical overview of the current
+understanding of the relation between the structure and
+molecular architecture of polymer networks and their
+mechanical properties, restricting ourselves to soft networks
+made of flexible polymers and displaying entropic elasticity.
+We specifically review and compare recent approaches to
+syn",1,abstract,high
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,conclusion,"of the
+networks are swollen gels, and in particular hydrogels, that are
+essentially polymer solutions that are prevented from flowing stateoftheartofsoftnetworkphysicsinthelate1950sandthe
+excellent book edited by Alan Gent discusses mechanical
+bythepresenceofcross-linkingpoints.Theirclassicalindustrial
+properties of engineering elastomers.1 This begs the question:
+applications involve the ability to absorb and retain large
+amounts of fluids such as the superabsorbents used in diapers. why write ",end,conclusion,high
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,excerpt,"mechanical properties, restricting ourselves to soft networks made of flexible polymers and displaying entropic elasticity.",1,mechanical,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,excerpt,"synthesize swollen hydrogels with enhanced toughness, resilient but tough unfilled elastomers and self-healing",1,toughness,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,excerpt,resilient but tough unfilled elastomers and self-healing networks containing dynamic bonds. The purpose is less to,1,self-heal,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,excerpt,networks containing dynamic bonds. The purpose is less to drawacomprehensivecatalogueofapproachesthantoidentify,1,dynamic bond,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,excerpt,and unify the underlying principles controlling toughening mechanisms and mechanical self-healing behavior and to point out remaining challenges.,1,self-heal,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,figure_caption,"(a)FractureenergyΓasafunctionofpropagationvelocity
+the absence of viscoelastic dissipation as discussed above.
+orreducedpropagationvelocityfordifferentmaterials.(red■)Master
+Therefore, one strategy used to increase σ and λ
+curveat25°Cforastyrene−butadienerubber(T =−25°C)tested b b
+g simultaneously w",,Figure 1,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,figure_caption,"Schematic of the fabrication of a double network gel. The
+firstnetworkisinitiallysynthesizedinitsGaussianconfiguration.Then stratedwithchemoluminescenceexperimentsthatthetoughen-
+itisswolleninthesecondmonomer.Atthisstagethefirstnetworkis ingmechanismwasduetothescissionofsacrificialbondsover
+swollen ",,Figure 3,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,figure_caption,"Strain rate effect of a nanocomposite hydrogel: loading−
+plasticelastomers.Thischangeinstructureismostlydependent
+unloadingcyclesforvariedstrainrates(from3×10−4to0.6s−1).Data
+on the attained level of strain but can be also dependent on from ref80.
+strain rate. Unlike the double covalent networks, it",,Figure 6,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,figure_caption,"Schematics of polyampholyte hydrogel in the as-prepared
+nanofillers (carbon black and silica mainly) that introduce
+state (in the presence of excess salt) and equilibrium state (in pure
+water). (a) Illustration of the structure inthe as-prepared state (with
+straindependentdamagemechanismsandincrease",,Figure 7,medium
+P033,Perspective,P033_unidentified.pdf,2017,medium,good,figure_caption,"(A)Stress−straincurveofasinglesampleofdoublenetworkelastomersubmittedtoastep-cycleloading.Theinsetrepresentstheapplied
+stretchasafunctionoftime.Allcurvesfollowthesamepathonthestress−straincurveforthiselastomer.(B)Samegraphforasinglesampleof
+triplenetwork.InthiscaseeachNthcyclefollowsadifferentpathwh",,Figure 9,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,abstract,"Dual polymer networks with stickers have a
+reputation for enhanced modulus and toughness. We propose a
+modified sticky Rouse model (SRM) from the single-chain
+perspective for permanent and transient dual networks, aiming to
+find a universal description of associative polymer dynamics. The
+computational complexity of obtaining the analytical relaxation
+spectrum is simplified by graph theory, implementing matrix
+reductionoftheRouse−Zimmmatrixbasedonthesymmetry.The
+analytical relaxation spectrum ca",1,abstract,high
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,conclusion,"which can fluctuate around the equilibrium position. These
+are summarized in Section 5. fluctuations can reduce the cumulative stretching of the
+molecular chain and thus decreasing the overall free energy.
+2. MODEL AND THEORY One of the earliest models that incorporates the fluctuations
+The dual polymer network is composed of permanent and wasdevelopedbyJamesandGuthinthe1940s,knownasthe
+transient networks. The transient network formed by the phantom network model.27,28 It considers that the cros",end,conclusion,high
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,excerpt,reputation for enhanced modulus and toughness. We propose a modified sticky Rouse model (SRM) from the single-chain,1,toughness,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,excerpt,"chain molecular model SRM for polymer complex networks with reversible associative interactions. 1. INTRODUCTION relaxation process of dual polymer networks, the strands",1,reversible,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,excerpt,"mechanical properties, exhibiting linear and nonlinear viscoelastic properties, which give them integral roles in decay. This can roughly draw out the physical picture of dual",1,mechanical,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,excerpt,"many practical scenarios, like tissue engineering, self-healing polymernetworkrelaxationwhileignoresthedetailedbehavior materials, and shape memory functional materials.1−3 The overthewholerheologicalproperties.Recently,HuiandLong",1,self-heal,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,excerpt,"excellent mechanical properties come from two contributions, etal.developedaconstitutivemodelofdualpolymernetworks one is the permanent polymer network in a long time scale, forthestressversusstrainresponsewithlargestrain,whichwas",1,mechanical,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"Top: Schematic description for the dual polymer network
+Thispaperisorganizedasfollows:inSection2,wegivethe
+chain model, with only one sticker in the middle of each strand for
+physical picture of dual polymer networks and review the calculation simplicity. Bottom: The micelles formed by sticker
+molec",,Figure 1,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"The affine dual network model is complicated and tedious mathematical derivation and maps
+the reduction operation to the topological splitting of chain
+structures with simplicity and university. They obtained the
+analytical eigen-polynomials of the RZ matrix for dendrimers
+bygraphtheoryandgaveanalyt",,Figure 3,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"ComparisonofrelaxationmodulusG(t)betweenphantomandaffinedualnetworks.Theinfluenceof(a)strandslength,(c)functional
+degree,and(d)generationinbothnetworks.Theresultsfromaffineandphantomnetworksareplottedasreddottedlinesandblacksolidlines,
+respectively.(b)Equilibriummodulus against the inverseof strandl",,Figure 4,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"ComparisonbetweentheG(t)obtainedfromanalyticalandnumericalcalculationsofourmodifiedSRMdualnetworksundervariable
+(a)effectivefrictioncoefficientδand(b)generationg.ThedottedandsolidlinesrepresentanalyticalandnumericalsolutionsofSRM,respectively.
+networks.Theresultsconformtothepreviousconclusion,and th",,Figure 6,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"The corresponding experiment in
+Information for the detailed derivation, where the G(ϕ,t) theSupportingInformationcanbefoundinthemastercurves
+converges with large generation g, of the modulus by Sheiko et al.5
+543 https://doi.org/10.1021/acs.macromol.1c02059
+Macromolecules2022,55,535−549
+Macromolecu",,Figure 6,medium
+P044,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,P044_unidentified.pdf,2022,medium,good,figure_caption,"Quantitative comparison between predictions and simulation results through two methods. (a) Lifetime before a sticker finds new
+partners.(b)Arrheniusrelationshipbetweenthebindingenergyhandthebondlifetimeτ.Foravoidingtheinfluenceofτ ,wepresenttheratio
+b b0
+between τ and τ . (c) Linear relaxation modu",,Figure 9,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,conclusion,"process. We also identify strong finite chain length effects on
+thesefastrelaxations.WecalculatetheeffectivefrictionsforN= Reversibly crosslinked polymers have the unique ability to
+50andfindthecurvesforsmallert c followsimilartrends,but combinehighmechanicalpropertieswithreprocessibility.Here,
+thatwedoseeplateauvaluesfort =500t,thelargestvaluesof
+c wereporttherelaxationbehaviorofsuchreversiblycrosslinked
+t that we have studied, Fig. 5b. We now turn to the slower
+c systems through coarse-grained",end,conclusion,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,excerpt,"Polymer melts with chains undergoing reversible crosslinking have distinctively favorable dynamic properties, e.g., self-healing and reprocessability. In these situations, there are two relevant elementary",1,reversible,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,excerpt,"properties, e.g., self-healing and reprocessability. In these situations, there are two relevant elementary time scales: the segmental and the sticker association times. A convenient framework to model these",1,self-heal,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,excerpt,1. Introduction impacted by the presence of these reversible crosslinks. The Rouse model is the simplest description of short chain,1,reversible,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,excerpt,"favorablemechanicalproperties.However,theyareunsustain- that the relaxation of a chain can be described as the super- able since they cannot be reprocessed. In contrast, polymer position of normal Fourier modes corresponding to progres-",1,mechanical,medium
+P047,Rouse mode analysis of chain relaxation in,P047_unidentified.pdf,2025,low,partial,excerpt,"able since they cannot be reprocessed. In contrast, polymer position of normal Fourier modes corresponding to progres- networksthatcanrearrangetheirtopologywithoutdepolymer- sively smaller subchain fragments. The question of how such",1,reprocess,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,excerpt,weightpolymersformmechanicallyrobustma- terialsowingtotheentanglementoflongpolymer,1,mechanical,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,excerpt,"societies.Noncrystalline,high-molecular-weightpolymersgenerallyformmechanically portionswithinreasonabletimescales(2).On",1,mechanical,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,excerpt,"Hbonds,maybeelaboratedintomechanically weightpolymers,whencross-linkedbydensehydrogenbonds,yieldmechanicallyrobust",1,mechanical,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,excerpt,"weightpolymers,whencross-linkedbydensehydrogenbonds,yieldmechanicallyrobust robust yet healable polymeric materials, be-",1,mechanical,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,excerpt,"foractivatingtheexchangeofhydrogen-bondedpairs,whichenablesthefractured elastomers (14) with H-bonding motifs have",1,exchange,medium
+P051,POLYMERS able.Somehealablematerialswithhighme-,P051_unidentified.pdf,2018,low,partial,figure_caption,"Molecularstructuresandcharacteriza-
+tionofpoly(ether-thiourea)TUEG andits
+3
+referencepolymers.(A)Schematicstructures
+ofpoly(ether-thioureas)withdiethyleneglycol
+(TUEG ),triethyleneglycol(TUEG ),andtetra- 2 3
+ethyleneglycol(TUEG )asspacers;schematic 4
+structuresofpoly(alkylene-thioureas)with
+octameth",,Figure 1,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,conclusion,"In summary, crosslinked dynamers of network topology in the form of organogels have been
+synthesized from a trialdehyde and a range of dinitroalkanes through the nitroaldol reaction for
+the first time. The gelation process could be controlled by adjusting the starting materials,
+where a distinct odd–even dependency of the dinitroalkane components was identified. The gel
+formation could also be tuned by adjusting the reaction conditions with respect to solvent,
+temperature, concentration, and cat",end,conclusion,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,excerpt,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol Organogels",1,self-heal,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,excerpt,"excellent self-healing ability. Intact xerogels were produced upon drying, without damaging the network, and the solvent-free network could recover its gel form in the presence of an organic",1,self-heal,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,excerpt,"with reversible covalent linkages, dynamers can undergo bond exchange and constitutional, structural rearrangement, thus leading to a wide spectrum of properties, such as stimuli-",1,reversible,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,excerpt,"responsiveness, self-healing ability, shape-memory behavior, degradability and recyclability, antimicrobial and wound-dressing abilities, etc.[1,4,5,7,8,16–32] Due to the large scope of available",1,self-heal,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,excerpt,"dynamic building blocks and the versatility of reversible covalent reactions, dynamers of a wide diversity of topologies, e.g. linear structures, [1,5,33,34] amorphous networks,[2,4,35–37] and",1,reversible,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,figure_caption,"a) Proposed nitroaldol crosslinking polymerization system; b) model nitroaldol system; ¹H-NMR
+spectra (400 MHz, DMSO-d₆) of c) initial mixture of compounds 1 (□) and 4 (▽); d) mixture of compounds 1, 4,
+and Et₃N after 24 h of incubation at rt; e) mixture of compound 5 (○) and Et₃N after 24 h of incu",,Figure 1,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,figure_caption,"Effects of a) trialdehyde feed concentration (ratio 1/2d: 2:3); b) NEt₃ loading; and c) temperature on
+gelation time in reaction between 1 and 2d in DMSO.
+The gelation time under different feed concentrations of the starting materials, determined
+by the tube inversion method, was furthermore investi",,Figure 3,medium
+P063,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",P063_unidentified.pdf,2023,low,partial,figure_caption,"a)–d) Self-healing test on gel 3d; e) oscillatory rheology profile of gel 3d before and after self-healing;
+f) continuous step-strain sweep test on gel 3d (original (■), healed (▲) , storage modulus G’ (blue), loss modulus
+G” (orange)).
+To further evaluate the self-healing ability of the nitroalcoho",,Figure 5,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,conclusion,"that irreversible observed above 60 ◦C due to the destruction of abundant hydrogen
+structural damage due to aggregate dissociation primarily occurs below bonds, the overall network structure stays intact, indicating its suit-
+200 %. Meanwhile, Erh showed a continuous linear increase with strain, ability for applications under mildly elevated temperatures. The dehy-
+with a more pronounced acceleration observed above 400 %. This dration process facilitates robust hydrogen-bond interactions among t",end,conclusion,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,excerpt,"Hydrogels mechanical properties achieved through controlled polymer chain aggregation via various processing methods. Poly(vinyl alcohol) However, the reversible nature of these physical interactions leads to severe mechanical degradation in aqueous",1,mechanical,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,excerpt,"Poly(vinyl alcohol) However, the reversible nature of these physical interactions leads to severe mechanical degradation in aqueous Tough",1,reversible,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,excerpt,"environments, where water molecules competitively disrupt hydrogen bonds and dissolve aggregated structures, Anti-swelling",1,hydrogen bond,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,excerpt,"enhancement in elastic modulus, 2.1-fold increase in breaking strain, and 4.8-fold improvement in toughness, while dramatically improving environmental stability–the mechanical strength retention increases from ~ 20 %",1,toughness,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,excerpt,"while dramatically improving environmental stability–the mechanical strength retention increases from ~ 20 % to >80 % after aqueous immersion, with volume expansion reduced from typical 20–30 % to less than 5 %.",1,mechanical,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,figure_caption,"Tough and anti-swelling PVA hydrogels via protective domains. a) Schematic of PVA-FRC fabrication: dehydration by air drying induces crystallization,
+followed by free radical crosslinking to form protective loose aggregates around crystallites. b) Deformation mechanism under tension: release of hidd",,Figure 1,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,figure_caption,"Mechanical properties and energy dissipation behavior of PVA-FRC hydrogels. a-c) Tensile stress–strain curves (a) and corresponding Young’s modulus,
+E, tensile strength, σ b, breaking strain, ε b, and toughness, Γ, of PVA-water (b) and PVA-FRC (c) hydrogels fabricated from low-water PVA hydrogel wit",,Figure 3,medium
+P066,Materials Today xxx (xxxx) xxx,P066_unidentified.pdf,2025,low,partial,figure_caption,"Generality in stabilizing various architectures of PVA hydrogels. a-c) Swelling ratio (a), SEM image (b), and tensile stress–strain curves (c) of PVA
+hydrogel prepared by freeze-thawing 3 cycles, after dehydration-free radical crosslinking (D-FRC) treatment. d-f) Swelling ratio (d), SEM image (e), a",,Figure 5,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,conclusion,"19. Sim,K.etal.Anepicardialbioelectronicpatchmadefromsoft
+Further information on research design is available in the Nature rubberymaterialsandcapableofspatiotemporalmappingof
+PortfolioReportingSummarylinkedtothisarticle. electrophysiologicalactivity.Nat.Electron.3,775–784(2020).
+20. Park,S.I.etal.Soft,stretchable,fullyimplantableminiaturized
+Dataavailability optoelectronicsystemsforwirelessoptogenetics.Nat.Biotechnol.
+All data supporting the findings and conclusions of this study are 33,1280–12",end,conclusion,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,excerpt,"elastomers for soft, transient electronics Received:14December2022 WonBaeHan 1,7,Gwan-JinKo 1,7,Kang-GonLee2,DonghakKim3,",1,elastomer,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,excerpt,"Asrubber-likeelastomershaveledtoscientificbreakthroughsinsoft, stretchablecharacteristics-basedwearable,implantableelectronicdevicesor",1,elastomer,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,excerpt,"relevantresearchfields,developmentsofdegradableelastomerswithcom- parablemechanicalpropertiescouldbringsimilartechnologicalinnovationsin",1,elastomer,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,excerpt,"parablemechanicalpropertiescouldbringsimilartechnologicalinnovationsin transient,bioresorbableelectronicsorexpansionintounexploredareas.Here,",1,mechanical,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,excerpt,"weintroduceultra-stretchable,biodegradableelastomerscapableofstretch- ingupto~1600%withoutstandingpropertiesintoughness,tear-tolerance,",1,elastomer,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,performance_data,Resilience: 90,,performance,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,figure_caption,"Comparedwiththeproperties
+domains (CL) in a 5:5 ratio provides higher polymer elasticity and of well-known biopolymers such as silk45, poly(lactic acid) (PLA)46,
+softness than previous works using high LA fractions38,39 (Supple- poly(lactic-co-glycolic acid) (PLGA)47, and polycaprolactone (PCL)48,
+m",,Figure 7,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,figure_caption,"Such elastomeric
+NatureCommunications|( 2023)1 4:2263 3
+Article https://doi.org/10.1038/s41467-023-38040-4
+conductorswiththeexcellentmechanical/electricalfeaturesenabled those of commercial Ag/AgCl electrodes. Figure 3f shows a set of
+the robust operation of electronic circuits built with a LED unde",,Figure 12,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,figure_caption,"ModestmodificationstothePLCLelastomerscanalsoproduce
+(Mo)flakesduetohighelectronegativity(~2.16)andlargeaspectratio a soft gripper with two different moduli (e.g.,assemblyof60k and
+(~40)foreffectiveelectrontunnelingandlowpercolationthreshold 200k) and an ultrathin diaphragm-based artificial muscle (",,Figure 23,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,figure_caption,"Intermittentelectricalpulses(0.1ms,5V)acrossthewidearea
+cientofresistance(0.12/°C)andPLCL/Mo-basedpressuresensorswith ofLVcouldproduceventricularcapture(Fig.5eandSupplementary
+ahighgaugefactorcandetectawiderangeofexternalcircumstances, Fig. 30).Measurements of epicardialECG revealed apparent pacing
+",,Figure 29,medium
+P097,Ultra-stretchable and biodegradable,P097_unidentified.pdf,2023,medium,partial,figure_caption,"Wecouldnotobservesubstantial gicalexaminationofmyocardialtissuesbyhematoxylinandeosin
+physicaldegradationofthedevicethroughouttheimplantationperiod (H&E)staining(Fig.5fandSupplementaryFig.33).During8weeks
+of8weeksduetotheslowdissolutionrate.However,asshowninthe ofimplantation,fibrosisprogressedonthe",,Figure 32,medium
+P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",P118_unidentified.pdf,2025,low,partial,excerpt,"regeneration for diabetic wound healing Fang Wanga,b,1 , Jiajun Qiua,1,⇑, Shiwei Guana , Shuhan Chena , Xiaoshuang Niea,b,",1,healing,medium
+P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",P118_unidentified.pdf,2025,low,partial,excerpt,"Diabetic wound healing is hindered by the critical effects of poor local vascularization, peripheral neuropathy, and bacterial infection, which remains a formidable challenge. Available wound dressings",1,healing,medium
+P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",P118_unidentified.pdf,2025,low,partial,excerpt,"diabetic wound healing by facilitating local neurovascular regeneration. The composite hydrogels present exceptional self-healing, skin-adhesive, and conductive properties. More encouragingly, this",1,healing,medium
+P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",P118_unidentified.pdf,2025,low,partial,excerpt,"present exceptional self-healing, skin-adhesive, and conductive properties. More encouragingly, this hydrogel is endowed with excellent sonoelectric conversion performance by piezoelectric-enhanced",1,self-heal,medium
+P118,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",P118_unidentified.pdf,2025,low,partial,excerpt,"⇑ Corresponding authors. wound healing [6,7]. Nerves and vessels play an important role E-mail addresses: Qiu, J. (qiujiajun@mail.sic.ac.cn), Yao, F.-Z. (yaofangzhou@xjtu.edu.cn),",2,healing,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,excerpt,Designing Functions beyond Chemical Recycling and Self-Healing *,1,self-heal,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,excerpt,"attentionfortheiruniquerolesinchemicalrecyclingandself-healing,whicharebothrelevant for sustainable societal development. Efforts in these directions have intensified in the past",1,self-heal,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,excerpt,"particular, the dynamic bond exchangeability of DCPN has shown unparalleled design versatility in various areas including shape-shifting materials/devices, artificial muscles, and",1,dynamic bond,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,excerpt,"microfabrication. Going beyond this basic bond exchangeability, various molecular mechanisms to manipulate network topologies (topological transformation) have led to",1,exchange,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,excerpt,2.2. Recycling via Bond Exchange Reprocessing 1720 Syntheticpolymershavebecomeincreasinglyimportantinthe 3.Self-Healing Polymers 1722 marketplace since they became commercialized in the early,1,exchange,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,performance_data,Recovery ratio: 98,,performance,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,figure_caption,"Chemical recycling via depolymerization. (a) Polymerization and depolymerization of poly(γ-butyrolactone),28 where “Cat.1” is a
+lanthanum-basedcatalystand“Cat.2”isayttriumcomplexorazincbasedcatalyst.Adaptedwithpermissionfromref28.Copyright2018American
+Association for the Advancement of Science. (b) ",,Figure 1,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,figure_caption,"Dynamic covalent bonds based on associative mechanism: previously reported commonly used chemistries (left column) and the
+correspondingderivative chemistries (rightcolumn).
+far, only limited types of dynamic covalent bonds have been certain threshold, the network dissociates which results in a
+prov",,Figure 3,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,figure_caption,"Multifunctionalself-healingsystems.(a)Transesterificationenabledself-healingofasilvernanoparticlebasedconductivecomposite.115
+Reproducedwithpermissionfromref115.Copyright2019RoyalSocietyofChemistry.(b)Self-healableperovskitesolarcellandtheunderlying
+dynamicoxime−carbamatebonds.128Reproducedwithpermi",,Figure 5,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,figure_caption,"Multiscalestructuralalignmentviasolid-stateplasticity.(a)Diels−Alderreactionandvisualizedstresspatternsunderapolarizedlight.136
+Scale bars, 5 mm. Adapted with permission from ref 136. Copyright 2018 Springer Nature. (b) Dynamic equilibrium of a pinacol unit and the
+tensilestrength and elongationat b",,Figure 7,medium
+P150,Dynamic Covalent Polymer Networks: A Molecular Platform for,P150_unidentified.pdf,2021,low,partial,figure_caption,"Microscale structure fabrication. (a) Degradation of disulfide bonds and masked photoirradiated micropatterns.93 Scale bar, 1.5 mm.
+Reproducedfromref93.Copyright2011AmericanChemicalSociety.(b)Dissociativedisulfidebondandformationofphotoinducedpatternsvia
+an ice-templated freezing method.186 Reproduc",,Figure 9,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,abstract,"Inspired by the concept of multipotent stem cells, this
+research explores the use of tempering to program the mechanical
+properties of elastomeric dynamic covalent networks (DCNs) that
+contain thia-Michael bonds. These DCNs are composed of
+benzalcyanoacetate-based Michael acceptors and thiol-functionalized
+poly(ethylene glycol) (PEG) derivatives of varying molecular weights
+and architectures. The impacts of tempering on the thia-Michael
+adduct formation and dynamic reaction-induced phase separat",1,abstract,high
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,conclusion,"and
+FigureS4forN-3 YandN-4 Yspectra).Allfilmsexhibiteda
+2k 2k
+decreasing amount of tM adduct peak area ratios with
+increasing T. For example, N-3 70 had a 58% tM adduct
+Figure3.Normalized,smoothed,andtruncatedRamanspectraofthe t 1k
+peak area ratio compared to a 51% tM adduct peak area ratio
+nitrile stretch region for N-3 70 (dark brown), N-3 90 (red), and
+1k 1k
+N-3 1k 110 (gold) demonstrating an increase in adduct fraction with in N-3 1k 90 and a 40% tM adduct peak area ratio in N-3 1k 110
+decre",end,conclusion,high
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,excerpt,Multipotent Elastomers via Tempering of Phase-Separated Dynamic Covalent Networks,1,elastomer,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,excerpt,research explores the use of tempering to program the mechanical properties of elastomeric dynamic covalent networks (DCNs) that,1,mechanical,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,excerpt,properties of elastomeric dynamic covalent networks (DCNs) that contain thia-Michael bonds. These DCNs are composed of,1,elastomer,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,excerpt,"ments. The tempering process is completely reversible, and retempering the film at a different temperature allows the mechanical properties to be tuned. These findings establish a simple, reprogrammable strategy to access multipotent elastomers from a single",1,reversible,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,excerpt,"properties to be tuned. These findings establish a simple, reprogrammable strategy to access multipotent elastomers from a single feedstock through tempering of thia-Michael-based dynamic covalent networks.",1,elastomer,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,figure_caption,"a)Inspirationforthedesignofmultipotentmaterials(top)
+withtheproposedvisionofamultipotentpolymer(bottom).b)The
+dynamic thia-Michael bond formed from the reaction of a
+benzalcyanoacetate-based Michael acceptor and a thiol component.
+Parts ofschematic in(a) was madeusing Biorender.com.
+responsive films",,Figure 1,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,figure_caption,"a) Chemical structures of the components used in the
+remaining 25% were from 3 z or 4 2k . Formulations are dynamicthia-Michaelnetworks.b)ImagesofN-3 1k Ybeingstretched
+by hand and recovering immediately (Supplementary Movie S1). c)
+designated N-x Y, where x identifies the PEG architecture
+zk DSCthe",,Figure 2,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,figure_caption,"Normalized,smoothed,andtruncatedRamanspectraofthe t 1k
+peak area ratio compared to a 51% tM adduct peak area ratio
+nitrile stretch region for N-3 70 (dark brown), N-3 90 (red), and
+1k 1k
+N-3 1k 110 (gold) demonstrating an increase in adduct fraction with in N-3 1k 90 and a 40% tM adduct peak area ra",,Figure 3,medium
+P225,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,P225_unidentified.pdf,2025,low,good,figure_caption,"a) Cyclic loading−unloading stress−strain curves for N-
+the cyclic loading−unloading experiments demonstrated
+4 70(purple),N-3 70(red),andN-3 70(green)atthe1st(solid
+lin 2k e)and10thcycle 1k (dashedline)using 2k astrainrateof100%min−1. minimal creep at room temperature, there was increasing
+b) Cycli",,Figure 5,medium
+P250,Polymer Network Diffusion in Charged Gels,P250_unidentified.pdf,2024,low,partial,conclusion,"remarks.— We developed model charged
+gels [Fig. 1 and Table I] with comparable D ,D , and mix el
+D and measured their collective diffusion coefficient ion
+D via DLS. Based on the same decomposition of D mix
+and D to D in neutral gels [Figs. 2 and 3], our re- el
+sults indicate that D in the charged gel is governed by
+Eq. (1), where D emerges as an additive component ion
+[Fig. 4]. The significant ionic contribution D to D is ion
+quantitatively described through the ionic osmotic pres-
+sure Π [Eqs.",end,conclusion,medium
+P250,Polymer Network Diffusion in Charged Gels,P250_unidentified.pdf,2024,low,partial,excerpt,"retention agents, and self-healing concrete. This has led validated Eq. (1) for neutral gels [20–23], by decompos- to extensive investigation of their swelling behaviors [3– ing D into mixing (D ) and elastic (D ) contributions",1,self-heal,medium
+P250,Polymer Network Diffusion in Charged Gels,P250_unidentified.pdf,2024,low,partial,figure_caption,"(a)Schematicillustrationoftheswellingofacharged
+∼
+salt concentrations [14]. The main obstacle in experi- gel. The charged gel with immobilized charge c is equili-
+im
+mental validation arises from the difficulty in controlling brated in the outer salt solution, whose mobile ion c is
+out
+polymernetwor",,Figure 1,medium
+P250,Polymer Network Diffusion in Charged Gels,P250_unidentified.pdf,2024,low,partial,figure_caption,"Polymer mass concentration (c) dependence of the
+collective diffusion coefficient and its components (D mix and
+D ) for neutral gels at (a) s = 0.500 and charged gels for
+el 0
+varying c at (b) s = 0.400 and (c) s = 0.325. The c0 in- 0 5 10 15 20
+out im
+creasesassdecreases(blackdottedarrow). Forcharg",,Figure 3,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,abstract,"Acoherentstatesfieldtheory(CST)frameworkfor
+reversiblegelationofend-functionalf-armstarsispresented,which
+implicitly enumerates all cross-linking patterns and generates the
+correctstatisticalweightforeachtypeofcluster.Atthemean-field
+level, the CST produces only tree-like clusters, and recovers all
+essential predictions of the Flory−Stockmayer (FS) theory. In
+particular, the saddle-point (mean-field) condition reproduces the
+FSconditionforgelation.Whenappliedtosolutionsofassociative
+polymerstars",1,abstract,high
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,conclusion,"hand.
+Thecurrentworkprovidesthefoundationforsystematically
+We have constructed a coherent states model of f-arm star
+incorporating fluctuation effects. Several future developments
+polymers with reversibly reacting ends in solution or molten
+based on this can be envisioned. First, we have briefly
+conditions and applied approximate analytical techniques to
+discussed the possibility that the formation of loops may
+interrogate phase behavior and gelation. At the mean-field
+exhaust all reacting arms ",end,conclusion,high
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,excerpt,"Coherent State Field Theory for Reversible Gelation of Star Polymers Daniel L. Vigil, Glenn H. Fredrickson,* and Jian Qin*",1,reversible,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,excerpt,"reversiblegelationofend-functionalf-armstarsispresented,which implicitly enumerates all cross-linking patterns and generates the",1,reversible,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,excerpt,"1. INTRODUCTION formalism of de Gennes7,8 to the problem of reversible gelation. They utilized analytical approximations to study",1,reversible,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,excerpt,"recentyears,polymernetworksthatareformedfromreversible approach does not enable numerical representation or",1,reversible,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,excerpt,"novel materials properties, such as self-healing1 and stimuli- investigation. Other examples include work by Panyukov and Rabin that",1,self-heal,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,figure_caption,"Examplesofclustersformedbyassociationofstarpolymers.(a)Anexampleoff-armstarwithf=4.Armcontourisparametrizedbys,
+with0≤s≤N.(b)Dimertree-likecluster.(c)Trimertree-likecluster.(d)Anintrastarloopbyself-association.(e)Aninterstarloopformedby
+linkingtwostars.(f)Aloopformedfromthreestars.(g)Aclusterformedf",,Figure 1,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,figure_caption,"Asthenumberofarmsisincreased,the",,Figure 4,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,figure_caption,"Mean-fieldphasediagramforend-linkingstarpolymersfor problem of polymer gelation by Lubensky and Isaacson7,8
+avarietyofnumberofarmsf.Binodalsareindicatedwithsolidlines
+whiledottedlinesindicatethegeltransition.Parameters:C=ρuNf; 1
+0 0 = + + (1 f/2)
+K= λ b /(u 0 N2f). p l 2 e f
+(1 + p )3 = + 0 (1 p) + ",,Figure 4,medium
+P359,Coherent State Field Theory for Reversible Gelation of Star Polymers,P359_unidentified.pdf,2025,low,good,figure_caption,"Variation of bond and loop densities for phantom stars with f = 3, 5 and 15, which are normalized by the factor 2R3(4π/3)3/2. The
+reactionconversion isterminated atthemean-field gel pointp =(f− 1)−1.
+0
+correlation length ξ is found to scale as ξ ∝ R |ϵ|−1/2, where subsequently by Hoeve for f-arm sta",,Figure 6,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,abstract,"The relationship between elongation at break of a material and stretching speed has always been known to be an
+inversed one. In this work, however, thermoplastic elastomers based on two thermodynamically immiscible components,
+poly(dimethylsiloxane) (PDMS) and poly(propylene glycol) (PPG), exhibit speed-induced extensibility (SIE). This leads to
+significantenhancementinYoung’smodulus,strength,andelongationatbreakwithincreasedstretchingspeed.Assuch,thesystem
+iscapableof achievingelongationatbreak",1,abstract,high
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,conclusion,"Chuanjiang Long − Department of Materials Science and
+A unique type of elastomer that exhibits SIE behavior at Engineering, National University of Singapore, Singapore
+ambient conditions was achieved. The polymeric system 117575, Singapore
+consistsoftwothermodynamicallyincompatiblesoftsegments Siqi Liu − Department of Materials Science and Engineering,
+(PDMSand PPG) andtwo typesof hard segments which can National University of Singapore, Singapore 117575,
+form a hydrogen bond with different stre",end,conclusion,high
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,excerpt,Speed-Induced Extensibility Elastomers with Good Resilience and High Toughness,1,elastomer,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,excerpt,"inversed one. In this work, however, thermoplastic elastomers based on two thermodynamically immiscible components, poly(dimethylsiloxane) (PDMS) and poly(propylene glycol) (PPG), exhibit speed-induced extensibility (SIE). This leads to",1,elastomer,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,excerpt,themostreportedPDMS-basedelastomers.Thetoughnessisalsoenhancedby6.4timesmerelybyincreasingthestretchingspeeds from2to70min,1,toughness,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,excerpt,"endows the elastomer with a good elastic recovery of ∼98%. Last, the incorporation of a reversible hydrogen bond also allows the elastomers with autonomous self-healing ability (efficiency ∼ 95%). This work opens up the possibility for developing highly",1,reversible,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,excerpt,"elastomers with autonomous self-healing ability (efficiency ∼ 95%). This work opens up the possibility for developing highly stretchable and resilient materials, which can be applied in areas such as artificial muscles.",1,self-heal,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,performance_data,Elongation at break: 9000,,performance,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,figure_caption,"(a) Chemical structure of Ax−Hy−Pz elastomers. (b) Engineering stress−strain curves of Ax−Hy−Pz elastomers under uniaxial
+stretchingwithdifferentspeeds.(c)Young’smodulus(i),strength(ii),elongationatbreak(iii),andtoughness(iv)ofA5−H1−P4calculatedfrom
+thecorresponding engineeringstress−straincurves.
+s",,Figure 1,medium
+P368,Speed-Induced Extensibility Elastomers with Good Resilience and,P368_unidentified.pdf,2021,medium,good,figure_caption,"(a) Selected 2D SAXS patterns of the A5−H1−P4 elastomer obtained at different strains as indicated in each figure and also after
+releasingat5000%strain,thestretchingdirectionishorizon.Thestrain−stresscurveoftheA5−H1−P4elastomerisalsoshownbelowtheselected
+2DSAXSpatterns.All2DSAXSpatternswerenormalize",,Figure 3,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,abstract,"A microscopic statistical mechanical theory of the
+structure, self-assembly, and activated segmental relaxation is
+employedtostudyassociatingcopolymermeltswithhighattractive
+sticker fractions, local clustering, and disordered microphase
+ordering. The stickers are dynamically pinned in a manner that
+does not affect equilibrium structure which mimics the much
+slower physical bond breaking process or postassembly cross-
+linking of sticky monomers. Local sticker clustering and micro-
+domain spatial ",1,abstract,high
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,conclusion,"and future outlook in Section 8. density of monomer of type i, ρ = ρ + ρ. The PRISM
+m n s
+The Supporting Information (SI) include some background equationsareclosedbytheaccurateModfiedVerlet(MV)for
+theoreticalresults,andadditionalcalculationsthatextendand/ allthreecorrelationfunctions(triple-MVapproximation44−47).
+or buttress the results shown in the main text. The dimensional partial collective scattering functions are
+B https://doi.org/10.1021/acs.macromol.5c02893
+MacromoleculesXXXX,XXX,XXX−XX",end,conclusion,high
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,excerpt,"ABSTRACT: A microscopic statistical mechanical theory of the structure, self-assembly, and activated segmental relaxation is",1,mechanical,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,excerpt,"such as recyclability, self-healing, and mechanical proper- melts,19,20permanentlycross-linkedhomopolymernetworks,21 ties.1−5 Sticky groups engage in specific attractions of tunable and associating copolymers with weak clustering and no",1,self-heal,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,excerpt,impactsdynamic-mechanicalpropertiesonlongerchainlength Our present goal is to study associating copolymer melts at,2,mechanical,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,excerpt,"and suite of equilibrium and dynamical statistical mechanical integral equation theory40,42 is employed to compute the theory tools employed, and how they are adapted for the intermolecular site−site pair correlation functions, g (r) =",4,mechanical,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,excerpt,nn review the dynamical statistical mechanical theories employed We interpret this as indicating stronger attractions tend to,7,mechanical,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"Examplecollectivepartialstructurefactors(a)S (k)and(b)S (k)forϕ=0.58,f =0.25,α =0.25σ.Thewide-anglepeakposition
+nn ss s ss
+k isindicatedinblue.Thesmallanglepeakpositionsk*forβϵ =3and6areindicatedonthex-axiswithdashedlinesofrespectivecolors,and
+cage ss
+thek*highlightedaredefinedinthemaintext.Insetof(",,Figure 1,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"Exampleinterchainsite−sitepaircorrelationfunctionsfor(a)nonstickymonomersg (r)and(b)stickymonomersg (r)fordifferent
+nn ss
+βϵ andϕ=0.58,f =0.25.Theinsetof(a)comparesthecontactvaluesof5systemsasafunctionofϕfordifferentchoicesoff andβϵ ;several
+ss s s ss
+overlap.The insetof (b)showsthe variation of the",,Figure 3,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"Dynamic free energy in units of thermal energy for f s =
+each discussed individually in prior work.7,8 First, after 0.25,ϕ = 0.625 and varying values of βϵ ss . Note that βϵ ss = 0
+corresponds to the cross-linked homopolymer system. The circles
+equilibrium assembly of the associating copolymer, the ",,Figure 5,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"(a)Localcage(mainfigure)andcollectiveelastic(inset)contributionstodynamicbarrierinthermalenergyunitsforf =0.25.(b)Ratio
+s
+oftheelasticbarriertothelocalcagebarrierfordifferentstrengthsofattractionandf =0.25.Insetshowsthesamedatawiththex-axisscaledby
+s
+theglass transitionpackingfraction ϕ.Note thatthe",,Figure 8,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"packingfractionscorrespondingtothemorerubberyorweakly Indeed, fragility is a notoriously subtle dynamic quantity to
+supercooled regime where the local cage barrier is ∼5−9 in understand microscopically even for homopolymers. It seems
+thermal energy units. At high enough density, it becomes unavoidab",,Figure 6,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"Nonstickeralpharelaxationtimeasafunctionofβϵ with
+ss
+andwithoutthewavevectorcutoff,atf s =0.25,andϕ=0.625(black) As discussed in Section 2A, we have chosen a modestly short
+and ϕ = 0.61 (green). The red points depict the τ α for a sticker attraction to mimic attraction not of a classic van der
+homop",,Figure 10,medium
+P396,Segmental Dynamics and Vitrification in Associating Copolymer,P396_unidentified.pdf,2025,low,good,figure_caption,"(a) Comparison of collective partial static structure factors S (k) and S (k) (inset) for ϕ = 0.625, f = 0.2, βϵ = 2.75 for three
+ss nn s ss
+attractionranges. (b)The corresponding kineticarrest phasediagramforthe three attractionranges; insetshows the Angellplotforβϵ = 3.
+ss
+range does not significa",,Figure 12,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,abstract,"Biological systems often exhibit strain stiffening to prevent deformation and softening to avoid catastrophic failure.
+Associativepolymernetworksareinspiredbythedynamicnatureofbiomaterialsandhavebroadapplicationsasstimuli-responsive
+materials.Herein,weinvestigatedthenonlinearextensionalresponseofassociativepolymernetworkswithafocusontensilestrain
+softening. Metallo-supramolecular networks formed by pendant group cross-linking with different metal ions and a low degree of
+entanglements were used ",1,abstract,high
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,conclusion,"yielding is based on empirical observations and is qualitative.
+Further understanding of the nonlinear tensile behavior is
+Inthisstudy,wesynthesizedaseriesofmetallo-supramolecular
+limited by the lack of experimental confirmation about the
+networks with a bipyridine-containing polymer building block
+coordination environment of the metal center in the bulk
+and complexed them with various metal ions. These bulk
+polymer materials and, more importantly, how they change
+networksarehighlyextensible,whi",end,conclusion,high
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,excerpt,"alities,1 such as self-healing,2 shape memory,3 high tough- Figure 1, curve a. However, such large stress-overshoot ness,4−6andmechanicalproperties,thatarehighlytunableand followed by softening in tensile stretch is very uncommon.",1,self-heal,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,excerpt,"ness,4−6andmechanicalproperties,thatarehighlytunableand followed by softening in tensile stretch is very uncommon. change with external stimuli.7−9 Dynamics of associative The most common tensile behavior is moderate strain",1,mechanical,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,excerpt,"adjust their stiffness and remodel in response to the changing hardening. The softening is attributed to mechanically mechanicalenvironment.31,32Tissue,asasoftmaterial,exhibits generated disorder, causing acceleration of segmental relaxa-",3,mechanical,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,excerpt,"mechanicalenvironment.31,32Tissue,asasoftmaterial,exhibits generated disorder, causing acceleration of segmental relaxa- rapid strain-stiffening after a small stretch. Studies successfully tion until the relaxation time becomes comparable to the",3,mechanical,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,excerpt,"A solvent-free, tissue-like elastomer from the self-assembly of wasfirstdefinedinthe1940s54andseveraltheorieshavebeen",3,elastomer,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Generalizedstress−straincurvesformetallo-supramolecular
+rate of reassociation, rather than dissociation, is the
+polymersshowing(a)extremestrainsofteningwithayieldpoint,(b)
+determining factor for the nonlinear responses, attributing to
+moderatestrainsoftening, and(c) strainstiffening.
+thenetworktopol",,Figure 1,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Schematic illustration of the synthesis of the polymer building block BiPyPEG (top), complexation with metal salt (top), and the
+formation of metal−ligand cross-links and hydrogen bonds (bottom left and middle). Bottom right: steady shear viscosity of PEGDE 500
+macromonomer, BiPyPEGpolymer, Zn 3:1an",,Figure 2,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Tensilestress−straincurvefortheZn3:1networkshowing
+ultrahigh extensibility and yielding. Inset shows that tensile stress at monocomplexesthatdonotcontributetothebulkmechanical
+veryhighstrain %is nonzero. strength.WhilethestrongestnetworkZn2:1rupturedat643%",,Figure 4,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Young’smoduliofassociativenetworkswithvaryingmetal
+Co4:1 0.93±0.19 0.35±0.06 513±47
+ions and L:M ratios (bottom). The Young’s moduli were obtained
+Ni2:1 3.22±0.45 1.35±0.03 515±163
+fromthetensilecurvesshowninFigure5.Enthalpiesofformationfor
+Ni3:1 3.26±0.44 1.85±0.24 557±240
+bis-(ΔH )andtris-complex(",,Figure 6,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Plotsofshearviscosityversusshearrateat25°Cofdifferent
+TTS analysis was also applied to Cu 3:1, Co 3:1, and Ni 3:1 associativenetworksincluding(A)Zn3:1,Cu3:1,Co3:1,Ni3:1and
+networks, which similarly show poor overlap of dynamic (B) Zn2:1,Cu2:1,Co 2:1,and Ni2:1.
+modulidata(FigureS10).Discontinuitiesin",,Figure 8,medium
+P400,Tensile Strain Softening of Associative Polymer Networks:,P400_unidentified.pdf,2025,medium,good,figure_caption,"Normalizedstressrelaxationversustimecurveswithrelaxationstrainsof15%and250%,forassociativenetworkscomplexedwith(A)
+Zn2+,(B) Cu2+,(C)Co2+,and (D)Ni2+ atvarying L:Mratios.
+mode,τ ,butthealignmentsarequicklyrelievedbyrapidbond Table 6. Lifetimes of the Closed Sticker and Open Sticker
+1
+breakingandexcha",,Figure 10,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,abstract,"Hydrogen bonds (H-bonds) are effective dynamic cross-links that
+endow polymers with dynamic mechanical functions such as toughness, self-
+recoverability, and self-healing ability. While conventional complementary
+multidentate H-bonding groups are advantageous for enhancing binding strength
+due to their rigid structures, flexible multidentate H-bonding groups such as
+aliphatic diols have recently been found to achieve a good balance between
+dynamicity and mechanical robustness. In this study, we ",1,abstract,high
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,conclusion,"ting to the dynamicity of the polymer.
+In this study, we systematically compared the dynamic
+Effect of the Structural Flexibility of H-Bonding
+mechanical properties of model polymers bearing either diol
+Groups on the Dynamicity of Polymers. The results oramidegroupstorevealtheeffectsofthestructuralflexibility
+revealeddifferencesinthedynamicityoftheH-bondingmotifs. of H-bonding motifs on themacroscopic mechanical perform-
+AtasimilarH-bondinggroupconcentrationc,theEofPDiol- ance of polymers. From ",end,conclusion,high
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,excerpt,"Mechanical Properties of Dynamic Cross-Linked Polymers Rena Tajima, Shintaro Nakagawa, and Naoko Yoshie*",1,mechanical,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,excerpt,"ABSTRACT: Hydrogen bonds (H-bonds) are effective dynamic cross-links that endow polymers with dynamic mechanical functions such as toughness, self-",1,hydrogen bond,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,excerpt,"endow polymers with dynamic mechanical functions such as toughness, self- recoverability, and self-healing ability. While conventional complementary",1,toughness,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,excerpt,"recoverability, and self-healing ability. While conventional complementary multidentate H-bonding groups are advantageous for enhancing binding strength",1,self-heal,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,excerpt,"dynamicity and mechanical robustness. In this study, we elucidated the effects of the structural flexibility of H-bonding groups and the mechanical properties of",1,mechanical,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,performance_data,Recovery ratio: 92.8,,performance,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,"SchematicoftheH-bondingmotifsusedinthisstudy.(a)
+calculations revealed that vicinal diols had multiple stable H- Vicinal dimethanol group asa flexible H-bonding motif with various
+dimer structures. (b) Amide group as a rigid H-bonding motif with
+bonded dimer structures, which were considered to favo",,Figure 1,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,"(a)Syntheticrouteforpoly(Diol-co-Dodec)andpoly(VL-co-Dodec).(b,c)Ratioof(b)DiOTBSand(c)VLinpolymersplottedagainst
+thedegree of polymerization.(d) SAXSprofilesof the copolymers.
+D https://doi.org/10.1021/acs.macromol.5c01025
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Ar",,Figure 3,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,"(a−d)MastercurvesofthestoragemodulusG’andthelossmodulusG”for(a)PDiol-1.03,(b)PDiol-1.23,(c)PAmide-0.64,and(d)
+PAmide-1.06.Dashed linesindicate the frequency atthecrossover point.(e)Relaxation timeτplotted againstc.
+F https://doi.org/10.1021/acs.macromol.5c01025
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromo",,Figure 5,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,TheαofPDiol-1.23islowerthanthatofPDiol-1.03regardless,,Figure 7,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,"(a−c)Stress−straincurvesduringthecyclicuniaxialtensile
+tests.Thenominalstrainratewas0.104s−1.Alltestswereconducted
+onsetofstressevolution,andthehysteresisareaissmallerthan
+at room temperature. (a) PDiol-1.03, (b) PDiol-1.23, and (c)
+thatin thefirstcycle. These resultsindicate fatigue due to the
+PAmi",,Figure 8,medium
+P428,Correlation between Structural Flexibility of H‑Bonding Motifs and,P428_unidentified.pdf,2025,medium,good,figure_caption,"(a, b) Stress−strain curves during the successive cyclic uniaxial tensile tests. The nominal strain rate was 0.104 s−1. All tests were
+conductedatroomtemperature.(a)PDiol-1.23and(b)Amide-1.06.(c)Max.stress,(d)Hysteresisarea,and(e)Residualstrainofeachcycle.",,Figure 9,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,abstract,"Dynamic polymers with remarkable energy dissipa-
+tion and dampening are highly sought after for advanced
+applications.Here,spring-likearomaticfoldamerswereincorporated
+into the backbones of polymer networks cross-linked with dynamic
+Diels−Alder (DA) adducts or nondynamic static cross-linkers.
+Improved mechanical, self-healing, and dampening properties were
+found in networks with shorter chains, more aromatic stacked
+foldamerunits,anddynamicDAadductcross-links.Theseenhanced
+propertieswereattribut",1,abstract,high
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,conclusion,"showedenhancedenergydissipationproperties becauseof the
+combined effects of both the DA adduct, which could Polymer networks containing oP units in the middle of the
+participate in dynamic exchange, and oP, which is able to chain were developed. Well-defined polymer networks cross-
+unfoldunderstrain,henceleadingtoahigherstressrelaxation linked by dynamic DA adducts and the static cross-linker
+rate. EGDMA were synthesized. Networks with oP units in the
+Dynamic mechanical analysis (DMA) measuremen",end,conclusion,high
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,excerpt,"Improved mechanical, self-healing, and dampening properties were found in networks with shorter chains, more aromatic stacked",1,self-heal,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,excerpt,propertieswereattributedtothesynergisticeffectsofthereversible elastic response to stress of spring-like aromatic foldamers and the,1,reversible,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,excerpt,"the mechanical properties of polymers, with aromatic self-healing properties are highly desirable due to the foldamers being a particularly useful class of synthetic increasing environmental noise and vibration pollution from",1,self-heal,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,excerpt,"healing properties is essential for avoiding material failure and 3D functions and structures of biomacromolecules, especially prolonging the lifespans of materials.1−3 Nature has often proteins.32,33 A notable class of aromatic foldamers is ortho-",1,healing,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,excerpt,"animals.4 Similarly, the autonomous healing of human skin which are parallel to the helical axis.26,34 These folded after minor cuts, with restored sensory and operational structures offer a unique synergy between ultimate stability",1,healing,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,figure_caption,"Tensilecurvefor(a)dynamiccross-linkedoP6−FMA,oP4−
+FMA, and HY-FMA and (b) nondynamic cross-linked oP4-EGDMA higher cross-link density despite having the same cross-link
+andHY-EGDMA synthesizednetworks. density of 5% DA adducts. However, it is important to note
+that the spring-like oP4 linker is in t",,Figure 1,medium
+P433,Molecular Springs in Dynamic Covalent Polymer Networks,P433_unidentified.pdf,2025,low,good,figure_caption,"Self-healing tensile curve for (a) nondynamic cross-linked
+oP4-EGDMA and (b) dynamic cross-linked oP4−FMA synthesized Higher Ξ values are envisaged for networks with oP CTAs
+polymernetworks. because of their unique unfolding and folding capabilities
+under strain, which induce spring-like behavior in",,Figure 2,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,abstract,"Orthogonal supramolecular interactions involve multiple noncovalent interactions
+within a single system, where these interactions operate without mutual interference, collectively
+contributing to the material’s performance. Although the noninterference principle is well
+understood, the potential synergies between these interactions remain underexplored, offering new
+possibilities for advanced materials. Herein, we fabricate supramolecular polymer networks (SPNs)
+incorporatingthreedistinct supram",1,abstract,high
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,conclusion,"P. R. China
+Wenbin Wang − State Key Laboratory of Synergistic Chem-
+In summary, we have developed a mechanically robust SPN,
+Bio Synthesis, Frontiers Science Center for Transformative
+withitsmechanicalperformanceenhancedthroughthesynergy
+Molecules, School of Chemistry and Chemical Engineering,
+of three orthogonal supramolecular interactions. The design
+Shanghai Jiao Tong University, Shanghai 200240, P. R.
+preserves the spatial and functional independence of each
+China
+supramolecular interaction ",end,conclusion,high
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,excerpt,"quadruple hydrogen bonding serving as structural scaffolds for host−guest-based cross-linking. Representative SPN-2 exhibits exceptional mechanical performance, with a tensile strength of 31.3",1,hydrogen bond,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,excerpt,"Representative SPN-2 exhibits exceptional mechanical performance, with a tensile strength of 31.3 MPa and toughness of 172.0 MJ/m3, significantly surpassing control networks lacking multiple",1,mechanical,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,excerpt,"MPa and toughness of 172.0 MJ/m3, significantly surpassing control networks lacking multiple supramolecular synergies. The reversible nature of these noncovalent interactions further endows",1,toughness,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,excerpt,"supramolecular synergies. The reversible nature of these noncovalent interactions further endows SPN-2 with excellent puncture and tear resistance, rapid self-healing, and reprocessability. Moreover, SPN-2 serves as an effective",1,reversible,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,excerpt,"SPN-2 with excellent puncture and tear resistance, rapid self-healing, and reprocessability. Moreover, SPN-2 serves as an effective stretchable substrate foralternating current electroluminescent (ACEL) devices, retaining stable luminescence under a 75% tensile",1,self-heal,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,performance_data,Elongation at break: 1312,,performance,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,figure_caption,"(a)Chemicalstructuresandschematicillustrationsofthreesupramolecularinteractionmotifs:host−guestinteractions,singlehydrogen
+bonding, and quadruple hydrogen bonding, used in the construction of SPNs. (b) Schematic of the SPNs structure (left) and the dynamic
+dissociation-reassociationprocessofthreesup",,Figure 1,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,figure_caption,"(a)Stress−straincurvesofSPN-2atdifferentstretchingrates.(b)EnergydissipationandcorrespondingdampingcapacityofSPN-2for
+eachcycleinthecyclictensiletest.(c)Punctureforce−displacementcurvesofSPN-2filmswithdifferentthickness.(d)Quantitativeanalysisof
+punctureforceandenergyforSPN-2asafunctionofsamplethick",,Figure 3,medium
+P443,Orthogonal yet Synergistic Supramolecular Interactions to Boost,P443_unidentified.pdf,2025,medium,good,figure_caption,"(a)Demonstrationofself-healingatfracturedinterfacesenabledbysupramolecularinteraction;twocutSPN-2filmswererejoinedand
+withstoodbending,twisting,andstretching.(b)OpticalmicroscopyimagesofasurfacescratchonSPN-2beforeandafterhealingat100°Cfor1h.
+(c)MechanicalpropertiesofSPN-2duringtheself-healingproces",,Figure 5,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,abstract,"Howtoeffectivelyimprovethestrengthandtoughnessofpolymerelastomersisimportantfortheexpansionoftheir
+applicationfields. Constructionof twodistincttypesof dynamicreversiblebonds withinelastomers representsan effectivestrategy
+forenhancingtheirmechanicalproperties.However,theinterplaymechanismsbetweendifferentdynamicreversiblebondshavenot
+beenfullystudied.Herein,weconstructedbothahydrogenbondnetworkandametalcoordinationnetworkinpolyurethane(PU)
+elastomers. The introduction of both weak hydrogen bond",1,abstract,high
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,conclusion,"thehealingprocess.Inthefreshlycutsamples(theleftpartsof
+In this work, we prepared three kinds of PU elastomers with
+FigureS11),thescratchesareclearlyvisible.Afterthesamples
+different network structures: the PU elastomer with the weak
+werehealedat80°Cfor15min,thescratchesbecomesmaller
+hydrogen bond network, the PU elastomer with the weak
+and blurrier (the middle parts of Figure S11). As the healing hydrogen bond network and the relatively weak Cu2+
+time progresses, the scratches become increasing",end,conclusion,high
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,excerpt,Dynamic Synergy Effect between the Hydrogen Bond Network and Coordination Bond Network in Dual-Network Polyurethane,1,hydrogen bond,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,excerpt,ABSTRACT: Howtoeffectivelyimprovethestrengthandtoughnessofpolymerelastomersisimportantfortheexpansionoftheir applicationfields. Constructionof twodistincttypesof dynamicreversiblebonds withinelastomers representsan effectivestrategy,1,toughness,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,excerpt,"applicationfields. Constructionof twodistincttypesof dynamicreversiblebonds withinelastomers representsan effectivestrategy forenhancingtheirmechanicalproperties.However,theinterplaymechanismsbetweendifferentdynamicreversiblebondshavenot",1,reversible,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,excerpt,"forenhancingtheirmechanicalproperties.However,theinterplaymechanismsbetweendifferentdynamicreversiblebondshavenot beenfullystudied.Herein,weconstructedbothahydrogenbondnetworkandametalcoordinationnetworkinpolyurethane(PU)",1,reversible,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,excerpt,elastomers. The introduction of both weak hydrogen bonds and strong metal coordination bonds can endow the elastomers with high tensile strength without the sacrifice of stretchability. This special phenomenon can be attributed to the dynamic synergistic,1,hydrogen bond,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,performance_data,Healing efficiency: 96.8,,performance,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,figure_caption,"Structures of the PU elastomers (PUC, PUCC, and the PUCD) based on the hydrogen bond network and coordination bond
+x y x y
+network.Intheory,oneCuioncancoordinatewithuptosixcarbonylgroups,whileoneDyioncancoordinatewithuptofourcarboxylgroups.
+controlled,sothatthedesiredmaterialscanbecustomized.For 2. ",,Figure 1,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,figure_caption,"In
+andDyions).Inthiscondition,DMSOwillhavelittleeffecton
+addition to containing similar hydrogen bonds, the PUC C
+x y thecoordinationbehaviorbetweenthemetalionsandCOOH
+samples and the PUC D samples also contain metal
+x y groups.Thepeakat2.51ppmcorrespondstotheDMSO(the
+coordination bonds. In the PUC ",,Figure 1,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,figure_caption,"Wemainlyfocused values of the relaxation time, while the PUC sample has the
+onthewavenumberrangesbetween1600cm−1and1750cm−1 lowest values of the relaxation time. That is, the segments in
+corresponding to the signal peak of the C�O stretching the PUC D sample have the slowest relaxation rate, followe",,Figure 3,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,figure_caption,"Dependences of(a) storage moduliand (b)tanδ of the differentPUsamples ontemperature.
+similar to those of samples containing covalent cross-linking weak, the three types of dynamic bonds are arranged as
+duetotheirslowrelaxationcharacteristics.At60°C,asshown follows: hydrogen bonds, Cu2+ coordination ",,Figure 5,medium
+P444,Dynamic Synergy Effect between the Hydrogen Bond Network and,P444_unidentified.pdf,2025,medium,good,figure_caption,"(a)Orientational-orderparametersofbondsintheselectedsegmentsofthePUCsystem,thePUCC system,andthePUCD system
+6 1 4 1
+duringstretching.(b)Changeoforientational-orderparametersofbondsintheselectedsegmentsofthePUCD systemandthePUCD system
+4 1 4 1
+in which hydrogen bonding interactions were eliminated. (",,Figure 7,medium

@@ -1,0 +1,256 @@
+paper_id,file_name,title,extraction_problem,missing_abstract,text_length,classification_confidence,suggested_action
+P002,P002_unidentified.pdf,Recent Advances in Shape Memory Polymers:,No abstract found,True,67749,medium,needs_manual_check
+P003,P003_unidentified.pdf,www.advmat.de,No abstract found,True,42688,high,skip
+P004,P004_unidentified.pdf,www.advmat.de,No abstract found,True,42967,medium,skip
+P005,P005_unidentified.pdf,Chemistry,No abstract found; Poor title extraction,True,36205,medium,skip
+P006,P006_unidentified.pdf,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,No abstract found; No introduction found,True,12852,low,needs_manual_check
+P007,P007_unidentified.pdf,Flexible Cages Enable Robust Supramolecular Elastomers,No abstract found; No introduction found,True,17124,medium,needs_manual_check
+P008,P008_unidentified.pdf,Supplementary Information for,No abstract found; No introduction found,True,15374,high,skip
+P009,P009_unidentified.pdf,"Matter, Volume 5",No abstract found; No introduction found,True,10452,low,skip
+P010,P010_unidentified.pdf,Surpassing the stiffness-extensibility trade-off,No abstract found,True,52907,medium,skip
+P012,P012_unidentified.pdf,CORRECTED 28 MARCH 2019; SEE FULL TEXT,No abstract found,True,46826,medium,skip
+P014,P014_unidentified.pdf,High-barrier polyimide containing fluorenol moiety: gas,No abstract found; No introduction found,True,19311,low,skip
+P015,P015_unidentified.pdf,"Supertough, Resilient, and Healable Thermoplastic",No abstract found,True,42689,low,skip
+P019,P019_unidentified.pdf,: Dielectric Phenomena in Polymers and,No introduction found,False,100043,low,skip
+P020,P020_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, whic",No introduction found,False,55669,medium,skip
+P037,P037_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, whic",No introduction found,False,128190,medium,skip
+P040,P040_unidentified.pdf,"CiteThis:Macromolecules2017,50,9525−9527",No abstract found; No introduction found; Poor title extraction,True,13226,medium,skip
+P041,P041_unidentified.pdf,"CiteThis:Macromolecules2018,51,4423−4423",No abstract found; No introduction found; Poor title extraction,True,3562,low,skip
+P042,P042_unidentified.pdf,芳香複素環高分子材料の構造 分子,No abstract found; No introduction found,True,31147,low,skip
+P043,P043_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,No introduction found,False,28295,low,skip
+P045,P045_unidentified.pdf,第 38卷 第 2 期,No introduction found,False,33490,low,skip
+P046,P046_unidentified.pdf,A Theory of the Linear Viscoelastic Properties of Dilute,No abstract found,True,41311,low,skip
+P047,P047_unidentified.pdf,Rouse mode analysis of chain relaxation in,No abstract found,True,39434,low,skip
+P048,P048_unidentified.pdf,JournalofNon-NewtonianFluidMechanics316(2023)105012,No abstract found,True,107950,low,skip
+P049,P049_unidentified.pdf,Green Chemistry,No abstract found,True,101792,low,skip
+P050,P050_unidentified.pdf,2 Preparation of a Tough Elastomer by the Introduction of Multiple,No abstract found,True,17967,low,needs_manual_check
+P051,P051_unidentified.pdf,POLYMERS able.Somehealablematerialswithhighme-,No abstract found; No introduction found,True,23256,medium,skip
+P053,P053_unidentified.pdf,www.advmat.de,No abstract found,True,70514,low,skip
+P054,P054_unidentified.pdf,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,No abstract found,True,44568,low,needs_manual_check
+P055,P055_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,No introduction found,False,28600,medium,skip
+P056,P056_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,No introduction found,False,39062,medium,skip
+P057,P057_unidentified.pdf,Science AdvAnceS | ReSeAR ch AR ticLe,No abstract found,True,60231,medium,skip
+P059,P059_unidentified.pdf,"Organogels versus Hydrogels: Advantages, Challenges,",No abstract found,True,92557,low,skip
+P060,P060_unidentified.pdf,Gel Electrolytes www.advmat.de,No abstract found; No introduction found,True,44352,low,skip
+P061,P061_unidentified.pdf,www.advmat.de,No abstract found,True,43667,medium,skip
+P062,P062_unidentified.pdf,www.advmat.de,No introduction found,False,4947,low,skip
+P063,P063_unidentified.pdf,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",No abstract found,True,34858,medium,skip
+P064,P064_unidentified.pdf,HYDROGELS alkyl-watercontactsandmaximizefavorable,No abstract found; No introduction found,True,26463,medium,skip
+P065,P065_unidentified.pdf,Materials,Poor title extraction,False,50369,low,skip
+P066,P066_unidentified.pdf,Materials Today xxx (xxxx) xxx,No abstract found,True,68314,medium,skip
+P068,P068_unidentified.pdf,Contents lists available at ScienceDirect,No abstract found,True,99025,medium,skip
+P069,P069_unidentified.pdf,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,No abstract found,True,69059,medium,skip
+P070,P070_unidentified.pdf,OPEN ACCESS,No abstract found,True,62369,medium,skip
+P071,P071_unidentified.pdf,Molecular charge states and contact charge exchange in,No abstract found,True,47428,low,skip
+P072,P072_unidentified.pdf,www.advancedsciencenews.com www.advmat.de,No abstract found,True,102492,low,skip
+P073,P073_unidentified.pdf,Artificial Muscles www.advmat.de,No abstract found,True,98612,high,skip
+P075,P075_unidentified.pdf,Ionic Gels and Their Applications in Stretchable Electronics,No abstract found,True,84071,medium,skip
+P078,P078_unidentified.pdf,Mastering Superior Performance Origins of Ionic Polyurethane/Silica,No introduction found,False,56743,medium,needs_manual_check
+P079,P079_unidentified.pdf,Solvent-Free and Skin-Like Supramolecular Ion-Conductive Elastomers with Versati,No abstract found; No introduction found,True,18100,medium,needs_manual_check
+P080,P080_unidentified.pdf,Volume 44 Number 21 7 November 2015 Pages 7431–7920,No abstract found,True,91341,low,skip
+P081,P081_unidentified.pdf,Green Chemistry,No abstract found,True,102557,medium,skip
+P082,P082_unidentified.pdf,Materials Chemistry A,No abstract found,True,98799,low,skip
+P083,P083_unidentified.pdf,Chem Soc Rev,No abstract found,True,99854,medium,skip
+P084,P084_unidentified.pdf,Electrolyte selection for supercapacitive devices:,No abstract found,True,72423,medium,skip
+P085,P085_unidentified.pdf,Materials Chemistry B,No abstract found,True,82155,medium,skip
+P086,P086_unidentified.pdf,Electrolytes in Dye-Sensitized Solar Cells,No abstract found,True,117620,low,skip
+P087,P087_unidentified.pdf,Materials Chemistry A,No abstract found,True,41827,medium,skip
+P092,P092_unidentified.pdf,www.advmat.de,No abstract found,True,48123,low,skip
+P093,P093_unidentified.pdf,www.advancedscience.com,No abstract found,True,43912,medium,skip
+P095,P095_unidentified.pdf,Quaternary Ammonium-Functionalized,No introduction found,False,42008,medium,skip
+P097,P097_unidentified.pdf,Ultra-stretchable and biodegradable,No abstract found; No introduction found,True,49679,low,skip
+P098,P098_unidentified.pdf,Optically Transparent and Mechanically Robust Ionic,No abstract found,True,51748,medium,skip
+P099,P099_unidentified.pdf,Highly Processable Ionogels with Mechanical Robustness,No abstract found,True,45534,medium,skip
+P101,P101_unidentified.pdf,www.advmat.de,No abstract found,True,58378,medium,skip
+P102,P102_unidentified.pdf,Recent Advances in the Design of Ionenes: Toward,No abstract found; No introduction found,True,72304,medium,skip
+P104,P104_unidentified.pdf,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",No abstract found,True,89383,medium,skip
+P105,P105_unidentified.pdf,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",No abstract found,True,26609,low,skip
+P106,P106_unidentified.pdf,"Vol.14,No.2(2024)2340002(9pages)",No abstract found,True,33933,medium,skip
+P107,P107_unidentified.pdf,REVIEW SUMMARY,No abstract found; No introduction found,True,122475,medium,skip
+P108,P108_unidentified.pdf,压电效应—百岁铁电的守护者,No abstract found; No introduction found,True,29111,medium,skip
+P109,P109_unidentified.pdf,www.advmat.de,No abstract found,True,36148,low,skip
+P111,P111_unidentified.pdf,NanoEnergy102(2022)107690,No abstract found,True,72698,medium,skip
+P112,P112_unidentified.pdf,NanoEnergy105(2023)108024,No abstract found,True,44215,medium,skip
+P113,P113_unidentified.pdf,NanoEnergy118(2023)108987,No abstract found,True,115373,medium,skip
+P114,P114_unidentified.pdf,NanoEnergy120(2024)109092,No abstract found,True,89163,low,skip
+P115,P115_unidentified.pdf,MaterialsTodayCommunications31(2022)103491,No abstract found,True,89326,medium,skip
+P117,P117_unidentified.pdf,NanoEnergy118(2023)108987,No abstract found,True,115373,medium,skip
+P118,P118_unidentified.pdf,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",No abstract found,True,64060,low,skip
+P120,P120_unidentified.pdf,All-polymer piezo-ionic-electric electronics,No abstract found; No introduction found,True,55950,medium,needs_manual_check
+P121,P121_unidentified.pdf,MaterialsTodayCommunications31(2022)103491,No abstract found,True,89326,medium,skip
+P122,P122_unidentified.pdf,"HYDROGELS byweight,blackcurve)producingafasterrise",No abstract found; No introduction found,True,32267,medium,skip
+P123,P123_unidentified.pdf,Piezoelectric Nanomaterial-Mediated Physical Signals,No abstract found,True,76283,medium,needs_manual_check
+P124,P124_unidentified.pdf,Active self-assembly of piezoelectric biomo-,No abstract found; No introduction found,True,51379,medium,needs_manual_check
+P125,P125_unidentified.pdf,www.advmat.de,No abstract found,True,75249,medium,skip
+P126,P126_unidentified.pdf,www.advmat.de,No abstract found,True,48104,medium,skip
+P128,P128_unidentified.pdf,www.advmat.de,No abstract found,True,47655,medium,skip
+P129,P129_unidentified.pdf,www.advmat.de,No abstract found,True,108558,medium,skip
+P130,P130_unidentified.pdf,www.advmat.de,No abstract found,True,75249,medium,skip
+P131,P131_unidentified.pdf,www.advmat.de,No abstract found,True,48104,medium,skip
+P132,P132_unidentified.pdf,www.advmat.de,No abstract found,True,47655,medium,skip
+P133,P133_unidentified.pdf,Energy Harvesting www.advsustainsys.com,No abstract found,True,33505,medium,skip
+P134,P134_unidentified.pdf,Piezoelectric Nanomaterial-Mediated Physical Signals,No abstract found,True,76283,medium,needs_manual_check
+P135,P135_unidentified.pdf,www.advmat.de,No abstract found,True,108558,medium,skip
+P136,P136_unidentified.pdf,NanoEnergy102(2022)107690,No abstract found,True,72698,medium,skip
+P137,P137_unidentified.pdf,Energy Harvesting www.advsustainsys.com,No abstract found,True,33505,medium,skip
+P139,P139_unidentified.pdf,INSIGHTS | PERSPECTIVES,No abstract found; No introduction found,True,6984,medium,skip
+P140,P140_unidentified.pdf,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,No introduction found,False,40724,medium,needs_manual_check
+P141,P141_unidentified.pdf,Active self-assembly of piezoelectric biomo-,No abstract found; No introduction found,True,51379,medium,needs_manual_check
+P142,P142_unidentified.pdf,"HYDROGELS byweight,blackcurve)producingafasterrise",No abstract found; No introduction found,True,32267,medium,skip
+P143,P143_unidentified.pdf,INSIGHTS | PERSPECTIVES,No abstract found; No introduction found,True,6984,medium,skip
+P145,P145_unidentified.pdf,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",No abstract found; No introduction found,True,23013,medium,skip
+P147,P147_unidentified.pdf,Ultra-soft organic combined lm with,No abstract found; No introduction found,True,49837,medium,skip
+P148,P148_unidentified.pdf,www.advmat.de,No abstract found,True,36148,low,skip
+P149,P149_unidentified.pdf,Dynamic β‑Amino Sulfonamides for the Synthesis of Covalent,No introduction found,False,32075,low,skip
+P153,P153_unidentified.pdf,Recent Advances in the Design of Ionenes: Toward,No abstract found; No introduction found,True,72304,medium,skip
+P157,P157_unidentified.pdf,Chemistry,No abstract found; Poor title extraction,True,36205,medium,skip
+P159,P159_unidentified.pdf,Mechano-responsive hydrogen-bonding array of,No abstract found; No introduction found,True,56000,medium,skip
+P162,P162_unidentified.pdf,Vol464|11March2010|doi:10.1038/nature08863,No abstract found; No introduction found,True,21661,low,skip
+P163,P163_unidentified.pdf,High enthalpy storage thermoset network with,No abstract found; No introduction found,True,35764,low,skip
+P164,P164_unidentified.pdf,A bioinspired and hierarchically structured,No abstract found; No introduction found,True,53652,low,skip
+P165,P165_unidentified.pdf,Chemical Engineering Journal 521 (2025) 166372,No abstract found,True,87287,medium,skip
+P167,P167_unidentified.pdf,www.advmat.de,No abstract found,True,50530,low,skip
+P168,P168_unidentified.pdf,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",No abstract found,True,36899,medium,skip
+P169,P169_unidentified.pdf,NanoEnergy111(2023)108365,No abstract found,True,114426,low,skip
+P170,P170_unidentified.pdf,NanoEnergy111(2023)108378,No abstract found,True,44259,low,skip
+P171,P171_unidentified.pdf,NanoEnergy110(2023)108385,No abstract found,True,65162,medium,skip
+P172,P172_unidentified.pdf,NanoEnergy111(2023)108389,No abstract found,True,39433,low,skip
+P173,P173_unidentified.pdf,NanoEnergy110(2023)108392,No abstract found,True,39889,medium,skip
+P175,P175_unidentified.pdf,www.advenergymat.de,No abstract found,True,75647,low,skip
+P178,P178_unidentified.pdf,M aterials Chemistry A,No abstract found,True,56715,low,skip
+P179,P179_unidentified.pdf,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",No abstract found,True,38161,medium,skip
+P181,P181_unidentified.pdf,Materials Today xxx (xxxx) xxx,No abstract found,True,125758,medium,skip
+P182,P182_unidentified.pdf,TransPolymer: a Transformer-based language model for,No abstract found,True,63495,medium,skip
+P184,P184_unidentified.pdf,Δ‑Learning of High-Fidelity Electronic,No introduction found,False,38320,high,skip
+P186,P186_unidentified.pdf,Periodicity-aware deep learning for polymers,No abstract found; No introduction found,True,76818,medium,skip
+P190,P190_unidentified.pdf,Materials,No abstract found; Poor title extraction,True,112053,low,skip
+P192,P192_unidentified.pdf,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,No abstract found,True,50029,low,skip
+P194,P194_unidentified.pdf,Progress in Polymer Science 120 (2021) 101430,No abstract found,True,88561,low,skip
+P195,P195_unidentified.pdf,NanoEnergy118(2023)108987,No abstract found,True,115373,medium,skip
+P196,P196_unidentified.pdf,www.advmat.de,No abstract found,True,89482,low,skip
+P198,P198_unidentified.pdf,Polymer Translocation Time,No introduction found,False,44291,low,skip
+P202,P202_unidentified.pdf,"Shear Banding in Entangled Polymers: Stress Plateau, Banding",No introduction found,False,34435,low,skip
+P203,P203_unidentified.pdf,"206 Chem.Rev.2008,108,206- 237",No abstract found,True,91966,low,skip
+P204,P204_unidentified.pdf,"23502 J. Phys. Chem. B 2006, 110, 23502-23506",No abstract found,True,27012,low,skip
+P207,P207_unidentified.pdf,All-polymer piezo-ionic-electric electronics,No abstract found; No introduction found,True,55950,medium,needs_manual_check
+P208,P208_unidentified.pdf,Viscoelastic Dynamics of Photothermal-Responsive Liquid,No abstract found,True,62995,low,skip
+P210,P210_unidentified.pdf,第3期 高 分 子 学 报 No．3,No abstract found; No introduction found,True,38819,medium,skip
+P211,P211_unidentified.pdf,www.advmat.de,No abstract found,True,37979,medium,skip
+P212,P212_unidentified.pdf,A New Approach to the Theory of,No abstract found; No introduction found,True,44312,low,skip
+P215,P215_unidentified.pdf,第 12 期 高 分 子 学 报 No. 12,No abstract found; No introduction found,True,29742,low,skip
+P217,P217_unidentified.pdf,"第 50 卷 第 12 期 高 分 子 学 报 Vol. 50, No. 12",No abstract found; No introduction found,True,20416,low,skip
+P218,P218_unidentified.pdf,第7期 高 分 子 学 报 No．7,No abstract found; No introduction found,True,19127,low,skip
+P221,P221_unidentified.pdf,高 等 学 校 化 学 学 报,No abstract found; No introduction found,True,19669,low,skip
+P222,P222_unidentified.pdf,第5期 高 分 子 学 报 No. 5,No abstract found; No introduction found,True,33178,medium,skip
+P223,P223_unidentified.pdf,第6期 高 分 子 学 报 No．6,No abstract found; No introduction found,True,20400,medium,skip
+P224,P224_unidentified.pdf,EDGE ARTICLE,No abstract found,True,38801,medium,skip
+P225,P225_unidentified.pdf,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,No introduction found,False,32782,medium,needs_manual_check
+P226,P226_unidentified.pdf,"MATERIALS SCIENCE (DRIPS)process(31,32).Theequilibriumcon-",No abstract found; No introduction found,True,33279,low,skip
+P228,P228_unidentified.pdf,"PHYSICAL REVIEW E 112,054404(2025)",No abstract found,True,45406,medium,skip
+P229,P229_unidentified.pdf,"PHYSICAL REVIEW E 113,014407(2026)",No abstract found,True,71878,medium,skip
+P230,P230_unidentified.pdf,"PHYSICAL REVIEW E 112,054405(2025)",No abstract found,True,62501,medium,skip
+P231,P231_unidentified.pdf,Progress in Polymer Science 167 (2025) 101994,No abstract found,True,101545,medium,skip
+P232,P232_unidentified.pdf,Materials Chemistry B,No abstract found,True,61951,high,skip
+P234,P234_unidentified.pdf,"Recent Advances in Dielectric Elastomer Actuators: Materials,",No introduction found,False,85403,medium,needs_manual_check
+P236,P236_unidentified.pdf,Dynamic Covalent Oleogel with Mechanical Force-Induced,No abstract found,True,55584,high,skip
+P237,P237_unidentified.pdf,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,No abstract found,True,33757,low,skip
+P238,P238_unidentified.pdf,COMMUNICATION,No abstract found,True,36846,low,skip
+P239,P239_unidentified.pdf,Unexpected strong paramagnetism of,No abstract found; No introduction found,True,65044,medium,skip
+P240,P240_unidentified.pdf,Programmable Liquid Crystal Elastomers Via Magnetic Field,No abstract found,True,48219,medium,needs_manual_check
+P242,P242_unidentified.pdf,Polyelectrolyte elastomer-based ionotronic,No abstract found; No introduction found,True,64650,low,needs_manual_check
+P243,P243_unidentified.pdf,基于 π-π 堆积作用的磁性(聚)离子液体的,No introduction found,False,25231,low,skip
+P244,P244_unidentified.pdf,Science AdvAnceS | ReSeAR ch AR ticle,No abstract found,True,58417,low,skip
+P245,P245_unidentified.pdf,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",No abstract found,True,35115,medium,skip
+P246,P246_unidentified.pdf,Enhanced Mechanical Properties of Polyurethane Ionogels,No abstract found,True,32109,medium,needs_manual_check
+P250,P250_unidentified.pdf,Polymer Network Diffusion in Charged Gels,No abstract found; No introduction found,True,37697,low,skip
+P251,P251_unidentified.pdf,Advanced Interfacial Design for Electronic Skins with,No abstract found,True,58894,low,skip
+P254,P254_unidentified.pdf,assembles into a lattice that contains numerous energetically near-,No abstract found; No introduction found,True,35068,medium,skip
+P259,P259_unidentified.pdf,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,No abstract found; No introduction found,True,39519,low,skip
+P261,P261_unidentified.pdf,"PHYSICAL REVIEW E 113,015416(2026)",No abstract found,True,48509,medium,skip
+P263,P263_unidentified.pdf,MaterialsTodayxxx(xxxx)xxx,No abstract found; No introduction found,True,33434,low,skip
+P264,P264_unidentified.pdf,"PHYSICAL REVIEW E 113,045412(2026)",No abstract found,True,62846,low,skip
+P265,P265_unidentified.pdf,Piezoionic elastomers by phase and interface engineering for high-performance en,No abstract found; No introduction found,True,23784,low,needs_manual_check
+P268,P268_unidentified.pdf,Self-compliant ionic skin by leveraging,No abstract found; No introduction found,True,63164,high,skip
+P270,P270_unidentified.pdf,Sustainable electronic textiles towards,No abstract found; No introduction found,True,57805,medium,skip
+P271,P271_unidentified.pdf,Progress in Polymer Science 103 (2020) 101220,No abstract found,True,77090,medium,skip
+P272,P272_unidentified.pdf,week ending,No abstract found; No introduction found,True,23309,low,skip
+P274,P274_unidentified.pdf,"Chem. Rev. 1988, 88, 109-124 109",No abstract found,True,97301,low,skip
+P279,P279_unidentified.pdf,www.advmat.de,No abstract found,True,48483,low,skip
+P280,P280_unidentified.pdf,Polymer235(2021)124306,No abstract found,True,38086,low,skip
+P282,P282_unidentified.pdf,Progress in Polymer Science 140 (2023) 101676,No abstract found,True,103628,medium,skip
+P290,P290_unidentified.pdf,Progress in Polymer Science 140 (2023) 101676,No abstract found,True,103628,medium,skip
+P291,P291_unidentified.pdf,"PHYSICAL REVIEW LETTERS 136, 018101 (2026)",No abstract found,True,35613,medium,skip
+P292,P292_unidentified.pdf,Tacticity-independent crystallization,No abstract found; No introduction found,True,89783,medium,skip
+P293,P293_unidentified.pdf,Tacticity-independent crystallization,No abstract found; No introduction found,True,89783,medium,skip
+P297,P297_unidentified.pdf,Science AdvAnceS | ReSeAR ch AR ticle,No abstract found,True,69822,high,skip
+P302,P302_unidentified.pdf,MaterialsTodaydVolume32dJanuary/February2020 RESEARCH,No abstract found,True,75243,low,skip
+P304,P304_unidentified.pdf,Enabling nonconjugated polyesters emit,No abstract found; No introduction found,True,37629,low,skip
+P307,P307_unidentified.pdf,Molecular Modelling,No abstract found; No introduction found,True,8334,low,skip
+P308,P308_unidentified.pdf,《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,8381,low,skip
+P309,P309_unidentified.pdf,第三章 势能面、构型优化,No abstract found; No introduction found,True,5055,low,skip
+P310,P310_unidentified.pdf,《量子化学与分子力学/分子模拟》第四章第四章量子力学模型 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,5902,low,skip
+P311,P311_unidentified.pdf,《量子化学与分子力学/分子模拟》第六章 经验力场模型-分子力学 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,5340,low,skip
+P312,P312_unidentified.pdf,《量子化学与分子力学/分子模拟》第五章 量子力学计算 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,12044,low,skip
+P313,P313_unidentified.pdf,Monte Carlo,No abstract found; No introduction found,True,4877,low,skip
+P314,P314_unidentified.pdf,《量子化学与分子力学/分子模拟》第八章分子模拟在药物设计中的应用简介 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,6787,low,skip
+P315,P315_unidentified.pdf,《量子化学与分子力学/分子模拟》第九章分子3D绘图 http://struchem.nankai.edu.cn,No abstract found; No introduction found,True,4286,low,skip
+P317,P317_unidentified.pdf,1. 名词解释：(20分)解释基本含义即可，可参考Computational Chemistry),No abstract found; No introduction found,True,5367,low,skip
+P318,P318_unidentified.pdf,本教程的目的是为读者提供计算机集群组建及其在计算化学中的应用的入,No abstract found; No introduction found,True,19892,low,skip
+P326,P326_unidentified.pdf,高 等 学 校 化 学 学 报,No abstract found; No introduction found,True,19669,low,skip
+P329,P329_unidentified.pdf,Dynamic Article Links <,No abstract found,True,41506,low,skip
+P331,P331_unidentified.pdf,A New Autocatalytic Thioacetate-Enal Addition Reaction:,No introduction found,False,23509,low,skip
+P335,P335_unidentified.pdf,第３８卷 第４期 陕西科技大学学报 Ｖｏｌ．３８Ｎｏ．４,No abstract found; No introduction found,True,10985,low,skip
+P336,P336_unidentified.pdf,Chemical Engineering Journal 530 (2026) 173421,No abstract found,True,69373,high,skip
+P338,P338_unidentified.pdf,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",Poor title extraction,False,51574,medium,skip
+P342,P342_unidentified.pdf,POLYMERS degreeofpolymerizationoftheprimarychains,No abstract found; No introduction found,True,26132,low,skip
+P343,P343_unidentified.pdf,"PHYSICAL REVIEW E 112,045431(2025)",No abstract found,True,40714,medium,skip
+P346,P346_unidentified.pdf,Viscoelastic Dynamics of Photothermal-Responsive Liquid,No abstract found,True,62995,low,skip
+P351,P351_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 268101 (2025)",No abstract found; No introduction found,True,25922,medium,skip
+P355,P355_unidentified.pdf,www.advmat.de,No abstract found,True,37979,medium,skip
+P357,P357_unidentified.pdf,Interfacial Failure in Graft Block Copolymer-Reinforced Polymer,No introduction found,False,30489,medium,skip
+P358,P358_unidentified.pdf,This article is licensed under CC-BY 4.0,No abstract found; No introduction found,True,8739,low,skip
+P362,P362_unidentified.pdf,A New Approach to the Theory of,No abstract found; No introduction found,True,44312,low,skip
+P365,P365_unidentified.pdf,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,No abstract found,True,67862,medium,skip
+P371,P371_unidentified.pdf,Piezoionic elastomers by phase and interface engineering for high-performance en,No abstract found; No introduction found,True,23784,low,needs_manual_check
+P372,P372_unidentified.pdf,"Polymer Vol.38No.18,pp.4571-4575,1997",No abstract found; No introduction found,True,22224,medium,skip
+P373,P373_unidentified.pdf,www.advmat.de,No abstract found,True,58378,medium,skip
+P374,P374_unidentified.pdf,"CiteThis:Macromolecules2018,51,8306−8315 pubs.acs.org/Macromolecules",Poor title extraction,False,42741,medium,skip
+P378,P378_unidentified.pdf,HYDROGELS alkyl-watercontactsandmaximizefavorable,No abstract found; No introduction found,True,26463,medium,skip
+P379,P379_unidentified.pdf,A Close Look at the Local Structure of Functional Polymers:,No abstract found,True,30012,medium,skip
+P382,P382_unidentified.pdf,Flaw-Tolerant Fracture Enabled by Liquid-like,No introduction found,False,35004,low,skip
+P384,P384_unidentified.pdf,CORRECTED 28 MARCH 2019; SEE FULL TEXT,No abstract found,True,46826,medium,skip
+P385,P385_unidentified.pdf,www.advmat.de,No abstract found,True,58378,medium,skip
+P388,P388_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 158101 (2025)",No abstract found; No introduction found,True,34576,low,skip
+P390,P390_unidentified.pdf,Fatigue failure in glasses under cyclic shear,No abstract found; No introduction found,True,56435,medium,skip
+P393,P393_unidentified.pdf,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",No abstract found; No introduction found,True,29227,medium,skip
+P394,P394_unidentified.pdf,"PHYSICAL REVIEW E 113,015405(2026)",No abstract found,True,30387,low,skip
+P398,P398_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 218101 (2025)",No abstract found,True,41202,medium,skip
+P402,P402_unidentified.pdf,Temperature Dependence of Polymer Network Diffusion,No abstract found; No introduction found,True,25051,low,skip
+P404,P404_unidentified.pdf,"PHYSICAL REVIEW E 113,015404(2026)",No abstract found,True,71149,low,skip
+P405,P405_unidentified.pdf,in colloidal suspensions,No abstract found; No introduction found,True,55961,low,skip
+P406,P406_unidentified.pdf,"PHYSICAL REVIEW E 99,012107(2019)",No abstract found,True,56540,medium,skip
+P408,P408_unidentified.pdf,"PHYSICAL REVIEW X 12, 021001 (2022)",No abstract found,True,55462,medium,skip
+P409,P409_unidentified.pdf,PUBLISHEDONLINE:18JANUARY2016|DOI:10.1038/NMAT4538,No abstract found; No introduction found,True,52796,low,skip
+P410,P410_unidentified.pdf,Pathway complexity in supramolecular,No abstract found; No introduction found,True,29859,medium,skip
+P411,P411_unidentified.pdf,"PHYSICAL REVIEW LETTERS 120, 085705 (2018)",No abstract found; No introduction found,True,31159,medium,skip
+P412,P412_unidentified.pdf,Selected for a Viewpoint in Physics,No abstract found; No introduction found,True,25093,low,skip
+P413,P413_unidentified.pdf,PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663,No abstract found; No introduction found,True,48376,low,skip
+P414,P414_unidentified.pdf,Dynamic pathways in energy landscapes,No abstract found; No introduction found,True,53367,low,skip
+P418,P418_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 238101 (2025)",No abstract found,True,27302,medium,skip
+P419,P419_unidentified.pdf,Reduction of Kuhn Length upon Chain Extension,No introduction found,False,40609,low,skip
+P420,P420_unidentified.pdf,ScieNce Adv ANceS | ReSeAR ch AR ticle,No abstract found,True,47892,low,skip
+P421,P421_unidentified.pdf,ScieNce Adv ANceS | ReSeAR ch AR ticle,No abstract found,True,47892,low,skip
+P422,P422_unidentified.pdf,"PHYSICAL REVIEW E 112,065405(2025)",No abstract found,True,29851,medium,skip
+P423,P423_unidentified.pdf,Theory of inhomogeneous polymers:,No abstract found,True,30610,low,skip
+P429,P429_unidentified.pdf,Viscoelastic Dynamics of Photothermal-Responsive Liquid,No abstract found,True,62995,low,skip
+P431,P431_unidentified.pdf,Ultra Strong and Tough Bio-Based Polyurethane Elastomers,No abstract found,True,42338,low,needs_manual_check
+P435,P435_unidentified.pdf,Supramolecular chemical recycling of,No abstract found; No introduction found,True,58630,medium,skip
+P437,P437_unidentified.pdf,Ligament Inspired Ultra-Strong and Tough Bio-Based,No abstract found,True,52462,medium,skip
+P440,P440_unidentified.pdf,Weaving-inspired asymmetric,No abstract found; No introduction found,True,56381,medium,skip
+P441,P441_unidentified.pdf,Materials,Poor title extraction,False,50369,low,skip
+P445,P445_unidentified.pdf,Flaw-Tolerant Fracture Enabled by Liquid-like,No introduction found,False,35004,low,skip
+P446,P446_unidentified.pdf,Chem Soc Rev,No abstract found,True,97258,low,skip
+P447,P447_unidentified.pdf,"CiteThis:Macromolecules2018,51,6369−6379 pubs.acs.org/Macromolecules",Poor title extraction,False,45930,medium,skip
+P450,P450_unidentified.pdf,COMMUNICATION,No abstract found,True,50131,low,skip
+P452,P452_unidentified.pdf,"A stretchable, mechanically robust polymer",No abstract found; No introduction found,True,44329,low,skip
+P454,P454_unidentified.pdf,Chemical Society Reviews,No abstract found,True,99486,medium,skip

@@ -1,0 +1,1092 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,claim_type,evidence_text,figure_table_source,page_est,keyword,confidence,relevance,ml_feature_candidate
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,conclusion,finding,"1.0 mL min−1. Calibration curves were obtained using monodisperse
+poly(methylmethacrylate)standards.Thermogravimetricanalysis(TGA)
+Theobservationofsignificanthysteresisloopsduringlong-range
+wascarriedoutusingaTAinstruments’TGAQ500,heatingthesamples
+deformation of the elastomers implies extensive consumption atarateof20°Cmin−1from50to700°Ctoevaluatetheirthermalsta-
+ofconformationalenergy.However,themaintainedhigh𝜂
+recovery bility.DSC(DSC214,NETZSCH,Germany)wascarriedouttoinvestigate
+suggestsanene",conclusion section,end,conclusion,medium,high_relevance_pu,TRUE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,"consideringitswideapplicationrange.Therefore,anegative𝚫Heffectis points (including hydrogen bonds, crys- tallinity, rigid motifs, and ionic clusters)",line 16,1,hydrogen bond,medium,high_relevance_pu,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,polyurethane(TPU)viastrain-inducedcrystallizationfacechal- NationalUniversityofSingapore,line 59,2,crystalliz,medium,high_relevance_pu,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,"9EngineeringDrive1,Singapore117575,Singapore lenges, because the endothermic (ΔH > 0) melting of crystals E-mail:msehc@nus.edu.sg duringrecoveryisnotconducivetoGibbsfreeenergy(ΔG=ΔH",line 61,2,melting,medium,standard,TRUE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,www.advancedsciencenews.com www.advmat.de Figure1. a)Schematicofcrystallization-inducedphaseseparationincreasinginterfacearea.b)OncetheGibbsfreeenergyofLCSTblendsissubjectedto,line 73,2,dsc,medium,standard,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,"Figure1. a)Schematicofcrystallization-inducedphaseseparationincreasinginterfacearea.b)OncetheGibbsfreeenergyofLCSTblendsissubjectedto stress.c)Chemicalstructureoftwosoftsegments,diisocyanate,andchainextender.d)DSCheatingprofilesande)Tan𝛿curvesofTCA .f)Schematic",line 74,2,crystalliz,medium,standard,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,excerpt,general,"stress.c)Chemicalstructureoftwosoftsegments,diisocyanate,andchainextender.d)DSCheatingprofilesande)Tan𝛿curvesofTCA .f)Schematic x y 1",line 75,2,dsc,medium,standard,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,figure_caption,measurement,"a)Schematicofcrystallization-inducedphaseseparationincreasinginterfacearea.b)OncetheGibbsfreeenergyofLCSTblendsissubjectedto
+stress.c)Chemicalstructureoftwosoftsegments,diisocyanate,andchainextender.d)DSCheatingprofilesande)Tan𝛿curvesofTCA .f)Schematic
+x y 1
+ofmicro-morphologyofT C A .
+1 1 1
+Thermod",Figure 1,,Figure 1,medium,standard,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,figure_caption,measurement,"a)Typicalengineeringstress–straincurvesofT C A ,T C A ,andT C A .b)Cyclicstress–straincurvesofT C A ,T C A ,andT C A .
+2 0 1 1 1 1 0 2 1 2 0 1 1 1 1 0 2 1
+c) Comparison of 𝜂 among T C A and other high-performance synthetic thermoplastic elastomers and biomaterials reported in recent
+recovery 1 1 1
+l",Figure 2,,Figure 2,medium,high_relevance_pu,FALSE
+P003,www.advmat.de,P003_unidentified.pdf,2023,medium,partial,figure_caption,measurement,"a–d)1DSAXSintegralcurvesofT C A alongthemeridiandirectionunderdifferentstrains.e–h)1DWAXSintegralcurvesofT C A along
+1 1 1 1 1 1
+theequatorialdirectionunderdifferentstrains.i)SchematicofmorphologicalevolutionofT C A duringstretchingandrecoveryprocesses.
+1 1 1
+However, PTMEG and PCL segments do not i",Figure 4,,Figure 4,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,abstract,finding,"Conventional melt polycondensation methods, while principally suited
+for producing non-isocyanate polyurethanes (NIPUs), are limited by transurethaniza-
+tion kinetics and rely on high-temperature protocols that ultimately compromise the
+performance of NIPUs. To boost their competitiveness as sustainable alternatives to
+isocyanate-based polyurethanes, we addressed this barrier by implementing a
+promising yet previously unexplored route�solid-state polycondensation (SSP)�
+for synthesizing semi-cry",abstract section,1,abstract,high,high_relevance_pu,TRUE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,conclusion,finding,"Maria Balk − Institute of Functional Materials for
+Our study revealed that SSP transurethanization surpasses Sustainability, Helmholtz-Zentrum Hereon, 14513 Teltow,
+typical melt polycondensation protocols by enabling the Germany
+synthesis of NIPCUs with superior characteristics and under Tomasz Gołofit − Warsaw University of Technology, Faculty
+milder conditions. This approach required only a short of Chemistry, 00-664 Warsaw, Poland
+reaction in the melt to integrate the hard and soft segment Ro",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,general,"a brief melt prepolymerization, followed by crystallization and polymerization in the solidstate,wherevolatilecondensationco-productswereefficientlyremovedbyaflow",line 19,1,crystalliz,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,general,"is conducted without agitation, and the removal of the low- thedesiredreactionmechanismisdrivenbythecrystallization molar-mass co-product, diffusing out of the solid micro- behavior of the polymer, which can be tailored by its",line 93,3,crystalliz,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,general,"fastercrystallizationandenhanceddiffusionoflow-molar-mass unlocking their application potential. co-products, accelerating the SSP process.21 Reaction temper- ■",line 102,3,crystalliz,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,general,"approximately 10−40 °Cbelow the melting point(T )of the from Merck (Poland). Oligo(hexamethylene carbonate) diol (OCD, crystalline phase to balance effective chain mobili m ty15 and trade name Eternacoll UH200, M̅ n of 2000 g·mol−1) and p-",line 110,3,melting,medium,standard,TRUE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,measurement,"AdequateX maybeachievedbycrystallizationfromthemelt15 spectra were measured in the range of 4,000−400 cm−1 at 32 scans c and aresolution of 4cm−1.",line 122,4,crystalliz,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,excerpt,general,or thermal annealing near the crystallization temperature 1H and 13C NMR spectra were recorded on a 400 MHz Varian,line 124,4,crystalliz,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Monitored SSP process: (a) Applied T SSP and changes in
+m
+hexamethylenecarbamate)diol(BC_HD,M̅ =8,200g·mol−1, thermal transitions (DSC) of NIPCU products; (b) Collected
+n amountsof distilled low-molar-massco-products (T indicated).
+T =50and181°C)asbuildingblocksforhardsegmentsand SSP
+m
+oligo(hexamet",Figure 1,,Figure 1,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Evolution of molar mass of NIPCU_S1_500 during SSP
+comparedtoNIPCU_M1obtainedbymeltpolycondensation(SEC;
+dashedlineindicates the presenceof aminorinsoluble fraction). respectively, correlated with the thermal behavior of their
+carbamate precursors (Table S4).
+Similarly, PRE_NIPCU_2 materials exhibit",Figure 2,,Figure 2,medium,standard,FALSE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,figure_caption,measurement,"ChangesinthermaltransitionsofPRE_NIPCUsandtheir
+TableS4).TheDSCcurves(Figures4andS47−S52)showed
+corresponding NIPCU_S during the SSP process and after melt
+a broad melting transition with two maxima within 100−140
+reprocessing(DSC):(a) NIPCU_S1_500; (b)NIPCU_S2_100.
+and 130−160 °C for the BC-based a",Figure 4,,Figure 4,medium,standard,TRUE
+P052,Low-Temperature Solid-State Polycondensation Synthesis of Non-,P052_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Changes in crystalline structure and X of PRE_NIPCUs
+c
+their PRE_NIPCU starters.
+andtheircorrespondingNIPCU_SduringtheSSPprocess(WAXS):
+(a) NIPCU_S1_500;(b)NIPCU_S2_100. Melt Polycondensation Synthesis (NIPCU_M). To
+compare the SSP approach with standard melt polycondensa-
+tion, NIPCU_M1 and NIPCU_M",Figure 6,,Figure 6,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,conclusion,finding,"hisguidanceincomputationalchemistry;S.Liu,B.Qin,W.Lai,
+W.Xu,andX.ZhangfromTsinghuaUniversityfortheir
+onstrates the effective healing capabilities of Weachievedahyperelastichydrogelwithan assistancewithDSCtests;X.HeandL.TaofromTsinghua
+AETC-25hydrogels (Fig.4Aandmovie S8). ultralargereversiblebiaxialstrainbyincor- Universityfortheirsupportwithdynamicrheometer
+measurements;theTsinghuaXuetangTalentsProgramfor
+Moreover, when we used a sharp knife to poratingreversiblePNCsintothepolymernet-
+providing",conclusion section,end,conclusion,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,general,"beadscanefficientlyunfoldandrefoldundercyclicmechanicalstrains;thus,thehydrogelcanrapidly micasheetaftertheevaporationofwater.As recoverafterbeingstretchedtoanarealstrainofmorethan10,000%.Additionally,thehydrogelcan depictedinFig.1C,thepolycationsexistedin",line 16,1,dsc,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,general,"canbedescribedasl ~N1/2(supplementary When the applied force is released, these gels(fig.S5).Two-dimensionalsmall-anglex-ray max",line 31,1,small-angle,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,general,"text),whichrepresentstheratioofthemean extended chains promptly refold back into scattering(2DSAXS)furtherconfirmedthe squareend-to-enddistanceofafullyextended theinitialPNCstructure,whichresultsin PNCstructure;theresultsshowedacircular",line 33,1,saxs,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,measurement,"ited value of N (number of chain segments Hydrogelswithpearl-necklacestructures integrated1DSAXSprofilefrom3to5.5nm−1 amongcross-links)withinaswellinghydrogel Themaximumdeformationofasinglechainis (Fig.1F)exhibitedawidepeak,corresponding",line 37,1,saxs,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,general,"transversedirections,resultinginal of PNCsarechainconformationsthatarecom- externalstrains(20).ThroughinsituSAXS, max",line 47,2,saxs,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,excerpt,general,"1100%. However, l still follows an ex- posedofsmall,chargedbeadsconnectedby wewitnessedthehighlyreversibleunfolding max",line 49,2,dsc,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,figure_caption,measurement,"Hydrogelswithpearl-necklacestructures.(A)ModelsofPNC, increasinginmagnificationfromlefttoright.Thedashedcircleindicates
+CC,andFJCstructures.Here,aisthediameterofoneglobule,andNis themagnifiedregion.(D)Cryo-TEMimagesoftheAETC-25hydrogels.
+thenumberofglobulesineachchainmodel.(B)Hydrogelnetworks (E)2DS",Figure 1,,Figure 1,medium,standard,FALSE
+P064,HYDROGELS alkyl-watercontactsandmaximizefavorable,P064_unidentified.pdf,2024,medium,partial,figure_caption,measurement,"Highlyreversiblepearl-necklacestructurecharacterizedbyinsitu theappliedstrainof1500%wasreleased,whichconfirmsthehighreversibility
+SAXS.Newcircularscatteringringsin2DSAXSimagesandnewpeaksin ofthePNCstructureoveralargeelasticrange.Thewhitedoublearrows
+1DSAXSprofilesappearedwithanincreaseintheappliedst",Figure 2,,Figure 2,medium,standard,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,crystals when stretched through a transition that orders inter-chain hydrogen bonding. The phase and strain fully return to the pre-stressed state after release to repeat the healing,line 20,1,hydrogen bond,medium,high_relevance_pu,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,"H-bonds that increase the elastic modulus. Under strain, the bonding array, with reversible strain-induced crystallization amorphous phase is transformed into a rigid metastable crystal providing a major contribution. In the stress–strain curve for C-",line 89,3,crystalliz,medium,high_relevance_pu,TRUE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,"SSwassynthesizedfrompoly(hexamethylenecarbonate)diol(C, mentary Movie 4); strain-induced crystallization upon loading is a carbonate-type aliphatic macrodiol) as the soft segment, superficially incompatible with full recovery upon unloading; it",line 101,3,crystalliz,medium,high_relevance_pu,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,"asymmetric alicyclic isophorone diisocyanate (IP) as the hard cannot be explained either by the solid crystallization of semi- segment, and an aromatic disulfide (SS) as the chain extender crystalline polymers or entropic elastomer elasticity because the",line 103,3,crystalliz,medium,high_relevance_pu,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,The unusual strain-induced crystallization of C-IP-SS is strongly correlated with the reversible disorder-to-order switch-,line 130,4,crystalliz,medium,high_relevance_pu,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,excerpt,general,"scanning calorimetry (DSC), C-IP-SS is poorly microphase separated, with non-crystalline hard segments in the static state",line 136,4,dsc,medium,high_relevance_pu,FALSE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,performance_data,measurement,Carbonyl shift: 1718,text extraction,,performance,medium,standard,TRUE
+P159,Mechano-responsive hydrogen-bonding array of,P159_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"strongascommercialEs-MD.Ontheotherhand,E-IP-SSshows
+X-ray tools can be used to trace the structural changes that a strain-independent amorphous halo 2D WAXS pattern, and
+occur as TPUs transition from static to dynamic mode during 400% elongation of Es-MD provides a clearer spot in the
+stretching (Fi",Figure 15,,Figure 15,medium,standard,TRUE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,abstract,interpretation,"Semicrystalline polymers aligned by drawing into shapes for the reflections. The model parameters are chosen
+films or fibers produce small-angle X-ray scattering patterns by fitting the entire 2D intensity distribution of the scattering
+withtwoorfourspots.Someliquidcrystallinematerials,cybo- pattern. Assumptions required for modeling make some fitted
+tactic nematics, produce extremely similar patterns when ori- parameters uncertain, but it is clearthat the ellipticalform can
+ented in magnetic fi",abstract section,1,abstract,high,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,conclusion,method,"The primary purpose of this paper is to show that a model FIGURE 10 Example N SAXS fitting. Upper half, data; Bot-
+cyb
+of misoriented and rotated lamellar stacks with reasonable tomhalf,fittedmodelresult.
+316 JOURNALOFPOLYMERSCIENCE,PARTB:POLYMERPHYSICS2016,54,308–318
+10990488,
+2016,
+2,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1002/polb.23930
+by
+Chongqing
+University,
+Wiley
+Online
+Library
+on
+[03/03/2026].
+See
+the
+Terms
+and
+Conditions
+(https://onlinelibrary.wiley.com/terms-and-condit",conclusion section,end,conclusion,high,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,general,Elliptical Small-Angle X-Ray Scattering Patterns from Aligned Lamellar Arrays,line 3,1,small-angle,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,general,"films or fibers produce small-angle X-ray scattering patterns by fitting the entire 2D intensity distribution of the scattering withtwoorfourspots.Someliquidcrystallinematerials,cybo- pattern. Assumptions required for modeling make some fitted",line 14,1,small-angle,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,interpretation,"been suggested, but models using an equilibrium distribution KEYWORDS: Cybotactic Nematic; Lamellar; Oriented Polymers; ofmolecularorientationsandlamellartiltscanpredictelliptical X-RayScattering",line 22,1,lamellar,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,finding,ofmolecularorientationsandlamellartiltscanpredictelliptical X-RayScattering INTRODUCTIONTwo or four spot small angle X-ray patterns observed SAXS angle /.8–11 This procedure can be very,line 23,1,lamellar,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,finding,INTRODUCTIONTwo or four spot small angle X-ray patterns observed SAXS angle /.8–11 This procedure can be very from semicrystalline polymer films and fibers have been informative when a sequence of patterns obtained during,line 24,1,saxs,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,excerpt,method,"lamellar surfaces so that m5n, the lamellar normal. In this When there is detailed interpretation, several methods have case, the lamellar repeat will give rise to a pair of reflections beenused.12Theseinclude:",line 30,1,lamellar,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,performance_data,measurement,FWHM: 0.28,text extraction,,performance,medium,standard,TRUE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,figure_caption,measurement,"At each other instruction, fitting programs assume that each data
+value of n, the rotation angle around this circle of radius sin point has the same weight, which is correct if each has the
+b, the number of diffracting units is given by G(h). The inten- same uncertainty. Here the major source of noi",Figure 7,,Figure 7,medium,standard,FALSE
+P191,Elliptical Small-Angle X-Ray Scattering Patterns from,P191_unidentified.pdf,2015,low,good,figure_caption,measurement,"Where there is significant similar to patterns previously interpreted as a double
+intensity, at |s X |< 100 pixels, the data and model both fit the ellipse.50 For this purpose, it is not necessary that the
+ellipse verywell. assumptions are exactly correct or that the model parame-
+ters exactly corre",Figure 9,,Figure 9,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,general,"beforecrosslinking,whilepreventingmesogenrecrystallization.Toaddress genalignmentandamoderateexpansionin theperpendiculardirection.[6]",line 19,1,crystalliz,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,general,"www.advancedsciencenews.com www.afm-journal.de alignmenthasbeenwidelyusedinthefabricationofLCEs,re- magneticfieldthroughthethio-MichaelpolyadditionofRM257",line 77,2,dsc,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,general,"turebeforecrosslinking,ensuringnorecrystallizationofmeso- polyadditionfollowedbythephoto-crosslinkingofLCOs.Asil- gensbelowtheirmeltingpoint.[24]Asanalternative,liquidcrystal lustratedinFigure1,anLCmixturecomposedofamesogenand",line 97,3,crystalliz,medium,standard,TRUE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,general,"gensbelowtheirmeltingpoint.[24]Asanalternative,liquidcrystal lustratedinFigure1,anLCmixturecomposedofamesogenand oligomers (LCOs) can be aligned using a magnetic field. How- adithiolchainextenderisinitiallymadeisotropicbyheatingat",line 98,3,melting,medium,standard,TRUE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,general,mesogensispreserveduntilphoto-crosslinking.Theprocessis spectroscopyandDSC.1HNMRspectraofLCOsatdifferentre- straightforwardandcanbeeasilytailoredforusewithcommer- action times are given in Figure S1 (Supporting Information).,line 130,4,dsc,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,excerpt,measurement,"tions,highselectivity,precisecontrolovernetworkarchitecture, latedwiththeT measuredbyDSC.DSCcurvesofLCOsat NI,LCO",line 137,4,dsc,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Conceptualschemedescribingthedifferentstepsinvolvedinobtainingm-LCE,h-LCE,andp-LCE.Breferstothemagneticfieldvector,whose
+orientationisrepresentedbygreydottedarrows.TheblackdottedarrowsrefertothedirectionofLCdirectors.
+AsshowninFigure2c,asthereactionprogressesandtheDP of arethosethattransitionfromthe",Figure 1,,Figure 1,medium,standard,FALSE
+P240,Programmable Liquid Crystal Elastomers Via Magnetic Field,P240_unidentified.pdf,2025,low,partial,figure_caption,measurement,"a)2DWAXSimageofm-LCE.b)2DWAXSimageofh-LCE.c)Stress–straincurvesofm-LCE,h-LCE,andp-LCE.d)Thermo-responsivereversible
+deformationbehaviorofm-LCE.e)Thermo-responsivereversibledeformationbehaviorofh-LCE.f)Contractionandexpansioninthehorizontalplane
+form-LCE,h-LCE,andp-LCEasafunctionoftemperature.g)Thick",Figure 3,,Figure 3,medium,standard,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,abstract,general,"Microcompartmentsproducedviatheliquid−liquid
+phase separation of polymer solutions are promising as transient
+microenvironments that can be generated on demand with
+minimal energy consumption. Lyotropic microphase separation
+in aqueous solutions of a double hydrophilic diblock copolymer
+composed of two distinct polysulfobetaine chains, poly(2-(N-2-
+methacryloyloxyethyl-N,N-dimethyl)ammonioethanesulfonate
+(PSB2) and poly(4-(N-2-methacryloyloxyethyl-N,N-dimethyl)-
+ammoniobutanesulfonate (PSB4), wi",abstract section,1,abstract,high,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,conclusion,general,"results.
+Double sulfobetaine diblock copolymers, PSB2 n -b-PSB4 m s, Notes
+with a narrow molecular weight distribution, were successfully The authors declare no competing financial interest.
+synthesized through RAFT polymerization, followed by ■
+fractional precipitation. Lyotropic microphase separation of ACKNOWLEDGMENTS
+theiraqueoussolutionswasinvestigatedasafunctionofφand
+This work was supported by JSPS KAKENHI Grant Nos.
+f . The most important finding is that aqueous solutions of
+PSB4 JP22H02",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,Lyotropic Microphase Separation in Aqueous Solutions of Double Sulfobetaine Diblock Copolymers Induced by Charge Separation,line 2,1,microphase,medium,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,minimal energy consumption. Lyotropic microphase separation in aqueous solutions of a double hydrophilic diblock copolymer,line 12,1,microphase,medium,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,"between PSB2 and PSB4. These unique mesoscale aqueous molecular assemblies, produced by microphase separation of double- hydrophilicblockcopolymerswithhighchemicalsymmetry,arepromisingasnovelaqueouscompartmentsformolecularreservoirs.",line 29,1,microphase,medium,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,oneofthefewcasesinwhichthemicrophaseseparationofits MWCO:12−14 kDa)was usedfordialysis. concentrated aqueous solutions has been thoroughly inves- 2.2.Measurements.Detailedexperimentalconditionsforproton,line 105,3,microphase,medium,standard,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,tration on the phase behavior has been systematically studied. Supporting Information. Small-angle X-ray scattering (SAXS) was We reported mesoscopic aqueous compartments produced conductedatBL11andBL06inSAGA-LS.ThewavelengthoftheX-,line 109,3,saxs,medium,standard,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,excerpt,general,"through microphase separation of double zwitterionic diblock ray beam was set at 0.155 nm. A PILATUS 300 K photon counting copolymer aqueous solutions.19,20 Highly concentrated aque- pixelarraydetector(DECTRISLtd.,487×619pixelswith172×172",line 111,3,microphase,medium,high_relevance_pu,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,figure_caption,measurement,"GPC profiles of the (a) PSB2 104 macro-CTA and (b)
+thebinary blendtestof PCB2/PSB4. PSB2 104 -b-PSB4 164 after fractional precipitation.
+3. RESULTS AND DISCUSSION
+3.1.SynthesisofPSB2 -b-PSB4 BlockCopolymers.
+104 m
+The double sulfobetaine diblock copolymers were synthesized
+via sequential RAFT polyme",Figure 1,,Figure 1,medium,standard,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,figure_caption,measurement,"SAXSprofilesforthePSB2 -b-PSB4 aqueoussolutions as φ decreased from 0.45 to 0.35, due to an inversion in the
+104 164
+withapolymervolumeconcentration(φ)of(A)0.66,(B)0.55,(C) density of the solutions (Figure 5C,D). The volume fractions
+0.45,(D)0.35,(E) 0.26,(F) 0.17,and (G)0.08 at25°C. of the PSB4-ric",Figure 4,,Figure 4,medium,standard,FALSE
+P252,Lyotropic Microphase Separation in Aqueous Solutions of Double,P252_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Phase diagram of PSB2-b-PSB4 aqueous solutions with polymer concentration (φ) versus volume fraction of PSB4 in the block
+n m
+copolymers (f ) at 25 °C. The symbols represent the morphologies; black open circles: miscible and/or disorder (DIS), red filled squares:
+PSB4
+columnarmorphologywithPSB2cylin",Figure 6,,Figure 6,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,abstract,finding,"Combining X-ray scattering, Fourier transform
+infrared spectroscopy (FT-IR), broadband dielectric spectroscopy
+(BDS), rheology, and differential scanning calorimetry (DSC), we
+investigatetheionsolvationstructures,thepolymerdynamics,glass
+transition, and ionic conductivity of poly(butylene oxide) (PBO,
+static dielectric constant PBO 4)/Lithium bis-
+s
+(trifluoromethanesulfonyl)imide (LiTFSI), poly(propylene oxide)
+(PPO, PPO 7)/LiTFSI, and poly(epichlorohydrin) (PECH, s
+PECH 15)/LiTFSI. While their",abstract section,1,abstract,high,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,conclusion,finding,"of a different ion solvation structure for PECH/ in Figure 4d−f. Table 1 summarizes the onset (T ,
+g−Onset
+LiTFSI compared to PPO/LiTFSI and PBO/LiTFSI.
+defined as the onset temperature of the
+dCrev/dT
+peak) and
+p
+o F f ur P t E h C er H m / o L re iT , t F h S e I l i a m ck pli o e f s r a ed sm s a h l i l ft i s nfl in ue t n h c e e C o − fL O i+ − i C on s s tr o e l t v c a h ti i o n n g the end (T g−End , defined as the end of thedC p rev/dT peak) of
+on the local chain backbone conforma",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,general,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition, and Ionic Conductivity of Polyether Electrolytes",line 3,1,glass transition,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,general,"(BDS), rheology, and differential scanning calorimetry (DSC), we investigatetheionsolvationstructures,thepolymerdynamics,glass",line 12,1,dsc,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,general,"in glass transition and viscoelastic properties. In particular, BDS and rheology show clear slowing down of the structural relaxation time, τ , along with a large elevation in glass transition",line 22,1,glass transition,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,general,"and rheology show clear slowing down of the structural relaxation time, τ , along with a large elevation in glass transition α",line 23,1,glass transition,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,finding,"temperature,T,withsaltconcentration.DSCresults,meanwhile,demonstrateastrongbroadeningoftheT steporsignsofphase g g",line 25,1,dsc,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,excerpt,general,"structure in the local chain packing, which in turn, influences the polymer dynamics, glass transition, and ionic conductivity. 1. INTRODUCTION along with the PEO segment, and the Li+ hopping from one",line 35,1,glass transition,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,performance_data,measurement,Dielectric constant: 4,text extraction,,performance,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Molecular structures of the repeat units of (a) poly- 2. MATERIALS AND METHODS
+(butylene oxide) (PBO), (b) poly(propylene oxide) (PPO), (c)
+poly(epichlorohydrin) (PECH), and (d) lithium bis- 2.1. Materials
+(trifluoromethanesulfonyl)imide (LiTFSI).
+Poly(butylene oxide) (PBO), poly(propylene oxide) (P",Figure 1,,Figure 1,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Fouriertransforminfraredspectroscopy(FT-IR)spectraoftheneatpolymersandthepolymerelectrolytesat1000−1300cm−1,where
+the C−O−C stretching is observed. (a) Neat PECH and PECH/LiTFSI electrolytes, (b) neat PPO and PPO/LiTFSI, and (c) neat PBO and
+PBO/LiTFSI.The measurements wereconducted atroomtemperatur",Figure 3,,Figure 3,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Bjerrumlength,l (solidlines),Keesomlength,r (dashedlines),andaverageionspacing,r (symbols)overε ×TofPECH/LiTFSI
+B K ion e
+electrolyte at[O]:[Li] =15:1.
+[Li] = 5:1. The presence of two Ts suggests macrophase dipole moment of the ion pair.56,57 The Bjerrum length and
+g
+separation. Interestingly, the [",Figure 5,,Figure 5,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Dielectric spectrum, (a) ε′(ω), ε″(ω), and (b)der ( ), of
+LiTFSI,PPO/LiTFSI,andPBO/LiTFSIsamplesareprovided neat PECH and PECH/LiTFSI at 15:1 at 303 K. The segmental
+relaxation process ω , the Maxwell−Wagner−Sillars (MWS) process
+in Figure S2. The PECH, PPO, and PBO are all type-A α
+ω ,theelectrodep",Figure 7,,Figure 7,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Temperature dependence of (a) M, (b) τ , and (c) dielectric constant of the neat polymer ε (filled symbols) and the polymer
+ion s
+1
+electrolytesε (opensymbols).Theinsetof(a)showsthetemperaturedependenceofΔε ,andtheinsetof(b)showsthe max over M2 ofthe
+e EP
+EP
+polymerelectrolytes.
+polymer,ε >ε,whereε ",Figure 9,,Figure 9,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"TemperaturedependenceofsegmentalrelaxationtimefromBDS(τ )for(a)PECH,(b)PPO,and(c)PBOsystems.Thesolidlines
+α
+areVFTfit results.
+Table 2. Vogel−Fulcher−Tammann Fit Parameters
+PECH/LiTFSI PPO/LiTFSI PBO/LiTFSI
+[O]:[Li] τ (s) B(K) T (K) m τ (s) B(K) T (K) m τ (s) B(K) T (K) m
+0 0 0 0 0 0
+Neat 1.7×10−13 ",Figure 11,,Figure 11,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Temperature dependenceof the free-ion fraction
+nf
+(%), structural relaxation, we turn to linear rheology, which can be
+ntot
+evaluated from the electrode polarization analysis, where n is the compared with BDS. Figure 14 presents the storage modulus,
+tot
+free-ion concentration limit at complete disso",Figure 13,,Figure 13,medium,standard,TRUE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"Comparisonbetweendielectricmeasurementsε″(ω),ε ’(ω)andlinearviscoelasticspectraG’(ω),G″(ω)for(a,b)neatPECHand
+der
+(c, d)PECH/LiTFSIat[O]:[Li] =5:1, both atT= T = 273K.
+ref
+shrinkage in the rubbery plateau. Interestingly, the salt affects 3.4.1. Structural Relaxation. Figure 15a,c presents
+little the",Figure 15,,Figure 15,medium,standard,FALSE
+P260,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",P260_unidentified.pdf,2025,low,good,figure_caption,measurement,"The ln(a T R/a T BDS )vs1000/T for(a) PECH/LiTFSI,(b)PPO/LiTFSI, and(c) PBO/LiTFSI.",Figure 17,,Figure 17,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,abstract,general,"Block copolymers (BCPs) containing polymerized ionic liquids (PILs) have
+garnered considerable interest in ion-conducting applications due to their tunable
+physicochemical properties and intrinsic ion transport capabilities. Previous studies primarily
+focusedonBCPswithlowPILcontent(<25mol%),andhigherPILcontentsarelessexplored.
+In this study, the thermal properties, self-assembly, and ion transport of poly(N-
+isopropylacrylamide)-b-poly(ionic liquid) (PNIPAM-b-PIL) BCPs were investigated across a",abstract section,1,abstract,high,high_relevance_pu,TRUE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,conclusion,finding,"of the n/
+observedcomparedtoalessorderedpolypeptideBCPwith50 6
+mol % PIL.62 This further highlights the promise of high-PIL- m values and PIL compositions (mol %) of PNIPAMn-
+b-PILBrms determined by 1H NMR; representative 1H
+content BCPs with tailored morphologies for optimizing ion
+NMR spectra of PNIPAMn-b-PILBrm and PNIPAMn-
+transport and advancing the design of high-performance
+b-PILminDMSO-d forn=23andm=42;SEC-RIand
+polymer electrolytes. 6
+RALS traces of PILBr and 1H NMR spectrum of PIL",conclusion section,end,conclusion,high,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,probed. Weak microphase separation of PIL BCPs was confirmed by a PIL composition- dependent glass transition temperature in differential scanning calorimetry (DSC) and the,line 15,1,microphase,medium,high_relevance_pu,TRUE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,dependent glass transition temperature in differential scanning calorimetry (DSC) and the absenceoflong-rangeperiodicstructuresinsmall-angleX-rayscattering.AtfixedPNIPAMblock,line 16,1,dsc,medium,standard,TRUE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,"absenceoflong-rangeperiodicstructuresinsmall-angleX-rayscattering.AtfixedPNIPAMblock length, the ionic conductivity increases with PIL content, with BCPs containing more than 50",line 17,1,small-angle,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,"mechanical properties and conductivity, more complex of microphase separation and the domain size, both of which architectures such as block6,27−29 and network polymers30−32 impactiontransport.49,50Thus,abroaderrangeofionicblock",line 40,1,microphase,medium,high_relevance_pu,TRUE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,"advantages due to their ability to microphase-separate into probe a larger space of PIL BCP materials. well-defined nanoscale domains. If these domains provide a In this study, poly(N-isopropylacrylamide) (PNIPAM) was",line 43,2,microphase,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,excerpt,general,"microphase separation was confirmed in all PIL BCPs, as tion chain transfer (RAFT) polymerization of NIPAM. PNIPAM-b- evidenced by the PIL composition-dependent glass transition PILBrs were synthesized by RAFT polymerization of the IL-Br",line 117,3,microphase,medium,high_relevance_pu,TRUE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Chemical structures indicated that conductivity can be normalized by T for N =
+g
+15−254, and thus this homopolymer provides a reasonable
+comparison for PIL blocks.24 All polymers were vacuum-dried
+at400Kforatleast2daystoremoveresidualsolventandthen
+stored in a glovebox for subsequent characterizatio",Figure 1,,Figure 1,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,figure_caption,measurement,"(a) Second heat cycle DSC curves of PNIPAM -b-PIL s
+from different blocks (Figure S4a) and n values determined 92 m
+withvaryingPILcompositionsfrom0to59.8mol%underaN flow
+from end group analysis are in good agreement with the total with a heating and cooling rate of 10 °C min−1. (b) Compos 2 ition-
+m",Figure 2,,Figure 2,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,figure_caption,measurement,"(a) SAXS profiles of PNIPAM -b-PIL s as a function of
+92 m
+PIL mol %, compared to that of two homopolymers. (b) solid-like behavior over the investigated temperature range. In
+Composition-dependent q* values. (c) Normalized WAXS profiles contrast, the low-PIL-content BCPs are liquid-like above 110
+o",Figure 3,,Figure 3,medium,standard,FALSE
+P276,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,P276_unidentified.pdf,2025,medium,good,figure_caption,measurement,"(a) Effect of PIL composition on temperature-dependent The remaining PNIPAM -b-PIL s exhibited similar T -
+n m g
+ionic conductivity of PNIPAM 92 -b-PIL m s, compared with homo-PIL normalized ionic conductivity when the PIL content was
+(100mol%).solidcurvesareVFTfits. (b)Temperature-dependent greater",Figure 4,,Figure 4,medium,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,abstract,general,"Solid polymer electrolytes (SPEs) hold great promise for the
+advancement of next-generation energy storage devices. However, the ion
+transport mechanism in SPEs remains poorly understood. In this study, we
+investigate blends of poly(1-(3-sulfonatopropyl)-2-vinylpyridinium) (P2VPPS)
+and poly(lithium (trifluoromethane)sulfonimide methacrylate) (P(MTFSI)Li) of
+varyingmolarratiostodevelop amechanisticunderstandingofionicconductivity
+in a miscible polyzwitterion/polyanion system. Polyanions can act a",abstract section,1,abstract,high,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,conclusion,finding,"of CGMD results. (a) Partial structure factor of
+observed at low q value in the X-ray scattering pattern is backbone−backbone correlationsfor the polyanionsin theblends at
+typically associated with ionic aggregation (20−60 Å), which different mixing ratios, pure polyanions (PA), and pure polyzwitte-
+disappears upon the addition of PEO.11,50,51 The suppression rions(PZ).Snapshotsofalocalclusterinablendatamixingratioof
+PZ:PA=0.3thatshows(b)onlythebackbonebeadsand(c)onlythe
+ofionaggregatesisattribu",conclusion section,end,conclusion,high,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,method,"glass transition temperature using the Gordon−Taylor equation. Notably, an ordered local nanostructure (∼24 Å) emerged in the P2VPPS/P(MTFSI)Li system at certain compositions, as characterized by",line 23,1,glass transition,medium,standard,TRUE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,finding,"small-angle X-ray and neutron scattering (SAXS/SANS). Concurrent with the emergence of this structure, broadband dielectric spectroscopy confirmed improvements in ionic conductivity. The highest conductivity is observed at a specific blend ratio",line 25,1,saxs,medium,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,general,"andpolyanionchains,correlatingwiththeemergenceofanewpeakinSAXSandSANSfortheblends.Thisworkprovidesafresh perspective on the role of local structural design in developing SPEs and offers insights into the morphological effects on ionic",line 29,1,saxs,medium,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,general,"reduction of the glass transition temperature led to an copolymer electrolytes, and composites containing nano-",line 48,2,glass transition,medium,standard,TRUE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,general,(1) lowering the glass transition of the blends should lead to ©XXXXTheAuthors.Publishedby,line 62,2,glass transition,medium,standard,TRUE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,excerpt,general,"hydrogen bonding can weaken the electrostatic interactions vinylpyridinium] (P2VPPS), (b) poly(methacrylate trifluoromethane",line 111,3,hydrogen bond,medium,high_relevance_pu,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,performance_data,measurement,Dielectric constant: 3,text extraction,,performance,medium,standard,TRUE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,figure_caption,measurement,"Chemicalstructuresof(a)poly[1-(3-sulphonatopropyl)-2-
+hydrogen bonding can weaken the electrostatic interactions
+vinylpyridinium] (P2VPPS), (b) poly(methacrylate trifluoromethane
+between Li+ and anions while influencing the segmental sulfonimide lithium) [P(MTFSI)Li], and (c) poly(methacrylate
+arran",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,figure_caption,measurement,"Glass transition temperature (T) of neat P2VPPS, neat
+g P2VPPS, neat P(MTFSI-d )Li, and their blends. It should be
+P(MTFSI)Li, and their blends was determined from DSC. The 5
+dashed line corresponds to the Fox equation, and the solid line noted that the P(MTFSI-d 5 )Li used for SANS was deuterated
+c",Figure 2,,Figure 2,medium,standard,TRUE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,figure_caption,measurement,"Summary of CGMD results. (a) Partial structure factor of
+observed at low q value in the X-ray scattering pattern is backbone−backbone correlationsfor the polyanionsin theblends at
+typically associated with ionic aggregation (20−60 Å), which different mixing ratios, pure polyanions (PA), and pure pol",Figure 4,,Figure 4,medium,standard,FALSE
+P278,Emergent Nanostructure and Ion Transport in Polyzwitterion/,P278_unidentified.pdf,2025,low,good,figure_caption,measurement,"These data were used to examine the
+blendsofvariousmolarratios(0.1:1,0.2:1,0.3:1,and1:1)ina
+ceramicholder.TheBDSresponsefortheneatpolyzwitterion
+P2VPPS could not be obtained because of the film’s high T
+g
+anditstendencytocrack.SeeFigureS9fortherealpartofthe
+conductivity spectra obtained from the ble",Figure 6,,Figure 6,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,conclusion,interpretation,"can
+segments for orientation occurrence is given as L = 4.19M / be drawn: (i) flow promotes segmental ordering not only in
+0
+bl ρN ,whereρisdensity,N isAvogadro’snumber,andl and sequencelengthbutalsoincontent;(ii)thecombinationofhigh
+M 0 a A re the length and m A olecular weight of mono 0 mer, flow intensity and high temperature has a similar effect to the
+res 0 pectively. With this correlation, the critical helical length combination of low flow intensity and low temperature; (iii)
+for parallel",conclusion section,end,conclusion,medium,standard,TRUE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,general,ABSTRACT: Flow-induced crystallization (FIC) is a typical nonequilibrium phase transition and a core industry subject for the largest group of commercially useful,line 31,1,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,general,"ultimate properties ofpolymericmaterials. Concerning thecrystallization process,flow canacceleratethekineticsbyordersofmagnitudeandinducetheformationoforiented",line 35,1,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,general,1.Introduction 1841 3.4.InfluencesofPrecursoronCrystallization 1850 2.ConformationalOrderingInducedbyFlow 1842,line 53,2,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,general,3.4.2. CrystallizationKinetics 1850 2.1.1. Coil−HelixTransition 1842,line 57,2,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,general,"5.2. HierarchicalStructureofShish-Kebab 1856 has become a unique aspect in the crystallization field. 5.3. Coil−StretchTransitioninPolymerSolution 1857 Obviously, a fundamental understanding of FIC is of great",line 108,3,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,excerpt,finding,"tion 1858 crystallizationhavebeenrevealed:accelerationofcrystallization 5.6. AdvancesinUnderstandingofShish-Kebab 1859 kinetics and formation of oriented crystallites, which are",line 112,3,crystalliz,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,performance_data,measurement,Crystallinity: 1,text extraction,,performance,medium,standard,TRUE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Sketchofcoil−helixtransitionatstrainedend-to-enddistanceR.Thechainissimplifiedintoadiblockpolymercomposedofcoilandhelical
+domains.
+2. CONFORMATIONALORDERINGINDUCEDBY conformationalorderingincludingcoil−helixtransition(section
+FLOW 2.1.1) and gauche−trans transition (section 2.1.2) will be
+discussed.",Figure 1,,Figure 1,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"IRspectraofiPPbeforeandaftershearat140°Cand(b)timeevolutionofnormalizedrelativeintensitiesofdifferentconformationalbands.
+Reprintedwithpermissionfromref50.Copyright2007AmericanChemicalSociety.
+ofchain,γisafactortocharacterizetheshorteningofeffective absorptionbandsinFouriertransforminfraredspectra(F",Figure 3,,Figure 3,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Genericphasediagramforapolymermelt.T ,T,andT are etal.109andannealingstudyofiPPfromahighlyextendedmelt
+m c s
+the melting, liquid−liquid binodal and spinodal temperatures, conductedbySchultzetal.110alsoshowedspinodal-typephase
+respectively. Dotted line represents quench path. Reprinted with
+separatio",Figure 5,,Figure 5,medium,standard,TRUE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Morphological evolution of PS sample as a function of thentheshearedsamplewaskeptatthesheartemperaturefor10
+isothermal time at shear temperature after cessation of flow. The min, which was finally cooled to 138 °C for isothermal
+isothermaltimeswere(a)100,(b)300,and(c)500s(pullingrateis5
+crystallizat",Figure 7,,Figure 7,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Thus,itseemsthattheexistence amorphous,mesophase,orcrystalline.IntheworkofBalzanoet
+ofinductiontimedemonstratestheformationofnoncrystalline al.,127kineticanalysisofearly-stagecrystallizationindicatesthat
+FIP, which further develop into stable nuclei during the unidirectionalpropagationofagrowthfront",Figure 9,,Figure 9,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"(a)Intensitiesof998cm−1bandvstimeaftershearat(a) Janeschitz-Krieglandco-workers130−132proposedthepresence
+164°C;(b)172,177,and200°C;and(c)168°C(shearrate13.5s−1, of dormant nuclei even in quiescent melt, which are local
+shearstrain3375%).Reprintedwithpermissionfromref51.Copyright alignments or organ",Figure 10,,Figure 10,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"(a)1DSAXSmeridionalintegrationsI(q)immediatelyafter precursors,whichtransformintoshishinthesamewayasinthe
+cessationofextension(t=0s).(b)Orientationparameteroflamellar model of Janeschitz-Kriegl and co-workers130−132 and Seki et
+crystalsofPEOblendsevolvingwithtimeunderdifferentstrainsat52
+al.95 When ",Figure 12,,Figure 12,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Schematicofcorrelationbetweenprecursorsandcylindritesatalocalwallshearstress.(a)One-dimensionalSAXSplotsofstructuralmelt
+afterannealingfor10minat180°C(a-1;iPPwasheateddirectlyfromroomtemperatureto180°C)andsupercooledmeltat180°C(a-2;iPPwasfirst
+heatedto210°C,keptatthistemperaturefor15mintoensuretherm",Figure 14,,Figure 14,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"(a−f) Optical images of sheared blends of high and low
+molarmassh-PBD(2wt%1700kDaina15kDamatrix).Whitedashed
+circles mark a boundary between oriented and nonoriented lamellar
+structures insamples. The plotsuperimposed on image d shows the
+degree of orientation of lamellar structure along the flow di",Figure 15,,Figure 15,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"Electronmicrographofshish-kebabinstirredPEsolution.
+Reprintedwithpermissionfromref177.Copyright1965Dr.Dietrich shish-kebab, and the macro-kebab grows on the surface of
+SteinkopffVerlag. macro-shish. As shown in Figure 19a, Barham and Keller189
+schematicallyshowedthedifferencebetweenmacro-andmicro-
+s",Figure 18,,Figure 18,medium,standard,FALSE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"(a)Schematicofflowdeviceconsistingoftwoopposedjets.(b)BirefringentbrightlineunderelongationalflowinaPEdilutesolution
+abovecrystallizationtemperature.Adaptedwithpermissionfromref207.Copyright1993Dr.DietrichSteinkopffVerlag.
+microscopy(SEMorTEM),providingreal-spaceinformation, extended chains, where n",Figure 20,,Figure 20,medium,standard,TRUE
+P284,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,P284_unidentified.pdf,2018,medium,partial,figure_caption,measurement,"StrainrateforCSTandstretchednetworkrateversusconcentrationplotinelongationalflow.Twocasesareshown:(a)CSTexistsupto
+puremelt(C=1);(b)noCSTathighconcentrationsorpuremelt.Adaptedwithpermissionfromref207.Copyright1993Dr.DietrichSteinkopff
+Verlag.
+1858 DOI:10.1021/acs.chemrev.7b00500
+Chem.Rev.2018,118,18",Figure 22,,Figure 22,medium,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,abstract,measurement,"Polyethylene mimics such as long-spaced aliphatic polyesters
+(LSAPE) are biodegradable and recyclable in a close-loop path. They are viewed
+as possible alternatives to classical polyethylenes that are inert and difficult to
+recycle. However, inclusion of the ester groups as crystalline layers inside the core
+crystallineregionsbestowLSAPEfeaturesintheircrystalstructuresthatdifferfrom
+the simple orthorhombic packing of linear polyethylene. In this work, we have
+determinedthecrystalstructuresof lon",abstract section,1,abstract,high,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,conclusion,finding,"from our prior work on structure and formation improves tensile properties. Films in the hexagonal
+crystallizationkineticsofLSAPEisthattheformationoflayered formdisplayenhancedstrain-hardeningandahigherelongation
+crystallites is required to observe rate minima.10 The crystal atbreak.
+structures of PE-X,18 were inferred from unoriented WAXD The observed correlation between crystal structure and
+patternsoffilmsquenchedorisothermallycrystallizedfromthe material properties emphasizes the need to est",conclusion section,end,conclusion,high,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,[−(CH ) −OCO−(CH ) −COO−] −) by analyzing their 2D-wide-angle X-ray 2 2 2 11 n,line 16,1,wide-angle,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,1. INTRODUCTION The melting behavior as a function of methylenes spacer between ester groups is known for LSAPE rapidly or,line 28,1,melting,medium,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,"isothermallycrystallizedfromthemelt.10−14Forafixednumber plastics,buttooinertforefficientchemicalrecycling,therefore,",line 31,1,crystalliz,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,"vice versa), the melting point of the shortest polyesters is first ableand/orcanbeconstructedanddeconstructedinaclosed-",line 35,1,melting,medium,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,furtherincreaseinazigzagpatternbetweeneven(highermelting aspossiblesustainablealternativesforclassicalpolyethylenesas,line 41,2,melting,medium,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,excerpt,general,"points) and odd (lower melting points) number of carbons most can be molded and film extruded. Furthermore, closed- when van der Waals CH interactions compensate the dipolar",line 43,2,melting,medium,standard,TRUE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"WAXDprofilesmeasuredatroomtemperaturefortheunorientedPE-X,18(X=2,3,4,and6)andPE-2,13samplescrystallizedatthe
+indicatedtemperatures.Thepatternofahigh-densitylinearpolyethyleneisaddedasreference(HDPE).10
+placed on a hot plate and uniaxially stretched about 5× the original 2.3.2D-WAXDDataAnalyses
+lengt",Figure 1,,Figure 1,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"2D-WAXD patterns measured for the uniaxially oriented and annealed samples of (a) PE-2,18, (b) PE-3,18, (c) PE-2,13 and (d)
+orthorhombiclinearpolyethylene(PE).ThewavelengthofincidentX-raybeamis0.71Å.Thedrawaxisisvertical.
+ethers [−(CH ) −O−],63 the whole methylene segment 4. CRYSTALSTRUCTUREANALYSIS",Figure 3,,Figure 3,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"Packingmodelsproducedbythecombinationofpolymethylene(PM)zigzagchainsegmentallayersandesterlayers(greenbox)orthec*-
+axis.(a)VerticallyalignedPMchains,(b)tiltedPMchains,(c)acombinationofverticalPMchainlayersandtiltedc*axis,(d)acombinationof
+verticalPMlayersandverticalc*axis,and(e)acombinationoftiltedP",Figure 4,,Figure 4,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"(a)CrystalstructureofPE-2,18.(b)ComparisonofsubcellstructureofpolymethylenesegmentalpartswiththatoforthorhombicPE(pink).
+orthorhombic PE crystal. That is, the zigzag polymethylene fromthedrawaxis,asfoundinthemonoclinicunitcell,the00l
+chainsarepackedsidebyside,asillustratedinFigure4a.Inthe peakswilla",Figure 6,,Figure 6,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"Crystalstructuresof(a)PE-4,18and(b)PE-6,18.
+axis.Asaresult,PE-2,18maytakethemonoclinicunitcellwith UsingPolanyi’sequation,weestimatedtherepeatingperiod
+non90°βangle. alongthechainaxisfromtheinterlayerspacings,c=27.15Å.
+2401 https://doi.org/10.1021/acs.macromol.6c00020
+Macromolecules2026,59,2393−2411",Figure 8,,Figure 8,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"CrystalstructureofPE-3,18.Theblueboxesindicatethesubcelloftheorthorhombicpolyethylene.
+Theobservedequatorial-linediffractionpeakscanbeindexed some values. For example, the origin of the 11th reciprocal
+usingtherectangularcelloforthorhombicpolyethylene(a*= latticeplanewasshiftedfromthatofthezerothpla",Figure 10,,Figure 10,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"(a)CrystalstructureofPE-2,13.(b)ThesubcellstructureiscomparedwiththeunitcelloforthorhombicPEcrystal.
+extended conformation is assumed, the length of one repeating period of 26.5 Å × 2 = 53 Å. Using the above, we
+monomeric unit is approximately 30 Å, which is longer than furtherbuiltstructuralmodelsa",Figure 12,,Figure 12,medium,standard,FALSE
+P286,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,P286_unidentified.pdf,2026,low,good,figure_caption,measurement,"2D-WAXDpatternofPE-2,13.(a)Theobserveddata,andthepatternscalculatedfor(b)theregularstructuremodeland(c)thedisordered
+structuremodel.Thedrawdirectionisvertical.Somesharprings(bluearrows)detectedin(a)areduetothecatalystresidues.
+aregivenforonlythreeequatorialpeaks. Thecrystalstructure chain segments f",Figure 14,,Figure 14,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,abstract,general,"Thermoplasticpolyurethanes(TPUs)aremultiblockcopolymerswhose
+properties are strongly influenced by the crystallization of the hard segments (HS).
+Crystallized HSs based on 4,4′-methylenediphenyl diisocyanate/1,4-butanediol can
+developtwodistinctpolymorphs:thethermodynamicallystabletriclinicFormIIorthe
+kinetically favored paracrystalline Form I, each associated with different mechanical
+responses. While the effect of cooling rate on polymorphic crystallization has been
+studied,theisothermalcrysta",abstract section,1,abstract,high,high_relevance_pu,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,conclusion,finding,"on the
+(high-temperature branch). temperature-dependent polymorphism inferred from WAXD
+At 146 °C, the sample crystallizes in the form of (Figures 3 and S4) and kinetics (Figures 2 and 4) analyses.
+nonbirefringent crystals, which grow until impingement. This Moreover,thehypothesizedpolymorphicself-poisoningisalso
+morphology,lackingbirefringence,ischaracteristicoftheForm compatible with the morphology, as in the temperature range
+956 https://doi.org/10.1021/acs.macromol.5c02761
+Macromolecules2026",conclusion section,end,conclusion,high,standard,TRUE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,Polymorphic Self-Poisoning in the Isothermal Crystallization of Thermoplastic Polyurethanes,line 3,1,crystalliz,medium,high_relevance_pu,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,"properties are strongly influenced by the crystallization of the hard segments (HS). Crystallized HSs based on 4,4′-methylenediphenyl diisocyanate/1,4-butanediol can",line 11,1,crystalliz,medium,high_relevance_pu,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,"Crystallized HSs based on 4,4′-methylenediphenyl diisocyanate/1,4-butanediol can developtwodistinctpolymorphs:thethermodynamicallystabletriclinicFormIIorthe",line 12,1,crystalliz,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,"responses. While the effect of cooling rate on polymorphic crystallization has been studied,theisothermalcrystallizationkineticsofTPUswithvaryingHScontentareless",line 15,1,crystalliz,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,"studied,theisothermalcrystallizationkineticsofTPUswithvaryingHScontentareless explored.Here,weinvestigatetheisothermalcrystallizationofTPUscontaining29−80",line 16,1,crystalliz,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,excerpt,general,"explored.Here,weinvestigatetheisothermalcrystallizationofTPUscontaining29−80 wt % HS using differential scanning calorimetry (DSC), wide-angle X-ray diffraction",line 17,1,crystalliz,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,figure_caption,measurement,"RepresentativeDSCcurvesshowingtheevolutionofheat-
+flowrateasafunctionoftimeatthedifferentindicatedcrystallization
+temperaturesforTPU80.
+analogous results for the other TPUs are reported in the
+Supporting Information, Figure S2. The data reveal a peculiar
+temperature dependence of the crystallization",Figure 1,,Figure 1,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,figure_caption,measurement,"crystallization temperatures (for which the half-crystallization
+Similarbehavior,however,withtheminimumincrystallization time is difficult to determine because of the nonsteady state
+rateoccurringatdifferenttemperatures,isreportedwithFigure instrumental heat-flow rate).38
+S2forthesamplescontaining50",Figure 1,,Figure 1,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,figure_caption,measurement,"PolarizedlightopticalmicrographsacquiredatdifferenttimesduringcrystallizationofTPU80attheindicatedisothermaltemperatures.
+kinetics. In the low supercooling range, the kinetics are the molecular dynamic simulations of polymorphic competition
+slowest, while the Form II crystal content is the highest. ",Figure 5,,Figure 5,medium,standard,FALSE
+P288,Polymorphic Self-Poisoning in the Isothermal Crystallization of,P288_unidentified.pdf,2026,medium,good,figure_caption,measurement,"Reciprocalofthecrystallizationhalf-timemeasuredbyFSC
+tional DSC.25,58−61 This is expected as fast heating in FSC asafunctionofcrystallizationtemperatureforTPU80(a)andTPU33
+experimentseffectivelysuppressescrystalreorganizationduring (b). Several measurements are reported to show the reproducibility
+s",Figure 7,,Figure 7,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,abstract,finding,"In the processing of semicrystalline polymers, the
+oriented crystal through flow-induced crystallization (FIC) represents
+a significant phenomenon that can profoundly influence the final
+properties of materials. This study investigates the melting and
+crystallization behavior of biaxial stretch-induced crystal structures in
+BOPA56/512 (biaxially oriented PA56/512 films) with varying
+copolymerized compositions at temperatures above T , utilizing
+m
+DSC, XRD, FTIR, and in situ POM. Results reveal t",abstract section,1,abstract,high,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,conclusion,finding,"Industry,GuangdongUniversityofTechnology,Guangzhou
+In this work, we systematically investigated the melt memory 510006,China;Email:yzk@gdut.edu.cn
+effect of biaxially oriented random copolyamides using XudongChen−SchoolofChemicalEngineeringandLight
+BOPA56/512 as a model system. DSC analysis revealed that Industry,GuangdongUniversityofTechnology,Guangzhou
+biaxial stretching-induced ordered structures persist in highly 510006,China;GuangdongProvincialLaboratoryof
+superheatedmelts(ΔT superheat upto",conclusion section,end,conclusion,high,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,general,oriented crystal through flow-induced crystallization (FIC) represents a significant phenomenon that can profoundly influence the final,line 11,1,crystalliz,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,general,properties of materials. This study investigates the melting and crystallization behavior of biaxial stretch-induced crystal structures in,line 13,1,melting,medium,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,general,crystallization behavior of biaxial stretch-induced crystal structures in BOPA56/512 (biaxially oriented PA56/512 films) with varying,line 14,1,crystalliz,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,finding,"DSC, XRD, FTIR, and in situ POM. Results reveal that BOPA56/ 512withrelativelyhighPA512mol%intherandomcopolymerPA56/",line 18,1,ftir,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,general,"equilibrium melting point (T0). Notably, the thermal history effect m",line 22,1,melting,medium,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,excerpt,general,"from biaxial stretching, which elevates the crystallization temperature, persistsevenuponheatingtothemoltenstate.Additionally,increasingtheheattreatmenttemperatureinducesaγ-αformtransition",line 24,1,crystalliz,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,performance_data,measurement,FWHM: 56,text extraction,,performance,medium,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,performance_data,measurement,H-bond metric: 683 cm,text extraction,,performance,medium,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,"DSCresultsofPA512,PA56,andtheircopolyamidesbeforeandafterbiaxialorientationweremeasuredduringnonisothermalcrystallization.
+(a,b;d,e)DSCcurvescollectedupon(a)heatingcurvesofPA56/512and(b)BOPA56/512;(d)coolingfromthemeltcurvesofPA56/512and(e)
+BOPA56/512.(c)EvolutionsofT withPA512mol%derivedfrompanels(",Figure 1,,Figure 1,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,"ChangesinΔH andT ofBOPA56/512superheatedmelts.(a)ReductioninΔH atsuperheatingdegreesfrom30to90°C;(b)difference
+c c c
+inT betweenBOPA56/512andPA56/512atsuperheatingdegreesof30and90°C.(c)T ofBOPA56/512duringgradualheatingaboveT .
+c c m
+D https://doi.org/10.1021/acs.macromol.5c01641
+MacromoleculesXXXX,",Figure 3,,Figure 3,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,"(a−c)WAXDpatternsofbiaxiallystretched,biaxiallystretchedfilmsannealedat30,50,70,and90°CaboveT andunbiaxiallystretched
+m
+samples,inwhichPA512mol%for80,60and40%.(d)Changesintheproportionofαandγformswithincreasingheattreatmenttemperature;(e,f)
+crystalplanespacingofthe(100)planeforhydrogenbondinganalysi",Figure 5,,Figure 5,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,"1200−1300cm−1N−HandC�Ocharacteristicpeakarea(a−c);(d)characteristicpeakof3300cm−1amideA(N−H).
+confirmsthatthepreorderedstructureandmeltmemoryeffects expands,butitdoesnotreachthelevelofnonbiaxiallystretched
+ofBOPA56/512arenotcompletelyeliminatedinsuperheated PA56/512. This indicates that the hydrogen",Figure 6,,Figure 6,medium,standard,FALSE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,Melting-crystallizationprocessofBOPA56/512(a−c)andPA56/512(d−f)sampleswithPA512mol%=80%.,Figure 8,,Figure 8,medium,standard,TRUE
+P289,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,P289_unidentified.pdf,2025,low,good,figure_caption,measurement,"CP-MAS13CNMRspectrum(a)andchemicalshiftandcopolymerizationratioconversiondiagram(b).(c)Equilibriummeltingpointwas
+calculatedbyextrapolation;(d)Gibbsfreeenergyofdifferentcopolymerizationratios.
+structurespersistatsuperheatedtemperatures(FigureS9cand cross extinction patterns after recrystallization, ",Figure 10,,Figure 10,medium,standard,TRUE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,abstract,finding,"High-fidelity bioelectric signal acquisition is crucial
+for wearable precision medicine, but traditional poly(3,4-ethyl-
+enedioxythiophene): poly(styrenesulfonate) (PEDOT:PSS) elec-
+trodes struggle to balance conductivity, stretchability, and skin
+compatibility, particularly under perspiration or physical activity.
+To address this challenge, we developed a PEDOT-based
+functional system doped with PSS-co-poly(acrylic acid)/poly-
+(acrylamide) binary copolymers (PSA/PSM). Through multiscale
+charact",abstract section,1,abstract,high,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,conclusion,finding,"electrodes showed only minimal noise during walking and
+This study successfully developed and systematically charac-
+remained regular during running (with RMS values of 17 and
+terized PEDOT-based flexible electrode materials doped with
+28 μV for walking and running, respectively). Thus, PSM 3:1
+PSS-co-PAA/PAMcopolymers,elucidatingtheuniquerolesof
+electrodes outperform Ag/AgCl electrodes in signal quality
+−COOH and −CONH groups in regulating PEDOT chain
+2
+owing to their enhanced skin adhesion, lo",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,measurement,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS Copolymers: Breaking the Conductivity−Interfacial Property Trade-,line 2,1,hydrogen bond,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,finding,"electrical and interfacial properties, and hydrogen bond network dynamics. Key findings reveal that −COOH groups enhance π-π",line 23,1,hydrogen bond,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,general,"(approximately8−85timesthatofskin)failstoaccommodate effect of static hydrogen bonds, without systematically skin deformation during joint flexion or muscle contrac- investigating the critical role of static network parameters",line 92,3,hydrogen bond,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,general,"tion,15,16 triggering localized delamination that further (e.g., hydrogen bond density, bond length distribution, and exacerbates contact impedance fluctuations and degrades bondanglecharacteristics)inmaintainingcyclicstabilityunder",line 94,3,hydrogen bond,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,general,"weakly polar, hydrogen bond network-forming), on PEDOT 4-Styrenesulfonic acid sodium salt (NaSS, ≥90%), 3,4-ethylenediox-",line 147,4,hydrogen bond,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,excerpt,general,"Attheendofthereaction,rapidcoolingandexposuretoairwereused 2.3.3.CrystalStructureAnalysis.Grazingincidencewide-angle to terminate the reaction. The mixture was cooled to room X-ray scattering (GIWAXS, Xenocs Xeuss 3.0) was employed to",line 184,5,wide-angle,medium,standard,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,performance_data,measurement,Elongation at break: 5.6,text extraction,,performance,medium,standard,TRUE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,performance_data,measurement,H-bond metric: 90 %,text extraction,,performance,medium,standard,TRUE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,figure_caption,measurement,"(a-b) Synthesis routesof PSA andPSM dispersions; (c) schematic ofthe bioepidermalelectrodefabrication process.
+angle ≥120°. The number of hydrogen bonds was determined by pure PSS exhibited multiple peaks attributed to benzene ring
+counting specific bonds within each system type (for example, proton",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,figure_caption,measurement,"OpticalpropertiesandcrystalstructuresofPS,PSA,andPSMmaterials.(a-b)UV−visspectraofsamplesinoxidizedandreducedstates;
+(c-d)Ramanspectrainthe1100−1700cm−1rangeandtheirlocalmagnifications;(e-i)GIWAXS2Dpatternsandscatteringintensitydistributions
+alongthe q andq directions.
+xy z
+attributed to the differe",Figure 3,,Figure 3,medium,standard,FALSE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,figure_caption,measurement,"MechanicalandinterfacialadhesionpropertiesofPS,PSA,andPSMmaterials.(a-d)Stress−straincurvesandcomparisonsofYoung’s
+modulus,toughness,andstrainatbreak;(e)AdhesioncurvesofthePAM3:1sampleonglass,dryskin,andwetskinsurfaces;(f)Adhesionforce
+valuesofdifferentsamples;(g)schematicoftheadhesionbehavioroftheP",Figure 4,,Figure 4,medium,high_relevance_pu,TRUE
+P294,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,P294_unidentified.pdf,2025,low,good,figure_caption,measurement,"TensileelectricalpropertiesandhydrogenbondkineticanalysesofPSAandPSM.(a)Resistancevariationcurvesunder50%strain;(b)
+resistancestabilityofPAM3:1under20%strainover500cycles;(c-d)schematicsofthetensilekineticsofPSAandPSM;(e-g)variationinthe
+count, angle, and length of hydrogen bonds under different str",Figure 6,,Figure 6,medium,high_relevance_pu,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,abstract,finding,"High-temperaturestretchingisapotentialapproachfortheindustrial-scalefabricationof poly(vinylalcohol)(PVA)
+nanofibril films. In this study, in situ small-angle X-ray scattering (SAXS)/wide-angle X-ray scattering (WAXS) are employed to
+investigate thestructural evolutionof PVA gelfilmscontaining glycerolduringstretching at different temperatures. TheSAXS and
+WAXS analyses reveal that uniaxial stretching triggers the melting−recrystallization of PVA lamellar crystals and the formation of
+nanofibril",abstract section,1,abstract,high,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,conclusion,measurement,"DSC curves in Figure 2a, the PVA−G-RX gel film began to
+undergo a gradual melting process at around 100 °C. In summary, we have investigated the stretch-induced
+Therefore, it indicated that the structural evolution in the structural evolution of PVA−glycerol gel films by in situ
+stretchingprocesswastemperature-dependent.Atlowtemper- synchrotron radiation with SAXS and WAXS at different
+atures, the disruption of crystals and the reconstruction of temperatures, indicating that the stretching tempe",conclusion section,end,conclusion,high,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,general,"nanofibril films. In this study, in situ small-angle X-ray scattering (SAXS)/wide-angle X-ray scattering (WAXS) are employed to investigate thestructural evolutionof PVA gelfilmscontaining glycerolduringstretching at different temperatures. TheSAXS and",line 10,1,saxs,medium,standard,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,finding,investigate thestructural evolutionof PVA gelfilmscontaining glycerolduringstretching at different temperatures. TheSAXS and WAXS analyses reveal that uniaxial stretching triggers the melting−recrystallization of PVA lamellar crystals and the formation of,line 11,1,saxs,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,finding,"WAXS analyses reveal that uniaxial stretching triggers the melting−recrystallization of PVA lamellar crystals and the formation of nanofibrils.Thekeyfactorsforstructuralevolutionwillchangewiththestretchingtemperature.Whenstretchedatlowtemperatures,",line 12,1,waxs,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,general,"structural evolution, slowing the crystal destruction. At high temperatures, crystal destruction is dominated by melting, and the crystallinitydecreasesrapidlyunderstress,whilestretch-inducedrecrystallizationandreconstructionofnanofibrilsaremorereadily",line 15,1,melting,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,general,"crystallinitydecreasesrapidlyunderstress,whilestretch-inducedrecrystallizationandreconstructionofnanofibrilsaremorereadily achieved.Besides,thelongperiodoflamellarcrystalsandnanofibrilsincreaseswiththeincreaseofstretchingtemperature.ThePVA",line 16,1,crystalliz,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,excerpt,measurement,"achieved.Besides,thelongperiodoflamellarcrystalsandnanofibrilsincreaseswiththeincreaseofstretchingtemperature.ThePVA porous nanofibril films with favorable nanofiber networks and porous structures can be obtained by biaxial stretching followed by",line 17,1,lamellar,medium,standard,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,performance_data,measurement,Molecular weight: 200 g/mol,text extraction,,performance,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"SEMimagesofPVA−G-RXgelfilmwithrolltemperaturesof(a,a)25°C,(b,b)40°C,(c,c)60°C,and(d,d)80°C(Xmeans
+1 2 1 2 1 2 1 2
+theroller temperature).",Figure 1,,Figure 1,medium,standard,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Thisis due to the different cooling rates. At lowroll
+TheinvariantQcanbeobtainedfromtheSAXSintegrationresults temperatures, the melt is cooled rapidly and the molecular
+andcalculated by chainsarefrozenbeforephaseseparationtakesplace,resulting
+in a uniform network structure.38 While at higher cooling",Figure 1,,Figure 1,medium,standard,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Representative WAXSscattering patternsof PVA−G-R25gel film werecollected duringstretching atdifferenttemperatures.
+completely melted with glycerol, and the addition of glycerol higher roller temperatures, the cooling rate is slower,
+reduces the ordered binding of PVA and enhances the promoting phase",Figure 4,,Figure 4,medium,standard,FALSE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Long period of lamellar crystals of (a) PVA−G-R25 and (b) PVA−G-R60 gel films at different stretching temperatures (solid in the
+meridiandirection,hollowintheequatorialdirection).Thenanofibrilslongperiodintheequatorialdirectionatdifferentstretchingtemperatures
+for(c)PVA−G-R25and (d) PVA−G-R60gelfilm",Figure 6,,Figure 6,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Evolutionofχ,L ,anddC/dεwithstrainfor(a)thePVA−G-R25gelfilmand(b)PVA−G-R60gelfilmat80°C,andfor(c)the
+c l‑me f
+PVA−G-R25gelfilm and (d)PVA−G-R60gel film at140 °C.
+Meanwhile, at higher temperatures, the critical nucleation size evolutionary processes in which the long period of lamellar
+is required to",Figure 8,,Figure 8,medium,standard,TRUE
+P364,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,P364_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Schematic picture ofthe structural evolution ofthe PVA−Ggel film.
+contentofnanofibrils(C).32,41TheC versusstrainforPVA− lamellar crystals, leading to the reduction of the lamellar
+f f
+G-R25 stretched at 80 °C is shown in Figure 7b. The C is crystal’slongperiodinthemeridiandirection.Thisalsoresults
+f",Figure 9,,Figure 9,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,SMALL-ANGLE X-RAY SCATTERING OF POLYMER SYSTEMS,line 2,1,small-angle,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,"a number of applications in food packaging, automotive can crystallize. The size, shape, and organization of the parts, textiles, medical devices, etc., because of their crystals depend on the chemical and molecular structure",line 8,1,crystalliz,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,"properties depend on the morphology developed by these bility) and crystallization conditions (quiescent, deformed, crystalline systems. Unit cell, lamellar structure, and melt, solution). Although thermosets and rubbers can show",line 11,1,crystalliz,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,"crystalline systems. Unit cell, lamellar structure, and melt, solution). Although thermosets and rubbers can show microstructure show different morphological features at crystalline behavior, thermoplastic polymers offer a wide",line 12,1,lamellar,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,"different scales. In the nanoscale, the lamellar structure rangeofpossibilities,andsowefocusourattentiononthis formed by alternating crystalline and amorphous layers type of polymers.",line 14,1,lamellar,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,excerpt,general,"studied by means of small-angle X-ray scattering (SAXS). of this type of polymers. Depending on the chemical and This technique is useful to determine the crystalline and molecular structure and processing variables, they may",line 19,1,saxs,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"1 Scheme of unique crystal of folded chain for PE.
+chains extend, serving as nuclei (shish), whereas smaller Source: After Hoffman JD, Davis GT, Lauritzen JI. The rate of
+chains crystallize (kebab), usually in the form of a disk. crystallization of linear polymers with chain folding. In: Hannay
+Shis",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"4 Physical representation of morphological parame-
+Chemistry,Volume3,p418,508,520[8].Copyright1976Plenum ters:(a)characteristicdistances,(b)statisticalfeatures,(c)stacking
+Press. size,and(d)interfaces planarity.
+19.3 SMALL-ANGLE X-RAY SCATTERING same magnitude and differ only in their phase φ, which",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"6 A (left). Geometry to obtain the scattering vector I(q)= (cid:12)p ∗2(r)•e –iqrdV (19.3)
+q. B (right). Wave enlargement: a, Reference wave; b, wave
+v
+displaced δ(0 < δ < 1); c, wave displaced 1π(δ < 1/2); and
+d,wave displaced2π(δ =1). In Equation 19.3, it is observed that the real space (r) and
+th",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"8). This correction is implied, for instance, in the
+of the lack of parallelism and monochromaticity of the
+use of models of one-dimensional stacking [19]. As I (q)
+incident beam [9]. id
+hasbeenobtainedfromaone-dimensionalmodel,itcanbe
+In SAXS studies of a real sample, all the lamellar
+written as I ",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"5) in which neither fluctuations of
+this function convolutes with the Fourier transform of the
+density within phases nor interfacial thickness of finite
+autoconvolution of the difference between the local and
+wide are present, the intensity of dispersion diminishes
+the average electronic densities t",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"9 [11]. The E =(2π)1/2σ (19.26)
+smoothing function is then Gaussian and H(q) is given by
+(cid:15) (cid:16) Another model for the electron density gradient was
+– (σ2q2) proposed by Blundell and analyzed by Vonk; it consists
+H(q)=e 2 (19.22)
+of a linear density change in the interface [21, 28]. In thi",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"8)[20].IfthecosineFourier electron density function ρ(r) can be described by means
+transform of the correlation function is obtained, then of the long period L, the crystalline thickness l c , and
+the difference of electronic densities (cid:12)η = ρ − ρ .
+(cid:19) c a
+∞ The effect of different lamel",Figure 19,,Figure 19,medium,standard,TRUE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"11b). Additionally, the position
+The presence of a transition zone changes the shape of the
+of the maximum provides the periodicity, which denotes
+correlationfunctionneartheorigin(Fig.19.11d).However,
+the most probable spacing.
+the original straight line does not change. This happens
+because the thi",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"A.1 Intensity plot. (Seeinsertforthecolorrepresen-
+tationofthefigure.)
+60
+50
+40
+30
+20
+10
+0
+−10
+2q
+)q(l
+Experimental
+Simulated
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+q (nm−1)",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"A.3 Interference function. (See insert for the color
+representationofthefigure.)
+simulated and compared with the experimental data to
+check for validity of the results (Figs. 19.A.1, 19.A.2,
+19.A.3, and 19.A.4).
+Finally, and only to show the effect of the statistics,
+simulations where performed usin",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"A.5 Statisticaleffectontheintensityplot.(Seeinsert
+forthecolorrepresentationofthefigure.)
+160
+140
+120
+100
+80
+60
+40
+20
+0
+−20
+2q
+)q(l
+2
+0
+−2
+Experimental
+Simulated(s1 = s2 = 1.0)
+Simulated(s1 = s2 = 2.0)
+−4 S
+S
+i
+i
+m
+m
+u
+u
+l
+l
+a
+a
+t
+t
+e
+e
+d
+d
+(s1 = s2 = 2.5)
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0
+q (nm−1",Figure 19,,Figure 19,medium,standard,FALSE
+P365,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,P365_unidentified.pdf,2013,low,partial,figure_caption,measurement,"A.7 Statisticaleffectontheinterferencefunction.(See
+insertforthecolorrepresentationofthefigure.)
+40 Experimental
+Simulated(s1 = s2 = 1.0)
+Simulated(s1 = s2 = 2.0)
+20 Simulated(s1 = s2 = 2.5) Simulated
+0
+−20
+−40
+0 5 10 15 20 25
+r (nm)
+)r(
+g 1",Figure 19,,Figure 19,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,conclusion,general,and Outlook 11167 SAXShasbeenfrequentlyusedtostudyothertypesofparticles,conclusion section,end,conclusion,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,"scattering(SAXS,WAXS),respectively.Herein,wefocusontheuseofSAXStoexamine nanoscale particulate systems. We provide a theoretical foundation for X-ray scattering,",line 12,1,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,"geometries are addressed, as well as the combination of SAXS with other X-ray and non-X-raycharacterization tools.Weconcludewithanexaminationofseveralkeyareas",line 18,1,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,2.4. Software Packages for SAXS Analysis 11131 5.1. SAXS Simulation Using Atomistic Models 11150,line 33,1,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,5.1. SAXS Simulation Using Atomistic Models 11150 3.Particle Scattering 11131,line 34,1,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,5.2. SAXS and WAXS: Total Scattering Simula- 3.1. General Theory 11131,line 36,1,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,excerpt,general,3.2.1. Form Factor of Solid Particles 11132 6.1. Reflection and Refraction in GISAXS 11151 3.2.2. Particle Size Distribution Analysis 11133 6.2. Indexing with Two-Beam Diffraction 11152,line 41,2,saxs,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,performance_data,measurement,FWHM: 1,text extraction,,performance,medium,standard,TRUE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Schematicfortheopticalcomponentsofthe12ID-BSAXS I particle = I particle/solv/cell − I solv/cell (4)
+beamline at the Advanced PhotonSource (APS).
+One typical example of background subtraction for solution
+SAXS is displayed in Figure 2.
+The 2D area detector is used to collect the angle-resolved
+SAXS s",Figure 1,,Figure 1,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"As we will show, the profile can be split 1 N l l′ qr
+p l=1 l′=1 ll′ (9)
+where r ll′ is the distance between the lth and l′th particles.
+Equation 9 is called the Debye formula.
+The form factor amplitude F(q) of a geometric object like a
+nanoparticlecanbeeitheranalyticallyornumericallycalculated.
+By ",Figure 3,,Figure 3,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Two-dimensional(2D)scatteringimages(intensitiesarein
+beam; however, it is often of lower resolution than coherent
+logscale)of(a)sphereand(b)cylinder,wheretheaxisofthecylinder
+is parallel to the y-axis. The 1D SAXS curves in (c) and (d) are the SAXS. This method assumes that the particles in solution",Figure 4,,Figure 4,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Form factor scatterings of spherical particles with varying
+where
+degreeofpolydispersity.Theradiusis10nm,volumefractionis0.01,
+andΔρ/r
+e
+=0.04Å−3.Aruleofthumbisthatwhentheparticleshave
+z + x
+asize polydispersity of ≥15%, the form factor oscillations smear out. R x = z + 1 R 0 (28)
+theformfactorscatt",Figure 6,,Figure 6,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Calculated form factor scatterings of objects with various
+metal precursors. When particles nucleate, both f and Q will
+dimensionsandsharpinterfaces.TheR oftheisometricparticleis1 p
+g increase. During the growth phase, f will remain constant
+nm. The cylinder has a diameter of 2.8 nm (R of 1nm) and l",Figure 8,,Figure 8,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Derivationoftheformfactoramplitudeofacore−shellparticleusingthelinearitypropertyofFouriertransform.Seetextandeq39for
+definitions of parameters.
+nanoparticle research, paying special attention to structures of In SANS, the solvent is often replaced with a deuterated or
+binary composition. mixed compo",Figure 10,,Figure 10,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"(a)TEMimageofas-synthesizedFeO nanoparticles.(b)ExperimentalandsimulatedSAXSspectraofFeO nanoparticlesdispersedin
+2 3 2 3
+toluene. (a, b) Reprinted from ref 120.Copyright 2013 American Chemical Society. (c) ASAXS of FeO (core)−γ-MnO (shell) nanoparticles
+3 4 2 3
+measured at both Fe and Mn K-edges. (",Figure 12,,Figure 12,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"(a)SEMimageof15 nmDNA-conjugated gold nanoparticles (DNA−AuNPs) hybridizedtoDNA modifiedsubstrates. (b)Structure
+factors calculated from SEM and experimental SAXS data. (c) The pair distribution function calculated from the structure factor in (b) shows
+sharperpeaksandclearerhexagonalsymmetrythanthe",Figure 14,,Figure 14,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"(a) SAXS S(q) for DNA−AuNP superlattices annealed at
+β strain = 4e tanθ (51) various temperatures. (b) Williamson−Hall analysis to deconvolute
+where β is the peak integral breadth, split into contributions peak broadening arising from grain size (intercept) and microstrain
+(slope) by plotting β vs p",Figure 17,,Figure 17,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"SuperparticlesmadefromsphericalFeO (a)andPbSe(b),aswellasrodlikeCdSe/CdS(c)andcubicFeO (d).(a)Modifiedfromref
+3 4 3 4
+196.Copyright2013AmericanChemicalSociety.(b)Modifiedfromref197.Copyright2012AmericanChemicalSociety.(c)Modifiedfromref
+198.Copyright 2009 American Chemical Society. (d) Modified from",Figure 19,,Figure 19,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"(a)Sampleconfigurationinasectionparalleltothebeam. silica oligomers adsorbed to the CTAB micelle surface, which
+(b) Typical apparent intensity of a two-length-scale porous system ledtoareductionoftheintermicellarrepulsionandresultedin
+(water-alteredglass).Threeregionsareidentified:(I)alowqPorod’s
+mi",Figure 21,,Figure 21,medium,standard,FALSE
+P366,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",P366_unidentified.pdf,2016,medium,partial,figure_caption,measurement,"Here, I(q)
+example,primaryparticlesmaybearrangedintoclusterswhich
+in turn may be arranged into short lines. These lines may be
+finally assembled into dendrimer-like structures.218 Each
+component of this multilevel hierarchical aggregate produces
+itsownscattering(Figure22b,d).InFigure22b,weemphasize
+",Figure 23,,Figure 23,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,abstract,general,"Polyureas, formed by the rapid reaction between isocyanates
+and diamines, are attractive for various applications due to their outstanding
+mechanical properties, which can be tuned by varying component chemistry,
+molecular weight, and stoichiometry. Polyureas synthesized from a modified
+methylene diphenyl diisocyanate (Isonate 143 L) and polytetramethylene
+oxide-di-p-aminobenzoate (Versalink P1000) are widely utilized and inves-
+tigatedforenergyabsorbingapplicationssuchasimpactmitigationandballi",abstract section,1,abstract,high,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,conclusion,general,"intimate association with hard segments. The latter contains
+some trifunctional units (chemical cross-links), as well as urea Previously it was shown that while high strain rates induce
+groups capable of forming hydrogen bonds with the ether primarily an elastic response, with only modest permanent
+oxygen atoms on the soft segments. changesinmorphologyandsampledimensions,thesituationis
+Figure 12 shows the full width at half-maximum of the quite different for slow extension of elastomeric polyure",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,general,"small-angle X-ray scattering to investigate amorphous segment and hard domainorientation,andbroadbanddielectricspectroscopyforinterrogationof",line 28,1,small-angle,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,measurement,"tion,wide-angleX-raydiffraction(WAXD)patternsweremeasuredon Chain Orientation: Wide-Angle X-ray Diffraction. The",line 77,2,wide-angle,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,general,"Chain Orientation: Wide-Angle X-ray Diffraction. The aRigakuDMAX/rapidmicrodiffractometerintransmissionmode,using",line 78,2,wide-angle,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,general,"Small-angleX-rayscattering(SAXS)experimentswereusedtoexplore tropic scattering, with slightly stronger scattered intensity harddomainorientationandanychangesinunlikesegmentmixing.The on the equator, giving rise to a broad amorphous halo in the",line 81,3,saxs,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,general,"SAXSdatawerecollectedusingaMolecularMetrologyinstrumentwith azimuthally averaged one-dimensional WAXD profiles shown aCuKαradiationsource(λ=0.154nm)at45kVand66mA,using",line 83,3,saxs,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,excerpt,general,polyethylene (S-2907) secondary standard.19 SAXS and WAXD mea- 2D X-ray diffraction patterns after relaxation from various,line 90,3,saxs,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,performance_data,measurement,Dielectric constant: 0,text extraction,,performance,medium,standard,TRUE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"As the extension ratio increases, the scattered
+atwo-dimensionalmultiwiredetectorwithasample-to-detectordistance intensitybecomesconcentratedontheequator,indicatingthat
+of1.5m.Absolutescatteredintensitiesweredeterminedbycomparing the(amorphous)segmentsareincreasinglyorientedalong the
+the spectra of ",Figure 3,,Figure 3,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"2DWAXDpatterns:(toprow)undeformedpolyureaandpolyureaat100%,200%,300%and400%strain;(bottomrow)polyureasafter
+relaxation. The deformation direction isvertical.
+domain reorganization and orientation due to stress transferred
+from oriented soft segments.21,25
+Inadditiontothestrongscatteredintensityonthe",Figure 2,,Figure 2,medium,high_relevance_pu,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"WAXDscatteredintensityprofilesasafunctionof2θ(bottom
+mains are oriented (plastically deformed) at high strains, with
+totop):undeformed,100%,200%,300%,and400%strain.Key:solid
+negligible relaxation after removal of the strain. This is distinct
+lines, deformed samples; dashed lines, samples after relax",Figure 3,,Figure 3,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"2DSAXSpatternsofpolyurea:(toprow)undeformedanddeformedtovarioustensilestrains;(bottomrow)relaxedafterdeformation.
+Vertical deformation direction.",Figure 5,,Figure 5,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"Background corrected absolute scattering intensity (azimuthally averaged) vs q (a) under uniaxial extension and (b) relaxed after
+deformation.
+degree of microphase separation (equal to zero for complete where ϕ and ϕ are the respective volume fractions of hard
+hs ss
+mixing and unity for phase-separa",Figure 7,,Figure 7,medium,high_relevance_pu,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"Dielectriclossspectraofdry(opensymbols)andhydrated H-bond breakage between the urea segments, thus exposing
+(filled symbols) polyurea at 298 K,undeformed and at 400% strain. additional, highly polar, hydration sites.
+WefitthedielectricspectratoasumofaHavriliak−Negami
+peraturerangestudied,thechainseg",Figure 8,,Figure 8,medium,standard,FALSE
+P369,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,P369_unidentified.pdf,2012,medium,good,figure_caption,measurement,"Glass transition temperature and fragility of uniaxially
+deformed polyurea (defined as the temperature where the segmental
+relaxation time is 100 s)as a function of applied strain.
+glass transition temperature (defined as the temperature at
+which τ = 100 s). Strain has no effect on f , but significa",Figure 11,,Figure 11,medium,standard,TRUE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,conclusion,interpretation,"12 I I
+A
+I Ruland’s theory was applied to analyse the SAXS data
+1 - A for PEGDA/DEGBA IPN system. The interphase thick-
+A m 75125 ness was probed. It was found that the interphase
+10- * . 50/50 thickness did not exist in this system. The results imply
+l that the interface isvery sharp. Because of this, a fractal
+A 25/75
+9 - l : A concept wasintroduced to study the scattering behaviour
+of a rough interface with sharp boundaries. Results
+l A
+show that there are length scales where the scattering
+8",conclusion section,end,conclusion,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,general,SAXS measurementsof the interface in polyacrylate and epoxy interpenetrating,line 5,1,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,interpretation,polyacrylateandepoxyweredeterminedusingsmall-angleX-rayscattering(SAXS)intermsofthetheory proposedbyRuland.Thethicknesswasfoundto benonexistentforthesamplesat variouscompositions,line 13,1,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,method,SAXS isauseful experiment method in the determina- yardstick used to measure the property exists. The main,line 34,1,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,method,"Especially, SAXS has been used to obtain information behaviour. Many methods based on fractal concepts",line 40,1,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,measurement,"small-angle X-ray scattering (SAXS), small-angle neutron PEGDA/DGEBA IPNs and obtained a satisfactory",line 45,2,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,excerpt,general,"by TEM, d.m.a., etc.6. When the SAXS data of IPNs silicas, coals, and aerogels, etc., including the determina-",line 50,2,saxs,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,figure_caption,measurement,"Therefore,
+A the positive intercepts shown in Figure 2 do not result
+A
+L- from the lower estimate ofthe background contribution.
+AA Plots ofln[1Ss4]vs.~’for desmeared scattering data are
+.A
+shown inFigure3 According to equation (4), such plots
+w will give negative slopes for IPNs with diffuse domain",Figure 1,,Figure 1,medium,standard,FALSE
+P372,"Polymer Vol.38No.18,pp.4571-4575,1997",P372_unidentified.pdf,1996,low,partial,figure_caption,measurement,"According to equation (7), this plot should give a Figure 3 Plot to evaluate the interracial thickness parameter, a
+negative intercept for PEGDA/DGEBA IPNs with a according toequation (5).ln(s41) (withI from whichthebackground,
+1~,hasbeensubtracted) isplotted against s*.For thesakeofclarity, the
+dif",Figure 2,,Figure 2,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,abstract,general,"This article provides an overview of recent developments in time-resolved small-angle X-ray scattering on the high
+brilliancebeamline(ID02)attheESRF.WiththeimageintensifiedCCDdetectorandthefullphotonflux,itispossible
+toobtainagoodscatteringcurveofaveryweaklyscatteringbiologicalsamplewithonly0.1sofacquisition.Forintense
+scatteringsamples,thelongestcameralength(10m)allowstoaccessd-spacingsupto1mm.ThehighresolutionBonse–
+Hartsetupextends the spatialrangeup to 5mm. #2001Elsevier Science B.V.Allright",abstract section,1,abstract,high,standard,TRUE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,conclusion,general,"[1] P.Bo.secke,Rev.Sci.Instrum.63(1992)438.
+The high-brilliance beamline ID02 at the ESRF [2] J. Swislow, Certified Scientific Software, Cambridge, MA
+02139,USA,1999.
+is now fully dedicated to SAXS/WAXS and
+[3] P.Bo.secke,O.Diat,J.Appl.Crystallogr.30(1997)867.
+USAXS experiments: (a) conventional 2d SAXS/
+[4] A.P. Hammersley, S.O. Svensson, A. Thompson, Nucl.
+WAXS pinhole camera and (b) fast scanning Instr.andMeth.inPhys.Res.A346(1994)312.
+Bonse–Hart USAXS camera. With the high [5] J.S. Pedersen,",conclusion section,end,conclusion,high,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,SAXS and USAXS on the high brilliance beamline at the ESRF,line 2,1,saxs,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,"This article provides an overview of recent developments in time-resolved small-angle X-ray scattering on the high brilliancebeamline(ID02)attheESRF.WiththeimageintensifiedCCDdetectorandthefullphotonflux,itispossible",line 8,1,small-angle,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,"toobtainagoodscatteringcurveofaveryweaklyscatteringbiologicalsamplewithonly0.1sofacquisition.Forintense scatteringsamples,thelongestcameralength(10m)allowstoaccessd-spacingsupto1mm.ThehighresolutionBonse–",line 10,1,dsc,medium,standard,TRUE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,"Keywords: SAXS;USAXS;Time-resolvedsmall-anglescattering 1. Introduction width at half maximum) beam size,",line 14,1,saxs,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,designed for small-angle X-ray scattering (SAXS) can be varied between 8 and 17keV but the usingahighlymonochromaticbeamwithverylow experimentsareusuallydoneat12.5keVwherethe,line 18,1,saxs,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,excerpt,general,lineisnowfullydedicatedfortime-resolvedSAXS and combined SAXS and wide-angle X-ray,line 21,1,saxs,medium,standard,FALSE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,performance_data,measurement,FWHM: 4,text extraction,,performance,medium,standard,TRUE
+P376,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,P376_unidentified.pdf,2001,medium,good,figure_caption,measurement,"The performance of
+the beamline optics is described in a previous The scattering vector range that is typically
+publication [1]. Typical photon flux routinely accessible by the pinhole SAXS camera is
+obtained at the sample position is (cid:1)1013 10(cid:3)2nm(cid:3)14q410nm(cid:3)1, where q is defin",Figure 1,,Figure 1,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,abstract,method,"Unlike traditional macromolecules, supramolecular poly-
+mers are assemblies composed of individual monomeric units that are
+connected not by covalent bonds but through reversible, noncovalent
+interactions. This fundamental distinction from conventional polymers
+endows them with a wide range of novel and tunable properties, such as
+intrinsic dynamic reversibility, responsiveness to external stimuli (e.g.,
+temperature,pH,light,andchemicalenvironment),self-healingcapability,
+and the ability to unde",abstract section,1,abstract,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,method,"XRD,SAXS,WAXS,etal.),microscopies(AFM,SEM,TEM,CLSM,etal.)andmethodsusedintraditionalpolymers(SEC,VPO, TGA, DSC, et al.). Due to the complexity and multifaceted nature of supramolecular systems, no single technique is capable of",line 23,1,saxs,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,general,"TGA, DSC, et al.). Due to the complexity and multifaceted nature of supramolecular systems, no single technique is capable of providingacompleteandunambiguousdescription.Therefore,acombinationofcomplementarytechniquesistypicallyrequiredto",line 24,1,dsc,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,general,"1. INTRODUCTION stacking, hydrogen bonding, metal coordination, van der Waals forces, hydrophobic effects or host−guest interactions",line 29,1,hydrogen bond,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,general,"architectures, including, directional hydrogen bonding motifs, metal−ligand coordination complexes, π−π stacking inter-",line 128,4,hydrogen bond,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,general,"2.2. Classification of Supramolecular Polymers Based on forces, including π−π stacking, hydrogen bonding, metal the Structure of Monomers coordination and host−guest interactions, etc. Although",line 223,6,hydrogen bond,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,excerpt,general,Discotic (D type) monomers are usually composed of one covalent and ionic bonds. A single hydrogen bond (about 5− planar disc-shaped core and a set of flexible side-chains 30 kJ/mol) is not strong enough to form stable SPs. When,line 229,6,hydrogen bond,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,performance_data,measurement,d-spacing: 0.47 nm,text extraction,,performance,medium,standard,TRUE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"78
+to assemble monomeric units into extended polymeric
+architectures, including, directional hydrogen bonding motifs,
+metal−ligand coordination complexes, π−π stacking inter-
+actions, hydrophobic effects, electrostatic attractions and
+host−guest recognitions. Each of these interactions offers
+distin",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"Schematic classification of supramolecular monomers into
+will be formed rapidly. Just like in the nucleation−elongation three major types: discotic (D type), heteroditopic (AB type), and
+mechanism, the degree of polymerization (DP) increases homoditopic (AA type).
+significantly, once the critical va",Figure 3,,Figure 3,medium,standard,TRUE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"2.3.1.HydrogenBonds.Hydrogenbondsareweakerthan
+Discotic (D type) monomers are usually composed of one covalent and ionic bonds. A single hydrogen bond (about 5−
+planar disc-shaped core and a set of flexible side-chains 30 kJ/mol) is not strong enough to form stable SPs. When
+(usually more than two).",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"134 The binding constant exhibited a substantial tions.6,18,19,74,103,110,131,147,179,207−218 The integration of di-
+verse supramolecular building blocks not only expands the
+structural diversity, but also enables precise control over their
+polymerization kinetics, yielding materials with well-defin",Figure 5,,Figure 5,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Structures of TCP1 and TCP2. (b) Partial variable-
+temperature1HNMRspectraofTCP2inCDCl.Reproducedfrom
+3
+ref 231. CC BY-NC4.0.
+that the formation of this intramolecular hydrogen-bonded
+pseudocycle in TCP2 could stop the supramolecular
+copolymerization with TCP1. This study highlighted how
+structu",Figure 7,,Figure 7,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Structure and schematic presentation of the supra-
+molecular polymerization of trans-P5. (b) Partial COSY NMR Figure 9. (a) Schematic presentation of the supramolecular
+spectrumoftrans-P5inCDCl.Reproducedwithpermissionfromref polymerization of CDA-out•H+. (b) Partial ROESY spectrum
+196. Copyrigh",Figure 8,,Figure 8,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Chemical structures of BP34C10 and DCNV and
+suppresses their excimer formation effectively and the cartoon representations of BP34C10, DCNV, Ag+, acetone, [2]-
+following quenching effects. Finally, the solid-state emission pseudorotaxane, polypseudorotaxane, and [3]pseudorotaxane. (b)
+efficiency",Figure 11,,Figure 11,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Synthesis, (b) crystal structure, and (c) ESI-MS
+gel, and (c) its CP-MAS 1H NMR spectra with different guests. spectrum of PYMC. Reproduced from ref 270. Copyright 2019
+Reproducedwithpermission from ref262.CC BY4.0. American Chemical Society.
+H https://doi.org/10.1021/acspolymersau.5c00153
+ACSPo",Figure 13,,Figure 13,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Schematic illustration of supramolecular polymorphs elucidating mechanisms of pathological protein misfolding.
+and dynamic chirality inversion of Ag+/PVPCC. (b) Structure of
+Also,thevariationsinexchangeratesmayreflectdifferencesin
+PVPCC.(c)ExperimentalandsimulatedMALDI-TOF-MSspectraof
+protein−li",Figure 14,,Figure 14,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Structures of monomers (Cn-Os) and schematic
+illustration of their tunable supramolecular polymerization. (b) The
+dynamics and (c) kinetics studies of their polymerization in water
+basedonHDX-MS data. Reproducedfromref 278. CCBY 4.0.
+deuteration within several minutes, reflecting the highly
+dyna",Figure 16,,Figure 16,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Different polymerization modes of NDI-1. (b, c)
+Partial IR spectra of (b) a methylcyclohexane/toluene solution
+containing S(NDI-1) and diethylamine and (c) solution introduced",Figure 19,,Figure 19,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"The observed Rabi cm−1 (C�C stretch) and 2074 cm−1 (C�C stretch), also
+splittingofsuchpolaritonicstatesshowedthestateoftheVSC. with no residual monomeric diacetylene signals (2264 cm−1)
+The substantial Rabi splitting at 185 cm−1 was observed, in polymerized regions.
+exceeding the full width at half-",Figure 19,,Figure 19,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Structure of BTMA-1. (b) Co2+ triggered
+irradiation(iv).(c)Schematicofafoldedfilterpapercoatedwith1-
+decomposition of its supramolecular helical polymer. (c, d)
+endo(i). Photosof the folded1-endo-immobilized filterpaperafter
+Fluorescence titration of the metal-binding equilibria in (c) HEPES
+hea",Figure 21,,Figure 21,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Molecular structure of BODIPY1. (b, c, d) Time- 3.3.6. Circularly Polarized Luminescence. Circularly
+resolved emission spectra, (e, f, g) normalized fluorescence decay polarized luminescence (CPL) refers to the phenomenon
+curves, and (h, i, j) time-resolved fluorescence anisotropy decay of
+where",Figure 22,,Figure 22,medium,standard,FALSE
+P380,How to Characterize Supramolecular Polymers: A User Guide,P380_unidentified.pdf,2008,medium,partial,figure_caption,measurement,"(a) Supramolecular polymerization of Zn-pcCPG-O and
+illustration of light-modulated chiroptical activity inSPs. (c, d)CPL Zn-pcCPG-C. (b, d) Fermi edge side of UPS spectra of (b) Zn-
+spectraevolutionofSP1obtainedundervariousconditions:(c)after pcCPG-O//AuTS and (d) Zn-pcCPG-C//AuTS. (c, e) Secondary",Figure 25,,Figure 25,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,abstract,method,"The mechanical properties of polymeric electronic
+films are fundamental to their performance in stretchable and
+flexibleelectronics,wherematerialsmustretainfunctionalityunder
+mechanical deformation. Common methods for evaluating these
+properties, such as film-on-elastomer and film-on-water, provide
+valuable insights but may introduce substrate-induced effects. To
+address this limitation, we present a novel method (FAST) for
+directly probing the mechanical response of fully free-standing
+polymeri",abstract section,1,abstract,high,high_relevance_pu,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,conclusion,finding,"significant impact on side-chain packing. An appropriate In this study, we introduced a novel tensile testing method,
+increase in temperature can enhance the orientation of side- FAST, for the direct fabrication and characterization of free-
+chain molecules. These findings underscore the significant standing polymer ultrathin films. Using P3PT as a model
+impact of temperature on the microstructural organization of material,wesystematicallyinvestigatedtheinfluenceofvarious
+polymer films, affectin",conclusion section,end,conclusion,high,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,general,Figure 3. (a) Evolution of the 2D GIWAXS patterns of P3PT thin films with varying thicknesses and temperatures. (b) Evolution of the pole figuresofP3PTwithvaryingthicknessesandtemperatures.(c)Variationsoffilmstructureparameterswithvaryingthicknessesandtemperatures.,line 145,4,waxs,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,measurement,"of three polymer semiconductors�PDPP3T, PM6, and IDTBT. (c) Two-dimensional patterns obtained by grazing-incidence wide-angle X-ray scattering(GIWAXS).",line 186,5,wide-angle,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,general,"films across these aspect ratios exhibited similar mechanical P3PT thin films, we performed grazing-incidence wide-angle behaviors, with negligible differences in modulus and strain at X-ray scattering (GIWAXS) measurements (Figure 3a). The",line 193,5,wide-angle,medium,standard,TRUE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,finding,"behaviors, with negligible differences in modulus and strain at X-ray scattering (GIWAXS) measurements (Figure 3a). The fracture. Given that the film thickness remained constant, the results revealed distinct structural variations with increasing",line 194,5,waxs,medium,standard,TRUE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,finding,trend. These results suggest a progressive reorientation of GIWAXS measurements of P3PT thin films at various molecular side-chain packing and conjugated backbone π−π temperatures revealed that increasing temperature led to an,line 229,6,waxs,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,excerpt,measurement,"shifttowardout-of-planeorderingofsidechains.Concurrently, temperatures. Beyond the shifts in peak positions, the theSvalueofthe(010)peakdecreasedtowardzero,indicating coherence length of the (100) peak increased with temper-",line 237,6,peak position,medium,standard,TRUE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,figure_caption,measurement,"(a)Schematicillustrationoftensiletestingmethodsforpolymermaterials,highlightingthetransitionfrombulktothin-filmmechanical
+characterization.(b)Fabricationprocessoffullyfree-standingultrathinfilmsandaschematicrepresentationoftheFASTtensiletestingmethod.
+conditions. However, these methods usually rely ",Figure 1,,Figure 1,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,figure_caption,measurement,(a) Evolution of the 2D GIWAXS patterns of P3PT thin films with varying thicknesses and temperatures. (b) Evolution of the pole,Figure 3,,Figure 3,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,figure_caption,measurement,"(a)Schematicillustrationsofmolecularpackingarrangementsinthreedistincttypesofpolymersemiconductors.(b)Chemicalstructures
+of three polymer semiconductors�PDPP3T, PM6, and IDTBT. (c) Two-dimensional patterns obtained by grazing-incidence wide-angle X-ray
+scattering(GIWAXS).
+P3PT films while maintainin",Figure 4,,Figure 4,medium,standard,FALSE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,figure_caption,measurement,"(a−c)Variationsofstress−straincurves,modulus,andstrainatfractureasafunctionoftemperatureforPDPP3T.(d−f)Variationsof
+stress−straincurves,modulus,andstrainatfractureasafunctionoftemperatureforPM6.(g−i)Variationsofstress−straincurves,modulus,and
+strainatfracture asafunction oftemperature forIDTBT.
+to t",Figure 5,,Figure 5,medium,standard,TRUE
+P386,Direct Characterization of Mechanical Properties in Fully Free-,P386_unidentified.pdf,2025,low,good,figure_caption,measurement,"These observations highlight
+patterns are presented in Figure 4c. thetemperature-dependentnatureofpolymericfilms,whichis
+G https://doi.org/10.1021/acs.macromol.5c00747
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Article",Figure 5,,Figure 5,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,Dynamic pathways in energy landscapes guiding supramolecular Janus dendrimer,line 2,1,dsc,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,self-assemblies between lamellar and cubic architectures,line 4,1,lamellar,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,"Checkforupdates ate from equilibrium, depicting profound energy landscapes with remarkable structural and functional diversity. Despite this potential,",line 10,1,dsc,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,"achieving an energy landscape that encompasses lamellar and inverse cubic structures remains a significant challenge, contrasting with the",line 12,1,dsc,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,self-assembly system capable of reversibly transitioning between lamellar vesiclesandinversecubicstructures.Byexploitingtemperature-triggered,line 16,1,lamellar,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,excerpt,general,rich energy landscape featuring diverse assembly pathways spanning lamellar vesicles and inverse cubosomes. Our study not only enriches the,line 20,1,dsc,medium,standard,FALSE
+P414,Dynamic pathways in energy landscapes,P414_unidentified.pdf,2025,low,partial,figure_caption,measurement,"These
+somesviaintermediatespongesduringannealingat37°C,reaching results indicate that fusion occurred as the transformation pro-
+77% cubosomes formation over a prolonged duration of 120h ceeded during37°Cannealing,withethanolsignificantlyenhancing
+(Fig.4e–jandlandSupplementaryFig.12).Notably,inthepr",Figure 5,,Figure 5,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,abstract,general,"This work aims to examine the architecture effect
+on the self-assembly of high-χ block copolymers (BCPs),
+polystyrene-block-polydimethylsiloxane (PS-b-PDMS). Lamellae-
+forming diblock and star BCPs with three and six arms were
+synthesized for self-assembly. A variety of self-assembled phases,
+especially network phases, can be formed by tuning the solvent
+evaporation rate for solution casting using PS-selective solvents
+(referred to as controlled self-assembly). In contrast to diblocks
+withlinear",abstract section,1,abstract,high,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,conclusion,interpretation,"Inthisstudy,thearchitectureeffectoncontrolledself-assembly Figure 5. Phase behaviors of diblock and star-block PS-b-PDMS by
+of PS-b-PDMS with nearly symmetric compositions, including controlled self-assembly.
+diblocksandstar-blocksBCPs,wasexamined.Thearchitecture
+effect results in distinguishable differences in self-assembled compared to a three-arm star BCP, a six-arm star BCP gives
+phase behaviors between diblocks and star-blocks, suggesting more diversity fornetworkphase formation,atwhich net",conclusion section,end,conclusion,high,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,"microphase separation among the chemically incompatible located in the narrow window. As alternatives, various",line 29,1,microphase,medium,high_relevance_pu,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,"microphase separation, which benefits the stability and the ordering of the self-assembled phases.40 Therefore, by using cyclohexane, chloroform, toluene, dichloromethane, and chloroben-",line 117,3,microphase,medium,high_relevance_pu,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,"which is kinetically controlled by the evaporation rate of the Small-Angle X-ray Scattering Experiments. The small-angle selectivesolvent.Withthat,itispossibletogivetheformation X-rayscattering(SAXS)experimentsusingsynchrotronbeamsources",line 150,4,small-angle,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,"selectivesolvent.Withthat,itispossibletogivetheformation X-rayscattering(SAXS)experimentsusingsynchrotronbeamsources of network phases, including gyroid, diamond, and even a werecompletedatbeamlineTLS23AandbeamlineTPS13Aofthe",line 151,4,saxs,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,dimensional(2D)SAXSpatternswerecollectedbyanMARCCDX- theformationofcomplexnetworkphasesthroughappropriate ray detector (MAR USA) and azimuthally integrated to one-,line 163,5,saxs,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,excerpt,general,selection of solvent for solution casting under optimized dimensional (1D) SAXS profiles. The incident X-ray beam (λ = processing conditions for nearly symmetric BCPs. 0.83 Å) at TPS 13A to the energy of 15 keV was aligned through a,line 165,5,saxs,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,figure_caption,measurement,"(A) One-dimensional SAXS profiles; (B−E) TEM
+solvent), respectively, showing reflections occurred at the
+micrographs of PS-b-PDMS from solution casting using chloroform,
+relativeqvaluesrevealthatthevolumetriccompositionsofthe
+toluene, dichloromethane, and chlorobenzene at a fast evaporation
+constitu",Figure 1,,Figure 1,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,figure_caption,measurement,(A) One-dimensional SAXS profiles and (B−E) TEM,Figure 3,,Figure 3,medium,standard,FALSE
+P425,Architecture Effect on Network Phase Formation from Controlled,P425_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Schematicillustrationofthearchitectureeffectonthecontrolledself-assembledBCPsof(A)diblock,(B)three-arm,and(C)six-arm
+star-blockPS-b-PDMS.
+evaporation rate to 0.1 mL/day (referred to slow evaporation voids, even at the swollen state when polymer chains are
+rate)ascomparedto0.1mL/husedabove,asshowninF",Figure 4,,Figure 4,medium,standard,FALSE

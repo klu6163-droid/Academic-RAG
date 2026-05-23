@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2
+numpy>=1.26
+pyyaml>=6
+openai>=1.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+pdfplumber>=0.11
+requests>=2.31

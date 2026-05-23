@@ -1,0 +1,163 @@
+group_id,paper_id,file_name,title,doi,keep_or_remove,reason
+TITLE_P003,P004,P004_unidentified.pdf,www.advmat.de,10.1002/adma.202311992,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P018,P020,P020_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.6b02711,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P025,P025_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.7b00582,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P030,P030_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.7b01440,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P031,P031_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.7b00767,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P032,P032_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.7b01718,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P036,P036_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.7b01929,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P018,P037,P037_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.macromol.6b02355,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P040,P041,P041_unidentified.pdf,"CiteThis:Macromolecules2018,51,4423−4423",10.1021/acs.macromol.8b01202,remove,"Similar title to P040: 'CiteThis:Macromolecules2017,50,9525−9527'"
+TITLE_P003,P053,P053_unidentified.pdf,www.advmat.de,10.1002/adma.202505193,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P043,P055,P055_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,10.1002/anie.202318412,remove,Similar title to P043: 'A Journal of the Gesellschaft Deutscher Chemiker'
+TITLE_P043,P056,P056_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,10.1002/anie.202317045,remove,Similar title to P043: 'A Journal of the Gesellschaft Deutscher Chemiker'
+TITLE_P003,P061,P061_unidentified.pdf,www.advmat.de,10.1002/adma.202105416,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P062,P062_unidentified.pdf,www.advmat.de,10.1002/adma.202105416,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P018,P076,P076_unidentified.pdf,"This is an open access article published under an ACS AuthorChoice License, which permits",10.1021/acs.chemrev.6b00504,remove,Similar title to P018: 'This is an open access article published under an '
+TITLE_P049,P081,P081_unidentified.pdf,Green Chemistry,10.1039/c5gc02277k,remove,Similar title to P049: 'Green Chemistry'
+TITLE_P082,P085,P085_unidentified.pdf,Materials Chemistry B,10.1039/c9tb02570g,remove,Similar title to P082: 'Materials Chemistry A'
+TITLE_P082,P087,P087_unidentified.pdf,Materials Chemistry A,10.1039/d2ta06541j,remove,Similar title to P082: 'Materials Chemistry A'
+TITLE_P003,P092,P092_unidentified.pdf,www.advmat.de,10.1002/adma.202211679,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P101,P101_unidentified.pdf,www.advmat.de,10.1002/adma.202506563,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P109,P109_unidentified.pdf,www.advmat.de,10.1002/adma.202510524,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P111,P112,P112_unidentified.pdf,NanoEnergy105(2023)108024,10.1016/j.nanoen.2022.108024,remove,Similar title to P111: 'NanoEnergy102(2022)107690'
+TITLE_P111,P114,P114_unidentified.pdf,NanoEnergy120(2024)109092,10.1016/j.nanoen.2023.109092,remove,Similar title to P111: 'NanoEnergy102(2022)107690'
+TITLE_P113,P117,P117_unidentified.pdf,NanoEnergy118(2023)108987,10.1016/j.nanoen.2023.108987,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P115,P121,P121_unidentified.pdf,MaterialsTodayCommunications31(2022)103491,10.1016/j.mtcomm.2022.103491,remove,Similar title to P115: 'MaterialsTodayCommunications31(2022)103491'
+TITLE_P003,P125,P125_unidentified.pdf,www.advmat.de,10.1002/adma.202208256,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P126,P126_unidentified.pdf,www.advmat.de,10.1002/adma.202409400,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P128,P128_unidentified.pdf,www.advmat.de,10.1002/adma.202313127,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P129,P129_unidentified.pdf,www.advmat.de,10.1002/adma.202007429,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P130,P130_unidentified.pdf,www.advmat.de,10.1002/adma.202208256,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P131,P131_unidentified.pdf,www.advmat.de,10.1002/adma.202409400,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P003,P132,P132_unidentified.pdf,www.advmat.de,10.1002/adma.202313127,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P123,P134,P134_unidentified.pdf,Piezoelectric Nanomaterial-Mediated Physical Signals,10.1002/smsc.202300255,remove,Similar title to P123: 'Piezoelectric Nanomaterial-Mediated Physical Signa'
+TITLE_P003,P135,P135_unidentified.pdf,www.advmat.de,10.1002/adma.202007429,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P111,P136,P136_unidentified.pdf,NanoEnergy102(2022)107690,10.1016/j.nanoen.2022.107690,remove,Similar title to P111: 'NanoEnergy102(2022)107690'
+TITLE_P133,P137,P137_unidentified.pdf,Energy Harvesting www.advsustainsys.com,10.1002/adsu.201700068,remove,Similar title to P133: 'Energy Harvesting www.advsustainsys.com'
+TITLE_P124,P141,P141_unidentified.pdf,Active self-assembly of piezoelectric biomo-,10.1038/s41467-023-39692-y,remove,Similar title to P124: 'Active self-assembly of piezoelectric biomo-'
+TITLE_P122,P142,P142_unidentified.pdf,"HYDROGELS byweight,blackcurve)producingafasterrise",,remove,"Similar title to P122: 'HYDROGELS byweight,blackcurve)producingafasterrise'"
+TITLE_P139,P143,P143_unidentified.pdf,INSIGHTS | PERSPECTIVES,10.1126/science.ado5706,remove,Similar title to P139: 'INSIGHTS | PERSPECTIVES'
+TITLE_P119,P144,P144_unidentified.pdf,Fabrication and Characterization of Piezoelectric Polymer,10.1021/acsami.2c15802,remove,Similar title to P119: 'Fabrication and Characterization of Piezoelectric '
+TITLE_P003,P148,P148_unidentified.pdf,www.advmat.de,10.1002/adma.202510524,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P091,P152,P152_unidentified.pdf,"Howtocite:Angew.Chem.Int.Ed.2025,e202514632",10.1002/anie.202514632,remove,"Similar title to P091: 'Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559'"
+TITLE_P102,P153,P153_unidentified.pdf,Recent Advances in the Design of Ionenes: Toward,10.1002/macp.201900078,remove,Similar title to P102: 'Recent Advances in the Design of Ionenes: Toward'
+TITLE_P005,P157,P157_unidentified.pdf,Chemistry,10.1039/D5PY00181A,remove,Similar title to P005: 'Chemistry'
+TITLE_P161,P165,P165_unidentified.pdf,Chemical Engineering Journal 521 (2025) 166372,10.1016/j.cej.2025.166372,remove,Similar title to P161: 'Chemical Engineering Journal 374 (2019) 706–720'
+TITLE_P003,P167,P167_unidentified.pdf,www.advmat.de,10.1002/adma.202407925,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P118,P168,P168_unidentified.pdf,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",10.1016/j.mattod.2023.03.008,remove,"Similar title to P118: 'Materials Today d Volume xxx, Number xx d xxxx 202'"
+TITLE_P113,P169,P169_unidentified.pdf,NanoEnergy111(2023)108365,10.1016/j.nanoen.2023.108365,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P113,P170,P170_unidentified.pdf,NanoEnergy111(2023)108378,10.1016/j.nanoen.2023.108378,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P113,P171,P171_unidentified.pdf,NanoEnergy110(2023)108385,10.1016/j.nanoen.2023.108385,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P113,P172,P172_unidentified.pdf,NanoEnergy111(2023)108389,10.1016/j.nanoen.2023.108389,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P111,P173,P173_unidentified.pdf,NanoEnergy110(2023)108392,10.1016/j.nanoen.2023.108392,remove,Similar title to P111: 'NanoEnergy102(2022)107690'
+TITLE_P003,P175,P175_unidentified.pdf,www.advenergymat.de,10.1002/aenm.202300387,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P082,P178,P178_unidentified.pdf,M aterials Chemistry A,10.1039/D5TA01136A,remove,Similar title to P082: 'Materials Chemistry A'
+TITLE_P118,P179,P179_unidentified.pdf,"MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",10.1016/j.mattod.2023.03.010,remove,"Similar title to P118: 'Materials Today d Volume xxx, Number xx d xxxx 202'"
+TITLE_P091,P180,P180_unidentified.pdf,"Howtocite:Angew.Chem.Int.Ed.2025,e18543",10.1002/anie.202518543,remove,"Similar title to P091: 'Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559'"
+TITLE_P066,P181,P181_unidentified.pdf,Materials Today xxx (xxxx) xxx,10.1016/j.mattod.2025.10.017,remove,Similar title to P066: 'Materials Today xxx (xxxx) xxx'
+TITLE_P065,P190,P190_unidentified.pdf,Materials,10.1039/D5MH01525A,remove,Similar title to P065: 'Materials'
+TITLE_P113,P195,P195_unidentified.pdf,NanoEnergy118(2023)108987,10.1016/j.nanoen.2023.108987,remove,Similar title to P113: 'NanoEnergy118(2023)108987'
+TITLE_P003,P196,P196_unidentified.pdf,www.advmat.de,10.1002/adma.202417193,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P116,P197,P197_unidentified.pdf,International Materials Reviews,10.1080/09506608.2021.1915935,remove,Similar title to P116: 'International Materials Reviews'
+TITLE_P120,P207,P207_unidentified.pdf,All-polymer piezo-ionic-electric electronics,10.1038/s41467-024-55177-y,remove,Similar title to P120: 'All-polymer piezo-ionic-electric electronics'
+TITLE_P003,P211,P211_unidentified.pdf,www.advmat.de,10.1002/adma.202513105,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P210,P218,P218_unidentified.pdf,第7期 高 分 子 学 报 No．7,10.11777/j．issn1000-3304.2015．15055,remove,Similar title to P210: '第3期 高 分 子 学 报 No．3'
+TITLE_P210,P222,P222_unidentified.pdf,第5期 高 分 子 学 报 No. 5,10.11777/j.issn1000-3304.2017.16320,remove,Similar title to P210: '第3期 高 分 子 学 报 No．3'
+TITLE_P210,P223,P223_unidentified.pdf,第6期 高 分 子 学 报 No．6,10.11777/j．issn1000-3304.2016．16108,remove,Similar title to P210: '第3期 高 分 子 学 报 No．3'
+TITLE_P228,P229,P229_unidentified.pdf,"PHYSICAL REVIEW E 113,014407(2026)",10.1103/hvtd-qwp1,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P228,P230,P230_unidentified.pdf,"PHYSICAL REVIEW E 112,054405(2025)",10.1103/9wf9-ywhw,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P194,P231,P231_unidentified.pdf,Progress in Polymer Science 167 (2025) 101994,10.1016/j.progpolymsci.2025.101994,remove,Similar title to P194: 'Progress in Polymer Science 120 (2021) 101430'
+TITLE_P082,P232,P232_unidentified.pdf,Materials Chemistry B,10.1039/d1tb00227a,remove,Similar title to P082: 'Materials Chemistry A'
+TITLE_P088,P241,P241_unidentified.pdf,This article is licensed under CC-BY 4.0,10.1021/acs.chemrev.5c00245,remove,Similar title to P088: 'This article is licensed under CC-BY 4.0'
+TITLE_P057,P244,P244_unidentified.pdf,Science AdvAnceS | ReSeAR ch AR ticle,,remove,Similar title to P057: 'Science AdvAnceS | ReSeAR ch AR ticLe'
+TITLE_P088,P253,P253_unidentified.pdf,This article is licensed under CC-BY 4.0,10.1021/acs.chemrev.5c00245,remove,Similar title to P088: 'This article is licensed under CC-BY 4.0'
+TITLE_P228,P261,P261_unidentified.pdf,"PHYSICAL REVIEW E 113,015416(2026)",10.1103/yrqz-h2zc,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P066,P263,P263_unidentified.pdf,MaterialsTodayxxx(xxxx)xxx,10.1016/j.mattod.2025.06.043,remove,Similar title to P066: 'Materials Today xxx (xxxx) xxx'
+TITLE_P228,P264,P264_unidentified.pdf,"PHYSICAL REVIEW E 113,045412(2026)",10.1103/gsyz-nd37,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P013,P267,P267_unidentified.pdf,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,10.1021/acs.macromol.3c01656,remove,Similar title to P013: 'Phase-Pinned Bicontinuous Structures Reconciling w'
+TITLE_P194,P271,P271_unidentified.pdf,Progress in Polymer Science 103 (2020) 101220,10.1016/j.progpolymsci.2020.101220,remove,Similar title to P194: 'Progress in Polymer Science 120 (2021) 101430'
+TITLE_P103,P277,P277_unidentified.pdf,Counterion Effects of Protic Ionic Liquids on the Conductivity and,10.1021/acs.macromol.5c01646,remove,Similar title to P103: 'Counterion Effects of Protic Ionic Liquids on the '
+TITLE_P003,P279,P279_unidentified.pdf,www.advmat.de,10.1002/adma.202511239,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P194,P282,P282_unidentified.pdf,Progress in Polymer Science 140 (2023) 101676,10.1016/j.progpolymsci.2023.101676,remove,Similar title to P194: 'Progress in Polymer Science 120 (2021) 101430'
+TITLE_P194,P290,P290_unidentified.pdf,Progress in Polymer Science 140 (2023) 101676,10.1016/j.progpolymsci.2023.101676,remove,Similar title to P194: 'Progress in Polymer Science 120 (2021) 101430'
+TITLE_P145,P291,P291_unidentified.pdf,"PHYSICAL REVIEW LETTERS 136, 018101 (2026)",10.1103/yf56-tfhd,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P292,P293,P293_unidentified.pdf,Tacticity-independent crystallization,10.1038/s41557-026-02113-w,remove,Similar title to P292: 'Tacticity-independent crystallization'
+TITLE_P275,P295,P295_unidentified.pdf,Polymer Chain Conformation Triggers Electro-osmotic Flow in,10.1021/acs.macromol.5c02010,remove,Similar title to P275: 'Polymer Chain Conformation Triggers Electro-osmoti'
+TITLE_P057,P297,P297_unidentified.pdf,Science AdvAnceS | ReSeAR ch AR ticle,,remove,Similar title to P057: 'Science AdvAnceS | ReSeAR ch AR ticLe'
+TITLE_P043,P299,P299_unidentified.pdf,A Journal of the Gesellschaft Deutscher Chemiker,10.1002/anie.202303506,remove,Similar title to P043: 'A Journal of the Gesellschaft Deutscher Chemiker'
+TITLE_P301,P303,P303_unidentified.pdf,www.angewandte.org,10.1002/anie.202117368,remove,Similar title to P301: 'www.angewandte.org'
+TITLE_P308,P310,P310_unidentified.pdf,《量子化学与分子力学/分子模拟》第四章第四章量子力学模型 http://struchem.nankai.edu.cn,,remove,Similar title to P308: '《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.'
+TITLE_P308,P311,P311_unidentified.pdf,《量子化学与分子力学/分子模拟》第六章 经验力场模型-分子力学 http://struchem.nankai.edu.cn,,remove,Similar title to P308: '《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.'
+TITLE_P308,P312,P312_unidentified.pdf,《量子化学与分子力学/分子模拟》第五章 量子力学计算 http://struchem.nankai.edu.cn,,remove,Similar title to P308: '《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.'
+TITLE_P308,P314,P314_unidentified.pdf,《量子化学与分子力学/分子模拟》第八章分子模拟在药物设计中的应用简介 http://struchem.nankai.edu.cn,,remove,Similar title to P308: '《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.'
+TITLE_P308,P315,P315_unidentified.pdf,《量子化学与分子力学/分子模拟》第九章分子3D绘图 http://struchem.nankai.edu.cn,,remove,Similar title to P308: '《量子化学与分子力学/分子模拟》 第二章 分子的构建 http://struchem.nankai.'
+TITLE_P219,P323,P323_unidentified.pdf,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,10.1021/acs.macromol.5c01993,remove,Similar title to P219: 'Steady-State Extensional Viscosity of Wormlike Mic'
+TITLE_P221,P326,P326_unidentified.pdf,高 等 学 校 化 学 学 报,10.7503/cjcu20200593,remove,Similar title to P221: '高 等 学 校 化 学 学 报'
+TITLE_P235,P327,P327_unidentified.pdf,In Situ Visualization of Microphase Separation in High-Performance,10.1021/acs.macromol.5c02875,remove,Similar title to P235: 'In Situ Visualization of Microphase Separation in '
+TITLE_P156,P328,P328_unidentified.pdf,Angewandte Chemie International Edition,10.1002/anie.8983737,remove,Similar title to P156: 'Angewandte Chemie International Edition'
+TITLE_P161,P336,P336_unidentified.pdf,Chemical Engineering Journal 530 (2026) 173421,10.1016/j.cej.2026.173421,remove,Similar title to P161: 'Chemical Engineering Journal 374 (2019) 706–720'
+TITLE_P256,P341,P341_unidentified.pdf,pubs.acs.org/Macromolecules Article,10.1021/acs.macromol.2c01341,remove,Similar title to P256: 'pubs.acs.org/Macromolecules Perspective'
+TITLE_P228,P343,P343_unidentified.pdf,"PHYSICAL REVIEW E 112,045431(2025)",10.1103/rvph-fx9x,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P208,P346,P346_unidentified.pdf,Viscoelastic Dynamics of Photothermal-Responsive Liquid,10.1002/adfm.202311425,remove,Similar title to P208: 'Viscoelastic Dynamics of Photothermal-Responsive L'
+TITLE_P209,P347,P347_unidentified.pdf,Design of a Recyclable Thiol−ene Network with Dynamic Ether,10.1021/acs.macromol.5c02805,remove,Similar title to P209: 'Design of a Recyclable Thiol−ene Network with Dyna'
+TITLE_P145,P351,P351_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 268101 (2025)",10.1103/3fxg-cbqk,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P003,P355,P355_unidentified.pdf,www.advmat.de,10.1002/adma.202513105,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P088,P358,P358_unidentified.pdf,This article is licensed under CC-BY 4.0,10.1021/acscentsci.5c01718,remove,Similar title to P088: 'This article is licensed under CC-BY 4.0'
+TITLE_P212,P362,P362_unidentified.pdf,A New Approach to the Theory of,10.1063/1.1724109,remove,Similar title to P212: 'A New Approach to the Theory of'
+TITLE_P252,P367,P367_unidentified.pdf,Lyotropic Microphase Separation in Aqueous Solutions of Double,10.1021/acs.macromol.5c01463,remove,Similar title to P252: 'Lyotropic Microphase Separation in Aqueous Solutio'
+TITLE_P265,P371,P371_unidentified.pdf,Piezoionic elastomers by phase and interface engineering for high-performance energy-,,remove,Similar title to P265: 'Piezoionic elastomers by phase and interface engin'
+TITLE_P003,P373,P373_unidentified.pdf,www.advmat.de,10.1002/adma.202506563,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P338,P374,P374_unidentified.pdf,"CiteThis:Macromolecules2018,51,8306−8315 pubs.acs.org/Macromolecules",10.1021/acs.macromol.8b01223,remove,"Similar title to P338: 'CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.'"
+TITLE_P258,P377,P377_unidentified.pdf,"Macromolecules2008,41,5723-5728 5723",10.1021/ma800263bCCC:$40.75,remove,"Similar title to P258: 'Macromolecules2008,41,5723-5728 5723'"
+TITLE_P064,P378,P378_unidentified.pdf,HYDROGELS alkyl-watercontactsandmaximizefavorable,,remove,Similar title to P064: 'HYDROGELS alkyl-watercontactsandmaximizefavorable'
+TITLE_P339,P381,P381_unidentified.pdf,Impact of Chain Length on PCL Dielectric β‑Relaxation: Decoupling,10.1021/acs.macromol.5c01395,remove,Similar title to P339: 'Impact of Chain Length on PCL Dielectric β‑Relaxat'
+TITLE_P012,P384,P384_unidentified.pdf,CORRECTED 28 MARCH 2019; SEE FULL TEXT,,remove,Similar title to P012: 'CORRECTED 28 MARCH 2019; SEE FULL TEXT'
+TITLE_P003,P385,P385_unidentified.pdf,www.advmat.de,10.1002/adma.202506563,remove,Similar title to P003: 'www.advmat.de'
+TITLE_P213,P387,P387_unidentified.pdf,"Slip-Link Theory Predicts Entangled, Star-Branched Relaxation",10.1021/acs.macromol.5c01583,remove,"Similar title to P213: 'Slip-Link Theory Predicts Entangled, Star-Branched'"
+TITLE_P145,P388,P388_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 158101 (2025)",10.1103/1slf-41nm,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P214,P389,P389_unidentified.pdf,"Journal of Non-Newtonian Fluid Mechanics, 43 (1992) 273-288 273",,remove,"Similar title to P214: 'Journal of Non-Newtonian Fluid Mechanics, 43 (1992'"
+TITLE_P383,P391,P391_unidentified.pdf,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,10.1021/acs.macromol.5c01751,remove,Similar title to P383: 'Re-entry with Rate and Temperature of Brittle−Duct'
+TITLE_P228,P394,P394_unidentified.pdf,"PHYSICAL REVIEW E 113,015405(2026)",10.1103/s8k6-cvfr,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P145,P398,P398_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 218101 (2025)",10.1103/p5r4-2g4q,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P216,P399,P399_unidentified.pdf,Unified Memory Kernel for Polymer Dynamics: Coupling,10.1021/acs.macromol.5c01796,remove,Similar title to P216: 'Unified Memory Kernel for Polymer Dynamics: Coupli'
+TITLE_P275,P403,P403_unidentified.pdf,Polymer Chain Conformation Triggers Electro-osmotic Flow in,10.1021/acs.macromol.5c02010,remove,Similar title to P275: 'Polymer Chain Conformation Triggers Electro-osmoti'
+TITLE_P228,P404,P404_unidentified.pdf,"PHYSICAL REVIEW E 113,015404(2026)",10.1103/gqs8-8rtg,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P259,P409,P409_unidentified.pdf,PUBLISHEDONLINE:18JANUARY2016|DOI:10.1038/NMAT4538,10.1038/NMAT4538,remove,Similar title to P259: 'PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT450'
+TITLE_P145,P411,P411_unidentified.pdf,"PHYSICAL REVIEW LETTERS 120, 085705 (2018)",10.1103/PhysRevLett.120.085705,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P259,P413,P413_unidentified.pdf,PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663,10.1038/NMAT4663,remove,Similar title to P259: 'PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT450'
+TITLE_P011,P416,P416_unidentified.pdf,Self-Organization at the Crack Tip of Fatigue-Resistant,10.1021/acs.macromol.1c00934,remove,Similar title to P011: 'Self-Organization at the Crack Tip of Fatigue-Resi'
+TITLE_P103,P417,P417_unidentified.pdf,Counterion Effects of Protic Ionic Liquids on the Conductivity and,10.1021/acs.macromol.5c01646,remove,Similar title to P103: 'Counterion Effects of Protic Ionic Liquids on the '
+TITLE_P145,P418,P418_unidentified.pdf,"PHYSICAL REVIEW LETTERS 135, 238101 (2025)",10.1103/qyqb-9c57,remove,"Similar title to P145: 'PHYSICAL REVIEW LETTERS 122, 047701 (2019)'"
+TITLE_P057,P420,P420_unidentified.pdf,ScieNce Adv ANceS | ReSeAR ch AR ticle,,remove,Similar title to P057: 'Science AdvAnceS | ReSeAR ch AR ticLe'
+TITLE_P057,P421,P421_unidentified.pdf,ScieNce Adv ANceS | ReSeAR ch AR ticle,,remove,Similar title to P057: 'Science AdvAnceS | ReSeAR ch AR ticLe'
+TITLE_P228,P422,P422_unidentified.pdf,"PHYSICAL REVIEW E 112,065405(2025)",10.1103/qmv9-1czv,remove,"Similar title to P228: 'PHYSICAL REVIEW E 112,054404(2025)'"
+TITLE_P256,P424,P424_unidentified.pdf,pubs.acs.org/Macromolecules Article,10.1021/acs.macromol.2c01341,remove,Similar title to P256: 'pubs.acs.org/Macromolecules Perspective'
+TITLE_P023,P426,P426_unidentified.pdf,: Polymer Brushes: Novel Surfaces for,10.1021/acs.macromol.7b00450,remove,Similar title to P023: ': Polymer Brushes: Novel Surfaces for'
+TITLE_P208,P429,P429_unidentified.pdf,Viscoelastic Dynamics of Photothermal-Responsive Liquid,10.1002/adfm.202311425,remove,Similar title to P208: 'Viscoelastic Dynamics of Photothermal-Responsive L'
+TITLE_P300,P430,P430_unidentified.pdf,Multiresponsive and Mechanically Robust Self-Healing Waterborne,10.1021/acs.macromol.5c02116,remove,Similar title to P300: 'Multiresponsive and Mechanically Robust Self-Heali'
+TITLE_P150,P434,P434_unidentified.pdf,Dynamic Covalent Polymer Networks: A Molecular Platform for,10.1021/acs.chemrev.0c00938,remove,Similar title to P150: 'Dynamic Covalent Polymer Networks: A Molecular Pla'
+TITLE_P349,P436,P436_unidentified.pdf,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,10.1021/acs.macromol.3c00356,remove,Similar title to P349: 'Heterogeneous Local Dynamics in Mussel-Inspired El'
+TITLE_P065,P441,P441_unidentified.pdf,Materials,10.1039/D5MH00588D,remove,Similar title to P065: 'Materials'
+TITLE_P050,P442,P442_unidentified.pdf,Preparation of a Tough Elastomer by the Introduction of Multiple,10.1021/acs.macromol.5c01964,remove,Similar title to P050: '2 Preparation of a Tough Elastomer by the Introduc'
+TITLE_P382,P445,P445_unidentified.pdf,Flaw-Tolerant Fracture Enabled by Liquid-like,10.1021/acsmaterialslett.5c00896,remove,Similar title to P382: 'Flaw-Tolerant Fracture Enabled by Liquid-like'
+TITLE_P083,P446,P446_unidentified.pdf,Chem Soc Rev,10.1039/d2cs00509c,remove,Similar title to P083: 'Chem Soc Rev'
+TITLE_P338,P447,P447_unidentified.pdf,"CiteThis:Macromolecules2018,51,6369−6379 pubs.acs.org/Macromolecules",10.1021/acs.macromol.8b01171,remove,"Similar title to P338: 'CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.'"
+TITLE_P154,P449,P449_unidentified.pdf,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,10.1021/acs.chemrev.5c00566,remove,Similar title to P154: 'Dynamic Bond Chemistry in Soft Materials: Bridging'
+TITLE_P238,P450,P450_unidentified.pdf,COMMUNICATION,10.1039/d4mh00648h,remove,Similar title to P238: 'COMMUNICATION'
+TITLE_P156,P455,P455_unidentified.pdf,Angewandte Chemie International Edition,10.1002/anie.8983737,remove,Similar title to P156: 'Angewandte Chemie International Edition'
+TITLE_P156,P456,P456_unidentified.pdf,Angewandte Chemie International Edition,10.1002/anie.8983737,remove,Similar title to P156: 'Angewandte Chemie International Edition'
+KNOWN_P016,P019,P019_unidentified.pdf,: Dielectric Phenomena in Polymers and,10.1021/acs.macromol.6b02669,remove,Known duplicate of P016: Known duplicate
+KNOWN_P060,P059,P059_unidentified.pdf,"Organogels versus Hydrogels: Advantages, Challenges,",10.1002/adfm.202301421,remove,Known duplicate of P060: Known duplicate
+KNOWN_P115,P120,P120_unidentified.pdf,All-polymer piezo-ionic-electric electronics,10.1038/s41467-024-55177-y,remove,Known duplicate of P115: Known duplicate
+KNOWN_P114,P124,P124_unidentified.pdf,Active self-assembly of piezoelectric biomo-,10.1038/s41467-023-39692-y,remove,Known duplicate of P114: Known duplicate
+KNOWN_P129,P133,P133_unidentified.pdf,Energy Harvesting www.advsustainsys.com,10.1002/adsu.201700068,remove,Known duplicate of P129: Known duplicate
+KNOWN_P159,P158,P158_unidentified.pdf,Unifying the Dynamics of Viscoelastic Liquids across the Complex,10.1021/acs.macromol.5c02702,remove,Known duplicate of P159: Known duplicate
+KNOWN_P242,P255,P255_unidentified.pdf,Developing Design Rules for Polyelectrolyte Complex Materials:,10.1021/acs.macromol.6c00009,remove,Known duplicate of P242: Known duplicate
+KNOWN_P284,P292,P292_unidentified.pdf,Tacticity-independent crystallization,10.1038/s41557-026-02113-w,remove,Known duplicate of P284: Known duplicate
+KNOWN_P293,P296,P296_unidentified.pdf,"Polythiourethanes: Synthesis, Applications, and Opportunities",10.1016/j.progpolymsci.2023.101735,remove,Known duplicate of P293: Known duplicate
+KNOWN_P217,P324,P324_unidentified.pdf,Electrically Switchable Molecular Adhesion via Self-Assembled,10.1021/jacs.5c11903,remove,Known duplicate of P217: Known duplicate
+KNOWN_P221,P325,P325_unidentified.pdf,A Computational Analysis of Crystallite Shape under Quiescent and,10.1021/acs.macromol.5c02153,remove,Known duplicate of P221: Known duplicate
+KNOWN_P347,P432,P432_unidentified.pdf,Design of High-Performance Viscoelastic Polymer Nanocomposites,10.1021/acs.macromol.5c01029,remove,Known duplicate of P347: Known duplicate
+KNOWN_P454,P453,P453_unidentified.pdf,Eine Zeitschrift der Gesellschaft Deutscher Chemiker,10.1002/anie.202301762,remove,Known duplicate of P454: Known duplicate
+SUPPLEMENTARY,P008,P008_unidentified.pdf,Supplementary Information for,,remove,Supplementary material

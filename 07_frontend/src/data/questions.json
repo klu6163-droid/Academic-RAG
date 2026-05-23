@@ -1,0 +1,410 @@
+[
+  {
+    "id": "CONC_Phase_Separation",
+    "type": "Concept",
+    "label": "Phase Separation",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Shape_Memory_Effect",
+    "type": "Concept",
+    "label": "Shape Memory Effect",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Free_Volume",
+    "type": "Concept",
+    "label": "Free Volume",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Diffusion",
+    "type": "Concept",
+    "label": "Diffusion",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Ionic_Interactions",
+    "type": "Concept",
+    "label": "Ionic Interactions",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Crosslinking",
+    "type": "Concept",
+    "label": "Crosslinking",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Self_Assembly",
+    "type": "Concept",
+    "label": "Self-Assembly",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Grafting",
+    "type": "Concept",
+    "label": "Grafting",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Hydrogen_Bonding",
+    "type": "Concept",
+    "label": "Hydrogen Bonding",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Toughness",
+    "type": "Concept",
+    "label": "Toughness",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Crystallization",
+    "type": "Concept",
+    "label": "Crystallization",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Polymer_Brushes",
+    "type": "Concept",
+    "label": "Polymer Brushes",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Copolymers",
+    "type": "Concept",
+    "label": "Copolymers",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Surface_Properties",
+    "type": "Concept",
+    "label": "Surface Properties",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Sustainability",
+    "type": "Concept",
+    "label": "Sustainability",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Ionic_Electronic_Conductivity",
+    "type": "Concept",
+    "label": "Ionic/Electronic Conductivity",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Glass_Transition",
+    "type": "Concept",
+    "label": "Glass Transition",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Mechanochromism",
+    "type": "Concept",
+    "label": "Mechanochromism",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Transport_Properties",
+    "type": "Concept",
+    "label": "Transport Properties",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Fracture_Mechanics",
+    "type": "Concept",
+    "label": "Fracture Mechanics",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Polymer_Networks",
+    "type": "Concept",
+    "label": "Polymer Networks",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Topology",
+    "type": "Concept",
+    "label": "Topology",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Supramolecular_Chemistry",
+    "type": "Concept",
+    "label": "Supramolecular Chemistry",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Block_Copolymers",
+    "type": "Concept",
+    "label": "Block Copolymers",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Membranes",
+    "type": "Concept",
+    "label": "Membranes",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Reinforcement",
+    "type": "Concept",
+    "label": "Reinforcement",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Entanglement",
+    "type": "Concept",
+    "label": "Entanglement",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Relaxation_Dynamics",
+    "type": "Concept",
+    "label": "Relaxation Dynamics",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Rheology",
+    "type": "Concept",
+    "label": "Rheology",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Viscoelasticity",
+    "type": "Concept",
+    "label": "Viscoelasticity",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Biodegradability",
+    "type": "Concept",
+    "label": "Biodegradability",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Fatigue_Resistance",
+    "type": "Concept",
+    "label": "Fatigue Resistance",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Interfaces",
+    "type": "Concept",
+    "label": "Interfaces",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Sensing",
+    "type": "Concept",
+    "label": "Sensing",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Self_Healing",
+    "type": "Concept",
+    "label": "Self-Healing",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Biocompatibility",
+    "type": "Concept",
+    "label": "Biocompatibility",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Actuation",
+    "type": "Concept",
+    "label": "Actuation",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Adhesion",
+    "type": "Concept",
+    "label": "Adhesion",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Dynamic_Covalent_Chemistry",
+    "type": "Concept",
+    "label": "Dynamic Covalent Chemistry",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Recyclability",
+    "type": "Concept",
+    "label": "Recyclability",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Fillers",
+    "type": "Concept",
+    "label": "Fillers",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Soft_Robotics",
+    "type": "Concept",
+    "label": "Soft Robotics",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Percolation",
+    "type": "Concept",
+    "label": "Percolation",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Ion_Transport",
+    "type": "Concept",
+    "label": "Ion Transport",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Drug_Delivery",
+    "type": "Concept",
+    "label": "Drug Delivery",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Homopolymers",
+    "type": "Concept",
+    "label": "Homopolymers",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Energy_Harvesting",
+    "type": "Concept",
+    "label": "Energy Harvesting",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Piezoelectricity",
+    "type": "Concept",
+    "label": "Piezoelectricity",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Nanocomposites",
+    "type": "Concept",
+    "label": "Nanocomposites",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Polymer_Blending",
+    "type": "Concept",
+    "label": "Polymer Blending",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Chain_Dynamics",
+    "type": "Concept",
+    "label": "Chain Dynamics",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Microphase_Separation",
+    "type": "Concept",
+    "label": "Microphase Separation",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Ferroelectricity",
+    "type": "Concept",
+    "label": "Ferroelectricity",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Triboelectricity",
+    "type": "Concept",
+    "label": "Triboelectricity",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Tissue_Engineering",
+    "type": "Concept",
+    "label": "Tissue Engineering",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Wound_Healing",
+    "type": "Concept",
+    "label": "Wound Healing",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Segmental_Dynamics",
+    "type": "Concept",
+    "label": "Segmental Dynamics",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Bio_based_Materials",
+    "type": "Concept",
+    "label": "Bio-based Materials",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Wetting",
+    "type": "Concept",
+    "label": "Wetting",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Fluorescence",
+    "type": "Concept",
+    "label": "Fluorescence",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_4D_Printing",
+    "type": "Concept",
+    "label": "4D Printing",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Phosphorescence",
+    "type": "Concept",
+    "label": "Phosphorescence",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Clusteroluminescence",
+    "type": "Concept",
+    "label": "Clusteroluminescence",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Additive_Manufacturing",
+    "type": "Concept",
+    "label": "Additive Manufacturing",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Coordination_Bonds",
+    "type": "Concept",
+    "label": "Coordination Bonds",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Gardner_Transition",
+    "type": "Concept",
+    "label": "Gardner Transition",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Energy_Landscape",
+    "type": "Concept",
+    "label": "Energy Landscape",
+    "category": "concept"
+  },
+  {
+    "id": "CONC_Cooperative_Motion",
+    "type": "Concept",
+    "label": "Cooperative Motion",
+    "category": "concept"
+  }
+]

@@ -1,0 +1,774 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,evidence_text,page_est,keyword,confidence
+P006,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,P006_unidentified.pdf,,low,partial,excerpt,Table S3. The mechanical properties of these T C A elastomers. x y z,2,mechanical,medium
+P006,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,P006_unidentified.pdf,,low,partial,excerpt,Specimens Modulus Strength Elongation at Toughness (MPa) (MPa) break (%) (MJ/m3),2,toughness,medium
+P006,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,P006_unidentified.pdf,,low,partial,excerpt,Figure S3. The atomic force microscopic height (a) and modulus (b) diagrams of T C A elastomer respectively. The scale bar represents 100 nm. The hard phase has a,5,modulus,medium
+P006,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,P006_unidentified.pdf,,low,partial,excerpt,higher modulus and so appears brightly on the modulus diagram. 6,5,modulus,medium
+P006,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,P006_unidentified.pdf,,low,partial,excerpt,"Figure S7. The resilience as a function of temperature of (a) T C A and (b) T C A , 2 0 1 0 2 1",6,resilience,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,abstract,"Despitetheirtechnologicalrelevance,theresistanceofsoftthermoplasticpolyurethanes(TPU)tocrackpropagation
+incyclicfatiguehasneverbeeninvestigatedindetail.Inparticular,aclearshortcomingintheliteratureforthisclassofmaterialsis
+thelackofconnectionbetweenthecyclicfatigueresistanceandthelargestrainbehaviorthathasafundamentalroleindefiningthe
+material’sresistancetocrackpropagation.Wedemonstratehereforthefirsttimethatwhenthestrain-inducedstiffeningmechanism
+of TPU (already observed for large deformation)",1,abstract,high
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,conclusion,"on X-ray 0
+measured force.
+investigations in deformed TPU with low HS content (weight
+WAXS and SAXS Characterization. In situ WAXS and SAXS
+percentageabout12%)wasprovidedbyYehandco-workers.7
+experiments were carried out under two conditions: on relaxed
+In this work, we tested the cyclic fatigue resistance of two samples (λ = 1) and on strained samples (λ = 2.5). The first set of
+TPU which share very similar small strain properties but experiments(λ=1)wascarriedoutonaGANESHA300XL+system
+present c",end,conclusion,high
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,excerpt,Self-Organization at the Crack Tip of Fatigue-Resistant Thermoplastic Polyurethane Elastomers,1,fatigue,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,excerpt,"ABSTRACT: Despitetheirtechnologicalrelevance,theresistanceofsoftthermoplasticpolyurethanes(TPU)tocrackpropagation incyclicfatiguehasneverbeeninvestigatedindetail.Inparticular,aclearshortcomingintheliteratureforthisclassofmaterialsis",1,crack,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,excerpt,"incyclicfatiguehasneverbeeninvestigatedindetail.Inparticular,aclearshortcomingintheliteratureforthisclassofmaterialsis thelackofconnectionbetweenthecyclicfatigueresistanceandthelargestrainbehaviorthathasafundamentalroleindefiningthe",1,fatigue,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,excerpt,thelackofconnectionbetweenthecyclicfatigueresistanceandthelargestrainbehaviorthathasafundamentalroleindefiningthe material’sresistancetocrackpropagation.Wedemonstratehereforthefirsttimethatwhenthestrain-inducedstiffeningmechanism,1,fatigue,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,excerpt,"material’sresistancetocrackpropagation.Wedemonstratehereforthefirsttimethatwhenthestrain-inducedstiffeningmechanism of TPU (already observed for large deformation) is combined with the presence of the nonhomogeneous strain, as in the case of",1,crack,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"Sketch of the experimental setup for WAXD and SAXS in situ experiments (a). Example of open crack profile and deformed mesh
+obtained from DIC analysis (b). X and X indicate the directions parallel (meridional) and perpendicular (equatorial) to the applied load,
+1 2
+respectively.",,Figure 1,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"Uniaxial nominalstress−stretchcurveof TPU_XTALand TPU_SOFT at23°C (a).Zoom onthe smallstretchregion (b).
+algorithmthatminimizesthedifferenceinthegraylevelsbetweenthe below which during a single fatigue experiment lasting 36000
+matched images, while imposing some level of regularity to the cycles and",,Figure 3,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"CrackgrowthratepercycleasafunctionoftheappliedreleaserateG(a)andappliedstretchλ (b)forTPU_XTALandTPU_SOFT
+max
+at23°C.
+Stiffening Effect in Cycles of Uniaxial Deformation. microstructure.Figure5alsoshowsthatthestiffeningeffectin
+Characterizing the large strain cyclic behavior is fundamental TPU_XTAL,",,Figure 4,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"Tangent modulus E vs maximum Hencky strain for both cyclicallyloadedinuniaxialtension.Thelatterimpliesthatthe
+TPUat23°C.
+actuallengthlfatiguedofunloadedsamplesafterfatigueislonger
+0
+than the original in pristine sample l , which we used to
+report the evolution of the tangent modulus E (calculated at",,Figure 5,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"Distributionofthemaximumλ atthecracktipalongtheloadingdirectionX forpristineandfatiguedTPU_XTAL(a)andTPU_SOFT
+1 1
+(b).
+EffectoftheStrainGradientontheMicrostructurein
+imagesindicatesthattheamorphousSSgraduallyorient
+Pristine and Fatigued TPU. As previously explained, the towardtheloadingdirection.7Ad",,Figure 7,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"ValuesofaveragedFWHMratiobetweenpristineandfatiguedsample(a)andcrystallinefractioninTPU_XTALatincreasingdistance
+fromthe crack forpristineandfatigued sample (b)monotonically strained atλ = 2.25.
+max
+visible close to the crack tip for TPU_SOFT in the 1D integrated along the azimuthal direction (as in",,Figure 9,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"DSC thermogram for TPU_XTAL: pristine and fatigued
+crack tip during cyclic fatigue. sample. The inset is a magnification of the endothermic peak in the
+Permanent Modification of the Microstructure fatiguedsamplecorrespondingtothemeltofcrystallitesschematically
+Induced by Strain History. In the previ",,Figure 11,medium
+P011,Self-Organization at the Crack Tip of Fatigue-Resistant,P011_unidentified.pdf,2021,high,good,figure_caption,"SketchofthespatialevolutionofthetangentmodulusEandstrainλ forpristineandfatiguedTPU.Inanotchedandloadedpristine
+1
+TPU, E is constant and a strain gradient is induced by the presence of the crack in the neighboring area (a). After thousands of cycles, the
+reorganizationatthecracktipgeneratesahardcore",,Figure 13,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,excerpt,"Thestructureanddensityofhydrogenbondsinthermoplasticpoly(urethane uniqueperformancesandmechanicalprop- urea)(TPU)elastomersplayapivotalroleindeterminingtheirmicroscopic erties,TPUelastomersaregainingincreas-",1,mechanical,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,excerpt,"structuresandmacroscopicthermomechanicalperformances.Inthiscontext, ing popularity in many advanced applica- tions,suchasstrainsensors,[1] actuators[2]",1,mechanical,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,excerpt,"ultimateengineeringstressandelongationupto70MPaand1100%, traordinarily tough, resilient and durable. respectively,andthereforeconsiderabletoughnessof260MJm−3.Meanwhile, Thepursuitofthesepropertieshaspushed",1,elongation,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,excerpt,"respectively,andthereforeconsiderabletoughnessof260MJm−3.Meanwhile, Thepursuitofthesepropertieshaspushed the limit of TPU beyond their traditional",1,toughness,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,excerpt,"and thermomechanical properties of TPU elongationatbreak,toughness,andresilienceatroomtemperature.",1,mechanical,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,performance_data,Elongation at break: 1600,,performance,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,performance_data,Resilience: 100,,performance,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,figure_caption,"The prepolymer formation and the subse-
+marilyowingtotheeaseofsynthesesstartingfromcommercially quent chain extension steps were monitored by Fourier trans-
+availablealkylandaromaticdihydrazides.AnASCZgroupcan form infrared (FT-IR) spectroscopy, and the completion of the
+beviewedasoneamideandoneurea",,Figure 1,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,figure_caption,"Small-
+formation).Inlieuofmoresophisticatedcharacterizationtech- amplitude oscillatory shear (SAOS) rheological measurements
+niques that can directly “observe” hydrogen bonds, we hence- alsoprovidedindirectevidenceonthehydrogen-bondingstates
+forth assume ad hoc that the actual hydrogen-bonding densi",,Figure 2,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,figure_caption,"a)Thestress–strainrelationshipsofTPU-C1throughTPU-C10elastomersinuniaxialtensilemeasurements.b)Photographicillustrationof
+theload-bearingcapacityofaTPU-C1elastomerfilmof5-cmwidthand0.1-cmthickness.c)Representativeloading-unloadingcurvesoftheTPU-C1
+elastomerincyclictensilemeasurementswiththefixedmaxi",,Figure 3,medium
+P015,"Supertough, Resilient, and Healable Thermoplastic",P015_unidentified.pdf,2025,low,partial,figure_caption,"AshbyplotsofresilienceversustoughnessofTPU-C1throughTPU-C10incomparisonwiththepolyether-andpolyester-basedTPUelastomers
+reportedinliteraturethatcontainmultidentatehydrogenbondingmotivesinHS:a)atlowstrains(50–200%);andb)athighstrains(400–1000%).The
+parenthesesafterthereferencenumbersdenotetheSSchemis",,Figure 4,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,excerpt,"density, superior mechanical resilience, basedonacrylates.WhenexposedtoUVirradiation,itundergoesselective and flexibility.[1,10] However, ensuring that",1,resilience,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,excerpt,"crosslinking(withcrosslinkingdensityandmodulusdependingonthe everycomponentofadeviceisstretchable numberofcrosslinkers);itcanachieveamodulusincreaseofupto38000%. poses challenges. Stretchable substrates,",1,modulus,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,excerpt,"numberofcrosslinkers);itcanachieveamodulusincreaseofupto38000%. poses challenges. Stretchable substrates, Rigidregionsofspecificshapesandsizescanbecreatedusingaphotomask, including styrene-ethylene-butylene-",1,modulus,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,excerpt,"sensitivitytoexternalstimuliismodulatedbythemodulusoftherigid to stretch in tandem with the substrate is islands.Inaddition,ahigh-efficiencySIPsensor(SIPS)employingan problematic. Even if an organic semicon-",1,modulus,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,excerpt,"sicstretchability,interfacestability,andmechanicalcompatibility bined with a photo-initiator, was incorporated into them to en- instretchableelectronics.Ourapproachenhancespatternaccu- ablecrosslinkingofthesefunctionalgroupsuponUVirradiation",3,mechanical,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,figure_caption,"a)Schematicrepresentationofthephoto-crosslinkableelastomersubstratedesignedforstretchableelectronics.b)Comparisonoftheproper-
+tiesbetweenpreviousresearchontherigid/softislandstrategyandthisstudy.c)SchematicofUV-inducedselectivecrosslinkingutilizingaphotomask.
+Toaddressthesechallenges,thisstudyintrod",,Figure 1,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,figure_caption,"a)Schematicdepictionofthecapacitivepressure/strainsensor,withrigidpatternsstrategicallysituatedatelectrodelocations.b)Changein
+thecapacitanceofthesensorunderappliedpressure,andc)d)underappliedstrain.Duringdeformation,theresistanceoftheCNTelectrodeincreases
+(inset).e)Sensitivityofpressureandstraininr",,Figure 3,medium
+P054,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,P054_unidentified.pdf,2024,low,partial,figure_caption,"a)SchematicrepresentationoftheSIPsensor,designedwithelectrodespositionedonrigidareas.Theelectrospunlayerwasalsoselectively
+curedtocorrespondwiththeelectrodesbeneaththeserigidzones.b)Microscopicimageconfirmingtheselectivephoto-curingoftheelectrospun
+dielectriclayer.c)Capacitancechangecomparisonwhenan",,Figure 5,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,excerpt,"transition and stepwise mechanical training, Carbohydrate Polymers (2023), https://doi.org/10.1016/j.carbpol.2023.120869",1,mechanical,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,excerpt,"rupture easily under mechanical loading. To address this vulnerability, here we presented a robust all-κCG hydrogel without employing the second synthetic network.",2,mechanical,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,excerpt,"42.1 to 156%, while maintaining the similar fracture stress. Moreover, upon the f",2,fracture,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,excerpt,"stepwise mechanical training and subsequent incubation in KCl aqueous solution, o",2,mechanical,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,excerpt,"fast self-strengthening behavior occurred, an-d a more stretchable (fracture strain up to e",2,fracture,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,figure_caption,"(a) Schematicu for the preparation of tough all-κ-carrageenan hydrogel and the possible
+dissipation mechaniosm under large deformation. (b) Photograph of the as-prepared κCG-NaU-FK
+hydrogel film coJvered on top of the flower. (c) Photograph of the κCG-NaU-FK hydrogel strip
+under object-loading. The ",,Figure 1,medium
+P058,Tough and stretchable all-κ-carrageenan hydrogel based on the,P058_unidentified.pdf,2023,low,partial,figure_caption,"(a) Solid-state 13C NMR spectra of the dried κCG-HK and κCG-NaU-FK hydrogel
+samples. To clarify the formation of double helix for the polymer chains in κCG-NaU-FK
+18
+Journal Pre-proof
+hydrogel, the crosslink agent of ECH was not used here in preparation. (b) Dependence of G’ and
+G’’ on temperature f",,Figure 3,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,abstract,"Conducting polymer hydrogels with high mechan-
+ical toughness and environmental stability are highly desirable for
+the long-term operation of flexible electronic devices. However,
+most existing conducting polymer hydrogels experience poor
+mechanical performance and limited environmental tolerance,
+severelyrestrictingtheirpracticalapplicability.Herein,wepresenta
+facile yet versatile strategy for fabricating conducting polymer
+organohydrogels with high mechanical robustness, good electrical
+conduc",1,abstract,high
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,conclusion,"spectra were obtained on a confocal Raman microscope (Horiba
+In summary, we have demonstrated an SOIP strategy to Jobin Yvon Xplora PLUS). DSC analysis was performed using a TA
+fabricate CP organohydrogels with superior mechanical
+Instrument(DSC250)withascanrateof10°Cmin−1underanN
+2
+properties, good conductivity, and environmental tolerance atmosphere, and the gel samples were first cooled from room
+temperatureto−90°Candthenheatedto20°C.XRDpatternswere
+by simply soaking PVA/Py organohydrogel in ",end,conclusion,high
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,excerpt,"ical toughness and environmental stability are highly desirable for the long-term operation of flexible electronic devices. However,",1,toughness,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,excerpt,"mechanical performance and limited environmental tolerance, severelyrestrictingtheirpracticalapplicability.Herein,wepresenta",1,mechanical,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,excerpt,"organohydrogels with high mechanical robustness, good electrical conductivity, and excellent environmental stability, achieved",1,mechanical,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,excerpt,"binary solvent system. The resultant conducting polymer organohydrogel achieves fracture stress (7.93 ± 0.56 MPa), ultrahigh toughness (22.64 ± 1.00 MJ/m3), and good conductivity up to 0.37 S/m. Additionally, the introduction of DMSO/H O binary",1,fracture,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,excerpt,"toughness (22.64 ± 1.00 MJ/m3), and good conductivity up to 0.37 S/m. Additionally, the introduction of DMSO/H O binary 2",1,toughness,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,figure_caption,"Schematic diagram of preparation process of the PVA /PPy-Fe−OHs via the synergistic strategy of salting-out effect and in situ
+DH
+polymerization(SOIP).
+network plays a critical role in dissipating mechanical energy Theconductivityofconductivehydrogelsprimarilydepends
+duringdeformation,enhancingtheme",,Figure 1,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,figure_caption,"Typically,
+MPa), toughness (22.64 ± 1.00 MJ/m3), modulus (3.32 ± PVA and Py monomers were first dissolved in a DMSO/H 2 O
+0.22 MPa), stretchability (582.34 ± 36.19%), and good binary solvent to obtain a homogeneous solution. Here,
+conductivity (0.37 S/m). Besides, the organohydrogel also besides fun",,Figure 1,medium
+P067,Highly Robust and Environment-Tolerant Conducting Polymer,P067_unidentified.pdf,2025,low,good,figure_caption,"TolerancebehaviorsandsensingperformancesofPVA /PPy-Fe−OHsunderextremetemperatures.(a)PhotographsofPVA /PPy-
+DH DH
+Fe−OHsandPVA-Fehydrogelat−30and80°C.(b)DSCcurvesofPVAhydrogel,PVA /Py−OHs,andPVA /PPy-Fe−OHsfrom−90to20
+DH DH
+°C. (c) Tensile stress−strain curves, (d) corresponding modulus and toughnes",,Figure 4,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,excerpt,of Mechanical Engineering in selecting the best suited actuator for a specific application. Massachusetts Institute of Technology,2,mechanical,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,excerpt,tiated by the neural input to the muscle fiber. Muscle is an lab in the mechanical engineering department at MIT in example of a linear molecular stepping motor under the control September 2014 and finished his degree in May 2017. He,3,mechanical,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,excerpt,"actively expand, they require either an antagonist muscle con- presently is the Hatsopoulos Professor of Mechanical traction or a stretched tendon (passive spring) to exert a length- Engineering and head of the BioInstrumentation",3,mechanical,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,excerpt,"for mobility on the planet was muscle. The skeletal muscles in Egypt) where metallic wedges were inserted into cracks of rocks humans, horses, elephants, oxen, and other mammals generate and heated with fire to split them via the thermal expansion in",3,crack,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,excerpt,Density [kg m−3][4] 1037 – Storage modulus [MPa] @20 °C 2400 Strain rate [% s−1][4] – >50 @150 °C 260,5,modulus,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,figure_caption,"A) Comparison of the negative thermal expansion of braided polyethylene, nylon-6 monofilament, nylon-6,6 monofilament, and silver-coated
+nylon-6,6 multifilament fibers before twisting (inset) and after coiling by twist insertion. B) Tensile stroke and nominal modulus versus temperature for
+a coiled,",,Figure 1,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,figure_caption,"A–J) Muscle configurations and yarn structures for tensile and torsional actuation. Tensile load and paddle positions for a two-end-tethered,
+fully infiltrated homochiral yarn (A); a two-end-tethered, bottom-half-infiltrated homochiral yarn (B); a one-end-tethered, fully infiltrated homochiral
+yarn ",,Figure 3,medium
+P073,Artificial Muscles www.advmat.de,P073_unidentified.pdf,2017,low,partial,figure_caption,"A) Structure of a dielectric-elastomer actuator. B) Illustration of the action of a “pick-and-place” actuator made from an elastomer beam with a
+few vertical fibers. The elastomer bends to conform to the shape of both the cylinder and a grape. C) A dielectric elastomer is sandwiched between two
+laye",,Figure 5,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,conclusion,"that when the size of proximity sensing
+126",end,conclusion,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,excerpt,School of Mechanical Engineering and Automation Beihang University,1,mechanical,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,excerpt,"industries. It integrates mechanical manufacturing and scenarios. In the meanwhile, it has the following advantages intelligent manufacturing, and includes sensing, control, in human-machine interaction:",2,mechanical,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,excerpt,"installation environment, such as mechanical arm. The first segment is dominated by variable dielectric",7,mechanical,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"Capacitive proximity sensor array
+Capacitive sensors are widely used. In terms of The measurement principle of the proximity sensor is
+proximity perception, it is used in motion detection and the principle of human body induction capacitance in Figure
+obstacle avoidance. It can detect the displaceme",,Figure 1,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"capacitor can greatly increase the initial capacitance value,
+as the thickness increases (cid:304)/(cid:303) increases, the initial
+capacitance also increases. It can enhance the ability of the
+sensor to resist interference. According to the sensitivity
+calculation formula, the use of super capacito",,Figure 4,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"Top view of proximity capacitance sensor
+<0.1pf 8pf <0.1pf
+under
+In addition, the main purpose of using the
+0.1N
+equipotential loop is to eliminate and reduce the influence
+B. Overall Design of edge capacitance effect, so that the capacitance change is
+only the human induced capacitance. The accurac",,Figure 4,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"Sensor plate connection diagram Figure 8. Distance-capacitance variation curve
+The relationship between the force and capacitance is
+shown in Figure 9. It can be seen that the capacitance
+changes rapidly when the force is in the range of 0 ~ 0.7N,
+and the change is slow between 0.7 ~ 20N. The overal",,Figure 6,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"Force-capacitance variation curve
+coke particle carbon (24%) + acetylene black (6%) + 15
+hardness silica gel (70%). Firstly, the mixed super capacitor The linear fitting results are as shown in Figure 10.
+material was added into anhydrous ethanol, and then let it
+The first period data point is marke",,Figure 9,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"There are four
+measurement channels in total, which can meet the The control program uses FreeRTOS operation system,
+requirements of dual channel measurement of sensor. The and the corresponding tasks are set up in each part of the
+external crystal oscillator is used to replace the internal RC frame",,Figure 11,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"When it is detected that the distance between the hands is
+less than the minimum safe distance, the manipulator stops
+at the current position, and the main control adjusts the
+brightness of the distance indicator according to the
+distance between the hands. The smaller the distance, the
+greater the ",,Figure 12,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"contact and slip sensing[C]//IEEE International
+Conference on Robotics & Automation. 2010:777-784.
+[2] Wistort R, Smith J R. Electric Field Serving for
+Robotic Manipulation[C]//IEEE/RSJ International
+Conference on Intelligent Robots and Systems.
+2008:494-499.
+[3] Nan Li, Adjacent capacitive sensor d",,Figure 14,medium
+P074,Proceedings of 10th IEEE International Conference,P074_unidentified.pdf,2020,low,partial,figure_caption,"IEEE,2013; 978-983
+[6] Yuefei WU, Research on Micro Displacement
+Measurement of Thick Film Capacitive Pressure
+Sensor. Anhui University, 2010.
+[7] Zhiguo Zang, “Research on sensitive device of silicon
+capacitance pressure sensor,” Micro-nano technology,
+2004.
+(cid:3) [8] H. Hasegawa ,Y. Mizoguchi ,K",,Figure 15,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,conclusion,"and Outlook AH
+1.3.5. Atomic Force Microscopy (AFM) F",end,conclusion,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,excerpt,permanentcovalentbondscancompromisethemechanicalrobustnessofthematerial.This review highlights design strategies that harness dynamic bonds effectively to achieve both,1,mechanical,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,excerpt,"functionality and mechanical robustness in soft materials. We first survey the types of dynamicbondsandtheircharacteristiclifetimes,followedbyintroducinganalyticalmethods",1,mechanical,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,excerpt,materials that combine functionalities with mechanical toughness for reliable use in advanced applications. CONTENTS 5. Recyclable Thermoset Y,1,toughness,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,excerpt,6.2.Enhanced Mechanical Robustness through 1.3.3. Stress Relaxation D,1,mechanical,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,excerpt,"mechanicalbehaviorforspecificfunctionalities.Amongvarious Understanding how different bonds distribute across time mechanical responses, time-dependent behaviors�such as scales is crucial for utilizing them in material design. Figure 1",3,mechanical,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,performance_data,Elongation at break: 850,,performance,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Lifetimeofdynamicbonds.(a)Lifetimespanofeachrepresentativedynamicbond.(b)Hydrogenbondsshowingagreatdifferencein
+lifetimedue tomolecular structure.(c) Modulation of theion−ligand coordinationlifetime via externalstimuli.",,Figure 1,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"ITCandkinITC.(a)Powerisrecordedasafunctionoftimewhiletheligandistitratedunderisothermalconditions.(b)Thetotalheat
+releasedaftereachinjectionisobtainedbyintegratingthepowersignalandthenplottedagainstthemolarratioofligand,allowingextractionof
+thermodynamic parameters such asK, ΔH, ΔS, and ΔG. (c) Unli",,Figure 3,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Measurementandanalysisoffrequencydependentresponse.(a)Oscillatorydeformationsappliedviatensileorshearforce.(b)Storage
+andlossmodulusmeasuredasafunctionoffrequency.(c)Relaxationspectrumcalculatedfromthemodulus.Forthisexample,relaxationaround
+1/τ is morewell-defined.
+2
+The relaxation time τ serves as ",,Figure 5,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Dynamicbondsforself-healingpolymerswithsynergisticcross-linking.(a)AsupramolecularPDMS-basedelastomerincorporatingtwo
+bisureamotifsdifferentiatedhydrogenbondingstrengthswithsynergisticeffect.Reproducedwithpermissionfromref149.Copyright2018John
+WileyandSons.(b)Schematicshowingtherealignmentandhealing",,Figure 7,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Figure 9. Dynamic bonds for self-healing polymers with spatial and structural modulation. (a) An ion gel with chemical/physical
+interpenetratingnetworksshowsexcellentmechanicalstrengthandconsiderableionicconductivitywithself-healingproperties.Reproducedwith
+permission from ref 166. Copyright 2018 Am",,Figure 9,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Dynamic bonds for facilitating shear thinning. (a) Admanatane and β-cyclodextrin groups are each grafted to a polymer backbone,
+formingadynamichydrogel.Reproducedwithpermissionfromref199.Copyright2015JohnWileyandSons.(b)Shearthinningofthedynamic
+hydrogel,enabledbytheflowabilityduetohost−guestdissoci",,Figure 11,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Dynamicbondsforenhancinginterlayeradhesionviapostprocessing.(a)Thepolyurethanethermoplasticwhichcontainsdynamicurea
+bonds.Reproducedwithpermissionfromref200.Copyright2022AmericanChemicalSociety.(b)SEMimagesofthe3Dprintedpolyurea.By
+activation of dynamic urea exchange by thermal annealing, the adjace",,Figure 13,medium
+P154,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,P154_unidentified.pdf,2025,medium,partial,figure_caption,"Introducing catechol groups for strong wet adhesion. (a) Catechol groups form multiple dynamic bonds with tissue, enabling rapid
+attachmentanddetachmentofthehydrogeltape.Reproducedwithpermissionfromref248.Copyright2021SpringerNature.(b)Catecholtends
+tooxidizeintoquinone,losingitsabilitytoformdynamic",,Figure 15,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,excerpt,"storage in thermoset network is through entropy reduction by mechanical deformation or programming. We here report another mechanism for energy storage, which stores energy",1,mechanical,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,excerpt,"1DepartmentofMechanical&IndustrialEngineering,LouisianaStateUniversity,BatonRouge,LA70803,USA.Correspondenceandrequestsformaterials shouldbeaddressedtoG.L.(email:lguoqi1@lsu.edu)",1,mechanical,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,excerpt,"In addition to shape to two orders decrease in the modulus of the polymers. The memory, which means a deformed temporary shape can dramatic reduction in modulus through the transition is neces-",1,modulus,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,excerpt,"memory, which means a deformed temporary shape can dramatic reduction in modulus through the transition is neces- returntoitsoriginalpermanent shapeuponstimulation,suchas sary for the SMP to demonstrate excellent shape recovery; how-",1,modulus,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,excerpt,This stress is adequate to drive crack closure in real world First heating cycle,4,crack,medium
+P163,High enthalpy storage thermoset network with,P163_unidentified.pdf,2018,low,partial,figure_caption,"dThechangeofprogrammingstressafterrelaxation,orstored
+stress,withprogrammingstrain.Thestoredstressincreasesastheprogrammingstrainincreases,whichsuggeststhatmoreenergyinputleadstomore
+energystorage,andthushigherrecoverystrainandhigherrecoverystress.Thestoredenergyiscalculatedbytheareaofthisrelaxation",,Figure 13,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,abstract,"Dielectricelastomeractuators(DEAs)areapromising
+class of artificial muscles due to their large actuation strains, high
+energy and power densities, and fast response. Recent advances in
+material development and actuator structural design have continued
+to broaden the application landscape. Meanwhile, diverse and
+application-specific performance requirements have provided clear
+guidance for optimizing material properties and structural config-
+urations,therebydrivingsustainedprogressinthefield.Thi",1,abstract,high
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,excerpt,"power output, rapid electromechanical response, and intrinsic Thethicknessstrain(S )isexpressedas",4,mechanical,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,excerpt,"mechanical compliance. As a result, DEAs have demonstrated Z substantialpotentialinabroadrangeofapplications,including",4,mechanical,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,excerpt,where Y′ is the apprant modulus of elasticity at the actuated strain.,5,modulus,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,excerpt,Equations 1 and 2 reveal that the mechanical and dielectric properties of the DE materials are the primary factors,5,mechanical,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,excerpt,"mechanicalpropertiesremainsamajorchallenge.Forexample, challengesandfutureresearchdirections.ThisReviewaimsto",5,mechanical,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"WorkingmechanismofDEAs.
+wide range of artificial soft actuators have been developed,
+including dielectric elastomer actuators (DEAs),7−10 hydrauli- electrostatic (Maxwell) stress that compresses the elastomer
+cally amplified self-healing electrostatic actuators,11−14 piezo- thin film in the thicknes",,Figure 1,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"ThepreparationofDEmaterialswithprestretching.(a)SchematicdiagramoftheDEwithauniformpolymernetwork.(b)Comparisonof
+dielectric constant, Young’s modulus, and actuation sensitivity between VHB 4910 and BAC2 sample.73 Copyright 2021, Springer Nature. (c)
+SchematicdiagramoftheDEwithabimodal-networkstruct",,Figure 3,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"ThepreparationofDEmaterialsbasedonnetworkswithlargeside-chains.(a)Mechanicalperformanceofbottlebrushsiliconeelastomers.
+(b)Photosofabottlebrushsiliconeelastomeratvoltage-offand3.5kV.87Copyright2017,Wiley.(c)Schematicdiagramofon-demandcross-linking
+bottlebrushpolymernetwork.89Copyright2023,AmericanCh",,Figure 5,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"ThepreparationoffunctionalDEmaterials.(a)SchematicdiagramofthesynthesisrouteofSDE.(b)Actuationareastrainsoftheself-healed
+ISDEA after suffering from mechanicaldamage and electrical damage.98 Copyright2025, Elsevier. (c) Schematic diagram of the self-integration
+process.(d)PhotosoftheDEswithself-heal",,Figure 7,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"RollDEAs.(a)SchematicofrollDEAfabrication.(b)Schematicofthestructureofmultidegree-of-freedomrollDEAs.115Copyright2004,
+IOPPublishing.(c)SchematicdiagramoftherollprocessforrollDEAs.(d)PhotosofarollDEAconstructedbymultilayerDEfilms.116Copyright
+2018,Wiley.(e)Schematicdiagramofthefabricationprocessforr",,Figure 9,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"Different types of DEA-based soft grippers. (a) A DEA-
+based soft gripper based on DEMES.127 Copyright 2007, AIP robust multimodal locomotion, often supported by the high-
+Publishing. (b) A bistable bioinspired soft gripper capable of active frequency actuation capabilities of DEAs.75,129 Recently, ",,Figure 11,medium
+P234,"Recent Advances in Dielectric Elastomer Actuators: Materials,",P234_unidentified.pdf,2021,medium,good,figure_caption,"DEA-basedpumpsandvalves.(a)PhotographofavalveincorporatingtwoDEAs.140Copyright2021,NationalAcademyofSciences.(b)
+Operatingprincipleofasyringepumpintheverticalconfiguration.37Copyright2023,Wiley.(c)Workingcycleofadual-chamberpumpatthe
+equilibriumstate.142Copyright2023,Wiley.(d)Astretchablesoftpumpdri",,Figure 13,medium
+P238,COMMUNICATION,P238_unidentified.pdf,2021,low,partial,excerpt,temperature with unprecedented mechanical properties†,1,mechanical,medium
+P238,COMMUNICATION,P238_unidentified.pdf,2021,low,partial,excerpt,Achieving mechanical robustness and highly efficient self-healing simultaneouslyatroomtemperatureisalwaysaformidablechallenge Newconcepts,1,mechanical,medium
+P238,COMMUNICATION,P238_unidentified.pdf,2021,low,partial,excerpt,"forpolymericmaterials.Herein,aseriesofnovelsupramolecularpoly- Achievingmechanicalrobustnessandhealingefficiencysimultaneouslyat urethaneelastomers(SPUEs)aredevelopedbyincorporatingdynamic roomtemperatureisagreatchallengeinself-healingmaterials.Previously,",1,mechanical,medium
+P238,COMMUNICATION,P238_unidentified.pdf,2021,low,partial,excerpt,SPUEsdemonstratethehighesttensiletoughness(B182.2MJm(cid:2)3)to containingpolymerwascoordinatedwiththeortho-sitenitrogendonoror,1,tensile,medium
+P238,COMMUNICATION,P238_unidentified.pdf,2021,low,partial,excerpt,"excellentultimatetensilestrength(B10.5MPa)andultra-highfracture effectivetoacceleratethedynamicsoftransesterificationofboronicester energy(B72100Jm(cid:2)2),respectively,owingtoasynergeticquadruple andbeneficialtotheself-healingperformance,buthasnocontributionsto",1,tensile,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,conclusion,"FEA was performed using the commercial package COMSOL Multi- Further information on research design is available in the Nature
+physics6.0.Accordingtotheexperimentaldata,boththePEEandDE PortfolioReportingSummarylinkedtothisarticle.
+NatureCommunications|( 2023)1 4:4853 12
+Article https://doi.org/10.1038/s41467-023-40583-5
+Dataavailability 24. Yang,C.H.,Chen,B.,Zhou,J.,Chen,Y.M.&Suo,Z.Electro-
+Thedatathatsupportthefindingsofthisstudyareavailablefromthe luminescenceofgiantstretchability.Adv.Mater.28",end,conclusion,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,excerpt,sensorsthatcanperceivedifferentmechanicalstimulisimultaneouslywithout mutualsignalinterferences.Wedemonstrateasensingkitconsistingoffour,1,mechanical,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,excerpt,"Guangdong518055,P.R.China.3DepartmentofMechanicalandEnergyEngineering,SouthernUniversityofScienceandTechnology,Shenzhen,Guangdong 518055,P.R.China.4Theseauthorscontributedequally:CaicongLi,JianxiangCheng,YunfengHe. e-mail:geq@sustech.edu.cn;yangch@sustech.edu.cn",1,mechanical,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,excerpt,"mechanically,electrically,andchemicallydissimilar,yettheirintegra- The high flexibility in structural design of multi-material 3D printing tion is indispensable during the fabrication of the sensor1. Such a enablesthe fabricationofionotronicsensors thatmimicthe sensing",2,mechanical,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,excerpt,"mechanical stimuli such as tension, compression, shear, torsion, or Wefirstsynthesizethephoto-curablePEE(Fig.S1).WhereasPEE eventheircombinations.Therefore,makingreliableionotroniccapa- canbeachievedbyvariouschemistries17,herewesynthesizeapairof",3,mechanical,medium
+P242,Polyelectrolyte elastomer-based ionotronic,P242_unidentified.pdf,2023,low,partial,excerpt,"integratedionotronicsensorsthatcanperceivedifferentmechanical hydrophobicacrylate-basedmonomer,ethyleneglycolmethylether stimuliwithoutmutualsignalinterferences,includingtheintegrated acrylate (MEA), and use 1,6-hexanediol diacrylate (HDDA) as the",3,mechanical,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,abstract,"Because of their superior mechanical properties, excellent processability,
+reusability, and recyclability, thermoplastic elastomers (TPEs) have attracted
+considerable research attention. For random polyolefin-based TPEs, because the high
+crystallinity contributes to the high strength while decreasing the elastic recovery, the
+managementofthetradeoffbetweenthestrengthandstretchabilityisacriticalchallenge.
+Therefore,inthisstudy,anelastomerwaspreparedbasedonadual-cross-linkingstrategy
+by combining ",1,abstract,high
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,conclusion,"Functional Materials, and School of Materials Science and
+Engineering, Tianjin University, Tianjin 300072, China;
+Inconclusion,wehavepreparedaseriesofpolyolefinionomers
+orcid.org/0000-0002-3130-3229
+exhibiting adjustable mechanical properties via the copoly-
+merization of ethylene, 1-hexene, and 5-iodomethyl-2- Complete contact information is available at:
+norbornene bearing iodine atoms, which were further https://pubs.acs.org/10.1021/acs.macromol.3c00066
+converted to I− through a nucleophilic ",end,conclusion,high
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,excerpt,Elastomers Exhibiting Counteranion-Mediated Mechanical Properties,1,mechanical,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,excerpt,"ABSTRACT: Because of their superior mechanical properties, excellent processability, reusability, and recyclability, thermoplastic elastomers (TPEs) have attracted",1,mechanical,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,excerpt,"ionic cross-linking to resolve the tradeoff between the tensile strength and elastic recovery. First, ethylene/5-iodomethyl-2-norbornene/1-hexene terpolymers were",1,tensile,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,excerpt,"ionomers containing CH SO − showed the highest tensile strength of up to 13.7 MPa, and those containing Tf N− presented a 3 3 2",1,tensile,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,excerpt,"favorable strain-at-break of up to 624%. The tensile properties were modulated over a broad range by changing the counteranion type and content. Moreover, because cross-links were generated by both ionic interactions and polyethylene crystallinity, the",1,tensile,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,performance_data,Elongation at break: 450,,performance,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"13C NMR spectrum of ethylene/IMNB/HE copolymer
+were conducted using a TA Instruments Q800 equipped with a
+containing7.4 mol% IMNB and20.5 mol% HE.
+tension clamp at an oscillatory amplitude of 15 m and a fixed
+frequency of 1 Hz. The as-prepared samples (rectangular, effective
+2.3.PreparationofIonomer",,Figure 1,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"Water contact angles of ethylene/IMNB/HE copolymer
+Although the introduction of an ionic group considerably
+andionomers paired withdifferent counteranions.
+enhanced η*, increasing the ionic group content did not
+evidently influence η*.
+the material hydrophobicity depends on the counterion type.
+Ther",,Figure 3,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"Storage modulus (G′, solid symbols) and loss modulus (G″, hollow symbols) of copolymers and ionomers paired with different
+counteranionsplotted asfunctionsof frequencyfordifferention contentsat170 °C.
+F https://doi.org/10.1021/acs.macromol.3c00066
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.a",,Figure 4,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"Stress−strain curves obtained for copolymers containing Because larger counteranions exhibit longer distances with
+differentcomonomercontents,aslisted inTable1. imidazolium cations and fewer surface charges compared with
+G https://doi.org/10.1021/acs.macromol.3c00066
+MacromoleculesXXXX,XXX,XXX−XXX
+M",,Figure 6,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"Hysteresis curves obtained for ethylene/IMNB/HE copolymer containing 3.6% IMNB and 14.7% HE and corresponding ionomers
+paired withdifferentcounteranions at3.6%.
+those of smaller counteranions, electrostatic interactions are smaller ionic groups exhibiting stronger interactions formed
+weaker between ",,Figure 8,medium
+P257,High-Performance Polyethylene-Ionomer-Based Thermoplastic,P257_unidentified.pdf,2023,low,good,figure_caption,"Break strengths and elongations at break of ionomers
+2 paired with differentcounteranions.
+counteranions generate tighter ion aggregates and stronger
+intermolecular associations and larger counterions are loosely
+associated, which generates weaker physical cross-links. In
+other words, the ionomers e",,Figure 10,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,excerpt,"withaYoung’smodulusbelow100kPaconformingtobiological leading to an increase of M (cid:24)LD2 and, hence, a decrease of the e e",1,modulus,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,excerpt,"applications1–3, yet those gel properties require a solvent entanglementplateaumodulusasG (cid:24)1=M.However,thisnaive e e",1,modulus,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,excerpt,"tectureexpandsthediameterofthepolymerchains,diluting solventremoval,whichnotonlyleadtoamodulusincreasebutalso their entanglements without markedly increasing stiffness. introduce anisotropy to mechanical properties. These combined",1,modulus,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,excerpt,"their entanglements without markedly increasing stiffness. introduce anisotropy to mechanical properties. These combined This adjustable interplay between chain diameter and stiff- e(cid:27)ects make rigid, solid-like filaments unsuitable for the creation",1,mechanical,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,excerpt,"nessmakesitpossibletotailorthenetwork’selasticmodulus ofsupersoftelastomers. andextensibilitywithoutthecomplicationsassociatedwitha Yet,thisunfavourablerealizationdoesnotdismisstheideaofthe",1,modulus,medium
+P259,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,P259_unidentified.pdf,2016,low,partial,figure_caption,"c,Maximumextensibilityofbrush-likeelastomers(cid:21) brush (cid:24)DRe,max =Re,0relativetolinear-chainnetworks,(cid:21) linear,(assumingthatthe
+crosslinkingdensityislowerthantheentanglementdensity),whereRe,0andRe,maxarerootmeansquareend-to-enddistancesoftheentanglementstrand
+beforeandafterextension.",,Figure 7,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,conclusion,"21. Lei,Z.&Wu,P.Ahighlytransparentandultra-stretchableconductor
+Further information on research design is available in the Nature withstableconductivityduringlargedeformation.Nat.Commun.
+PortfolioReportingSummarylinkedtothisarticle. 10,3429(2019).
+22. Tian,Q.etal.Hairy-skin-adaptiveviscoelasticdryelectrodesfor
+Dataavailability long-termelectrophysiologicalmonitoring.Adv.Mater.35,
+Alldatasupportingthefindingsofthisstudyareavailablewithinthis 2211236(2023).
+article and Supplementary Information or",end,conclusion,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,excerpt,"fidelityelectricalsignalsfromhumanphysiologicalactivities,motions, static mechanical properties (e.g. softness, stretchability, adhesion) bodytemperaturechanges,andsoon1,2.Toachievethis,itiscrucialto with skin. Nevertheless, this is insufficient to meet the critical",1,mechanical,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,excerpt,build a mechanically durable and compliant interface between elec- requirement of epidermal electronics for long-term use under tronicdevicesandconvolutedskinsurface.Traditionalrigidelectronic dynamicconditions.Humanskinisconstantlydeforminginavarietyof,1,mechanical,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,excerpt,"componentsgenerallyrelyonultrathin,low-modulus,and/oradhesive ways(bending,bulging,jiggling,andstretching)andattime-varying polymermatrices/interlayerstominimizemechanicalmismatch2–9.In strains (0-50%) and frequencies (0-50Hz). Without dynamic com-",1,modulus,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,excerpt,"polymermatrices/interlayerstominimizemechanicalmismatch2–9.In strains (0-50%) and frequencies (0-50Hz). Without dynamic com- contrast,artificialionicskins(typicallyhydrogels,ionogels,eutectogels, pliance, the stress concentration of ionic skins will inevitably accu-",1,mechanical,medium
+P268,Self-compliant ionic skin by leveraging,P268_unidentified.pdf,2024,low,partial,excerpt,"mechanicalpropertiessuchasstrain-stiffening,damping,crack-toler- adapt to stretched skin microstructures, especially in prolonged ant,andanti-fatiguebehavior17–20. deformations15,17,18.Todate,itremainsamajorlimitationforepidermal",1,crack,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,abstract,"This study developed a novel photoluminescent
+waterbornepolyurethane(WPU)elastomerwith[2,2′-bipyridine]-
+4,4′-dicarbohydrazide (BD). The material is characterized by
+intramolecular rotatable conjugated structures and abundant
+hydrogen bonding sites, endowing it with excellent mechanical
+properties, optical responsiveness, and environmental adaptability.
+[2,2′-bipyridine]-4,4′-dicarbohydrazide-based waterborne polyur-
+ethane(WPU-BD)exhibitsahightensilestrengthof72.6MPaand
+an excellent stretchabil",1,abstract,high
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,conclusion,"Extraction & Efficient Utilization of Light Rare-Earth
+Resources (Inner MongoliaMinistry ofEducation, University
+A photoluminescent WPU-BD material with excellent ofScienceandTechnology,Baotou014010,China;Collegeof
+mechanical properties, self-healing capability, and environ- Chemistry andChemicalEngineering,andHunan Provincial
+mental responsiveness was developed. This material achieves Key Laboratory of Efficient and Clean Utilization of
+fluorescence through the synergistic effect of AIE and PCE",end,conclusion,high
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,excerpt,Multiresponsive and Mechanically Robust Self-Healing Waterborne Polyurethane with Photoluminescent and Acid−Base Adaptive,1,mechanical,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,excerpt,"hydrogen bonding sites, endowing it with excellent mechanical properties, optical responsiveness, and environmental adaptability.",1,mechanical,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,excerpt,"ethane(WPU-BD)exhibitsahightensilestrengthof72.6MPaand an excellent stretchability at break of 1249.7%, demonstrating",1,tensile,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,excerpt,"(PL), and the mechanical, thermal, acid−base, and poor solvent experimentsrevealedthatthematerialrealizesfluorescencethroughasynergisticbetweenaggregation-inducedemissionandproton-",1,mechanical,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,excerpt,"coupled energy transfer. WPU-BD exhibited reversible responses to mechanical stretching and acidic or alkaline environments. Thesestimuliinducedtemporaryreductionsinfluorescenceintensityduetomolecularchainrearrangements,buttheluminescence",1,mechanical,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,performance_data,Elongation at break: 991.8,,performance,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,figure_caption,"(a) Synthesis pathway of the compound [2,2′-bipyridine]-4,4-dicarbohydrazide (BD). (b) Supramolecular waterborne polyurethane
+(WPU)elastomer synthesisprocess.
+used to endow materials with healing capabilities. By the AIE property endowed the supra-PL-WPU with crack
+combining a hydrogen-containing po",,Figure 1,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,figure_caption,"(a, b) Stress−strain curves of WPU-BDO, WPU-BD1, WPU-BD2, WPU-BD3, and WPU-BD4 films. Displacement-controlled tensile
+curvesoftheWPU-BD3sample(c)withoutaninterval,(d)witha10mincyclicinterval.Constant-forcetensilecurvesoftheWPU-BD3Sample:
+(e) without an interval, (f) with a 10 min cyclic interval. (g",,Figure 3,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,figure_caption,"(a)Opticalimageshowingtheself-healingprocessinWPU-BD1.(b)Digitalimagesoftheself-healingprocessofWPU-BD1under365
+nm ultraviolet (UV) light. (c) Digital images comparing the fracture point and the self-healed site of WPU-BD1 under 365 nm UV light. (d)
+Schematicillustrationoftheself-healingprocessinane",,Figure 5,medium
+P300,Multiresponsive and Mechanically Robust Self-Healing Waterborne,P300_unidentified.pdf,2001,medium,good,figure_caption,"(a)Photoluminescence(PL)curvesand(c)digitalimagesunderUVlightatdifferentrecoverytimesaftertheacidstimulationresponse.
+(b)PLcurvesand(d)digitalimagesunderUVlightatdifferentrecoverytimesafterthebasestimulationresponse.(e)Theluminescenceintensity
+ofWPU-BD1specimens decreased when subjectedto stretching",,Figure 7,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,conclusion,"tougheningeffect.Wenotethatpathwaytor-
+scalebetweentwolockedentanglementsseems Whenconsideredincombinationwithprevi- tuosity at the macroscale, for example, in
+tobecross-linkingdensitydependent.Thishy- ous reports of quantitative relationships be- composites,isanestablishedtougheningmech-
+pothesisofincompletechainpull-outsuggests tween mechanophore activity and material anism (29), and the results observed here in-
+thatthetearingenergyofE1wouldeventually properties(6,17),thecurrentworkaccentuate",end,conclusion,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,excerpt,"cross-linkers enhances tear resistance asthepolyacrylatebackboneformedthrough radicalpolymerization;forexample,polymeriz-",1,tear,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,excerpt,"AbrahamHerzog-Arbeitman1,4,JeremiahA.Johnson1,4*, as a melt with no notable mechanical integ- MichaelRubinstein1,2,3,5,6*,StephenL.Craig1,2* rity.Polymerizingthepregelsolutionwithbis-",1,mechanical,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,excerpt,"Themechanicalpropertiesofcovalentpolymernetworksoftenarisefromthepermanentend-linking however,formstwopercolatedelastomernet- orcross-linkingofpolymerstrands,andmolecularlinkersthatbreakmoreeasilywouldlikelyproduce",1,mechanical,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,excerpt,materialsthatrequirelessenergytotear.Wereportthatcyclobutane-basedmechanophorecross-linkers in E1 and E2 are held together by cross- thatbreakthroughforce-triggeredcycloreversionleadtonetworksthatareuptoninetimesastough,1,tear,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,excerpt,"atthesametimescales.Theenhancedtoughnesscomeswithoutthehysteresisassociatedwith coupled [2 + 2] cycloreversion to form two noncovalentcross-linking,anditisobservedintwodifferentacrylateelastomers,infatigueaswell",1,toughness,medium
+P342,POLYMERS degreeofpolymerizationoftheprimarychains,P342_unidentified.pdf,2000,low,partial,figure_caption,"Networksdesignandthemechanochemicalreactivitiesofcross-linkers.(AandB)Mechanophores
+*Correspondingauthor.Email:jaj2109@mit.edu(J.A.J.); embeddedintothemiddleofchains(A)andastheside-chaincross-linkersofprimarychains(B).(C)General
+michael.rubinstein@duke.edu(M.R.);stephen.craig@duke.edu procedureforRA",,Figure 1,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,abstract,"Materials with increased mechanical strength and toughness bearing mussel-inspired iron−catechol complexes and
+network architectures exhibit several dynamic features, e.g., high and broad glass-“transition” temperature, not explored so far. By
+combiningdifferentialscanningcalorimetryanddielectricspectroscopy,thelatterasafunctionoftemperatureandpressure,wehave
+exploredtheincreaseintheglasstemperature,T,andtheconcomitantincreaseinthebreathofT inbioinspirednetworksbearing
+g g
+one (covalent) or two ",1,abstract,high
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,conclusion,"strength of the α and α* segmental processes as a
+function of inverse temperature (Figure S7); real and
+Materials with increased mechanical strength and toughness
+imaginary part of complex conductivity (Figure S8);
+bearing mussel-inspired network architectures and iron−
+glasstemperatureassignedtotheαprocess(FigureS9);
+catechol complexes exhibit several dynamic features (high
+mixing compositions of polymer networks (Table S1);
+and broad glass-“transition” temperature) that have not been
+and VFT p",end,conclusion,high
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,excerpt,"ABSTRACT: Materials with increased mechanical strength and toughness bearing mussel-inspired iron−catechol complexes and network architectures exhibit several dynamic features, e.g., high and broad glass-“transition” temperature, not explored so far. By",1,toughness,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,excerpt,"ultimatestrength,andtoughnessis desirableforany structural protected catechol group (CAT), and a tetrafunctional",1,toughness,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,excerpt,"polymeric networks with increased mechanical strength and of the mixture (ratio of monoepoxide to bisepoxide), a highly",1,mechanical,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,excerpt,"toughness are based on interpenetrating double- and triple- network architecture1,2 mechanically interlocked polymers3 or branched and slightly cross-linked network was formed",1,toughness,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,excerpt,"network architecture1,2 mechanically interlocked polymers3 or branched and slightly cross-linked network was formed (Scheme 1). Networks of similar topology, but different",1,mechanical,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,figure_caption,"DSCtracesof(a)PPO380and(b)PPO640elastomerseries
+prepared under vacuum by pressing the electrodes to the spacer obtained during heating at a rate of 10 K min−1. Vertical arrows
+thickness where necessary. The sample cell consisted of two indicatetherespectiveglasstemperatures.Curvesareshiftedverticall",,Figure 1,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,figure_caption,"PPO is a type-A
+polymer28−31 having components of the dipole moment both
+perpendicular and along the backbone. The two components
+give rise to local segmental and chain modes (also called
+“normal modes”) in bulk PPO. In the elastomers, the cross-
+linking units suppress the longest normal mode (indic",,Figure 3,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,figure_caption,"A realistic
+D https://doi.org/10.1021/acs.macromol.3c00356
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Article
+T)| ,whichisequivalenttotheslopeinthe“fragile”plotof
+T=T dg
+logτ vs T/T, characterizes the deviation from the Arrhenius
+g
+behavioroftheevolutionoftherelaxation",,Figure 5,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,figure_caption,"Schematic representation of mobilities withinthe different
+topologiesof(a)PPO-DAB,(b)PPO-DAB-CAT,and(c)PPO-DAB-
+The molar mass dependence of the steepness index is
+CAT-Fe networks. Red refers to the diamine units used as cross-
+linkers, green to the catechol units, and black to the Fe3+. Orange pres",,Figure 5,medium
+P349,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,P349_unidentified.pdf,2023,low,good,figure_caption,"(a)Dcconductivityof(top)PPO380and(bottom)PPO640 bonded to the cross-linking units (X c = 0.18).
+obtained on heating. Solid lines are fits to the Vogel−Fulcher− Regarding the molecular dynamics, the results for the
+Tammann (VFT) equation for conductivity. (b) Dc conductivity
+amorphousPEG500seriesarec",,Figure 8,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,abstract,"Polydomain liquid crystal elastomers (P-LCEs) with randomly oriented directors exhibit
+extraordinary in-plane liquid-like mechanical properties, attributed to the minimal energy cost of local nematic
+director rotation, distinguishing them from conventional elastomers. This study reveals that during tensile tearing,
+notched P-LCEs demonstrate exceptional strain homogenization across the specimen, effectively mitigating the
+crack-tip strain concentration and suppressing crack-tip opening over a br",1,abstract,high
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,excerpt,Flaw-Tolerant Fracture Enabled by Liquid-like Elasticity in Liquid Crystal Elastomers,1,fracture,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,excerpt,"extraordinary in-plane liquid-like mechanical properties, attributed to the minimal energy cost of local nematic director rotation, distinguishing them from conventional elastomers. This study reveals that during tensile tearing,",1,mechanical,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,excerpt,"director rotation, distinguishing them from conventional elastomers. This study reveals that during tensile tearing, notched P-LCEs demonstrate exceptional strain homogenization across the specimen, effectively mitigating the",1,tensile,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,excerpt,"notched P-LCEs demonstrate exceptional strain homogenization across the specimen, effectively mitigating the crack-tip strain concentration and suppressing crack-tip opening over a broad range of applied stretching until the",1,notch,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,excerpt,crack-tip strain concentration and suppressing crack-tip opening over a broad range of applied stretching until the polydomain-to-monodomain transition threshold. This unique capability significantly delays macroscopic fracture.,1,crack,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,figure_caption,"UniaxialstretchingoftheunnotchedPNE.(A)Uniaxialstretchinginducesapolydomain-to-monodomaintransition(PMT)atan
+exceptionallylow stress of approximately 10 kPa underquasi-staticloading. The undeformedstate exhibits anopaque appearance due to
+randomly oriented birefringent domains characteristic of the ",,Figure 1,medium
+P382,Flaw-Tolerant Fracture Enabled by Liquid-like,P382_unidentified.pdf,2025,low,good,figure_caption,"(A,D)One-dimensionaland(C,F)radialdistributionsofmajorprincipaltruestrain(ε )innotchedspecimensof(A,C)SBRand(D,
+1
+F)PNE,underincreasingappliedmacroscopictruestrain(E).(B,E)Evolutionofε atfixeddistances(d=0.20and1.00mm)withE.InSBR,
+y 1 y
+ε nearthecracktipsharplyintensifieswithincreasingE,indicatingap",,Figure 3,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,abstract,"Thisstudyinvestigatesbrittle-to-ductiletransition(BDT)andre-entryphenomenain
+glassy polymers against the background provided by the conventional Ludwik−Davidenkov−
+Wittman−Orowan(LDWO)hypothesisandavailablephenomenologicaltheoryforBDT(Wang,S.-
+Q.; Cheng, S.; Lin, P.; Li, X. A phenomenological molecular model for yielding and brittle-ductile
+transition of polymer glasses. J. Chem. Phys. 2014, 141 (9), 094905)). Through systematic
+experiments on bisphenol A polycarbonate (bpA-PC), poly(methyl meth",1,abstract,high
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,conclusion,"in
+Sincethethresholdforceforpullouthasbeenestimated11,20to
+Section 5.
+be around 0.3 nN, which is a factor of 10 lower than bond
+tension for scission, cross-linking might be effective in
+2. ACTIVATION OF CHAIN PULLOUT, ITS
+promoting ductility.
+PREVENTION BY CROSS-LINKING AND
+Althoughtheimportancetostudythecross-linkingeffecton
+TRANSITION RE-ENTRY polymer ductility has long been recognized,24 there is hardly
+2.1. Pullout under Creep. Two activation processes anyreportonwhetheradequatecross-linking",end,conclusion,high
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,excerpt,"temperature, strain rate, and sample geometry on the mechanical characteristics of these polymers. We found adequate cross-linking to rend PMMA ductile at room temperature. We discovered a",1,mechanical,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,excerpt,"outcome of tensile extension in the opposite directions. unique combination of low density, relatively high strength, andadequatemechanicalproperties1tomeettherequirements Today, we confidently assert that macroscopic ductility in",1,tensile,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,excerpt,"andadequatemechanicalproperties1tomeettherequirements Today, we confidently assert that macroscopic ductility in of a wide range of applications. Despite their inherent glassy polymers is driven by a robust chain network, which",1,mechanical,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,excerpt,"On the other hand, mechanical rigidity alone is insufficient in interchain uncrossability. Below the BDT (at T < T BD ), the mostcases.Straintoleranceandductilityareoftenrequired.2A chain network would undergo structural failure through chain",1,mechanical,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,excerpt,"combination of mechanical strength and ductility enables pullout,precedingmacroscopicyielding.Conversely,abovethe polymers to tolerate significant bending, stretching, and BDT (at T > T ), the chain network remains sufficiently",1,mechanical,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"(a)NominalstrainversustimeforPMMAsubjectedtocreepatspecifiedholdingstressesσ ,attainedbyuniaxialextensionatV =10
+hold 0
+mm/min in a prior step. (b) Plot of ln(t ) against creep stress. (c) Variation in birefringence plotted with local strain determined from
+fracture
+observingmarkersinVideoS1 intheSu",,Figure 1,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"(a) Polymer network lifetime t vs time t to reach
+junct y
+macroscopic yielding as a function of temperature. Brittle−ductile−
+brittletransitionscanoccurwhenthetwotimescalesshowdifferent
+temperaturedependencies:BrittlefractureoccurswhenT<T and
+BD
+T > T . (b) In the window defined by T > T > T , polym",,Figure 3,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"(a)Stress−straincurvesforcommercialdog-bone-shapedPMMAsamples(L =45mm,W =5mm,D =0.8mm)testedat80°Cat
+0 0 0
+fourdifferentstrainrates:0.01,0.1,1,and10mm/min.Specimengeometrysuchassharpandlength.(b)Stress−straincurvesat10mm/minfor
+untreatedsample(circles),asample(squares)predrawnwith0.01mm/minto10MPa,a",,Figure 4,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"Stress−straincurvesofstripe(bpA-PC)samplessubjected
+It has previously been shown17 that at elevated temperatures, touniaxialextension.Thetestswereconductedatacrossheadspeed
+crazing could precede yielding in glassy polymers, and of10mm/min,withsampledimensionsoflength(L)=65mm,width
+remarkably,yieldin",,Figure 6,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"Stressvsstraincurvesofnotch-freePETwithgaugelength Asimilarlength-dependentfailuretransitionwasobservedat
+L =30mm(dogbone)andL =273mm(ribbon),drawnatHencky an elevated temperature (80 °C) using a much higher
+0 0
+rate V/L = 0.3 min−1. Two images from Video S3 (L = 30 mm) crosshead speed of 100 mm/min",,Figure 8,medium
+P383,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,P383_unidentified.pdf,2014,low,good,figure_caption,"(a)Stress−straincurvesforbpA-PCsampleswithacutsizeofa=6mm,thicknessof1.8mm,andwidthof20mm,testedatlengthsof
+L =45mmandL =200mmdrawingwithaconstantcrossheadspeedof5mm/min.(b)Sequentialframesshowingthesamplesatthestarting
+0 0
+pointofthetensiletestandoneframejustbeforefailure,illustratingthetransitionf",,Figure 10,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,conclusion,"and Outlook R plastics,tires,andpackaging,canbereducedbyincreasingthe",end,conclusion,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,excerpt,Entanglements and Fracture in Polymers Published as part of Chemical Reviews special issue “Tough Gels”.,1,fracture,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,excerpt,"elasticandviscoelasticproperties,aswellasfractureproperties.Thisreviewdiscussesrecent advancements in understanding the relationship between entanglements and fracture. A",1,fracture,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,excerpt,"advancements in understanding the relationship between entanglements and fracture. A summaryofvariousfractureproperties,includingtoughness,strength,stretchability,workof",1,fracture,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,excerpt,"summaryofvariousfractureproperties,includingtoughness,strength,stretchability,workof fracture,fatiguethreshold,andendurancelimit,acrossdifferentpolymericsystems,including",1,fracture,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,excerpt,"fracture,fatiguethreshold,andendurancelimit,acrossdifferentpolymericsystems,including gels, elastomers, and plastics, is provided with discussions on the role of entanglements. A",1,fracture,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,figure_caption,"Trappedandtransiententanglementsinapolymernetwork.
+force causes significant entanglement slippage. As the force
+increases,polymerscanundergo,forexample,distributedchain
+scission, shear banding, crazing, and strain-induced crystal- entanglements that do not detangle unless the polymer chains
+lization",,Figure 1,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,figure_caption,"Measurement of fracture properties with a crack. A. Pure
+requires a sample with a crack and a sample without a crack
+shear sample geometry with and without a crack used for fracture
+(Figure 3A-C). By monotonically stretching the sample tests.B.Monotonicloadingprofileataconstantstretchrateλ .C.
+appl
+",,Figure 3,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,figure_caption,"Measurement of fracture properties without a crack. A. the prediction of fracture properties from molecular structure
+Dog-bone geometry used for uniaxial tension tests. B. Monotonic orviceversa,whichisessentialinengineeringpolymers.Inthis
+loadingprofileatconstantstretchrate.C.Astress−stretchcurveand",,Figure 5,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,figure_caption,"Schematicillustrationsdescribingentanglementsinvarioustopologies.A.highlyentangledpolymernetwork.B.Slide-ringnetwork.C.
+Polyrotaxane plastic network. D. Catenated network. E. Molecular weave. F. Interpenetrating network. G. Microgel-reinforced network. H. 1-D
+nanoconfined polymer chains. I. 2-D nano",,Figure 7,medium
+P395,Entanglements and Fracture in Polymers,P395_unidentified.pdf,2025,low,partial,figure_caption,"Entanglement-fracturecorrelationsinrubbers.A.PDMSelastomersconsistedofconcatenatedrings(left)andexperimentalstress−strain
+curve(blackfilledcircles)andfittingcurvesbasedonaffine(blueemptysquares)andslip-linkmodels(redemptytriangles),respectively(right).
+Reproduced with permission from ref 32. Copyrig",,Figure 9,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,abstract,"The recent discovery of a soft, elastomeric surface on polymer
+glasses is transforming our understanding of tribology, adhesion, and other
+interactionsatmaterialinterfaces.Herein,wedevelopedanapproachtoinvestigate
+the linear elasticity of the rubbery surface of glassy polymers by observing and
+modeling the deformation of these films in response to interfacial wetting forces.
+Thismethodutilizesthesurfacetensionofanimmiscibleliquiddroplettoinducea
+well-defined deformation on the film surface, know",1,abstract,high
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,conclusion,"deeper into the film, resulting in a thicker surface layer.
+Notably, Figure 5b shows that while the G values for all The mechanics of free surfaces underlie tribology, adhesion,
+e,s
+three polymers are of the same order of magnitude; they are andothercriticalprocessesatpolymerinterfaces.Inthisstudy,
+consistently higher than their respective bulk rubbery moduli we demonstrated that the surface of a polymer glass near its
+(G ). This contrasts with the general expectation that
+e,bulk glass transitio",end,conclusion,high
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,excerpt,"ridge and the thickness and modulus of the rubbery surface layer. Measurements for polystyrene (PS), poly(4-methylstyrene) (P4MS), and poly(tert-butylstyrene)",1,modulus,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,excerpt,"moduluswasofthesameorderofmagnitudeastherubberyplateaumodulusofthebulkpolymersbutwasconsistentlyhigherthan the bulk values, indicating a stiffening of the rubbery response at the polymer-glass surface.",1,modulus,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,excerpt,"INTRODUCTION modulus (G) of a bulk polymer is determined by the e molecularweightbetweenentanglements(M),i.e.,G ≈M−1,",1,modulus,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,excerpt,"ces the mechanical and dynamic behaviors of systems ranging from nanometer to micrometer scales,22−25 which includes we employed a partially wetting liquid droplet on a polymer- glasssurfaceasaprobe.Thesurfacetension(γ)oftheliquidat",2,mechanical,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,excerpt,"mechanics (e.g., elastic modulus) remains challenging, due to model.35−38 Specifically, by solving the deformation profile, the inherent difficulty of evaluating stress and strain within",2,modulus,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,figure_caption,"Schematicof(a)aliquiddropletinducingawetting-ridgeformationontherubberysurfaceofapolymerglassand(b)amagnifiedview
+of the surface ridge profile (red curve), where the balance between liquid wetting forces and elastic stress in the polymer determines the ridge
+morphology.
+Table 1. Physical Characteris",,Figure 1,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,figure_caption,"(a)Timeevolutionofwetting-ridgeheight(h)on400nm-thickPS,P4MS,andPtBSfilmsatT −10K.Theshadedareaindicatesthe
+g
+surfacerubberyplateau.(b)Representativecross-sectionalprofilesoftheridgeonPSwithintherubberyplateauatdifferenttimes(t).Solidlines
+arefitted usingeq 1.",,Figure 3,medium
+P401,Rubbery Surface Elasticity of Polymer Glasses,P401_unidentified.pdf,2025,low,good,figure_caption,"Comparisonof surface-layerpropertiesforPS, PtBS,and P4MSatT −10K. (a) d and (b)G and G (values from Table1).
+g s e,s e,bulk
+a
+g
+n
+ro
+d
+up
+e
+s
+la
+.
+st
+I
+i
+n
+c m
+th
+o
+e
+du
+fo
+lu
+ll
+s
+ow
+am
+in
+o
+g,
+ng
+w
+t
+e
+he
+ela
+p
+b
+o
+o
+ly
+r
+m
+at
+e
+e
+rs
+on
+wit
+t
+h
+he
+di
+q
+ff
+u
+e
+a
+re
+n
+n
+ti
+t
+ta
+s
+t
+i
+i
+d
+v
+e
+e
+l
+m
+o",,Figure 5,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,abstract,"Bothpolymersizeandchainelasticitydependonlong-rangebondcorrelations,which
+determine the chain Kuhn length. These correlations are gradually cut off with increasing externally
+applied force or polymer confinement, thereby decreasing the effective Kuhn length. We develop a
+theory for the strain-dependent Kuhn length and validate it with simulations. Our model explains
+why the Kuhn length obtained from single-molecule force spectroscopy experiments is smaller than
+the Kuhn length determined from sc",1,abstract,high
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,excerpt,"response to mechanical stimuli. The dependence of characteristic ratio and the Kuhn length approach their polymersizeonanappliedforceiscentraltothemechanicsof asymptotic values C and b , respectively.",1,mechanical,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,excerpt,"mechanical response of proteins in biological systems.5,6 number of bonds n, or the contour length L, and thereby Polymer elasticity in θ-solvents and melts depends on the determine the Kuhn length, b , through eq 2 or Flory’s magnitudeof chain fluctuations, δ2=⟨R2⟩ − ⟨R⟩2, whereRis characteristic ratio C through fr e ee q 1. The Kuhn length (or",1,mechanical,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,excerpt,"in the Gaussian regime, where the relative elongation scales hexagons), which deviates considerably from the mFJC",21,elongation,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,excerpt,"melt,orextendedduetoconfinementinananopore.Notably, Danyang Chen − Thomas Lord Department of Mechanical thiscrossoveroccursatforceslowerthanthecharacteristicf = Engineering and Materials Science and NSF Center for the",29,mechanical,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,excerpt,"mechanical deformation. Moreover, the same strain stiffening (MONET), CHE-2116298, and the Institute for Chemical",29,mechanical,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,figure_caption,"Discrepancybetweenb andb in(a)experimentsofPS
+free ext l l
+incyclohexanereportedinref17and(b)MDsimulations.Theblack h(s) 0,i 0,i+s e sl/l p
+circles represent the measured force−extension relationships. The l2
+solidbluelinesarethepredictionsforaGaussianchain(eq4)based 0 (7)
+onthemeasuredb .Thesolidre",,Figure 1,medium
+P419,Reduction of Kuhn Length upon Chain Extension,P419_unidentified.pdf,2025,low,good,figure_caption,"Tension dependence of the effective Kuhn length, b, as reciprocal of the decrease rate (dashed green curve in Figure
+g
+predictedforthe5×105g/mol(n≈104)PSchainattheθ-condition 3). At forces higher than f
+0
+the Kuhn length saturates at b
+0
+(cyclohexane at 34.5 °C). The black and blue curves represent ",,Figure 3,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,abstract,"Supramolecularinteractionshaveenabledthedevelop-
+ment of high-strength and tough polyurethane elastomers with
+exceptional mechanical properties and functionality. Herein, we
+report a supramolecular polyurethane-urea (PUU) elastomer
+engineered through rigid-flexible segmented hydrogen bonding and
+a biomimetic “train coupling mechanism”, achieving both ultrahigh
+strength and facile recyclability. By leveraging mismatched rigid-
+flexible supramolecular interactions between adipic dihydrazide (AD
+H-",1,abstract,high
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,conclusion,"with THF before recycling (12300 g/mol). It is probably
+Insummary,wehavedevelopedahighstrengthandultratough
+caused by the stretching of the molecular chains of PUU-AD-
+supramolecularpolyurethane-urea(PUU)elastomerthrougha
+5UP in ethanol, leading to an increase in the hydrodynamic
+rational rigid-flexible H-bonding design and a bioinspired
+volume, which ultimately results in a high molecular weight
+“train coupling mechanism”. By incorporating ADH and UPy
+measured by GPC. This result confirms that ",end,conclusion,high
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,excerpt,"exceptional mechanical properties and functionality. Herein, we report a supramolecular polyurethane-urea (PUU) elastomer",1,mechanical,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,excerpt,"segments, the elastomer demonstrated enhanced toughness and energy dissipation. This work provided an in-depth analysis of AD",1,toughness,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,excerpt,"andUPyH-bonding,elucidatingtheirrespectiverolesinthemechanicalanddynamicpropertiesofthePUUs.ThesamplePUU-AD- 5UP exhibits outstanding tensile strength (64.4 ± 5.6 MPa) and toughness (700 ± 59 MJ·m−3). Owing to the dynamic UPy",1,mechanical,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,excerpt,"5UP exhibits outstanding tensile strength (64.4 ± 5.6 MPa) and toughness (700 ± 59 MJ·m−3). Owing to the dynamic UPy “couplers”, the as-prepared material enables room-temperature self-healing and ethanol-assisted recycling capability with 95%",1,tensile,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,excerpt,"efficiencyoftensilestrength.Furthermore,anion-conductivePUU-AD-5UP(ICPUU-AD-5UP)compositewasprepared,achieving a good combination of high tensile strength (28 MPa), ionic conductivity, and recyclability. This supramolecular design strategy",1,tensile,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,performance_data,Elongation at break: 32,,performance,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,figure_caption,"(a) Chemical structures of the prepared four supramolecular PUU elastomers. (b) Stretching schematic of the elastomer with both
+flexibleandrigidH-bonds(PUU-AD-5UP/10UP).(c)Imitationofa“traincoupler”structureoftheUPyH-bonds.(d)Side-by-sidetraincolumn
+(ADtypeH-bonds)structure enhancedby the “traincoup",,Figure 1,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,figure_caption,"(a) 300% strain cycle-tensile curves of PUUs. (b) The hysteresis area at different strains of the PUUs. (c) Tensile curves of notched
+PUU-AD-5UPandunnotchedPUU-AD-5UP,andthecalculatedfractureenergy.(d)300%cycle-tensilecurvesfor10timesandtherelaxedcurve
+ofPUU-AD-5UP.(e)Strain-tan(delta)rheologycurves",,Figure 3,medium
+P438,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,P438_unidentified.pdf,2025,medium,good,figure_caption,"Ion-conducting PUU (ICPUU-AD-5UP) sensor was prepared with PUU-AD-5UP. (a) Stress−strain curves of PUU-AD-5UP and
+ICPUU-AD-5U(20%LiTFSI).(b)ΔR/R-straincurveofICPUU-AD-5UP.(c)SchematicoftheLi+transportation.(d)ΔR/R ofICPUU-AD-
+0 0
+5UPforminorcyclestrains(1−30%)and(e)majorcyclestrains(50−150%).(f)Sche",,Figure 5,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,abstract,"Fatigue failure under long-term cyclic loading remains a central challenge in the
+design of elastomeric biomaterials that must simultaneously achieve high strength, large
+deformability, and long-term durability. Here, we report a polyurethane elastomer constructed
+via a multiscale energy-dissipation strategy that establishes a direct structure-fatigue-property
+relationship. By integrating molecular-scale chemical cross-linking, microscale physical cross-
+linking,and dynamic hydrogen-bondinginter",1,abstract,high
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,conclusion,"observed after two months of immersion in PBS, and
+Inthisstudy,PHA−PUelastomerfeaturingamultiscalecross-
+enzymatic degradation in lipase-containing PBS resulted in
+linked network was rationally designed by integrating rigid
+∼85%massretentionafter60days,confirminghighresistance
+PPDI,BDO,andTMPashardsegmentswithPHAasthesoft
+to hydrolytic and enzymatic degradation (Figure 10e). segment. The resulting material constructs a hierarchical
+Collectively, these results demonstrate that PHA−PU quadruple ne",end,conclusion,high
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,excerpt,Multiscale Structural Evolution Governing Fatigue Resistance in Polyurethane Elastomers,1,fatigue,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,excerpt,"ABSTRACT: Fatigue failure under long-term cyclic loading remains a central challenge in the design of elastomeric biomaterials that must simultaneously achieve high strength, large",1,fatigue,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,excerpt,"via a multiscale energy-dissipation strategy that establishes a direct structure-fatigue-property relationship. By integrating molecular-scale chemical cross-linking, microscale physical cross-",1,fatigue,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,excerpt,"elastomerexhibitsexceptionaltensilestrength(68.3MPa),outstandingtoughness(374.09MJ/ m3), and an extraordinary load-bearing capability of 4.27 × 105 times its own weight.",1,tensile,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,excerpt,high fatigue threshold of 793.68 J/m2. Multiscale structural characterizations reveal that fatigue degradation is governed by the progressive evolution and eventual disintegration of the,1,fatigue,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,performance_data,Elongation at break: 1496,,performance,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,figure_caption,"(a)FTIRspectra,(b)Schematicdiagramofpeakfittingforhydrogenbondingdegree,(c)WAXDcurves,(d)DSCcurves,(e)1DSAXS
+profilesalongside2DSAXSpatterns,and (f)TEM images.
+yet achieves a deliberately engineered, multilevel micro- PU films exhibited a uniform milky-white appearance (Figure
+structure through prec",,Figure 1,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,figure_caption,"MechanicalperformanceofthePPA−PUandPHA−PUelastomers.(a)Stress−straincurves.(b)ThevaluesoftoughnessandYoung’s
+modulus. (c) Comparison of the Young’s modulus and tensile strength with other reports. (d) Stress−strain curves of unnotched and notched
+samplestested atanextension speed of 50mm/min.(e)Cycl",,Figure 3,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,figure_caption,"AFM modulus analysis in QNM mode. AFM modulus image of pristine sample: (a) PPA−PU-pristine, (b) PHA−PU-pristine. Peak
+fitting of AFM modulus distribution curve of pristine sample: (c) PPA−PU, (d) PHA−PU. Recoloring AFM modulus image: (e) PPA−PU-
+pristine,(f)PHA−PU-pristine,(g)PPA−PU-6150cycles,(h)P",,Figure 5,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,figure_caption,"(a)DSCcurveswithdifferentcyclesofthePHA−PU.SAXScurveswithdifferentcycles:(b)PPA−PUand(c)PHA−PU.(d)Structural
+evolutionofspheruliticstructuresduringcyclicloading,takingthePHA−PUasanexample,alongwiththerelatedstructuralparametersoflamellar
+bundles.(e)Statistical analysis of longperiod, and transitionl",,Figure 7,medium
+P439,Multiscale Structural Evolution Governing Fatigue Resistance in,P439_unidentified.pdf,2025,medium,good,figure_caption,"Schematic diagram of the evolution of structure morphology during cyclic stretching process: (a) soft-segment noncrystalline system
+(PPA−PU)and (b)soft-segment crystallinesystem (PHA−PU).
+periodshortens.AFMfurtherrevealedacontinuousincreasein cultured directly on PHA−PU membranes exhibited prolifer-",,Figure 9,medium
+P452,"A stretchable, mechanically robust polymer",P452_unidentified.pdf,2023,low,partial,excerpt,"A stretchable, mechanically robust polymer exhibiting shape-memory-assisted self-",1,mechanical,medium
+P452,"A stretchable, mechanically robust polymer",P452_unidentified.pdf,2023,low,partial,excerpt,"typicallyexhibitinferiormechanicalproperties.Therefore,thepresentstudyis aimedatsynthesizingapolyurethane–ureaelastomerwithexcellent",1,mechanical,medium
+P452,"A stretchable, mechanically robust polymer",P452_unidentified.pdf,2023,low,partial,excerpt,"mechanicalpropertiesandshape-memory-assistedself-healingbehavior.In particular,theintroductionofcoordinationandhydrogenbondsintoelasto-",1,mechanical,medium
+P452,"A stretchable, mechanically robust polymer",P452_unidentified.pdf,2023,low,partial,excerpt,"merleadstotheoptimalelastomerexhibitinggoodmechanicalproperties (strength,76.37MPa;elongationatbreak,839.10%;toughness,308.63MJm−3)",1,mechanical,medium
+P452,"A stretchable, mechanically robust polymer",P452_unidentified.pdf,2023,low,partial,excerpt,"(strength,76.37MPa;elongationatbreak,839.10%;toughness,308.63MJm−3) owingtothephasedenergydissipationmechanisminvolvingvarioussupra-",1,toughness,medium

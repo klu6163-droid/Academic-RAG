@@ -1,0 +1,638 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,claim_type,evidence_text,figure_table_source,page_est,keyword,confidence,relevance,ml_feature_candidate
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,conclusion,general,"in the paper are present in the paper
+492–501 (2015). and/or the Supplementary Materials.",conclusion section,end,conclusion,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,general,"lar motifs that harness these electrostatic attractive forces to their full- the field of ionic liquids, where the addition of asymmetric bulky pen- est potential, ranging from strongly hydrated soft coacervates, such as dant groups tempers the electrostatic forces to lower their melting",line 30,1,ionic liquid,medium,standard,TRUE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,general,"makes these materials brittle and un-p rocessable in the dry state (12). Small-m olecule ionic liquids can be added on demand to further tune In ionomers, interactions between charged side groups on polymer the glass transition temperatures and material mechanics, serving the",line 46,2,ionic liquid,medium,standard,TRUE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,general,"themselves. To this end, we took inspiration from ionic liquids and charge stoichiometry to allow complex formation under vigorous mix- synthetized polyelectrolytes with bulky side chains attached to the ing (schematic, Fig. 1D). This leads to the formation of a precipitate,",line 88,3,ionic liquid,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,general,"anion is based on styrenesulfonyl imides, with fluorinated side chains MilliQ water until the ionic conductivity of the supernatant approaches of two different lengths. By varying the side-g roup dimensions, we that of pure water (fig. S1A). We verified that this effectively removes",line 92,3,conductivity,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,general,"polystyrene backbone with ionic liquid- inspired side chains. the alkyl and fluoroalkyl tail lengths are varied to modify the interaction strength. (A) non- screened (nS) compleximer has relatively accessible ionic groups, allowing for strong ionic bonding, similar to traditional Pecs. (B) half-s creened (hS) compleximer is made with a",line 103,3,ionic liquid,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,excerpt,measurement,"cation or polyanion and subsequent simultaneous mixing, which leads to the precipitation of a solid complex. these are washed with water until the conductivity reaches equilibrium close to the conductivity of MilliQ water, removing all free counterions from the complex. the final compleximer is obtained as a dry powder. nr.,",line 107,3,conductivity,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,performance_data,measurement,R-squared: 0,text extraction,,performance,medium,standard,TRUE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Polyelectrolytes with varying degrees of intrinsic screening form compleximers upon mixing in solution. Four investigated polyelectrolytes consist of a
+polystyrene backbone with ionic liquid- inspired side chains. the alkyl and fluoroalkyl tail lengths are varied to modify the interaction strength. ",Figure 1,,Figure 1,medium,standard,FALSE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Ionic screening as the key toward accessing glass transitions in compleximers. (A) A screened ionic liquid, methyl- trioctylammonium bis(trifluoromethylsulfonyl)
+imide (iL-S ) is used to plasticize S compleximer by providing extrinsic screening. Samples become increasingly transparent with increasin",Figure 3,,Figure 3,medium,standard,TRUE
+P057,Science AdvAnceS | ReSeAR ch AR ticLe,P057_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Compleximers are excellently malleable and solvent and moisture resistant. (A) A plasticized sample of S compleximer (20% iL-S ) can be deformed into a
+spiral shape upon heating with a heat gun. (B) Large pieces of plasticized S compleximer (35% iL) can be easily molded into a new shape at elevated ",Figure 4,,Figure 4,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,conclusion,method,"of the preparation methods of ionic liquid-based gels is illus- polymerization reaction to gelation.[32] Three types of chemical initi-
+trated in Fig. 1. ators may be used for the polymerization, including peroxides, azo, and
+oxidation–reduction systems.[32,33] Peroxide initiators may be further
+2.2.1. Chemical crosslinking for the preparation of poly(ionic liquids) divided into organic and inorganic categories. Inorganic peroxide ini-
+hydrogels tiators are mostly used in emulsion and aqueous so",conclusion section,end,conclusion,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,general,"Ionic liquid-based gels for biomedical applications Yiru Gao, Wenxin Zhang, Linyu Li, Zejun Wang*, Yang Shu*, Jianhua Wang",line 6,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,general,"Keywords: Ionic liquids (ILs) with ion-pair structures have played unprecedented roles in various fields, e.g., organic syn- Radical polymerization thesis, electrochemistry, analytical sciences and functional materials design. Additionally, the newly exploited",line 10,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,measurement,"development of ionic liquid gels-based materials. This review summarizes the classification, synthesis, property Hemostasis",line 16,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,general,"and oriented applications of ionic liquid-based gels with emphasis on biomedical purposes, e.g., antibacterial, antitumor, drug delivery and hemostasis. It aims to offer new perspectives and attract more attentions to open up",line 18,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,general,the avenue in the biomedical applications of ionic liquid-based gels. liquid-based gels are classified only based on the nature of the contin-,line 20,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,excerpt,general,"Ionic liquids are defined as a class of molten salts that are liquid with Gel refers to a special dispersion system, in which the colloidal fusing point of below 100℃, consisting of organic cations and inorganic",line 23,1,ionic liquid,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,performance_data,measurement,R-squared: 022,text extraction,,performance,medium,standard,TRUE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Preparation approaches for ionic liquid-based gels.
+(Table 1). ILs are polymerized to form PILs or polymerized with other
+monomers to form the continuous phase of the gels. Usually, this kind of solid phase by radical polymerization.
+gel is dispersed in water phase and referred as poly(ionic liquids",Figure 1,,Figure 1,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,figure_caption,measurement,"(a, i) Photographs of the self-healing properties of hydrogel, (ii) Schematic diagram of the self-healing mechanism for hydrogels. Reproduced with permission.
+[35] Copyright 2021, Royal Society of Chemistry. (b) Stretching curves of ionic gels at room different temperature, (iii) Self-healing mechan",Figure 3,,Figure 3,medium,standard,FALSE
+P068,Contents lists available at ScienceDirect,P068_unidentified.pdf,2022,low,partial,figure_caption,measurement,"(a) GelMA and PEGDA reacted with BIL to form BioGel and BioPEG. Shear strength of BioGel (b) and BioPEG (c) at different BIL concentration. (d, e)
+Photographs of blood coagulation test of BioGel (d) and BioPEG (e) with the increase of BIL concentration. Quantitative determination of coagulation time",Figure 5,,Figure 5,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,general,Stretchable Materials www.mrc-journal.de Ionic Gels and Their Applications in Stretchable Electronics,line 2,1,stretchable,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,general,"Ionic Gels and Their Applications in Stretchable Electronics Haifei Wang, Ziya Wang, Jian Yang, Chen Xu, Qi Zhang, and Zhengchun Peng*",line 3,1,ionic gel,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,general,"Ionic gels represent a novel class of stretchable materials where ionic con- electronics, soft robotics, and implant- ducting liquid is immobilized in a polymer matrix. This review focuses on the able devices. In particular, E-skin, which",line 6,1,ionic gel,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,general,"design of ionic gel materials and device fabrication of ionic-gel-based stretch- mechanical stretchability of human skin,",line 9,1,ionic gel,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,general,"mechanical stretchability of human skin, able electronics. In particular, recent progress in ionic-gel-based electronic",line 10,1,mechanical,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,excerpt,interpretation,lowed by a discussion of challenges in developing ionic-gel-based electronics grated network of sensors that relay infor- and suggestions for future research directions that might overcome those mation about tactile and thermal stimuli,line 15,1,network,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,performance_data,measurement,Stretchability: 2000,text extraction,,performance,medium,standard,TRUE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,performance_data,measurement,R-squared: 00,text extraction,,performance,medium,standard,TRUE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Perspective applications of ionic-gel-based electronics. a) Bioinspired self-healing sensors. Reproduced with permission.[25] Copyright 2017,
+Wiley-VCH. b) Micropatterned ionic-gel-based sensors. Reproduced with permission.[24] Copyright 2017, American Chemical Society. c) Soft tactile sen-
+sors of ",Figure 1,,Figure 1,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Hybrid network hydrogel. a) Schematic illustration of hydrogels by copolymerization of N,N-dimethylacrylamide and methacrylic acid (i–iii)
+and a proposed molecular mechanism of the stretching and recovery processes based on the proper balance between loose chemical covalent bonds
+networks and the mu",Figure 3,,Figure 3,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Transparent, self-healing, highly stretchable ionic gels. a) Schematic illustration of healing process and chemical structure of polymer and
+imidazolium cation. b) Physical and mechanical properties of gels: i) transmittance spectrum; ii) SEM image, scale bar, 10 µm; iii) tensile strain tests
+of ion",Figure 5,,Figure 5,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Ionic-gel-based sensors. a) Interfacial capacitive pressure sensor based on the formation of an electrical double layer. Reproduced with
+permission.[63] Copyright 2015, Wiley-VCH. b) Capacitive pressure sensor based on bioinspired supramolecular mineral hydrogel. Reproduced
+with permission.[25] Copy",Figure 7,,Figure 7,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Light-emitting capacitive touch sensor based on ionic gel elec-
+solid-state flexible supercapacitor fabricated with bacterial nano-
+trode. a) Images of stretchable light-emitting capacitance. b) Schematic
+illustration of five-layer structure. c) Multipixel electroluminescent dis- cellulose (BNC), CN",Figure 9,,Figure 9,medium,standard,FALSE
+P075,Ionic Gels and Their Applications in Stretchable Electronics,P075_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Electrochemiluminescent (ECL) device with an emissive gel In recent works, Huang and coworkers presented a new
+layer. a) Schematic illustration of ionic-gel-based ECL and chemical spe- polymer electrolyte comprised of PAM hydrogel crosslinked
+cies and reactions near the electrode (I–III). b) Photogr",Figure 11,,Figure 11,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,"articlediscussesfactorsthataffecttheoverallperformanceofthedevicessuchastheionicconductivity, Received14thJune2019 mobility, diffusion coefficient, radius of bare and hydrated spheres, ion solvation, viscosity, dielectric",line 13,1,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,"and devices are intensively researched. In this regard, EES high electrical conductivity. The double layer here is due to devices such as batteries2–4 and supercapacitors5 are the “rst adsorptionofnegativeionsfromtheelectrolyteonthepositively",line 29,1,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,"S conductivityandcapacitance,40butalowenergydensity,cycling forthem.26E isexpressedas1/2CV2,whereCisthecapacitance",line 127,4,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,increasingtheC(whichisdeterminedbytheamountofcharge normally suffer from much lower ionic conductivity.42 Solid- stored by the electrode) and voltage (V) (dened as the differ-,line 132,4,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,"SCDs such as ionic conductivity and mobility, diffusion coeffi- cient,radiusofhydratedspheres,solvation,dielectricconstant,",line 166,5,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,excerpt,general,section#3explainsconductivityofstate-of-the-artelectrolytesfor SCDs;acomprehensivereviewoftheroleofcationsandanions,line 173,5,conductivity,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,performance_data,measurement,R-squared: 1,text extraction,,performance,medium,standard,TRUE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,figure_caption,measurement,"fossilfuelreservesandlife-threateningenvironmentalhazards EDLCs store physically charges (physisorption) via the forma-
+(e.g. increased greenhouse gas emission and water and air tion of an electric double layer (EDL) at the interface between
+pollution). As a result, globally, zero-emission and renew",Figure 2,,Figure 2,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,figure_caption,measurement,"and their ionic mobility decreased accordingly from K+ to Li+.
+Theeffectofvariouselectrolytecations(H+,Li+,Na+,andK+)
+The large ionic mobility and small hydration sphere radius of
+on the electrochemical performance of graphene/polypyrrole
+H+wereduetothejumpingtransferencemodebetweenwater
+based super",Figure 6,,Figure 6,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,figure_caption,measurement,"that the internal distribution of the electrode resistance
+Theeffectoftheionic sizeofsmallquaternaryammonium increasesinthefollowingorderofsolvent:AN<GBL<PC.
+BF salts on electrochemical double layer capacitors has been Organicelectrolyteshavealsobeenusedforpseudocapacitors
+4
+reported by Koh et al.;1",Figure 12,,Figure 12,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,figure_caption,measurement,"rauoroborate) ILs have shown the best performance among
+Protic ionic liquids have received limited interest as elec- other ILs. A series of ILs composed of [EMIM]+ cations and
+trolytesforEDLCsduetotheirmuchloweroperativecellvoltage variousanionsincludingNTF ,BF ,EtSO ,DCA,andOAcwith
+2 4 4
+(1.2–2.5)",Figure 16,,Figure 16,medium,standard,FALSE
+P084,Electrolyte selection for supercapacitive devices:,P084_unidentified.pdf,2019,low,partial,figure_caption,measurement,"Organic solvents have also been used in gel polymer based
+electrolytes for supercapacitors to increase the working cell
+voltageofthedevice.Theseorganicsolventbasedgelpolymer
+electrolytes are also known as organogel electrolytes. Various
+polymerhostssuchasPMMA,polyvinylpyrrolidone(PVP),PEO,
+PEEK,andc",Figure 22,,Figure 22,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,abstract,general,"Ionicliquids(ILs)aremoltensaltsthatareentirelycomposedofionsandhavemelting
+temperaturesbelow100◦C.Whenimmobilizedinpolymericmatricesbysol–gelorchemicalpolymer-
+ization,theygenerategelsknownasiongels,ionogels,ionicgels,andsoon,whichmaybeusedfora
+varietyofelectrochemicalapplications.OneofthemostsignificantresearchdomainsforIL-based
+gelsistheenergyindustry,notablyforenergystorageandconversiondevices,duetorisingdemand
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1) forclean,su",abstract section,1,abstract,medium,standard,TRUE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,Ionic Liquid-Based Gels for Applications in Electrochemical Energy Storage and Conversion Devices: A Review of Recent,line 3,1,ionic liquid,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,"4 DepartmentofMechanicalSystemsEngineering,YamagataUniversity,4Chome-3-16Jonan, Yonezawa992-8510,Yamagata,Japan;nahin@yz.yamagata-u.ac.jp",line 14,1,mechanical,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,"ization,theygenerategelsknownasiongels,ionogels,ionicgels,andsoon,whichmaybeusedfora varietyofelectrochemicalapplications.OneofthemostsignificantresearchdomainsforIL-based",line 19,1,ionogel,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,"stability,andstrongionicconductivity,IL-basedgelsappeartomeetthestringentdemands/criteria Citation:Sultana,S.;Ahmed,K.; ofthesediverseapplicationdomains.ThisarticlefocusesonthesynthesispathwaysofIL-basedgel",line 24,1,conductivity,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,Gels are three-dimensional networks of cross-linked polymeric units in liquid systems publishedmapsandinstitutionalaffil-,line 46,2,network,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,excerpt,general,"water/solventswellability,materialspermeability,andtunablemechanicalelasticity[7,8]. Additionally,asuperiorabilitytoserveasbiocompatiblematerialsandfortransportingions",line 50,2,mechanical,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,performance_data,measurement,R-squared: 021,text extraction,,performance,medium,standard,TRUE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,figure_caption,measurement,(a) FESEM image of the surface of IE-T electrolyte; (b) FESEM image of the cross-section,Figure 1,,Figure 1,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,figure_caption,measurement,"(a)SFyignuthrees 2is. (Ha)P S-yAnathnedsiIsL H-bPas-Aed agnedl IfrLo-mbasHePd- gAelb fyropmho HtoPp-oAly bmye prhizoattoiopnol[y4m4]earnizdat(ibo)nb [a4s4ic] and (b) basic
+overviewofpoovleyrmvieerw/i onfo prgoalynmicehry/ibnroidrgealnecictr hoylybtreid(H eEle)c[t3ro4l]y.te (HE) [34].
+Previous public",Figure 2,,Figure 2,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,figure_caption,measurement,Schematic illustration of (a) spin-coating of TMOS/VTEOS IL-based gel electrolyte. (b) GV,Figure 4,,Figure 4,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,figure_caption,measurement,Proportion regulation and optimization of components in Na-IL/P(VDF–HFP)@SBA-15:,Figure 5,,Figure 5,medium,standard,FALSE
+P089,Ionic Liquid-Based Gels for Applications in Electrochemical,P089_unidentified.pdf,2021,low,partial,figure_caption,measurement,(a) TGA showing the thermal stability of the pristine IL and of the IL–based gel; (b) con-,Figure 7,,Figure 7,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,abstract,general,"Inthispaper,wereviewdifferenttypesofpolymer CPE Compositepolymerelectrolyte
+electrolytes,recentapproachesandtechnologicalapplications DBP Dibutylphthalate
+ofpolymerelectrolytes.Thereportfirstdiscussesthecharac- DEC Diethylcarbonate
+teristics,advantagesandapplicationsforthreetypesofpoly- DEP Diethylphthalate
+merelectrolytes:gelpolymerelectrolytes,solidpolymerelec- DMC Dimethylcarbonate
+trolytesandcompositepolymerelectrolytes.Next,wediscuss DMF Dimethylformamide
+thefeaturesandperformanceofdifferen",abstract section,1,abstract,high,standard,TRUE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,conclusion,method,"merelectrolytes.ThermochimActa511:140–146
+11. RameshS,UmaO,ShantiR,YiLJ,RameshK(2014)Preparation
+Theuseofpolymerelectrolytesinvariouselectrical,electro- andcharacterizationofpoly(ethylmethacrylate)basedpolymer
+electrolytes doped with 1-butyl-3-methylimidazolium
+chemical and electrochromic devices has advanced much in
+trifluoromethane-sulfonate.Measurement48:263–273
+recentyears.Manypolymer hostshavebeenstudied and re-
+12. SanchezJY,AlloinandF,LepmiCP(1998)Polymericmaterialsin
+ported in the litera",conclusion section,end,conclusion,high,standard,TRUE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,general,hosts .Application .Ionicconductivity.Capacitor LiCF 3 SO 3 Lithiumtriflate LiClO Lithiumperchlorate,line 27,1,conductivity,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,general,"bepreparedbydissolvingmetal salts inpolar polymer hosts combustiblereactionproductsonthe electrodesurface[7,8, [6].ThelaunchofPEasanewsolid-statematerialhascaused 15–17].",line 121,4,metal salt,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,measurement,"transparency, solvent-free, light-weight, flexibility, thin-film Ionic conductivity is the most important property of the forming ability, high ionic conductivity, easy processability PEs. The ionic conductivity is closely related to the degree",line 131,4,conductivity,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,general,"forming ability, high ionic conductivity, easy processability PEs. The ionic conductivity is closely related to the degree Ionics(2016)22:1259–1279 1261",line 132,4,conductivity,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,general,"ofcrystallinityandtheviscosityofthePEs[31].Crystalline- electrolytes leads to poor mechanical strength [40, 41]. basedPEshavehigherdegreeofcrystallinity.Theionshave Insufficient mechanical strength means that it is unable to",line 144,4,mechanical,medium,standard,TRUE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,excerpt,general,"basedPEshavehigherdegreeofcrystallinity.Theionshave Insufficient mechanical strength means that it is unable to lowmobilityincrystallinephase,andthisleadstolowerionic withstand the stress between an anode and a cathode [39].",line 145,4,mechanical,medium,standard,TRUE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,performance_data,measurement,R-squared: 3,text extraction,,performance,medium,standard,TRUE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,figure_caption,measurement,"The copolymer exhibitsbetterfea-
+reported an improved ionic conductivity after the PMMA- tures compared with the monomers alone which could be
+PVC-basedPEisblendedwithLiTFSI[77].Blendingoflith- attributedtothesynergisticeffectsinthecombinedstructure.
+iumsaltisaconventionalapproachtoreducethecrystall",Figure 4,,Figure 4,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,figure_caption,measurement,"nature [49]. Composite polymer electrolyte can be prepared
+by blending the polymers with fillers [51] or adding small
+Fillers nanoparticles/fillers such as zeolites, MgO, Al O , SiO or
+2 3 2
+TiO [60, 61, 136].Alumina,a ceramic fillerwithlargesur-
+2
+Addition of electrochemically inert and small parti",Figure 5,,Figure 5,medium,standard,FALSE
+P090,Ionics(2016)22:1259–1279,P090_unidentified.pdf,2016,medium,good,figure_caption,measurement,"The en-
+ergy storage of EDLC is carried out by the charge in the
+electrical double layer on the interface between a carbon
+electrode and an aqueous electrolyte [189, 190]. The ca-
+pacitance is associated with the charging/discharging of
+the electrical double layer [179]. The characteristics of
+the e",Figure 9,,Figure 9,medium,standard,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,abstract,general,"Invarioustypesofintelligentdevices,suchasbionicrobots,flexiblepolymericelastomericmaterialsareessential
+for their operation, alongside the rigid skeleton. Conventional polymeric elastomeric materials, however, encounter
+a compromise between intelligence and mechanical robustness. Here, we construct ionic gel-based elastomers that
+harmoniously merge high intelligence with superior mechanical attributes by employing molecularly entangled nodes
+thatfacilitatepolymerchainentanglement.Theentanglednod",abstract section,1,abstract,high,high_relevance_pu,TRUE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,conclusion,finding,"[1] M.Yip,S.Salcudean,K.Goldberg,K.Althoefer,A.Menciassi,
+J.D.Opfermann,A.Krieger,K.Swaminathan,C.J.Walsh,H.
+Wehavesuccessfullydesignedandfabricatednovelionicgel H.Huang,I.C.Lee,Science2023,381,141–146.
+elastomersbyinducingtheentanglementsofpolymerchains [2] T.Dai,S.Vijayakrishnan,F.T.Szczypinski,J.F.Ayme,E.Simaei,
+viamolecularlyentanglednodes.Theseelastomersintegrate T.Fellowes,R.Clowes,L.Kotopanov,C.E.Shields,Z.Zhou,J.
+remarkable mechanical and intelligent properties, including W.Ward,A.I.Coop",conclusion section,end,conclusion,high,high_relevance_pu,TRUE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,Robust Ionic Gel Elastomers Derived from Molecularly Entangled Nodes,line 4,1,ionic gel,medium,high_relevance_pu,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,"a compromise between intelligence and mechanical robustness. Here, we construct ionic gel-based elastomers that harmoniously merge high intelligence with superior mechanical attributes by employing molecularly entangled nodes",line 11,1,ionic gel,medium,high_relevance_pu,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,"harmoniously merge high intelligence with superior mechanical attributes by employing molecularly entangled nodes thatfacilitatepolymerchainentanglement.Theentanglednodes’dynamicinterplayenablesstress-induceddissociation,",line 12,1,mechanical,medium,standard,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,"promoting polymer chain slippage that effectively dissipates energy and disperses stress. Consequently, these ionic gel- based elastomers exhibit a tensile strength of 33.5 ± 0.5 MPa and a strain capacity of 4000 ± 280%, maintaining stable",line 14,1,ionic gel,medium,high_relevance_pu,TRUE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,"The rise of intelligent devices has provided new momentum towithstandchronicmechanicalstress.[6–8]Moreimportantly, forsocietaladvancement,[1,2] withthesynergisticintegration they must also possess intelligent sensing and adaptive",line 20,1,mechanical,medium,standard,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,excerpt,general,"Prof.Y.Wang,Prof.G.Li,Prof.F.Huang mechanical integrity due to issues such as polymer network DepartmentofChemistry,StoddartInstituteofMolecularScience,",line 27,1,mechanical,medium,standard,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,performance_data,measurement,Elongation at break: 300,text extraction,,performance,medium,standard,TRUE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,performance_data,measurement,R-squared: 023,text extraction,,performance,medium,standard,TRUE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,figure_caption,measurement,"Schematicrepresentationofaroboticdevicearchitectureandtheconstructionofanentangledionicgel(EIG)network.a)Aroboticdevice
+integratingarigidskeletonwithflexiblepolymericelastomericmaterials.b)Covalentandc)supramolecularstrategiesforthepreparationofionicgel
+materials.d)Schematicrepresentationoftheionicg",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P091,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",P091_unidentified.pdf,2025,low,good,figure_caption,measurement,"TougheningmechanismofEIGnetworksviaentanglednodes.Temperaturesweepcurvesfora)CIG-30,b)EIG-30,andc)SIG-30,spanning
+atemperaturerangefrom−100to95°Catafrequencyof1.0Hz.d)Comparativeanalysisofthestoragemodulus(E(cid:2))changeforCIG-30,EIG-30,and
+SIG-30between50°Cand95°C,highlightingtheroleofentanglednod",Figure 3,,Figure 3,medium,standard,TRUE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,Mechanically Adaptative and Environmentally Stable Ionogels for Energy Harvest,line 3,1,mechanical,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,"problems.Theprocessingchallenges,mechanicalbrittleness,andlow andconservationistheroofingsystem.On the one hand, passive radiative coatings",line 9,1,mechanical,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,significantlyimprovethemechanicalpropertiesandharshenvironment vertheatintoelectricityarereceivingalotof stabilityforhigh-performanceionic-typethermoelectric(i-TE)gelsisexplored. attention as a promising strategy to utiliz-,line 17,1,mechanical,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,"self-healing(120s),temperatureinsensitivity,andgreatwater-proof coatingsareinexpensivelychangedtother-",line 21,1,self-heal,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,Seebeckcoefficientisupto−8.8mVK−1andtheionicconductivityismore increase the utilization of building waste,line 25,1,conductivity,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,excerpt,general,"Mechanicalflexibilityisabenefitoforganic 1.Introduction conductivepolymers,howevertheytypicallyhavealowSeebeck",line 39,1,mechanical,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,performance_data,measurement,Stretchability: 2100,text extraction,,performance,medium,standard,TRUE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,performance_data,measurement,R-squared: 07,text extraction,,performance,medium,standard,TRUE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Synergisticionicassociationdesignfortheionogels.a)Schematicillustrationofthesynergisticionicassociationsamongthepolymer,cations
+ofILs,andMXenenanosheets.Thedashedlinesontheyellowandgreenbackgroundareion-dipoleandelectrostaticinteractions,respectively.b)DFT
+calculationsofmoleculestructures.c)Transmis",Figure 1,,Figure 1,medium,standard,FALSE
+P093,www.advancedscience.com,P093_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Thermoelectricpropertiesandrobustnessoftheionogels.a)Schematicillustrationoftheionthermodiffusionintheionogelunderatemper-
+aturedifference.b)Potentialdifferenceathotandcoldterminals(ΔV )oftheionogelwith(bluespots)orwithoutMXene(orangespots)under
+(TH-TC)
+differenttemperaturegradients(ΔT).Theslopeofth",Figure 3,,Figure 3,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,abstract,method,"Ionogels have aroused wide interests in the field of flexible electronics. The
+combination of solid-state networks and ionic liquids opens up thousands of possibilities for
+ionogels. The unique structures of ionogels endow them excellent mechanical properties,
+conductivity and thermal stability to approach the challenge of flexible electronic. A large
+number of new ionogels have been developed by different methods including the exchange of
+solution,polymericionicliquidandin-situ reactionsinionic",abstract section,1,abstract,high,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,conclusion,method,"and Prospects
+of being incompatible because of the only one component in
+PILs.Butduetothelimitationsofthenetwork,fewerfreeions Essentially, there are countless ionogels available, from anions
+exist in the PILs, which leads to the conductivity of PILs to cations to polymer networks. However, once the ILs are
+typically two orders of magnitude lower than that of pure ILs. confined in a solid state network, their physicochemical
+While the presence of water increases the conductivity of PILs properti",conclusion section,end,conclusion,high,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,general,THE Overview of Ionogels in Flexible CHEMICAL,line 3,1,ionogel,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,general,Abstract: Ionogels have aroused wide interests in the field of flexible electronics. The combination of solid-state networks and ionic liquids opens up thousands of possibilities for,line 9,1,ionogel,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,general,"combination of solid-state networks and ionic liquids opens up thousands of possibilities for ionogels. The unique structures of ionogels endow them excellent mechanical properties,",line 10,1,ionic liquid,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,general,"ionogels. The unique structures of ionogels endow them excellent mechanical properties, conductivity and thermal stability to approach the challenge of flexible electronic. A large",line 11,1,ionogel,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,method,conductivity and thermal stability to approach the challenge of flexible electronic. A large number of new ionogels have been developed by different methods including the exchange of,line 12,1,conductivity,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,excerpt,method,"number of new ionogels have been developed by different methods including the exchange of solution,polymericionicliquidandin-situ reactionsinionic liquids(gelation oflowmolecular",line 13,1,ionogel,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,performance_data,measurement,Elongation at break: 610,text extraction,,performance,medium,standard,TRUE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,performance_data,measurement,Self-healing efficiency: 70,text extraction,,performance,medium,standard,TRUE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,performance_data,measurement,R-squared: 200,text extraction,,performance,medium,standard,TRUE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"Not all unique properties of ILs have been discussed
+batteriesathigh-temperatures,wearableelectronicsbelow0°C, here,thoseproperties justrelatedtoionogelsareintroducedin
+as well as sensors under extreme conditions (such as vacuum). thisreview.
+To date, a large number of reviews of ionogels have been
+",Figure 1,,Figure 1,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"(a)Themeltingpointof1-alkyl-3-methylimidazoliumsaltvs.thesidechainofthealkylchain.(b)Themeltingpointof1-alkyl-3-methylimidazolium
+saltvs.theanion.
+2.2.Viscosity
+hydrogen bonds reduces the viscosity of the ILs. For example,
+Viscosity of ILs is another important property which distin- Fumino etal.[83]",Figure 2,,Figure 2,medium,high_relevance_pu,TRUE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"(a) The preparation process and the structure of micellar ionogels. (b) The photograph of the stretching deformation of the micellar ionogels after
+healing. (c) Tensile stress-strain curves of the micellar ionogels after different healing time. (d) Fracture energy of ionogels after different healing",Figure 4,,Figure 4,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"(a)Thetensilestress-straincurveoftheSIGE.(b)Thebatterycouldfunctionwellunderthefoldedstateandtruncation.Adaptedwithpermissionfrom
+Ref.[111].Copyright2019WILEY-VCH.
+ionogel have a poor transparency. And the DN structure addition,theDNstructureresultsinthehysteresisphenomen-
+causes the ionogel to be s",Figure 6,,Figure 6,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"(a) The dipole-dipole cross-link between ZI monomers. (b) The conductivities of ZI ionogels with different zwitterion contents. Adapted with
+permissionfromRef.[149].Copyright2019WILEY-VCH.
+Chem.Rec.2020,20,948–967 ©2020TheChemicalSocietyofJapan&Wiley-VCHVerlagGmbH&Co.KGaA,Weinheim WileyOnlineLibrary",Figure 8,,Figure 8,medium,standard,FALSE
+P094,Personal Account,P094_unidentified.pdf,2020,low,good,figure_caption,measurement,"(a)TheschematicpresentationsofthepolymerizationofzwitterionILs.(b)ThestructuralformulasofthreekindsofzwitterionILs.(c)TheDSC
+curvesofPILs(d)Thestress-straincurvesofPILsafterdifferenttensilecycles.AdaptedwithpermissionfromRef.[78].Copyright2015TheRoyalSocietyof
+Chemistry.
+Chem.Rec.2020,20,948–967 ©20",Figure 10,,Figure 10,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,conclusion,finding,"2.5. Application of Physical-co-Chemical Ionogel as Flexible In conclusion, we have designed a high performance physical-
+Strain Sensors co-chemical ionogel with mechanical robustness and high pro-
+cessability suitable for various processing methods including
+Owing to good ionic conductivity, mechanical robustness, inkjet printing, spraying and 3D printing. The microphase sep-
+chemical and thermal stability, we utilize the physical-co- aration between PS phase and PEO/IL phase and interpenetra-
+",conclusion section,end,conclusion,medium,high_relevance_pu,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,general,"Highly Processable Ionogels with Mechanical Robustness Chuao Ma, Jun Wei, Yuqiang Zhang, Xingchao Chen, Chan Liu, Shen Diao, Yuan Gao,",line 3,1,ionogel,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,general,"Currently, the increasing needs of conductive ionogels with intricate shapes the well-studied double-network strategies",line 7,1,ionogel,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,general,the well-studied double-network strategies and high processability by individual requirements of next-generation flexible greatly enhanced the mechanical strength,line 8,1,network,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,general,"and high processability by individual requirements of next-generation flexible greatly enhanced the mechanical strength electronics constitute significant challenges. Here, the design of highly pro- of ionogels, but the complicated proce-",line 9,1,mechanical,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,general,"electronics constitute significant challenges. Here, the design of highly pro- of ionogels, but the complicated proce- cessable ionogels is reported with mechanical robustness by self-assembly of a dure and reliance on conventional fabri-",line 10,1,ionogel,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,excerpt,method,"cessable ionogels is reported with mechanical robustness by self-assembly of a dure and reliance on conventional fabri- cation methods, mainly solvent casting,",line 11,1,ionogel,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,performance_data,measurement,Stretchability: 400,text extraction,,performance,medium,standard,TRUE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,performance_data,measurement,R-squared: 10,text extraction,,performance,medium,standard,TRUE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,figure_caption,measurement,"High processability and mechanical robustness of physical-co-chemical ionogel. a) The physical-co-chemical ionogel prepared by physical
+self-assembly of PS-PEO-PS in the dual functional mixed ILs, [EMIm]NTf and [VBBIm]NTf, and subsequent UV-induced in situ chemical crosslinking.
+2 2
+The PS micellar ",Figure 1,,Figure 1,medium,standard,FALSE
+P099,Highly Processable Ionogels with Mechanical Robustness,P099_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Microstructure of the physical-co-chemical ionogel. a) Microphase separation observed from AFM height and b) phase maps of the physical-
+co-chemical ionogel. The bright and dark domains indicate the separated PS and PEO/IL phases. c) The plain surface of pristine physical-co-chemical
+ionogel. d) The",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,abstract,finding,"Polymerized ionic liquids (PILs) with flexible polymer chains and weakly interacting ionic liquid (IL) groups have
+receivedgreatattentionfortheirdesirablepropertiesinelectrochemicalapplicationssuchasionicconductivity.Lessisknownabout
+their dynamic properties such as center-of-mass chain diffusion and how it depends on molecular weight in the presence of IL
+groups.Inthiswork,aseriesofacrylicPILswithimidazoliumcationsandbis(trifluoromethanesulfonyl)imide(TFSI)anions(TFSI-
+f-PIL ) were synthesized ",abstract section,1,abstract,high,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,conclusion,measurement,"that ion interactions play only a minor role on the
+chemistry,6,7 copolymer composition,8,9 IL placement,10 ionic scalingrelation.InaseparateworkbyNakamuraetal.,13power
+content,11 and molecular weight12−14 have been studied to law factors of η ∼M1.7 to η∼ M4.2 were reported for the
+uncover their structure−properties relationships. Studies have
+unentangled and entangled regimes, and the higher-than-
+determined free ion mobility,15−17 static dielectric constant18
+and how conductivity can decouple ",conclusion section,end,conclusion,high,standard,TRUE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,ABSTRACT: Polymerized ionic liquids (PILs) with flexible polymer chains and weakly interacting ionic liquid (IL) groups have receivedgreatattentionfortheirdesirablepropertiesinelectrochemicalapplicationssuchasionicconductivity.Lessisknownabout,line 8,1,ionic liquid,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,receivedgreatattentionfortheirdesirablepropertiesinelectrochemicalapplicationssuchasionicconductivity.Lessisknownabout their dynamic properties such as center-of-mass chain diffusion and how it depends on molecular weight in the presence of IL,line 9,1,conductivity,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,"Polymerized ionic liquids (PILs) are a class of ionic polymers when considering transference numbers, where ion−polyion",line 26,1,ionic liquid,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,"with bulky, weakly interacting ionic liquid groups (IL) covalently attached to the polymer backbone. They exhibit correlations exist and the motion of a highly charged polymer",line 28,1,ionic liquid,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,"good thermal stability, electrochemical stability, moderate chain can still contribute to conductivity in PILs.29 single-ion conductivity, and tunable mechanical properties, Alimitednumberofexperimentalresultsforviscosityscaling",line 30,1,conductivity,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,excerpt,general,"single-ion conductivity, and tunable mechanical properties, Alimitednumberofexperimentalresultsforviscosityscaling which makes them promising functional polymer materials for in PILs have been previously reported.12,13,30,31 In a work by",line 31,1,conductivity,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,performance_data,measurement,R-squared: 3,text extraction,,performance,medium,standard,TRUE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,performance_data,measurement,Dielectric constant: 18,text extraction,,performance,medium,standard,TRUE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,figure_caption,measurement,"(a)SynthesisrouteofTFSI-f-PIL usingRAFTpolymerizationforprecisecontrolofdegreeofpolymerizationN,whichiscalculatedby
+N
+the end-group analysis of the NMR spectra of TFSI-f-PIL . (b) Molecular structure of TFSI-f-PIL with fluorescence dye (NBD-acrylate)
+N N
+randomlyattachedtothepolymerbackboneasaprobef",Figure 1,,Figure 1,medium,standard,FALSE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,figure_caption,measurement,"For comparison, a red dash line with the slope of
+which has a near-Gauss shape due to laser intensity −2.0isdrawnasascalingpredictionforneutralpolymers.The
+E https://doi.org/10.1021/acs.macromol.2c02388
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Article
+PIL studied. In",Figure 4,,Figure 4,medium,standard,TRUE
+P100,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,P100_unidentified.pdf,2022,low,good,figure_caption,measurement,"Molecular weight (degree of polymerization, N) depend- transitiontemperatureonlyvariesby5°C,suggestingthatfree
+enceofTFSI-f-PIL diffusion coefficient(D)at30°C(T + 45K). volume does not change much with the increase in molecular
+N g
+Thereddashlinewithaslopeof−2.0isdrawnasapredictedD∼N weight.Therefor",Figure 4,,Figure 4,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,abstract,finding,"Influenced by the hard−soft acid−base (HSAB) theory, different
+hard−softcationsandanionsareusedtoinvestigatethecounterioneffectsofionic
+liquids (ILs) on electrical and mechanical characteristics of the poly(3,4-
+ethylenedioxythiophene):poly(styrenesulfonic acid) (PEDOT:PSS) and IL free-
+standing films. Two protic ILs, i.e., methylimidazolium dicyanamide ([p-
+MIM][DCA]) and imidazolium dicyanamide ([p-IM][DCA]), are synthesized
+andcharacterizedforthefirsttime.Sixionsrangingfromhardtosoft(cations:",abstract section,1,abstract,high,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,conclusion,finding,"withstand an external strain of 10.4% when incorporated into
+PEDOT:PSS. This enhancement in mechanical strength, This study demonstrates the significant potential of incorpo-
+coupled with the high electrical conductivity, suggests that rating protic ILs, such as [p-IM][DCA] and [p-MIM][DCA],
+[p-IM][DCA]/PEDOT:PSS composites are promising candi- enhancingboththeelectricalconductivityandstretchabilityof
+PEDOT:PSSfree-standingfilms,offeringapromisingpathway
+datesforflexibleandstretchableelectronica",conclusion section,end,conclusion,high,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,general,Counterion Effects of Protic Ionic Liquids on the Conductivity and Stretchability of Free-Standing PEDOT:PSS Films,line 3,1,ionic liquid,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,general,"liquids (ILs) on electrical and mechanical characteristics of the poly(3,4- ethylenedioxythiophene):poly(styrenesulfonic acid) (PEDOT:PSS) and IL free-",line 11,1,mechanical,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,general,"tremendous increase in electrical conductivity of 2730 S/cm and 3547 S/cm, respectively. Both protic ILs improved external strain of up to 11%, surpassing aprotic IL [EMIM][DCA] (∼7%) and pristine",line 21,1,conductivity,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,finding,PEDOT:PSS (<4%). This study revealed that ILs containing hard cation and soft anion exhibited superior conductivity and flexibility in the composite films.,line 23,1,conductivity,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,general,overall conductivity of the materials. Flexibleelectronicdeviceshaveattractedtremendousattention,line 26,1,conductivity,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,excerpt,general,"(LEDs),3 artificial skins,4 sensors,5 drug delivery systems,6,7 conductivity and flexibility. Among conductive polymers, and in healthcare devices.8 Stretchable electronics require a poly(3,4-ethylenedioxythiophene):poly(styrenesulfonic acid)",line 31,1,conductivity,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,performance_data,measurement,Elongation at break: 100,text extraction,,performance,medium,standard,TRUE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,performance_data,measurement,Stretchability: 10,text extraction,,performance,medium,standard,TRUE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,performance_data,measurement,R-squared: 1,text extraction,,performance,medium,standard,TRUE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,figure_caption,measurement,"AFM (2D and 3D) images of pristine (A, Aa), [EMIM][BF]/PEDOT:PSS (B, Bb), [EMIM][TCB]/PEDOT:PSS (C, Cc),
+4
+[EMIM][DCA]/PEDOT:PSS (D,Dd),[p-MIM][DCA]/PEDOT:PSS(E,Ee), [p-IM][DCA]/PEDOT:PSS(F, Ff).
+mass of IL(g) infree-standingfilms.Afterdrying,thefilmswerecutinto 0.7×3.5
+wt%IL= ×100%
+mass of IL(g)+ma",Figure 1,,Figure 1,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,figure_caption,measurement,"SEM imageof pristineand IL/PEDOT:PSSfree-standing films(2.0 wt%)at10000× magnification.
+irregularitiesreducesscattering,leadingtolowerresistanceand PEDOT:PSS), 2.16 ([EMIM][TCB]/PEDOT:PSS), 1.94
+higher conductivity.46,47 In fact, the conductivity of the ([EMIM][DCA]/PEDOT:PSS), 1.65 ([p-MIM][DCA]/PE",Figure 3,,Figure 3,medium,standard,FALSE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,figure_caption,measurement,"(A)Elongationatbreak(at0,0.5,1.0,1.5,and2.0ILwt%);(B)Mechanicaltestinginstrument,Young’smodulus(blackdot)andtensile
+strength(blue triangle) plotof[EMIM]+-based IL withvarious anionsat(C) 0.5wt%,(D)1.0 wt%,(E)1.5wt%, and(F) 2.0 wt%of ILs.
+strated the highest electrical conductivity among the three DO",Figure 5,,Figure 5,medium,standard,TRUE
+P103,Counterion Effects of Protic Ionic Liquids on the Conductivity and,P103_unidentified.pdf,2025,low,good,figure_caption,measurement,"(A)Bending andtwisting testusing 2-pointprobe andsimpleelectricalcircuit testof the2.0 wt% [p-IM][DCA]/PEDOT:PSSfree-
+standingfilm ina (B)straight and (C)bendingposition.
+attributed to film defects, which influenced the mechanical A simple circuit experiment was designed to investigate the
+propertie",Figure 7,,Figure 7,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,abstract,finding,"Polymerized ionic liquids (PILs) poly[1-(4-vinyl-
+benzyl)-3-methylimidazolium bis(trifluoromethylsulfonyl)imide]
+(P[VBMIM][TFSI]) covering a wide range of molecular weights
+are synthesized using reversible addition−fragmentation chain-
+transfer (RAFT) polymerization. The dependence of zero-shear
+viscosity on weight-average molecular weight (η ∼ M α) shows
+0 w
+two power-law regimes corresponding to disentangled and
+entangled regimes with α = 1.1 ± 0.1 and 3.6 ± 0.4, as is typical
+for neutral enta",abstract section,1,abstract,high,high_relevance_pu,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,conclusion,measurement,"times that of disentangled samples such as PIL520, indicating
+the importance of chain entanglement on the mechanical We carefully synthesized P[VBMIM][TFSI] with 11 different
+strength.Inanelasticdeformation,Young′smodulusEcanbe molecular weights spanning from 16,000 to 810,000 Daltons
+estimated from both the experimental data and calculation. via RAFT polymerization. From rheological measurements on
+That is, E can be correlated to the persistence length λ p or thesesamples,twopower-lawregimesofη",conclusion section,end,conclusion,high,standard,TRUE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,general,Influence of Chain Entanglement on Rheological and Mechanical Behaviors of Polymerized Ionic Liquids,line 2,1,mechanical,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,general,"Behaviors of Polymerized Ionic Liquids Gang Liu, Ronald G. Larson, Lei Li, Huan Luo, Xi He, Yanhua Niu,* and Guangxian Li*",line 3,1,ionic liquid,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,general,ABSTRACT: Polymerized ionic liquids (PILs) poly[1-(4-vinyl- benzyl)-3-methylimidazolium bis(trifluoromethylsulfonyl)imide],line 8,1,ionic liquid,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,general,"molecular-weight P[VBMIM][TFSI] brings significant improvement in the mechanical strength and robust recoverability under cyclic stretch over that of the lower-molecular-weight, unentangled PILs, making high-molecular-weight P[VBMIM][TFSI]",line 26,1,mechanical,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,measurement,"Recently, polymerized ionic liquids (PILs), a class of novel polyelectrolytes, have attracted considerable attention, as they scaling relation η 0 ∼ M w α with α values of 1.7 and 4.2 in the",line 32,1,ionic liquid,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,excerpt,general,"combine advantages of both ionic liquids and polymers, such disentangled and entangled regimes, respectively, which is in ashighconductivity,excellentphysicalandchemicalstabilities, contrast with the neutral polymers with α = 1.0 and 3.4.15−17",line 34,1,ionic liquid,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,performance_data,measurement,R-squared: 8,text extraction,,performance,medium,standard,TRUE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,figure_caption,measurement,"1HNMR(400MHz,DMSO-d)spectrumofPVBC(a)andP[VBMIM][TFSI](b),andelementalanalysisofP[VBMIM][TFSI](c).
+6
+thesyntheticconditionsforallofthesamplesarelistedinTableS1. elementanalysiswereconductedtoconfirmthechemicalstructureof
+Thesyntheticdetailsareasfollows.First,themonomer(VBC),CTA the PILasshown inFigu",Figure 1,,Figure 1,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,figure_caption,measurement,"Shear-ratedependenceofviscosityat120°CforP[VBMIM][TFSI]withincreasingmolecularweight(a)andthedependenceonweight-
+averagemolecularweight(M )ofthezero-shearviscosity(η)(b).Thereddashedlineinpanel(3b)representsthefittingresultbyusingeq4.
+w 0",Figure 3,,Figure 3,medium,standard,FALSE
+P220,Influence of Chain Entanglement on Rheological and Mechanical,P220_unidentified.pdf,1998,low,good,figure_caption,measurement,"Time dependence of G′ (filled symbol) and G″ (open
+symbol)atfrequencyω=1Hzwithastrainamplitudeγ=2%(inthe
+linearregion)andγ=200%(inthenonlinearregion)at90°C,where
+agradualincreaseinG′andG″totheiroriginalvaluescanfoundfor
+bothsamplesduringrecovery.Averticalshiftof×2isappliedtothe
+G′ and G″curves ofPIL",Figure 6,,Figure 6,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,conclusion,finding,"18 R.Go€bel,A.FriedrichandA.Taubert,DaltonTrans.,2010,39,603.
+19 S.M.Chen,G.Z.Wu,M.L.ShaandS.R.Huang,J.Am.Chem.
+The magnetic IL [Bmim][FeCl ] has been successfully incorpo- Soc.,2007,129,2416.
+4 20 R. Go€bel, P. Hesemann, J. Weber, E. Moller, A. Friedrich,
+rated into a PMMA ionogel. Visual inspection, IR, UV/Vis,
+S.BeuermannandA.Taubert,Phys.Chem.Chem.Phys.,2009,11,
+DSC,andTGAdataindicatethattheILandPMMAarefully 3653.
+compatibleandnomiscibilitygapsoccur.DependingontheIL 21 P.Kubisa,Prog.Polym.Sc",conclusion section,end,conclusion,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the iron-based ionic liquid 1-butyl-3-methylimidazolium tetrachloroferrate( )",line 2,1,ionogel,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,iron-based ionic liquid 1-butyl-3-methylimidazolium tetrachloroferrate( ) III,line 3,1,ionic liquid,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,"[Bmim][FeCl ]hasbeenusedasabuildingblockinthesynthesisoftransparent,ion-conducting,and 4",line 12,1,fecl,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,paramagneticionogels.UV/VisspectroscopyshowsthatthecoordinationaroundtheFe(III)iondoes slightlychangeuponincorporationoftheILintoPMMA.ThethermalstabilityofthePMMAincreases,line 14,1,ionogel,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,PMMAiscompletelysuppressed.Theionicconductivityshowsastrongtemperaturedependenceand increaseswithincreasingILweightfractions.Themagneticpropertiesaresimilartothosereportedfor,line 17,1,conductivity,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,excerpt,general,increaseswithincreasingILweightfractions.Themagneticpropertiesaresimilartothosereportedfor thepureILandarenotaffectedbytheincorporationintothePMMAmatrix.Theresultingionogelis,line 18,1,magnetic,medium,standard,FALSE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,performance_data,measurement,R-squared: 4,text extraction,,performance,medium,standard,TRUE
+P245,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",P245_unidentified.pdf,2010,low,partial,figure_caption,measurement,"Thegapinthelinesbetweentheexperimentaldataindicatesthe
+in[Bmim][FeCl ].37SpectraofpurePMMAshowastrongbandat
+4 location of the peak shift from 549, 638, and 704 (solid and gel-like
+1723cm(cid:3)1fromthePMMAcarbonylgroup.Thebandsat2950, materials)to534,623,and688nm(fluidphase),respectively.
+2925,1434,",Figure 1,,Figure 1,medium,standard,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,Enhanced Mechanical Properties of Polyurethane Ionogels by Synergistic Interaction of Phase-Locking Ion and,line 3,1,ionogel,medium,high_relevance_pu,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,"Ionogelsarewidelyemployedinvariousionotronicapplications.However,the sors,vulnerabletoambientparasiticnoise advancementofionogelswithexcellentmechanicalpropertiespresents of capacitive sensors, and charge leakage",line 8,1,ionogel,medium,standard,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,"advancementofionogelswithexcellentmechanicalpropertiespresents of capacitive sensors, and charge leakage significantchallengesduetotheinteractionsbetweenionsandthestrong encountering in piezoelectric sensors.[3]",line 9,1,ionogel,medium,standard,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,polyurethanecationomer(PUC)solidnetworkbyswellingstrategytoprepare larizationbymodulatingtheconcentration,line 16,1,polyurethane,medium,high_relevance_pu,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,"PUCionogels(PUCD/IL).Thesynergisticeffectsofphase-lockedionsand and spatiotemporal distribution of ions to hydrogenbondingbetweenPUCchainandILenhancethemechanical generate, store, and transmit a variety of",line 18,1,ionogel,medium,standard,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,excerpt,general,"hydrogenbondingbetweenPUCchainandILenhancethemechanical generate, store, and transmit a variety of propertiesofthePUCD/IL,allowingthestrengthandelongationatbreakof signalstoaccomplishthefunctionofinfor-",line 19,1,mechanical,medium,standard,TRUE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,performance_data,measurement,Elongation at break: 82.25,text extraction,,performance,medium,standard,TRUE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,figure_caption,measurement,"a)SynthesisrouteofPUC.b)SchematicdiagramofPUCD/ILionogelspreparedbyswellingstrategy.c)ATR-FTIRspectra,d)Stress–strain
+curveande)ToughnessofPUCD,PUCD/ILandPUCB/IL.
+Information), both the strength and elongation at break de- PUC2/IL (PUC2/IL , here, x represents the mass fraction of
+25 x
+creasedasthec",Figure 1,,Figure 1,medium,high_relevance_pu,TRUE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,figure_caption,measurement,"TheStress–straincurveofPUCD/ILionogelswithdifferenta)soaktimeandb)[BUPHEIm][Br]/DMFconcentrations.c)Thestress–straincurve
+ofPUCB/ILionogels.TheconductivityofPUCD/ILionogelswithdifferentd)soaktimeande)[BUPHEIm][Br]/DMFconcentrations.f)Theconductivity
+ofPUCB/ILionogels.g)Chemicalstructureof[BUPHEIm][B",Figure 2,,Figure 2,medium,standard,FALSE
+P246,Enhanced Mechanical Properties of Polyurethane Ionogels,P246_unidentified.pdf,2025,low,partial,figure_caption,measurement,"RelativeresistancechangesofPUCD/ILionogelasafunctionofa)strain,b)undersmallstrains(1,3,5and10%),andc)underlargestrains
+(20,30,50and100%).d)Facialmovementduringopeningthemouth.e)Gutturalmusclemovementduringspeaking.f)Wristflexionchanges.g)Elbow
+bendvariation.h)CyclicstabilitytestsofPUCD/ILionogelunde",Figure 4,,Figure 4,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,conclusion,general,"12230
+allow for the creation of next-generation phase-change",conclusion section,end,conclusion,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,Energy Applications of Ionic Liquids: Recent Developments and Future Prospects,line 2,1,ionic liquid,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,Published as part of the Chemical Reviews virtual special issue “Ionic Liquids for Diverse Applications”. Teng,line 4,1,ionic liquid,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,"ABSTRACT: Ionic liquids (ILs) consisting entirely of ions exhibit many fascinating and tunable properties, making them promising functional materials for a large number of",line 14,1,ionic liquid,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,7.Energetic Ionic Liquids as Propellants 12226 Figure 1. Summaryof theenergyapplicationareas of ILs. 7.1. Energetic ILs 12226,line 136,4,ionic liquid,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,exhibitinghighelectrochemicalstabilityandionicconductivity 7.2.1. ILs Based on Dicyanamide and Nitro-,line 139,4,conductivity,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,excerpt,general,"Figure 2.Structuresof somecommon cationsand anionsinionic liquids.R,R, R, R, andR representsidegroups. 1 2 3 4",line 184,5,ionic liquid,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,performance_data,measurement,R-squared: 5,text extraction,,performance,medium,standard,TRUE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Summaryof theenergyapplicationareas of ILs.
+7.1. Energetic ILs 12226
+7.2. ILs as Bipropellants 12227
+exhibitinghighelectrochemicalstabilityandionicconductivity
+7.2.1. ILs Based on Dicyanamide and Nitro-
+create the possibility of designing ideal electrolytes for
+cyanamide Anions 12227
+batteries, supe",Figure 1,,Figure 1,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"EnergyandpowerperformanceofLIBsandECs.(a)Thetrendofenergydensity.(b)Thetrendofpowercapability.Reproducedwith
+permission fromref 110.Copyright2020Science Pressand DalianInstitute ofChemical Physics, ChineseAcademy ofSciences.
+2. ELECTROCHEMICAL ENERGY STORAGE energyandpowerdensityforconsumerelectroni",Figure 3,,Figure 3,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Theoretical predictions of electrochemical windows for different ILs. Reproduced with permission from ref 122. Copyright 2018
+AmericanInstitute of Chemical Engineers.
+effective battery materials, rather than being discouraged by cations, including imidazolium, pyrrolidinium, and phospho-
+their curre",Figure 5,,Figure 5,medium,standard,TRUE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"The specific result indicated that the five most explained neither by the size nor by the interactions. Instead,
+stable anions were [B(CN) ]− (tetracyanoborate) > [PF ]− > they can be understood by the presence of conformation
+4 6
+[BF ]− > [BOB]− > [Tf N]− ([BOB]− = bis(oxalato)borate), equilibria o",Figure 5,,Figure 5,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"SchemeofaconventionalLIBdetailingtheSEIlayerwitha
+Insummary,forimprovingionconductivityofpureIL-based
+snapshotoftheinitialSEIstructureformedonthegraphiteelectrode
+electrolytes for lithium-ion batteries, several strategies have interface. Reproduced from ref 134 with permission from Copyright
+been pr",Figure 7,,Figure 7,medium,standard,FALSE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(A) Map of ion charge carriers covered in battery research. Reproduced from ref 111 with permission from the Royal Society of
+Chemistry. (B) Several natural features of Li, Na, K, Mg, Zn, and Al elements. Reproduced from ref 35 under Creative Commons attribution
+licenseCCBY 4.0. Copyright2021The Aut",Figure 8,,Figure 8,medium,standard,TRUE
+P247,Energy Applications of Ionic Liquids: Recent Developments and,P247_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Energy storage in dual-ion batteries relies on both
+Additionally,wediscussedthepivotalroleofthecompatibility electrodes,whichserveassitesforintercalation/deintercalation
+of ionic liquid electrolytes with electrode materials in lithium- of charge carriers, and electrolytes that facilitate ion transfe",Figure 9,,Figure 9,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,conclusion,measurement,"remarks by
+physicalchemistry,astheyallowtheunveilingofgenericfeatures linkingtheory,simulationsandexperiments,pointingoutafew
+and more systematic development of new physical insights. open questions, and suggesting new perspectives and future
+Severalmodelshavebeendevelopedwithexactorapproximate directions, particularly concerning future experiments, that we
+(butreliable)analyticalsolutionstodescribechargestoragein feelareinterestingandrelevant.
+ultranarrowconfinements.Mostofthesemodelsaredefined",conclusion section,end,conclusion,medium,standard,TRUE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,"Theory and Simulations of Ionic Liquids in Nanoconfinement Svyatoslav Kondrat,* Guang Feng,* Fernando Bresme,* Michael Urbakh,* and Alexei A. Kornyshev*",line 2,1,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,"ABSTRACT: Room-temperature ionic liquids (RTILs) have exciting properties such as nonvolatility,largeelectrochemicalwindows,andremarkablevariety,drawingmuchinterest",line 7,1,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,"consider. Molecular simulations play a vital role in studying confined ionic liquids, enabling deep microscopic insights otherwise unavailabletoresearchers.Wedescribethebasicsofvarioussimulationapproachesanddiscusstheirchallengesandapplicabilityto",line 24,1,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,5.2.Application to Ionic Liquids under Narrow 3.1. ScreeningofElectrostaticInteractions 6672,line 43,2,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,"The definition of the term ionic liquids (ILs) cannot be more see, exhibits a new and exciting physics. RTILs in such straightforward: It is a liquid composed exclusively of cations ultranarrowconfinementsrequireuniqueapproachestotheory",line 141,4,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,excerpt,general,"temperature ionic liquids (RTILs) some 30 years ago, things applications. have changed drastically.1,2 RTILs are electrolytes in which at In 2006, Chmiola et al.18 and Raymundo-Piñero et al.19",line 145,4,ionic liquid,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,performance_data,measurement,R-squared: 0.5,text extraction,,performance,medium,standard,TRUE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Threebasicmechanismsofnanoporecharging.Schematicsofco-iondesorption(X=−1),co-ionsswappingforcounterions(X=0),and
+counterionadsorption(X=1).uisthepotentialdifferenceappliedtothenanoporewithrespecttobulkelectrolyte(notshown).Thedifferential
+chargingparameterX(u)isdefinedbyeqs7.Achargingmechanismcanbea",Figure 1,,Figure 1,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Chargestorageinsingle-filepores.(a)ModelofametalliccylindricalnanoporeofradiusR.Anelectrostaticpotentialdifferenceuisappliedto
+thenanoporewithrespecttobulkelectrolyte(notshown).Theionradiiarea=a <R.In1Dlatticeandoff-latticemodels,thecentersofionsand
+±
+solventmolecules(ifany)arelocatedonthesymmetryax",Figure 3,,Figure 3,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Anomalouscapacitanceandmean-fieldmodel.(a)Modelofa
+iondiameterslong)single-filepore.
+slit-shapedmetallicporeasapartofasupercapacitor’selectrode.Slit
+4.2.Single-LayerSlit-ShapedPores widthLiscomparabletotheiondiameter2a=2a .Potentialdifference
+±
+uisappliedtotheporewallswithrespecttobulkelectrolyte.(b",Figure 5,,Figure 5,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Phasetransitionsinslitconfinement.(a)Phasediagramintheplaneofvoltageandporeionophobicity(theenergyofinsertionofanioninto
+thepore)showingvoltage-inducedtransitionsbetweencation-richandcation-deficientphases.Thelinesoffirst-ordertransitionsendatcriticalpoints
+denotedbyfilledcircles.Adaptedwithpermissi",Figure 7,,Figure 7,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Chargingnarrowslitnanopores.(a)Modelofanopen,slit-shapedmetallicnanopore.SlitwidthLiscomparabletotheiondiameter,sothat
+anionicliquidisapproximatedasa2Dfluid(notshown).Thein-poreiondensitiesatt=0areequilibriumdensitiesatzerovoltage.Theiondensitiesat
+theporeentrancesaretheequilibriumdensitiesatpotenti",Figure 9,,Figure 9,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Equivalentcircuitmodel.(a)Schematicofacross-sectional years later, Evans136 derived a density functional by applying
+viewofaporouselectrode.Theelectrodesurfaceconsistsofcircular Mermin’swork131toclassicalfluidsandusedittostudyliquid−
+cylindersofradiusr 0 muchlargerthantheionsizeanddoublelayer gas in",Figure 10,,Figure 10,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"EffectofsolventoncapacitancefromclassicalDFT.Integral electrochemical measurements that it could simultaneously
+capacitance of an organic electrolyte ([TEA][BF] in acetonitrile) enhance the energy and power density of supercapacitors.
+4
+flattenscomparedtothecapacitanceofneationicliquids.Reproduced C",Figure 12,,Figure 12,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"EffectofILmixturesfromclassicalDFT.(a)Schematicsofmicro-andmesoporesandamixtureofionicliquids.(b)Ionselectivityand(c)
+surfacechargeasafunctionofthebulkfractionxof[BF]−inamixtureof[EMIM]+,[TFSI]−,and[BF]−formicro-andmesopores.Reproducedwith
+4 4
+permissionfromref192.Copyright2017AmericanPhysicalSociet",Figure 14,,Figure 14,medium,standard,FALSE
+P248,Theory and Simulations of Ionic Liquids in Nanoconfinement,P248_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Reversibleheatproduction.(a)Schematicofasupercapacitorwithtwoporouselectrodes(left)andofasinglenanoporeofwidthL(right).
+ThepotentialdifferenceΔΨisappliedbetweentheelectrodes.(b)Voltage-dependenceofthereversibleheatproduction revexpressedintermsof
+theworkdonetothesystem(=storedenergydensity)forafewva",Figure 16,,Figure 16,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,Polymerized and Colloidal Ionic Liquids�Syntheses and Applications,line 2,1,ionic liquid,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,"ABSTRACT: The breadth and importance of polymerized ionic liquids (PILs) are steadily expanding,andthisreviewupdatesadvancesandtrendsinsyntheses,properties,andapplicationsover",line 8,1,ionic liquid,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,"field as a subset of materials science. The genesis of ionic liquids (ILs) over nano to meso length- scalesexhibiting0D,1D,2D,and3Dtopologiesdefinescolloidalionicliquids,CILs,whichcompose",line 11,1,ionic liquid,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,"including molecular weight, thermal properties, rheology, ion transport, self-healing, and stimuli-responsiveness. Glass transitions, criticalsolutiontemperatures,andliquidityarekeythermalpropertiesthattietoPILrheologyandviscoelasticity.Theseproperties",line 22,1,self-heal,medium,standard,TRUE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,"inturnmodulatemechanicalpropertiesandiontransport,whicharefoundationalinincreasingapplicationsofPILs.Cross-linkingin gelationandionogelsandreversiblestep-growthchemistriesareessentialforself-healingPILs.Stimuli-responsivenessdistinguishes",line 24,1,mechanical,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,excerpt,general,"gelationandionogelsandreversiblestep-growthchemistriesareessentialforself-healingPILs.Stimuli-responsivenessdistinguishes PILsfrommanyotherclassesofpolymers,anditemphasizestheimportanceofsegmentallycontrollingandtuningsolvationinCILs",line 25,1,ionogel,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,performance_data,measurement,R-squared: 0095,text extraction,,performance,medium,standard,TRUE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Most molecular scale
+ILs,CILs,andPILswithalargestdimensionoflessthan3nm
+we term 0D.66 This dimensionality covers most low to
+moderatemolecularweightPILsinsolutionwhererandomcoil
+confirmations typically occur. Larger spherical, oblate, or
+prolate ellipsoidal PIL-based objects we consider to be 3D in
+",Figure 3,,Figure 3,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Perspective portals for viewing PILs, poly(ionic liquids),
+focusingonhowtheyaremade,howtheybehave,andwheretheyare also those listed in Table 3. Figure 3e illustrates another class
+used.Ancillarytothesecoreperspectivesofsyntheses,properties,and of CILs that comprise cores of an alternative phase, usu",Figure 2,,Figure 2,medium,standard,FALSE
+P249,Polymerized and Colloidal Ionic Liquids�Syntheses and,P249_unidentified.pdf,2024,low,partial,figure_caption,measurement,"IL macromonomer (ILM) design features, indicating two extensive work over 1990−2012 in formulating polymerizable
+types of radical polymerization and a type of facile coupling, four microemulsions,140 including those producing PILs.4,74,67
+typesofmonomers,andthreeimportantclassesofpropertiesthatone
+T",Figure 4,,Figure 4,medium,standard,TRUE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,conclusion,finding,"can be inferred from the observed
+symmetry of the aromatic core. Anion- conductive materials have conductivity trends of the SIEn·X salts. First, the ionic conductivity
+applications in organic photovoltaics (36) and anion shuttle bat- in the solid state must be dominated by diffusion of the halides (49)
+teries (37). because any dielectric response arising from motion of the cation
+would be expected to be anisotropic on account of its columnar order-
+Mechanistic insights ing. This mechanism is su",conclusion section,end,conclusion,medium,standard,TRUE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,ELECTROCHEMISTRY diffusion of the counterion through the solid network to follow the same mechanism as the isotropic liquid. As a practical design consid-,line 5,1,network,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,"unavoidable steep drop in ionic conductivity upon phase transition from a fluid state to the more ordered solid state. Here, Results",line 21,1,conductivity,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,"conductivity mechanism across transitions between three states nium salts (SIEn·X), each bearing nine equivalent linear alkyl chains of matter, from an initial isotropic liquid to a liquid crystalline of n carbon atoms in length. The triskelion- like molecular design ar-",line 24,1,conductivity,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,"This state-i ndependent ionic conductivity opens up opportunities threefold rotational symmetry, the extension of the cyclopropenium to exploit liquid-l ike ionic conductivity in organic solids. π- system through the three coplanar trialkoxyphenyl groups allows a",line 30,1,conductivity,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,"to exploit liquid-l ike ionic conductivity in organic solids. π- system through the three coplanar trialkoxyphenyl groups allows a high degree of charge delocalization (22, 23). Therefore, anions would",line 31,1,conductivity,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,excerpt,general,"of ionic conductivity [log(σ)] varies linearly with the inverse of tem- charge density at the center of the rigid aromatic core is lower than perature (1/T). Certain inorganic solids act as superionic conductors, that found around its periphery—the ESP is just 230 kJ·mol−1 at the",line 38,1,conductivity,medium,standard,FALSE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,performance_data,measurement,R-squared: 025,text extraction,,performance,medium,standard,TRUE
+P254,assembles into a lattice that contains numerous energetically near-,P254_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Design elements for state- independent ionic conductivity. (A) The typical trend for change in σ with T of a COE is contrasted with that of a SIE. The conductivity of
+the COE drops abruptly upon phase transition from a fluid to a solid state as it undergoes a change in the ionic conductivity mechani",Figure 1,,Figure 1,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,abstract,general,"We present a brief overview of current developments in
+the field of polymer electrolytes, with the focus on single-ion
+conducting polymers. The latter have significant advantages relative
+to electrolytes with dual-ion conductivity for use in energy storage
+devices. First we discuss various mechanisms of ionic conductivity in
+polymers and fundamental limitations imposed by these mechanisms.
+Wealsoemphasizetheroleofion−ioncorrelationsinconductivitythat
+are not negligible in concentrated and semidi",abstract section,1,abstract,high,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,conclusion,measurement,"this section, we emphasize that the solid-like whereσ istheexperimentallymeasuredconductivity,andn,q,
+mechanism (decoupling of ion dynamics from segmental exp
+and D respectively represent the concentration, charge, and
+dynamics) can also be dominant above T if the rate of ion
+g diffusionofcations(+)oranions(−).
+rearrangement is much faster than the segmental relaxation
+The reduced ionicity in liquid and polymer electrolytes is
+(Figure 4A,B). In that case, the polymer matrix remains
+traditionally",conclusion section,end,conclusion,high,standard,TRUE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,to electrolytes with dual-ion conductivity for use in energy storage devices. First we discuss various mechanisms of ionic conductivity in,line 12,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,devices. First we discuss various mechanisms of ionic conductivity in polymers and fundamental limitations imposed by these mechanisms.,line 13,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,Wealsoemphasizetheroleofion−ioncorrelationsinconductivitythat are not negligible in concentrated and semidilute ionic systems. Next,line 15,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,electrolytes with required room temperature conductivity. 1. INTRODUCTION Work on polymer electrolytes started in the 1970s with the,line 21,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,"discoveryofionicconductivityinpoly(ethyleneoxide)(PEO) Polymer electrolytes represent a broad class of materials with withaddedsalt.35,36Sincethattime,PEOhasbeenconsidereda",line 23,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,excerpt,general,"chromicdevices,13−15sensorsandactuators,16separations(e.g., provides ionic conductivity several orders of magnitude lower gas separation) and water",line 32,1,conductivity,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,performance_data,measurement,R-squared: 8,text extraction,,performance,medium,standard,TRUE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,performance_data,measurement,Dielectric constant: 1,text extraction,,performance,medium,standard,TRUE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Comparison of the temperature dependence of ionic
+conductivity (red downward-pointing triangles) and segmental
+relaxationtime(blackupward-pointingtriangles)inPEOwith19wt
+% LiClO. Ionic conductivity in this case is strongly coupled to
+4
+segmentaldynamics.Dataaretakenfromref75.",Figure 2,,Figure 2,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Walden plot presenting molar conductivity vs segmental
+Tammann (VFT) temperature variation, σ ∼ exp[−B/(T − relaxation rate for PEO- and PPG-based polymers with different
+T )], following the temperature dependence of the structural molecularweights(givenbynumbersinkg/mol)andweightfractions
+0 ofLisal",Figure 3,,Figure 3,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Temperature dependence of conductivity in polymer
+electrolytes shows a crossover from a VFT-like behavior to an
+Arrhenius-likebehavioratT∼T.ConductivityatT issignificantly
+g g
+higherthan∼10−14−10−15S/cm,indicatingstrongdecouplingofion
+transport from segmental dynamics. The polymers are poly(N-
+vinyl",Figure 5,,Figure 5,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Cartoonsillustratingcorrelatedionjumpsoffourions.(A)
+the mobile ions are trapped (immobilized) and do not The case when the total mean-squared charge displacement ⟨U2⟩ is
+contributetoconductivitycanbeexcludedbasedontheNMR
+smallerthanexpectedforrandom(noncorrelated)ionjumps,∼Nλ2.
+These correlated jum",Figure 8,,Figure 8,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Conductivityinseveralpolymernanocompositesbasedon
+(Figure9),withacationtransportnumberof∼1.Notethatour conductive (filled symbols) and nonconductive (empty symbols)
+analysis of these data (see multiblock PE-SI in Figure 7A) ceramics: LLZTO garnet;152 LLTO wires;158 LLZO with polyvinyl-
+revealedarath",Figure 10,,Figure 10,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Temperature dependenceof conductivityin single-Li-ion system is the mobile ion.70,108,109 The high cation and anion
+conducting polymer electrolytes: poly(ethylene-co-acrylic lithium-
+(fluorosulfonyl)imide)PEALiFSI;164P(STFSILi)−PEO−P(STFSILi)
+concentration strongly reduces Eσ and thus increases con-",Figure 11,,Figure 11,medium,standard,FALSE
+P256,pubs.acs.org/Macromolecules Perspective,P256_unidentified.pdf,2020,medium,good,figure_caption,measurement,"Cartoonofapolymerwithionchannelscreatingahighlocal
+ionconcentration.
+Theimportanceofhighionconcentrationwassupportedby
+an interesting analysis of conductivity at T for different
+g
+electrolytes.70 It demonstrated (Figure 14) that polymer",Figure 13,,Figure 13,medium,standard,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,abstract,finding,"The ionic conductive elastomers show great promise in multifunctional wearable electronics, but they currently suffer from liquid
+leakage/evaporation or mechanical compliance. Developing ionic conductive elastomers integrating non-volatility, mechanical
+robustness, superior ionic conductivity, and ultra-stretchability remains urgent and challenging. Here, we developed a healable,
+robust, and conductive elastomer via impregnating free ionic liquids (ILs) into the ILs-multigrafted poly(urethane-ur",abstract section,1,abstract,high,high_relevance_pu,TRUE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,conclusion,finding,"[7] Zhang, S. P.; Sharifuzzamn, M.; Rana, S. M. S.; Zahed, M. A.;
+In summary, we developed an ionic conductive elastomer Sharma, S.; Shin, Y.; Song, H.; Park, J. Y. Highly conductive,
+integrating healable, robust, and ultrastretchable properties via stretchable, durable, skin-conformal dry electrodes based on
+thermoplastic elastomer-embedded 3D porous graphene for
+impregnating free ILs into the ILs-multigrafted poly(urethane-
+multifunctional wearable bioelectronics. Nano Res. 2023, 16,
+urea) net",conclusion section,end,conclusion,high,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,general,"A healable, mechanically robust and ultrastretchable ionic conductive elastomer for durably wearable sensor",line 5,1,stretchable,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,general,"leakage/evaporation or mechanical compliance. Developing ionic conductive elastomers integrating non-volatility, mechanical robustness, superior ionic conductivity, and ultra-stretchability remains urgent and challenging. Here, we developed a healable,",line 17,1,mechanical,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,general,"robustness, superior ionic conductivity, and ultra-stretchability remains urgent and challenging. Here, we developed a healable, robust, and conductive elastomer via impregnating free ionic liquids (ILs) into the ILs-multigrafted poly(urethane-urea) (PUU)",line 18,1,conductivity,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,general,"robust, and conductive elastomer via impregnating free ionic liquids (ILs) into the ILs-multigrafted poly(urethane-urea) (PUU) elastomer networks. A crucial strategy in the molecular design is that imidazolium cations are largely introduced by double-",line 19,1,ionic liquid,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,measurement,"elastomer networks. A crucial strategy in the molecular design is that imidazolium cations are largely introduced by double- modification of PUU and centipede-like structures are obtained, which can lock the impregnated ILs through strong ionic",line 20,1,network,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,excerpt,general,"interactions. In this system, the PUU matrix contributes outstanding mechanical properties, while the hydrogen bonds and ionic interactions endow the elastomer with self-healing ability, conductivity, as well as non-volatility and transparency. The fabricated",line 22,1,mechanical,medium,high_relevance_pu,FALSE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,performance_data,measurement,Self-healing efficiency: 100,text extraction,,performance,medium,standard,TRUE
+P269,ISSN 1998-0124 CN 11-5974/O4,P269_unidentified.pdf,2023,medium,good,performance_data,measurement,R-squared: 023,text extraction,,performance,medium,standard,TRUE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,abstract,general,"Ionicgelsrepresentapromisingelectrolyteplatform
+for electrochromic devices owing to their intrinsic ionic
+conductivityandsafety.However,achievingmechanicalrobustness
+and interfacial adhesion without sacrificing ionic conductivity
+remains a significant challenge. In this work, we present a
+supramolecular-polymer double-network (SP-DN) ionic gel
+electrolyte, in which a supramolecular network formed through
+the self-assembly of 1,3:2,4-dibenzylidene sorbitol synergistically
+interacts with a covalen",abstract section,1,abstract,high,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,conclusion,finding,"Kaijian Zhou − College of Materials Science and Engineering,
+In summary, we developed a high-performance ionic gel State Key Laboratory of Advanced Design and
+electrolyte based on a SP-DN strategy. By integrating a self- Manufacturing Technology for Vehicle, Hunan University,
+assembled DBS supramolecular network within a covalently Changsha 410004, China
+cross-linked MEA/HEA polymer matrix, we effectively Guoqiang Kuang − College of Materials Science and
+alleviatedtheintrinsictrade-offbetweenmec",conclusion section,end,conclusion,high,high_relevance_pu,TRUE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel Electrolyte for Advanced Electrochromic Device,line 2,1,ionic gel,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,"conductivityandsafety.However,achievingmechanicalrobustness and interfacial adhesion without sacrificing ionic conductivity",line 12,1,conductivity,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,"and interfacial adhesion without sacrificing ionic conductivity remains a significant challenge. In this work, we present a",line 13,1,conductivity,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,"supramolecular-polymer double-network (SP-DN) ionic gel electrolyte, in which a supramolecular network formed through",line 15,1,ionic gel,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,"electrolyte, in which a supramolecular network formed through the self-assembly of 1,3:2,4-dibenzylidene sorbitol synergistically",line 16,1,network,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,excerpt,general,interacts with a covalently cross-linked polymer network. The SP- DN ionic gel synergizes superior mechanical strength and robust,line 18,1,network,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,performance_data,measurement,R-squared: 000,text extraction,,performance,medium,standard,TRUE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,figure_caption,measurement,"Schematicillustrationofthepreparationofthesupramolecular-polymerdouble-networkionicgel.Uponcooling,DBSmoleculesundergo
+hierarchical self-assembly via directional H-bonding, forming elongated fibrillar structures. These fibrils further intertwine into a dynamic,
+noncovalentthree-dimensionalsupramolec",Figure 1,,Figure 1,medium,standard,FALSE
+P448,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,P448_unidentified.pdf,2026,medium,good,figure_caption,measurement,"(a)MechanicalpropertiesandionicconductivityofS PD-IGwithafixedDBScontentof3wt%.(b)Mechanicalpropertiesandionic
+0.03 x
+conductivity of SP D-IG with a fixed polymer monomer content of 60 wt %. (c) Reversible temperature-dependent rheological behavior of
+x 0.6
+S P D-IG.(d)Time−temperaturesuperpositionm",Figure 3,,Figure 3,medium,standard,FALSE

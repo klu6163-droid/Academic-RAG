@@ -1,0 +1,225 @@
+# Domain Equivalents for Polyurethane Literature RAG
+# Maps query concepts to direct terms and equivalent domain terms
+# Terms include both English and Chinese variants
+
+microphase_separation:
+  query_keywords:
+    - 微相分离
+    - 相分离
+    - microphase separation
+    - phase separation
+  direct_terms:
+    - microphase separation
+    - phase separation
+    - microphase-separated
+    - phase-separated morphology
+    - phase separation behavior
+    - microphase-separated structure
+    - 微相分离
+    - 相分离
+  equivalent_terms:
+    - soft segment
+    - hard segment
+    - hard domain
+    - soft domain
+    - microdomain
+    - domain spacing
+    - hard-segment aggregation
+    - hard segment crystallization
+    - hydrogen-bonded hard domains
+    - segmented polyurethane morphology
+    - soft segment / hard segment
+    - hard-segment rich domain
+    - soft-segment rich domain
+    - two-phase structure
+    - phase mixing
+    - phase compatibility
+    - 软段
+    - 硬段
+    - 软硬段
+    - 硬段聚集
+    - 微区
+    - 相畴
+
+SAXS_long_period:
+  query_keywords:
+    - SAXS long period
+    - 长周期
+    - SAXS
+    - small angle
+    - 小角
+  direct_terms:
+    - long period
+    - long spacing
+    - SAXS spacing
+    - periodic distance
+    - long-period
+    - lamellar spacing
+    - 长周期
+  equivalent_terms:
+    - scattering peak position
+    - qmax
+    - domain spacing
+    - d-spacing
+    - interdomain distance
+    - small-angle X-ray scattering
+    - SAXS profile
+    - scattering intensity
+    - Bragg peak
+    - correlation function
+    - 散射峰
+    - 周期结构
+
+FTIR_hydrogen_bonding:
+  query_keywords:
+    - FTIR
+    - C=O
+    - 氢键
+    - 红外
+    - hydrogen bond
+    - carbonyl
+  direct_terms:
+    - hydrogen bonding
+    - H-bond
+    - bonded carbonyl
+    - free carbonyl
+    - hydrogen-bonded carbonyl
+    - 氢键
+    - 羰基
+  equivalent_terms:
+    - C=O stretching
+    - N-H stretching
+    - carbonyl band
+    - urethane carbonyl
+    - urea carbonyl
+    - hydrogen bonding index
+    - FTIR-ATR
+    - infrared spectroscopy
+    - FTIR analysis
+    - absorption band
+    - stretching vibration
+    - 红外光谱
+    - 伸缩振动
+    - 吸收峰
+
+live_dead_staining:
+  query_keywords:
+    - 活死细胞染色
+    - live dead
+    - 细胞活性
+    - 活死
+    - cell viability
+    - 细胞毒性
+  direct_terms:
+    - live/dead staining
+    - live dead assay
+    - calcein
+    - propidium iodide
+    - PI staining
+    - live/dead cell
+    - 活死细胞染色
+    - 活死染色
+  equivalent_terms:
+    - cell viability
+    - cytocompatibility
+    - cell proliferation
+    - fluorescent staining
+    - biocompatibility
+    - cytotoxicity
+    - cell attachment
+    - cell adhesion
+    - cell culture
+    - in vitro
+    - 细胞活性
+    - 细胞相容性
+    - 细胞增殖
+    - 生物相容性
+    - 细胞毒性
+
+PVDF_piezo_biointerface:
+  query_keywords:
+    - PVDF
+    - 压电
+    - 蛋白吸附
+    - piezoelectric
+    - protein adsorption
+  direct_terms:
+    - piezoelectric
+    - d33
+    - d31
+    - beta phase
+    - β phase
+    - piezoelectric coefficient
+    - 压电
+    - 蛋白吸附
+  equivalent_terms:
+    - electroactive phase
+    - surface charge
+    - electrical stimulation
+    - bioelectrical
+    - cell response
+    - protein adsorption
+    - biomolecule interaction
+    - surface property
+    - wettability
+    - 表面电荷
+    - 电刺激
+    - 蛋白质吸附
+
+FeCl4_PU_interaction:
+  query_keywords:
+    - FeCl4
+    - FeCl₄
+    - 铁氯
+    - tetrachloroferrate
+  direct_terms:
+    - FeCl4
+    - tetrachloroferrate
+    - iron chloride
+    - FeCl₄
+    - 铁氯化物
+  equivalent_terms:
+    - metal coordination
+    - ionic interaction
+    - chloride
+    - Fe-Cl
+    - hydrogen bonding with ions
+    - coordination bond
+    - ionic liquid
+    - ionomer
+    - metal-ligand
+    - 金属配位
+    - 离子相互作用
+    - 离子液体
+
+ML_polymer_properties:
+  query_keywords:
+    - 机器学习
+    - 深度学习
+    - 预测
+    - 力学性能
+    - machine learning
+    - prediction
+  direct_terms:
+    - machine learning
+    - deep learning
+    - regression
+    - polymer property prediction
+    - neural network
+    - 机器学习
+    - 深度学习
+  equivalent_terms:
+    - molecular descriptors
+    - structure-property relationship
+    - feature importance
+    - representation learning
+    - transformer
+    - graph neural network
+    - QSPR
+    - quantitative structure-property
+    - predictive model
+    - data-driven
+    - 分子描述符
+    - 构效关系
+    - 预测模型
+    - 数据驱动

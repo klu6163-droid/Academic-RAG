@@ -1,0 +1,229 @@
+node_id,node_type,label,category,description,evidence_count,confidence
+N0001,Paper,P151,PCL_Based_Polyurethane,Switchable Ring-Opening Polymerization of Cyclic Ester Mixtures,9,high
+N0002,Paper,P166,PCL_Based_Polyurethane,"Conjugation-Disruption Strategy Enables Colorless, Chemically",10,high
+N0003,Paper,P188,PCL_Based_Polyurethane,Explore Thermal and Mechanical Properties of Biobased,7,high
+N0004,Paper,P339,PCL_Based_Polyurethane,Impact of Chain Length on PCL Dielectric β‑Relaxation: Decoupling,14,high
+N0005,Paper,P069,PVDF_Piezoelectric_Biomaterials,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,14,high
+N0006,Paper,P077,PVDF_Piezoelectric_Biomaterials,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",10,high
+N0007,Paper,P083,PVDF_Piezoelectric_Biomaterials,Chem Soc Rev,8,high
+N0008,Paper,P104,PVDF_Piezoelectric_Biomaterials,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",19,high
+N0009,Paper,P105,PVDF_Piezoelectric_Biomaterials,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",9,high
+N0010,Paper,P106,PVDF_Piezoelectric_Biomaterials,"Vol.14,No.2(2024)2340002(9pages)",12,high
+N0011,Paper,P107,PVDF_Piezoelectric_Biomaterials,REVIEW SUMMARY,10,high
+N0012,Paper,P108,PVDF_Piezoelectric_Biomaterials,压电效应—百岁铁电的守护者,15,high
+N0013,Paper,P110,PVDF_Piezoelectric_Biomaterials,Nano Energy 59 (2019) 730–744,10,high
+N0014,Paper,P111,PVDF_Piezoelectric_Biomaterials,NanoEnergy102(2022)107690,10,high
+N0015,Paper,P113,PVDF_Piezoelectric_Biomaterials,NanoEnergy118(2023)108987,15,high
+N0016,Paper,P115,PVDF_Piezoelectric_Biomaterials,MaterialsTodayCommunications31(2022)103491,10,high
+N0017,Paper,P116,PVDF_Piezoelectric_Biomaterials,International Materials Reviews,13,high
+N0018,Paper,P122,PVDF_Piezoelectric_Biomaterials,"HYDROGELS byweight,blackcurve)producingafasterrise",8,high
+N0019,Paper,P123,PVDF_Piezoelectric_Biomaterials,Piezoelectric Nanomaterial-Mediated Physical Signals,9,high
+N0020,Paper,P140,PVDF_Piezoelectric_Biomaterials,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,9,high
+N0021,Paper,P145,PVDF_Piezoelectric_Biomaterials,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",8,high
+N0022,Paper,P146,PVDF_Piezoelectric_Biomaterials,Design and Manufacturing of Piezoelectric Biomaterials for,13,high
+N0023,Paper,P147,PVDF_Piezoelectric_Biomaterials,Ultra-soft organic combined lm with,7,high
+N0024,Paper,P177,PVDF_Piezoelectric_Biomaterials,The tribo-piezoelectric microscopic coupling,10,high
+N0025,Paper,P298,PVDF_Piezoelectric_Biomaterials,Cellulose sulfate lithium as a conductive binder for LiFePO4,10,high
+N0026,Paper,P338,PVDF_Piezoelectric_Biomaterials,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",17,high
+N0027,Paper,P379,PVDF_Piezoelectric_Biomaterials,A Close Look at the Local Structure of Functional Polymers:,10,high
+N0028,Paper,P003,SAXS_WAXS_FTIR_DSC,www.advmat.de,10,high
+N0029,Paper,P052,SAXS_WAXS_FTIR_DSC,Low-Temperature Solid-State Polycondensation Synthesis of Non-,12,high
+N0030,Paper,P064,SAXS_WAXS_FTIR_DSC,HYDROGELS alkyl-watercontactsandmaximizefavorable,9,high
+N0031,Paper,P159,SAXS_WAXS_FTIR_DSC,Mechano-responsive hydrogen-bonding array of,8,high
+N0032,Paper,P191,SAXS_WAXS_FTIR_DSC,Elliptical Small-Angle X-Ray Scattering Patterns from,11,high
+N0033,Paper,P240,SAXS_WAXS_FTIR_DSC,Programmable Liquid Crystal Elastomers Via Magnetic Field,8,high
+N0034,Paper,P252,SAXS_WAXS_FTIR_DSC,Lyotropic Microphase Separation in Aqueous Solutions of Double,11,high
+N0035,Paper,P260,SAXS_WAXS_FTIR_DSC,"Effect of Monomer Polarity on Polymer Dynamics, Glass Transition,",18,high
+N0036,Paper,P276,SAXS_WAXS_FTIR_DSC,Ion Transport in Polymerized Ionic Liquid Block Copolymers:,12,high
+N0037,Paper,P278,SAXS_WAXS_FTIR_DSC,Emergent Nanostructure and Ion Transport in Polyzwitterion/,13,high
+N0038,Paper,P284,SAXS_WAXS_FTIR_DSC,Multiscale and Multistep Ordering of Flow-Induced Nucleation of,20,high
+N0039,Paper,P286,SAXS_WAXS_FTIR_DSC,Crystal Structures of Sustainable Long-Spaced Aliphatic Polyesters,16,high
+N0040,Paper,P288,SAXS_WAXS_FTIR_DSC,Polymorphic Self-Poisoning in the Isothermal Crystallization of,12,high
+N0041,Paper,P289,SAXS_WAXS_FTIR_DSC,Melt Memory Effect on Biaxially Oriented Random Copolyamides:,16,high
+N0042,Paper,P294,SAXS_WAXS_FTIR_DSC,Hydrogen Bonding in Carboxyl/Amido-Functionalized PEDOT:PSS,14,high
+N0043,Paper,P364,SAXS_WAXS_FTIR_DSC,Stretch-Induced Structure Evolution of Poly(vinyl alcohol)−Glycerol,15,high
+N0044,Paper,P365,SAXS_WAXS_FTIR_DSC,SMALL-ANGLE X-RAY SCATTERING OF POLYMER,18,high
+N0045,Paper,P366,SAXS_WAXS_FTIR_DSC,"Tao Li, Andrew J. Senesi, and Byeongdu Lee",20,high
+N0046,Paper,P369,SAXS_WAXS_FTIR_DSC,Microstructure and Segmental Dynamics of Polyurea under Uniaxial,16,high
+N0047,Paper,P372,SAXS_WAXS_FTIR_DSC,"Polymer Vol.38No.18,pp.4571-4575,1997",9,high
+N0048,Paper,P376,SAXS_WAXS_FTIR_DSC,NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1005–1009,10,high
+N0049,Paper,P380,SAXS_WAXS_FTIR_DSC,How to Characterize Supramolecular Polymers: A User Guide,23,high
+N0050,Paper,P386,SAXS_WAXS_FTIR_DSC,Direct Characterization of Mechanical Properties in Fully Free-,13,high
+N0051,Paper,P414,SAXS_WAXS_FTIR_DSC,Dynamic pathways in energy landscapes,7,high
+N0052,Paper,P425,SAXS_WAXS_FTIR_DSC,Architecture Effect on Network Phase Formation from Controlled,11,high
+N0053,Paper,P006,TPU_Mechanics,Negative Enthalpy Variation Drives Rapid Recovery in Thermoplastic Elastomer,5,high
+N0054,Paper,P011,TPU_Mechanics,Self-Organization at the Crack Tip of Fatigue-Resistant,15,high
+N0055,Paper,P015,TPU_Mechanics,"Supertough, Resilient, and Healable Thermoplastic",11,high
+N0056,Paper,P054,TPU_Mechanics,Synthesis of a Photo-Crosslinkable Elastomer for Stretchable,8,high
+N0057,Paper,P058,TPU_Mechanics,Tough and stretchable all-κ-carrageenan hydrogel based on the,7,high
+N0058,Paper,P067,TPU_Mechanics,Highly Robust and Environment-Tolerant Conducting Polymer,10,high
+N0059,Paper,P073,TPU_Mechanics,Artificial Muscles www.advmat.de,8,high
+N0060,Paper,P074,TPU_Mechanics,Proceedings of 10th IEEE International Conference,13,high
+N0061,Paper,P154,TPU_Mechanics,Dynamic Bond Chemistry in Soft Materials: Bridging Adaptability,15,high
+N0062,Paper,P163,TPU_Mechanics,High enthalpy storage thermoset network with,6,high
+N0063,Paper,P234,TPU_Mechanics,"Recent Advances in Dielectric Elastomer Actuators: Materials,",13,high
+N0064,Paper,P238,TPU_Mechanics,COMMUNICATION,5,high
+N0065,Paper,P242,TPU_Mechanics,Polyelectrolyte elastomer-based ionotronic,6,high
+N0066,Paper,P257,TPU_Mechanics,High-Performance Polyethylene-Ionomer-Based Thermoplastic,14,high
+N0067,Paper,P259,TPU_Mechanics,PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508,6,high
+N0068,Paper,P268,TPU_Mechanics,Self-compliant ionic skin by leveraging,6,high
+N0069,Paper,P300,TPU_Mechanics,Multiresponsive and Mechanically Robust Self-Healing Waterborne,12,high
+N0070,Paper,P342,TPU_Mechanics,POLYMERS degreeofpolymerizationoftheprimarychains,7,high
+N0071,Paper,P349,TPU_Mechanics,Heterogeneous Local Dynamics in Mussel-Inspired Elastomers,12,high
+N0072,Paper,P382,TPU_Mechanics,Flaw-Tolerant Fracture Enabled by Liquid-like,8,high
+N0073,Paper,P383,TPU_Mechanics,Re-entry with Rate and Temperature of Brittle−Ductile Transition in,13,high
+N0074,Paper,P395,TPU_Mechanics,Entanglements and Fracture in Polymers,11,high
+N0075,Paper,P401,TPU_Mechanics,Rubbery Surface Elasticity of Polymer Glasses,10,high
+N0076,Paper,P419,TPU_Mechanics,Reduction of Kuhn Length upon Chain Extension,8,high
+N0077,Paper,P438,TPU_Mechanics,Reusable Ultratough Supramolecular Polyurethane-Urea Elastomer,11,high
+N0078,Paper,P439,TPU_Mechanics,Multiscale Structural Evolution Governing Fatigue Resistance in,13,high
+N0079,Paper,P452,TPU_Mechanics,"A stretchable, mechanically robust polymer",5,high
+N0080,Paper,P119,Biodegradable_Polyurethane,Fabrication and Characterization of Piezoelectric Polymer,12,high
+N0081,Paper,P164,Biodegradable_Polyurethane,A bioinspired and hierarchically structured,5,high
+N0082,Paper,P176,Biodegradable_Polyurethane,Recent developments in tribovoltaic,12,high
+N0083,Paper,P337,Biodegradable_Polyurethane,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",10,high
+N0084,Paper,P057,Ionogel_Magnetic_Ionogel,Science AdvAnceS | ReSeAR ch AR ticLe,11,high
+N0085,Paper,P068,Ionogel_Magnetic_Ionogel,Contents lists available at ScienceDirect,11,high
+N0086,Paper,P075,Ionogel_Magnetic_Ionogel,Ionic Gels and Their Applications in Stretchable Electronics,14,high
+N0087,Paper,P084,Ionogel_Magnetic_Ionogel,Electrolyte selection for supercapacitive devices:,12,high
+N0088,Paper,P089,Ionogel_Magnetic_Ionogel,Ionic Liquid-Based Gels for Applications in Electrochemical,13,high
+N0089,Paper,P090,Ionogel_Magnetic_Ionogel,Ionics(2016)22:1259–1279,12,high
+N0090,Paper,P091,Ionogel_Magnetic_Ionogel,"Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",12,high
+N0091,Paper,P093,Ionogel_Magnetic_Ionogel,www.advancedscience.com,10,high
+N0092,Paper,P094,Ionogel_Magnetic_Ionogel,Personal Account,17,high
+N0093,Paper,P099,Ionogel_Magnetic_Ionogel,Highly Processable Ionogels with Mechanical Robustness,11,high
+N0094,Paper,P100,Ionogel_Magnetic_Ionogel,Molecular-Weight Dependence of Center-of-Mass Chain Diffusion in,13,high
+N0095,Paper,P103,Ionogel_Magnetic_Ionogel,Counterion Effects of Protic Ionic Liquids on the Conductivity and,15,high
+N0096,Paper,P220,Ionogel_Magnetic_Ionogel,Influence of Chain Entanglement on Rheological and Mechanical,12,high
+N0097,Paper,P245,Ionogel_Magnetic_Ionogel,"Transparent, flexible, and paramagnetic ionogels based on PMMA and the",9,high
+N0098,Paper,P246,Ionogel_Magnetic_Ionogel,Enhanced Mechanical Properties of Polyurethane Ionogels,10,high
+N0099,Paper,P247,Ionogel_Magnetic_Ionogel,Energy Applications of Ionic Liquids: Recent Developments and,15,high
+N0100,Paper,P248,Ionogel_Magnetic_Ionogel,Theory and Simulations of Ionic Liquids in Nanoconfinement,17,high
+N0101,Paper,P249,Ionogel_Magnetic_Ionogel,Polymerized and Colloidal Ionic Liquids�Syntheses and,10,high
+N0102,Paper,P254,Ionogel_Magnetic_Ionogel,assembles into a lattice that contains numerous energetically near-,9,high
+N0103,Paper,P256,Ionogel_Magnetic_Ionogel,pubs.acs.org/Macromolecules Perspective,17,high
+N0104,Paper,P269,Ionogel_Magnetic_Ionogel,ISSN 1998-0124 CN 11-5974/O4,10,high
+N0105,Paper,P448,Ionogel_Magnetic_Ionogel,Supramolecular Self-Assembly Regulated Double-Network Ionic Gel,11,high
+N0106,Paper,P182,ML_Polymer_Properties,TransPolymer: a Transformer-based language model for,10,high
+N0107,Paper,P183,ML_Polymer_Properties,A Machine Learning Interatomic Potential Data Set and Model for,15,high
+N0108,Paper,P184,ML_Polymer_Properties,Δ‑Learning of High-Fidelity Electronic,11,high
+N0109,Paper,P185,ML_Polymer_Properties,Adding Machine Learning to the Polymer Reaction Engineering,11,high
+N0110,Paper,P186,ML_Polymer_Properties,Periodicity-aware deep learning for polymers,8,high
+N0111,Paper,P187,ML_Polymer_Properties,Structure-Aware Machine Learning for Polymers: A,10,high
+N0112,Paper,P189,ML_Polymer_Properties,"Accurately Predicting Solubility Curves via a Thermodynamic Cycle,",18,high
+N0113,Paper,P192,ML_Polymer_Properties,Age of Flexible Electronics: Emerging Trends in Soft Multifunctional Sensors,7,high
+N0114,Paper,P305,ML_Polymer_Properties,Separated Structures in Graft-Type Polymer Electrolyte Membrane,13,high
+N0115,Paper,P049,PU_Microphase_Separation,Green Chemistry,10,high
+N0116,Paper,P156,PU_Microphase_Separation,Angewandte Chemie International Edition,5,high
+N0117,Paper,P235,PU_Microphase_Separation,In Situ Visualization of Microphase Separation in High-Performance,11,high
+N0118,Paper,P258,PU_Microphase_Separation,"Macromolecules2008,41,5723-5728 5723",10,high
+N0119,Paper,P287,PU_Microphase_Separation,Role of Stress Relaxation in Biaxially Stretching-Induced,10,high
+N0120,Paper,P320,PU_Microphase_Separation,Multiscale Simulation of Multicomponent Polyurethane Elastomers:,11,high
+N0121,Paper,P322,PU_Microphase_Separation,Investigating the Water-Induced Stiffening Mechanism in a Novel,10,high
+N0122,Paper,P370,PU_Microphase_Separation,Polymer45(2004)7273–7291,12,high
+N0123,Paper,P375,PU_Microphase_Separation,A Multiscale Investigation on the Mechanism of Shape Recovery for,12,high
+N0124,Paper,P397,PU_Microphase_Separation,Impact of Network Architecture and Cross-Link Aggregation on the,11,high
+N0125,Paper,P427,PU_Microphase_Separation,Decoding Exchange Mechanisms in High-Performance Polyurethane,15,high
+N0126,Paper,P437,PU_Microphase_Separation,Ligament Inspired Ultra-Strong and Tough Bio-Based,9,high
+N0127,Paper,P010,Review_Background,Surpassing the stiffness-extensibility trade-off,6,high
+N0128,Paper,P018,Review_Background,"This is an open access article published under an ACS AuthorChoice License, which permits",10,high
+N0129,Paper,P021,Review_Background,Solution Self-Assembly of Block Copolymers,8,high
+N0130,Paper,P023,Review_Background,: Polymer Brushes: Novel Surfaces for,8,high
+N0131,Paper,P029,Review_Background,: Challenges in the Dynamics and,8,high
+N0132,Paper,P038,Review_Background,: Polymeric Biomaterials: Diverse,9,high
+N0133,Paper,P040,Review_Background,"CiteThis:Macromolecules2017,50,9525−9527",4,high
+N0134,Paper,P070,Review_Background,OPEN ACCESS,9,high
+N0135,Paper,P102,Review_Background,Recent Advances in the Design of Ionenes: Toward,8,high
+N0136,Paper,P139,Review_Background,INSIGHTS | PERSPECTIVES,3,high
+N0137,Paper,P194,Review_Background,Progress in Polymer Science 120 (2021) 101430,5,high
+N0138,Paper,P201,Review_Background,Mechanisms of Flow-Induced Polymer Translocation,10,high
+N0139,Paper,P219,Review_Background,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,10,high
+N0140,Paper,P221,Review_Background,高 等 学 校 化 学 学 报,1,high
+N0141,Paper,P228,Review_Background,"PHYSICAL REVIEW E 112,054404(2025)",6,high
+N0142,Paper,P266,Review_Background,Iontronics: Neuromorphic Sensing and Energy,9,high
+N0143,Paper,P270,Review_Background,Sustainable electronic textiles towards,4,high
+N0144,Paper,P285,Review_Background,Nonmonotonic Variation of the Preferential Orientation of Lamellar,9,high
+N0145,Paper,P333,Review_Background,Prog.Polym.Sci.31(2006)487–531,9,high
+N0146,Paper,P334,Review_Background,OF ORGANIC CHEMISTRY,5,high
+N0147,Paper,P340,Review_Background,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1,4,high
+N0148,Paper,P345,Review_Background,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,9,high
+N0149,Paper,P356,Review_Background,Generalized Entropy Theory of Glass Formation in Graft Polymer,9,high
+N0150,Paper,P390,Review_Background,Fatigue failure in glasses under cyclic shear,4,high
+N0151,Paper,P393,Review_Background,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",5,high
+N0152,Paper,P406,Review_Background,"PHYSICAL REVIEW E 99,012107(2019)",8,high
+N0153,Paper,P407,Review_Background,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",9,high
+N0154,Paper,P408,Review_Background,"PHYSICAL REVIEW X 12, 021001 (2022)",6,high
+N0155,Paper,P454,Review_Background,Chemical Society Reviews,4,high
+N0156,Paper,P013,Self_Healing_Elastomer,Phase-Pinned Bicontinuous Structures Reconciling with the Superior,10,high
+N0157,Paper,P033,Self_Healing_Elastomer,Perspective,12,high
+N0158,Paper,P044,Self_Healing_Elastomer,Sticky Rouse Model and Molecular Dynamics Simulation for Dual,13,high
+N0159,Paper,P047,Self_Healing_Elastomer,Rouse mode analysis of chain relaxation in,6,high
+N0160,Paper,P051,Self_Healing_Elastomer,POLYMERS able.Somehealablematerialswithhighme-,6,high
+N0161,Paper,P063,Self_Healing_Elastomer,"Self-healable, Regenerable, and Degradable Dynamic Covalent Nitroalcohol",9,high
+N0162,Paper,P066,Self_Healing_Elastomer,Materials Today xxx (xxxx) xxx,9,high
+N0163,Paper,P097,Self_Healing_Elastomer,Ultra-stretchable and biodegradable,12,high
+N0164,Paper,P118,Self_Healing_Elastomer,"Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH (LIGHT BLUE)",5,high
+N0165,Paper,P150,Self_Healing_Elastomer,Dynamic Covalent Polymer Networks: A Molecular Platform for,11,high
+N0166,Paper,P225,Self_Healing_Elastomer,Multipotent Elastomers via Tempering of Phase-Separated Dynamic,11,high
+N0167,Paper,P250,Self_Healing_Elastomer,Polymer Network Diffusion in Charged Gels,4,high
+N0168,Paper,P359,Self_Healing_Elastomer,Coherent State Field Theory for Reversible Gelation of Star Polymers,11,high
+N0169,Paper,P368,Self_Healing_Elastomer,Speed-Induced Extensibility Elastomers with Good Resilience and,10,high
+N0170,Paper,P396,Self_Healing_Elastomer,Segmental Dynamics and Vitrification in Associating Copolymer,14,high
+N0171,Paper,P400,Self_Healing_Elastomer,Tensile Strain Softening of Associative Polymer Networks:,13,high
+N0172,Paper,P428,Self_Healing_Elastomer,Correlation between Structural Flexibility of H‑Bonding Motifs and,14,high
+N0173,Paper,P433,Self_Healing_Elastomer,Molecular Springs in Dynamic Covalent Polymer Networks,9,high
+N0174,Paper,P443,Self_Healing_Elastomer,Orthogonal yet Synergistic Supramolecular Interactions to Boost,11,high
+N0175,Paper,P444,Self_Healing_Elastomer,Dynamic Synergy Effect between the Hydrogen Bond Network and,13,high
+N0176,Paper,P045,Shape_Memory_Polyurethane,第 38卷 第 2 期,4,high
+N0177,Paper,P209,Shape_Memory_Polyurethane,Design of a Recyclable Thiol−ene Network with Dynamic Ether,11,high
+N0178,Paper,P224,Shape_Memory_Polyurethane,EDGE ARTICLE,8,high
+N0179,Paper,P237,Shape_Memory_Polyurethane,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,8,high
+N0180,Material,Polyurethane,,Material system: Polyurethane,59,medium
+N0181,Material,Thermoplastic Polyurethane,,Material system: Thermoplastic Polyurethane,48,medium
+N0182,Material,Poly(vinylidene fluoride),,Material system: Poly(vinylidene fluoride),45,medium
+N0183,Material,Polycaprolactone,,Material system: Polycaprolactone,22,medium
+N0184,Material,Polylactic acid,,Material system: Polylactic acid,143,medium
+N0185,Material,Polyethylene glycol,,Material system: Polyethylene glycol,15,medium
+N0186,Material,Polydimethylsiloxane,,Material system: Polydimethylsiloxane,13,medium
+N0187,Material,Hydrogel,,Material system: Hydrogel,35,medium
+N0188,Material,Ionogel,,Material system: Ionogel,39,medium
+N0189,Material,Elastomer,,Material system: Elastomer,154,medium
+N0190,Method,SAXS,,Characterization method: SAXS,76,medium
+N0191,Method,WAXS,,Characterization method: WAXS,27,medium
+N0192,Method,FTIR,,Characterization method: FTIR,15,medium
+N0193,Method,DSC,,Characterization method: DSC,61,medium
+N0194,Method,DMA,,Characterization method: DMA,22,medium
+N0195,Method,TGA,,Characterization method: TGA,8,medium
+N0196,Method,SEM,,Characterization method: SEM,77,medium
+N0197,Method,TEM,,Characterization method: TEM,312,medium
+N0198,Method,AFM,,Characterization method: AFM,14,medium
+N0199,Method,NMR,,Characterization method: NMR,27,medium
+N0200,Method,Rheology,,Characterization method: Rheology,9,medium
+N0201,Method,Tensile Testing,,Characterization method: Tensile Testing,1,medium
+N0202,Method,XRD,,Characterization method: XRD,9,medium
+N0203,Method,Dielectric Spectroscopy,,Characterization method: Dielectric Spectroscopy,3,medium
+N0204,Property,tensile strength,,Measurable property: tensile strength,12,medium
+N0205,Property,elongation at break,,Measurable property: elongation at break,20,medium
+N0206,Property,toughness,,Measurable property: toughness,54,medium
+N0207,Property,modulus,,Measurable property: modulus,60,medium
+N0208,Property,Tg,,Measurable property: Tg,9,medium
+N0209,Property,Tm,,Measurable property: Tm,77,medium
+N0210,Property,crystallinity,,Measurable property: crystallinity,17,medium
+N0211,Property,ionic conductivity,,Measurable property: ionic conductivity,33,medium
+N0212,Property,d33,,Measurable property: d33,1,medium
+N0213,Property,self-healing efficiency,,Measurable property: self-healing efficiency,2,medium
+N0214,Property,recovery ratio,,Measurable property: recovery ratio,3,medium
+N0215,Mechanism,microphase separation,,Physical mechanism: microphase separation,23,medium
+N0216,Mechanism,strain-induced crystallization,,Physical mechanism: strain-induced crystallization,3,medium
+N0217,Mechanism,hydrogen bonding,,Physical mechanism: hydrogen bonding,17,medium
+N0218,Mechanism,self-healing,,Physical mechanism: self-healing,59,medium
+N0219,Mechanism,shape memory,,Physical mechanism: shape memory,16,medium
+N0220,Mechanism,piezoelectric effect,,Physical mechanism: piezoelectric effect,5,medium
+N0221,Mechanism,degradation,,Physical mechanism: degradation,15,medium
+N0222,Mechanism,biocompatibility,,Physical mechanism: biocompatibility,8,medium
+N0223,Project,PU_microphase_mechanics,,PU Microphase Separation and Mechanics,0,high
+N0224,Project,PCL_biodegradable_PU,,PCL-Based Biodegradable PU,0,high
+N0225,Project,PVDF_piezo_biointerface,,PVDF Piezoelectric Biointerface,0,high
+N0226,Project,ionogel_FeCl4_PU,,Ionogel/FeCl4-PU Interaction,0,high
+N0227,Project,ML_polyurethane_properties,,ML for Polyurethane Properties,0,high
+N0228,MLFeature,mechanical properties,,ML input feature candidate: mechanical properties,1,medium

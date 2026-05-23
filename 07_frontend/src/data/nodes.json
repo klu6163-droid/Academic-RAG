@@ -1,0 +1,4132 @@
+[
+  {
+    "id": "P001",
+    "type": "Paper",
+    "label": "1",
+    "category": "other",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P002",
+    "type": "Paper",
+    "label": "www.afm-journal.de",
+    "category": "shape_memory",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P003",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Nature"
+  },
+  {
+    "id": "P004",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P005",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "fluorescence",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P011",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2021",
+    "journal": "Nature"
+  },
+  {
+    "id": "P012",
+    "type": "Paper",
+    "label": "CORRECTED 28 MARCH 2019; SEE FULL TEXT",
+    "category": "hydrogel",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P013",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P014",
+    "type": "Paper",
+    "label": "Supporting Information",
+    "category": "other",
+    "year": "2010",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P015",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polyurethane",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P016",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P017",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P018",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "rheology",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P019",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "elastomer",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P020",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P021",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P022",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P023",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P024",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P025",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P026",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P027",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P028",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "crystallization",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P029",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "crystallization",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P030",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "crystallization",
+    "year": "2017",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P031",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P032",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P033",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "gel",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P034",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P035",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P036",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P037",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "other",
+    "year": "2016",
+    "journal": "Science"
+  },
+  {
+    "id": "P038",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "biocompatibility",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P039",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "crystallization",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P040",
+    "type": "Paper",
+    "label": "CiteThis:Macromolecules2017,50,9525−9527",
+    "category": "rheology",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P041",
+    "type": "Paper",
+    "label": "CiteThis:Macromolecules2018,51,4423−4423",
+    "category": "other",
+    "year": "2018",
+    "journal": "Science"
+  },
+  {
+    "id": "P042",
+    "type": "Paper",
+    "label": "芳香複素環高分子材料の構造 分子",
+    "category": "other",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P043",
+    "type": "Paper",
+    "label": "A Journal of the Gesellschaft Deutscher Chemiker",
+    "category": "other",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P044",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "self_healing",
+    "year": "2022",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P045",
+    "type": "Paper",
+    "label": "第 38卷 第 2 期",
+    "category": "self_healing",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P046",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE | JULY 01 1953",
+    "category": "other",
+    "year": "2002",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P047",
+    "type": "Paper",
+    "label": "Rouse mode analysis of chain relaxation in",
+    "category": "self_healing",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P048",
+    "type": "Paper",
+    "label": "JournalofNon-NewtonianFluidMechanics316(2023)105012",
+    "category": "rheology",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P049",
+    "type": "Paper",
+    "label": "Green Chemistry",
+    "category": "polyurethane",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P051",
+    "type": "Paper",
+    "label": "POLYMERS able.Somehealablematerialswithhighme-",
+    "category": "elastomer",
+    "year": "2018",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P052",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polyurethane",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P053",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "other",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P054",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P055",
+    "type": "Paper",
+    "label": "A Journal of the Gesellschaft Deutscher Chemiker",
+    "category": "gel",
+    "year": "2024",
+    "journal": "Angewandte Chemie International Edition"
+  },
+  {
+    "id": "P056",
+    "type": "Paper",
+    "label": "A Journal of the Gesellschaft Deutscher Chemiker",
+    "category": "gel",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P057",
+    "type": "Paper",
+    "label": "Science AdvAnceS | ReSeAR ch AR ticLe",
+    "category": "gel",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  {
+    "id": "P058",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "gel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P059",
+    "type": "Paper",
+    "label": "www.afm-journal.de",
+    "category": "gel",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P060",
+    "type": "Paper",
+    "label": "CommuniCation",
+    "category": "crystallization",
+    "year": "2019",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P061",
+    "type": "Paper",
+    "label": "ReseaRch aRticle",
+    "category": "gel",
+    "year": "2022",
+    "journal": ""
+  },
+  {
+    "id": "P062",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "gel",
+    "year": "2023",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P063",
+    "type": "Paper",
+    "label": "Self-healable, Regenerable, and Degradable Dynamic Covalent ",
+    "category": "gel",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P064",
+    "type": "Paper",
+    "label": "HYDROGELS alkyl-watercontactsandmaximizefavorable",
+    "category": "gel",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P065",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "gel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P066",
+    "type": "Paper",
+    "label": "Materials Today xxx (xxxx) xxx",
+    "category": "gel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P067",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "gel",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P068",
+    "type": "Paper",
+    "label": "ChemicalEngineeringJournal452(2023)139248",
+    "category": "ionogel",
+    "year": "2022",
+    "journal": "Nature"
+  },
+  {
+    "id": "P069",
+    "type": "Paper",
+    "label": "JournalofScience:AdvancedMaterialsandDevices3(2018)1e17",
+    "category": "ionogel",
+    "year": "2018",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P070",
+    "type": "Paper",
+    "label": "OPEN ACCESS",
+    "category": "ionogel",
+    "year": "2009",
+    "journal": "Nature"
+  },
+  {
+    "id": "P071",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE | AUGUST 26 2008",
+    "category": "ionogel",
+    "year": "2008",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P072",
+    "type": "Paper",
+    "label": "www.advancedsciencenews.com www.advmat.de",
+    "category": "ionogel",
+    "year": "2016",
+    "journal": "Science"
+  },
+  {
+    "id": "P073",
+    "type": "Paper",
+    "label": "Artificial Muscles www.advmat.de",
+    "category": "ionogel",
+    "year": "2017",
+    "journal": "Nature"
+  },
+  {
+    "id": "P074",
+    "type": "Paper",
+    "label": "Proceedings of 10th IEEE International Conference",
+    "category": "ionogel",
+    "year": "2020",
+    "journal": "Small"
+  },
+  {
+    "id": "P075",
+    "type": "Paper",
+    "label": "Stretchable Materials www.mrc-journal.de",
+    "category": "ionogel",
+    "year": "2018",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P076",
+    "type": "Paper",
+    "label": "This is an open access article published under an ACS Author",
+    "category": "ionogel",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P077",
+    "type": "Paper",
+    "label": "www.acsami.org ResearchArticle",
+    "category": "ionogel",
+    "year": "2022",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P078",
+    "type": "Paper",
+    "label": "pubs.acs.org/acsapm Article",
+    "category": "ionogel",
+    "year": "2021",
+    "journal": ""
+  },
+  {
+    "id": "P080",
+    "type": "Paper",
+    "label": "Volume 44 Number 21 7 November 2015 Pages 7431–7920",
+    "category": "ionogel",
+    "year": "2015",
+    "journal": "Science"
+  },
+  {
+    "id": "P081",
+    "type": "Paper",
+    "label": "Green Chemistry",
+    "category": "ionogel",
+    "year": "2016",
+    "journal": "Green Chemistry"
+  },
+  {
+    "id": "P082",
+    "type": "Paper",
+    "label": "Materials Chemistry A",
+    "category": "ionogel",
+    "year": "2016",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P083",
+    "type": "Paper",
+    "label": "Chem Soc Rev",
+    "category": "ionogel",
+    "year": "2018",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P084",
+    "type": "Paper",
+    "label": "Electrolyte selection for supercapacitive devices:",
+    "category": "ionogel",
+    "year": "2019",
+    "journal": "Nanoscale"
+  },
+  {
+    "id": "P085",
+    "type": "Paper",
+    "label": "Materials Chemistry B",
+    "category": "ionogel",
+    "year": "2020",
+    "journal": "Science"
+  },
+  {
+    "id": "P086",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR",
+    "category": "ionogel",
+    "year": "2003",
+    "journal": "Small"
+  },
+  {
+    "id": "P087",
+    "type": "Paper",
+    "label": "Materials Chemistry A",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P088",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "ionogel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P089",
+    "type": "Paper",
+    "label": "Ionic Liquid-Based Gels for Applications in Electrochemical",
+    "category": "ionogel",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P090",
+    "type": "Paper",
+    "label": "Ionics(2016)22:1259–1279",
+    "category": "ionogel",
+    "year": "2016",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P091",
+    "type": "Paper",
+    "label": "Howtocite:Angew.Chem.Int.Ed.2025,64,e202506559",
+    "category": "ionogel",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P092",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P093",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P094",
+    "type": "Paper",
+    "label": "Personal Account",
+    "category": "ionogel",
+    "year": "2020",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P095",
+    "type": "Paper",
+    "label": "Quaternary Ammonium-Functionalized",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P096",
+    "type": "Paper",
+    "label": "Ionics (2020) 26:4215–4238",
+    "category": "ionogel",
+    "year": "2020",
+    "journal": "Nature"
+  },
+  {
+    "id": "P097",
+    "type": "Paper",
+    "label": "Ultra-stretchable and biodegradable",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P098",
+    "type": "Paper",
+    "label": "ReseaRch aRticle",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P099",
+    "type": "Paper",
+    "label": "ReseaRch aRticle",
+    "category": "ionogel",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P100",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionogel",
+    "year": "2022",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P101",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "ionogel",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P102",
+    "type": "Paper",
+    "label": "Ionene www.mcp-journal.de",
+    "category": "ionogel",
+    "year": "2019",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P103",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "ionogel",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P104",
+    "type": "Paper",
+    "label": "J.Am.Ceram.Soc.,88[10]2663–2676(2005)",
+    "category": "piezoelectric",
+    "year": "2005",
+    "journal": "Nature"
+  },
+  {
+    "id": "P105",
+    "type": "Paper",
+    "label": "PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",
+    "category": "piezoelectric",
+    "year": "2006",
+    "journal": "Science"
+  },
+  {
+    "id": "P106",
+    "type": "Paper",
+    "label": "JOURNALOFADVANCEDDIELECTRICS",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P107",
+    "type": "Paper",
+    "label": "REVIEW SUMMARY",
+    "category": "piezoelectric",
+    "year": "2000",
+    "journal": "Science"
+  },
+  {
+    "id": "P108",
+    "type": "Paper",
+    "label": "压电效应—百岁铁电的守护者",
+    "category": "piezoelectric",
+    "year": "2020",
+    "journal": ""
+  },
+  {
+    "id": "P109",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Matter"
+  },
+  {
+    "id": "P110",
+    "type": "Paper",
+    "label": "Nano Energy 59 (2019) 730–744",
+    "category": "piezoelectric",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P111",
+    "type": "Paper",
+    "label": "NanoEnergy102(2022)107690",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P112",
+    "type": "Paper",
+    "label": "NanoEnergy105(2023)108024",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P113",
+    "type": "Paper",
+    "label": "NanoEnergy118(2023)108987",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P114",
+    "type": "Paper",
+    "label": "NanoEnergy120(2024)109092",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P115",
+    "type": "Paper",
+    "label": "MaterialsTodayCommunications31(2022)103491",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P116",
+    "type": "Paper",
+    "label": "International Materials Reviews",
+    "category": "piezoelectric",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P117",
+    "type": "Paper",
+    "label": "NanoEnergy118(2023)108987",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P118",
+    "type": "Paper",
+    "label": "Materials Today d Volume xxx, Number xx d xxxx 2025 RESEARCH",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P119",
+    "type": "Paper",
+    "label": "www.acsami.org ResearchArticle",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P120",
+    "type": "Paper",
+    "label": "All-polymer piezo-ionic-electric electronics",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P121",
+    "type": "Paper",
+    "label": "MaterialsTodayCommunications31(2022)103491",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P122",
+    "type": "Paper",
+    "label": "HYDROGELS byweight,blackcurve)producingafasterrise",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P123",
+    "type": "Paper",
+    "label": "www.small-science-journal.com",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P124",
+    "type": "Paper",
+    "label": "Active self-assembly of piezoelectric biomo-",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P125",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P126",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P127",
+    "type": "Paper",
+    "label": "84c73b8b-35cd-43b1-8004-c678c675de1e-复制",
+    "category": "piezoelectric",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P128",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P129",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "piezoelectric",
+    "year": "2021",
+    "journal": ""
+  },
+  {
+    "id": "P130",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P131",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P132",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P133",
+    "type": "Paper",
+    "label": "Energy Harvesting www.advsustainsys.com",
+    "category": "piezoelectric",
+    "year": "2017",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P134",
+    "type": "Paper",
+    "label": "www.small-science-journal.com",
+    "category": "piezoelectric",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P135",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "piezoelectric",
+    "year": "2021",
+    "journal": ""
+  },
+  {
+    "id": "P136",
+    "type": "Paper",
+    "label": "NanoEnergy102(2022)107690",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P137",
+    "type": "Paper",
+    "label": "Energy Harvesting www.advsustainsys.com",
+    "category": "piezoelectric",
+    "year": "2017",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P138",
+    "type": "Paper",
+    "label": "cell",
+    "category": "piezoelectric",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P139",
+    "type": "Paper",
+    "label": "INSIGHTS | PERSPECTIVES",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Nature"
+  },
+  {
+    "id": "P140",
+    "type": "Paper",
+    "label": "pubs.acs.org/NanoLett Letter",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P141",
+    "type": "Paper",
+    "label": "Active self-assembly of piezoelectric biomo-",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P142",
+    "type": "Paper",
+    "label": "HYDROGELS byweight,blackcurve)producingafasterrise",
+    "category": "piezoelectric",
+    "year": "2022",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P143",
+    "type": "Paper",
+    "label": "INSIGHTS | PERSPECTIVES",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Nature"
+  },
+  {
+    "id": "P144",
+    "type": "Paper",
+    "label": "www.acsami.org ResearchArticle",
+    "category": "piezoelectric",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P145",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 122, 047701 (2019)",
+    "category": "piezoelectric",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P146",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P147",
+    "type": "Paper",
+    "label": "Ultra-soft organic combined lm with",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P148",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "piezoelectric",
+    "year": "2025",
+    "journal": "Matter"
+  },
+  {
+    "id": "P149",
+    "type": "Paper",
+    "label": "pubs.acs.org/macroletters Letter",
+    "category": "synthesis",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P150",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "synthesis",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P151",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "synthesis",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P152",
+    "type": "Paper",
+    "label": "Howtocite:Angew.Chem.Int.Ed.2025,e202514632",
+    "category": "synthesis",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P153",
+    "type": "Paper",
+    "label": "Ionene www.mcp-journal.de",
+    "category": "synthesis",
+    "year": "2019",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P154",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "synthesis",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P155",
+    "type": "Paper",
+    "label": "pubs.acs.org/JACS Article",
+    "category": "synthesis",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P156",
+    "type": "Paper",
+    "label": "Angewandte Chemie International Edition",
+    "category": "synthesis",
+    "year": "2026",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P157",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "other",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P158",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P159",
+    "type": "Paper",
+    "label": "Mechano-responsive hydrogen-bonding array of",
+    "category": "polyurethane",
+    "year": "2021",
+    "journal": "Nature"
+  },
+  {
+    "id": "P160",
+    "type": "Paper",
+    "label": "应用泛函分析（柳重堪）",
+    "category": "other",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P161",
+    "type": "Paper",
+    "label": "Chemical Engineering Journal 374 (2019) 706–720",
+    "category": "shape_memory",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P162",
+    "type": "Paper",
+    "label": "Vol464|11March2010|doi:10.1038/nature08863",
+    "category": "shape_memory",
+    "year": "2010",
+    "journal": "Nature"
+  },
+  {
+    "id": "P163",
+    "type": "Paper",
+    "label": "High enthalpy storage thermoset network with",
+    "category": "shape_memory",
+    "year": "2018",
+    "journal": "Nature"
+  },
+  {
+    "id": "P164",
+    "type": "Paper",
+    "label": "A bioinspired and hierarchically structured",
+    "category": "shape_memory",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P165",
+    "type": "Paper",
+    "label": "Chemical Engineering Journal 521 (2025) 166372",
+    "category": "shape_memory",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P166",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P167",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "hydrogel",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P168",
+    "type": "Paper",
+    "label": "MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P169",
+    "type": "Paper",
+    "label": "NanoEnergy111(2023)108365",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P170",
+    "type": "Paper",
+    "label": "NanoEnergy111(2023)108378",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P171",
+    "type": "Paper",
+    "label": "NanoEnergy110(2023)108385",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P172",
+    "type": "Paper",
+    "label": "NanoEnergy111(2023)108389",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P173",
+    "type": "Paper",
+    "label": "NanoEnergy110(2023)108392",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P174",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Nano Energy"
+  },
+  {
+    "id": "P175",
+    "type": "Paper",
+    "label": "www.advenergymat.de",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P176",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "triboelectric",
+    "year": "2026",
+    "journal": "Science"
+  },
+  {
+    "id": "P177",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P178",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "triboelectric",
+    "year": "2025",
+    "journal": "Journal of Materials Chemistry"
+  },
+  {
+    "id": "P179",
+    "type": "Paper",
+    "label": "MaterialsTodaydVolumexxx,Numberxxdxxxx2023 RESEARCH",
+    "category": "triboelectric",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P180",
+    "type": "Paper",
+    "label": "Howtocite:Angew.Chem.Int.Ed.2025,e18543",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P181",
+    "type": "Paper",
+    "label": "Materials Today xxx (xxxx) xxx",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P182",
+    "type": "Paper",
+    "label": "www.nature.com/npjcompumats",
+    "category": "machine_learning",
+    "year": "2023",
+    "journal": "Nature"
+  },
+  {
+    "id": "P183",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Small"
+  },
+  {
+    "id": "P184",
+    "type": "Paper",
+    "label": "Δ‑Learning of High-Fidelity Electronic",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P185",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P186",
+    "type": "Paper",
+    "label": "nature computational science",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P187",
+    "type": "Paper",
+    "label": "MacromolecularRapidCommunications",
+    "category": "machine_learning",
+    "year": "2026",
+    "journal": "Nature"
+  },
+  {
+    "id": "P188",
+    "type": "Paper",
+    "label": "MacromolecularRapidCommunications",
+    "category": "machine_learning",
+    "year": "2026",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P189",
+    "type": "Paper",
+    "label": "pubs.acs.org/JACS Article",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P190",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "machine_learning",
+    "year": "2025",
+    "journal": "Materials Horizons"
+  },
+  {
+    "id": "P191",
+    "type": "Paper",
+    "label": "FULLPAPER WWW.POLYMERPHYSICS.ORG POLYMERSCIENCE",
+    "category": "crystallization",
+    "year": "2015",
+    "journal": "Science"
+  },
+  {
+    "id": "P192",
+    "type": "Paper",
+    "label": "Age of Flexible Electronics: Emerging Trends in Soft Multifu",
+    "category": "other",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P193",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P194",
+    "type": "Paper",
+    "label": "Progress in Polymer Science 120 (2021) 101430",
+    "category": "rheology",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P195",
+    "type": "Paper",
+    "label": "NanoEnergy118(2023)108987",
+    "category": "rheology",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P196",
+    "type": "Paper",
+    "label": "www.advmat.de",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P197",
+    "type": "Paper",
+    "label": "International Materials Reviews",
+    "category": "piezoelectric",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P198",
+    "type": "Paper",
+    "label": "pubs.acs.org/JPCL Letter",
+    "category": "rheology",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P199",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2020",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P200",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2020",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P201",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2022",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P202",
+    "type": "Paper",
+    "label": "pubs.acs.org/macroletters Letter",
+    "category": "rheology",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P203",
+    "type": "Paper",
+    "label": "206 Chem.Rev.2008,108,206- 237",
+    "category": "rheology",
+    "year": "2008",
+    "journal": "Science"
+  },
+  {
+    "id": "P204",
+    "type": "Paper",
+    "label": "23502 J. Phys. Chem. B 2006, 110, 23502-23506",
+    "category": "rheology",
+    "year": "2006",
+    "journal": "Science"
+  },
+  {
+    "id": "P205",
+    "type": "Paper",
+    "label": "Chinese Journal of Polymer Science Vol. 35, No. 7, (2017), 8",
+    "category": "rheology",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P206",
+    "type": "Paper",
+    "label": "Chinese Journal of",
+    "category": "rheology",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P207",
+    "type": "Paper",
+    "label": "All-polymer piezo-ionic-electric electronics",
+    "category": "rheology",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P208",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "rheology",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P209",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P210",
+    "type": "Paper",
+    "label": "第3期 高 分 子 学 报 No．3",
+    "category": "rheology",
+    "year": "1991",
+    "journal": ""
+  },
+  {
+    "id": "P211",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P212",
+    "type": "Paper",
+    "label": "A New Approach to the Theory of",
+    "category": "rheology",
+    "year": "2004",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P213",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P214",
+    "type": "Paper",
+    "label": "Journal of Non-Newtonian Fluid Mechanics, 43 (1992) 273-288 ",
+    "category": "rheology",
+    "year": "1992",
+    "journal": "Science"
+  },
+  {
+    "id": "P215",
+    "type": "Paper",
+    "label": "第 12 期 高 分 子 学 报 No. 12",
+    "category": "rheology",
+    "year": "2018",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P216",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P217",
+    "type": "Paper",
+    "label": "第 50 卷 第 12 期 高 分 子 学 报 Vol. 50, No. 12",
+    "category": "rheology",
+    "year": "2019",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P218",
+    "type": "Paper",
+    "label": "第7期 高 分 子 学 报 No．7",
+    "category": "rheology",
+    "year": "2015",
+    "journal": ""
+  },
+  {
+    "id": "P219",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P220",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "rheology",
+    "year": "1998",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P221",
+    "type": "Paper",
+    "label": "高 等 学 校 化 学 学 报",
+    "category": "rheology",
+    "year": "2021",
+    "journal": ""
+  },
+  {
+    "id": "P222",
+    "type": "Paper",
+    "label": "第5期 高 分 子 学 报 No. 5",
+    "category": "rheology",
+    "year": "2017",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P223",
+    "type": "Paper",
+    "label": "第6期 高 分 子 学 报 No．6",
+    "category": "rheology",
+    "year": "2016",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P224",
+    "type": "Paper",
+    "label": "EDGE ARTICLE",
+    "category": "adaptive_network",
+    "year": "2020",
+    "journal": "Nature"
+  },
+  {
+    "id": "P225",
+    "type": "Paper",
+    "label": "pubs.acs.org/macroletters Letter",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P226",
+    "type": "Paper",
+    "label": "MATERIALS SCIENCE (DRIPS)process(31,32).Theequilibriumcon-",
+    "category": "adaptive_network",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  {
+    "id": "P227",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P228",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 112,054404(2025)",
+    "category": "biophysics",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P229",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 113,014407(2026)",
+    "category": "biophysics",
+    "year": "2026",
+    "journal": "Physical Review"
+  },
+  {
+    "id": "P230",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 112,054405(2025)",
+    "category": "biophysics",
+    "year": "2025",
+    "journal": "Small"
+  },
+  {
+    "id": "P231",
+    "type": "Paper",
+    "label": "Progress in Polymer Science 167 (2025) 101994",
+    "category": "hydrogel",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P232",
+    "type": "Paper",
+    "label": "Materials Chemistry B",
+    "category": "polyurethane",
+    "year": "2021",
+    "journal": "Journal of Materials Chemistry"
+  },
+  {
+    "id": "P233",
+    "type": "Paper",
+    "label": "ARTICLE IN PRESS",
+    "category": "hydrogel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P234",
+    "type": "Paper",
+    "label": "www.acsmaterialsletters.org Review",
+    "category": "elastomer",
+    "year": "2021",
+    "journal": "Nature"
+  },
+  {
+    "id": "P235",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polyurethane",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P236",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "hydrogel",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P237",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "other",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P238",
+    "type": "Paper",
+    "label": "COMMUNICATION",
+    "category": "polyurethane",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P239",
+    "type": "Paper",
+    "label": "nature materials",
+    "category": "hydrogel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P240",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P241",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "other",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P242",
+    "type": "Paper",
+    "label": "Polyelectrolyte elastomer-based ionotronic",
+    "category": "ionic_liquid",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P243",
+    "type": "Paper",
+    "label": "基于 π-π 堆积作用的磁性(聚)离子液体的",
+    "category": "ionic_liquid",
+    "year": "2020",
+    "journal": ""
+  },
+  {
+    "id": "P244",
+    "type": "Paper",
+    "label": "Science AdvAnceS | ReSeAR ch AR ticle",
+    "category": "ionic_liquid",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P245",
+    "type": "Paper",
+    "label": "PAPER www.rsc.org/materials | JournalofMaterials Chemistry",
+    "category": "ionic_liquid",
+    "year": "2010",
+    "journal": ""
+  },
+  {
+    "id": "P246",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "ionic_liquid",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P247",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "ionic_liquid",
+    "year": "2023",
+    "journal": "Chemical Reviews"
+  },
+  {
+    "id": "P248",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "ionic_liquid",
+    "year": "2023",
+    "journal": "Nanoscale"
+  },
+  {
+    "id": "P249",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "ionic_liquid",
+    "year": "2024",
+    "journal": "Science"
+  },
+  {
+    "id": "P250",
+    "type": "Paper",
+    "label": "Polymer Network Diffusion in Charged Gels",
+    "category": "ionomer",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P251",
+    "type": "Paper",
+    "label": "www.afm-journal.de",
+    "category": "ionomer",
+    "year": "2023",
+    "journal": ""
+  },
+  {
+    "id": "P252",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P253",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P254",
+    "type": "Paper",
+    "label": "assembles into a lattice that contains numerous energeticall",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P255",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P256",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Perspective",
+    "category": "ionomer",
+    "year": "2020",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P257",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P258",
+    "type": "Paper",
+    "label": "Macromolecules2008,41,5723-5728 5723",
+    "category": "ionomer",
+    "year": "2008",
+    "journal": "Science"
+  },
+  {
+    "id": "P259",
+    "type": "Paper",
+    "label": "PUBLISHEDONLINE:30NOVEMBER2015|DOI:10.1038/NMAT4508",
+    "category": "ionomer",
+    "year": "2016",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P260",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P261",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 113,015416(2026)",
+    "category": "ionomer",
+    "year": "2026",
+    "journal": "Science"
+  },
+  {
+    "id": "P262",
+    "type": "Paper",
+    "label": "pubs.acs.org/JACS Article",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P263",
+    "type": "Paper",
+    "label": "MaterialsTodayxxx(xxxx)xxx",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P264",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 113,045412(2026)",
+    "category": "ionomer",
+    "year": "2026",
+    "journal": "Science"
+  },
+  {
+    "id": "P265",
+    "type": "Paper",
+    "label": "Supporting Information",
+    "category": "ionomer",
+    "year": "",
+    "journal": "Science"
+  },
+  {
+    "id": "P266",
+    "type": "Paper",
+    "label": "Iontronics: Neuromorphic Sensing and Energy",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P267",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P268",
+    "type": "Paper",
+    "label": "Self-compliant ionic skin by leveraging",
+    "category": "ionomer",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P269",
+    "type": "Paper",
+    "label": "ISSN 1998-0124 CN 11-5974/O4",
+    "category": "ionomer",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P270",
+    "type": "Paper",
+    "label": "nature materials",
+    "category": "ionomer",
+    "year": "2022",
+    "journal": "Nature"
+  },
+  {
+    "id": "P271",
+    "type": "Paper",
+    "label": "Progress in Polymer Science 103 (2020) 101220",
+    "category": "ionomer",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P272",
+    "type": "Paper",
+    "label": "week ending",
+    "category": "ionomer",
+    "year": "2011",
+    "journal": "Science"
+  },
+  {
+    "id": "P273",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P274",
+    "type": "Paper",
+    "label": "Chem. Rev. 1988, 88, 109-124 109",
+    "category": "ionomer",
+    "year": "",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P275",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P276",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P277",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P278",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "ionomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P279",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "hydrogel",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P280",
+    "type": "Paper",
+    "label": "Polymer235(2021)124306",
+    "category": "crystallization",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P281",
+    "type": "Paper",
+    "label": "ThermochimicaActa402(2003)209–218",
+    "category": "crystallization",
+    "year": "2003",
+    "journal": "Science"
+  },
+  {
+    "id": "P282",
+    "type": "Paper",
+    "label": "Progress in Polymer Science 140 (2023) 101676",
+    "category": "crystallization",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P283",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE | JUNE 02 2010",
+    "category": "crystallization",
+    "year": "2010",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P284",
+    "type": "Paper",
+    "label": "CiteThis:Chem.Rev.2018,118,1840−1886 pubs.acs.org/CR",
+    "category": "crystallization",
+    "year": "2018",
+    "journal": "Science"
+  },
+  {
+    "id": "P285",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "crystallization",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P286",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "crystallization",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P287",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "crystallization",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P288",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "crystallization",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P289",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P290",
+    "type": "Paper",
+    "label": "Progress in Polymer Science 140 (2023) 101676",
+    "category": "crystallization",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P291",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 136, 018101 (2026)",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P292",
+    "type": "Paper",
+    "label": "nature chemistry",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P293",
+    "type": "Paper",
+    "label": "nature chemistry",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P294",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P295",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P296",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "polyurethane",
+    "year": "2023",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P297",
+    "type": "Paper",
+    "label": "Science AdvAnceS | ReSeAR ch AR ticle",
+    "category": "polyurethane",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P298",
+    "type": "Paper",
+    "label": "Journal Pre-proof",
+    "category": "adhesion",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P299",
+    "type": "Paper",
+    "label": "A Journal of the Gesellschaft Deutscher Chemiker",
+    "category": "adhesion",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P300",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "fluorescence",
+    "year": "2001",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P301",
+    "type": "Paper",
+    "label": "www.angewandte.org",
+    "category": "fluorescence",
+    "year": "2022",
+    "journal": "Science"
+  },
+  {
+    "id": "P302",
+    "type": "Paper",
+    "label": "MaterialsTodaydVolume32dJanuary/February2020 RESEARCH",
+    "category": "fluorescence",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P303",
+    "type": "Paper",
+    "label": "www.angewandte.org",
+    "category": "fluorescence",
+    "year": "2022",
+    "journal": "Angewandte Chemie International Edition"
+  },
+  {
+    "id": "P304",
+    "type": "Paper",
+    "label": "Enabling nonconjugated polyesters emit",
+    "category": "fluorescence",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P305",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P306",
+    "type": "Paper",
+    "label": "Angewandte Chemie",
+    "category": "computational",
+    "year": "2026",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P316",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "computational",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P317",
+    "type": "Paper",
+    "label": "1. 名词解释：(20分)解释基本含义即可，可参考Computational Chemistry)",
+    "category": "computational",
+    "year": "2004",
+    "journal": ""
+  },
+  {
+    "id": "P318",
+    "type": "Paper",
+    "label": "本教程的目的是为读者提供计算机集群组建及其在计算化学中的应用的入",
+    "category": "computational",
+    "year": "",
+    "journal": ""
+  },
+  {
+    "id": "P319",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P320",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P321",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P322",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2024",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P323",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P324",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "computational",
+    "year": "2025",
+    "journal": ""
+  },
+  {
+    "id": "P325",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P326",
+    "type": "Paper",
+    "label": "高 等 学 校 化 学 学 报",
+    "category": "computational",
+    "year": "2021",
+    "journal": ""
+  },
+  {
+    "id": "P327",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "computational",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P328",
+    "type": "Paper",
+    "label": "Angewandte Chemie International Edition",
+    "category": "computational",
+    "year": "2026",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P329",
+    "type": "Paper",
+    "label": "Dynamic Article Links <",
+    "category": "michael_addition",
+    "year": "2011",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P330",
+    "type": "Paper",
+    "label": "pubs.acs.org/cm",
+    "category": "michael_addition",
+    "year": "2013",
+    "journal": "Nature"
+  },
+  {
+    "id": "P331",
+    "type": "Paper",
+    "label": "COMMUNICATIONS",
+    "category": "michael_addition",
+    "year": "2010",
+    "journal": "Science"
+  },
+  {
+    "id": "P332",
+    "type": "Paper",
+    "label": "Tetrahedron63(2007)11086–11092",
+    "category": "michael_addition",
+    "year": "2007",
+    "journal": ""
+  },
+  {
+    "id": "P333",
+    "type": "Paper",
+    "label": "Prog.Polym.Sci.31(2006)487–531",
+    "category": "michael_addition",
+    "year": "2006",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P334",
+    "type": "Paper",
+    "label": "ASIAN JOURNAL",
+    "category": "michael_addition",
+    "year": "2011",
+    "journal": "Nature"
+  },
+  {
+    "id": "P335",
+    "type": "Paper",
+    "label": "第３８卷 第４期 陕西科技大学学报 Ｖｏｌ．３８Ｎｏ．４",
+    "category": "michael_addition",
+    "year": "2020",
+    "journal": ""
+  },
+  {
+    "id": "P336",
+    "type": "Paper",
+    "label": "Chemical Engineering Journal 530 (2026) 173421",
+    "category": "hydrogel",
+    "year": "2026",
+    "journal": "Science"
+  },
+  {
+    "id": "P337",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polyurethane",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P338",
+    "type": "Paper",
+    "label": "CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macrom",
+    "category": "polyurethane",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P339",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "crystallization",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P340",
+    "type": "Paper",
+    "label": "nature reviews materials https://doi.org/10.1038/s41578-024-",
+    "category": "other",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P341",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "other",
+    "year": "2022",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P342",
+    "type": "Paper",
+    "label": "POLYMERS degreeofpolymerizationoftheprimarychains",
+    "category": "polymer_physics",
+    "year": "2000",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P343",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 112,045431(2025)",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P344",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P345",
+    "type": "Paper",
+    "label": "International Journal of Extreme Manufacturing",
+    "category": "polymer_physics",
+    "year": "2022",
+    "journal": ""
+  },
+  {
+    "id": "P346",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P347",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P348",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P349",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P350",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P351",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 135, 268101 (2025)",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Physical Review"
+  },
+  {
+    "id": "P352",
+    "type": "Paper",
+    "label": "Macromolecules 1981, 14, 727-736 727",
+    "category": "polymer_physics",
+    "year": "",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P353",
+    "type": "Paper",
+    "label": "The process-directed self-assembly of block copolymer partic",
+    "category": "polymer_physics",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P354",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P355",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P356",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P357",
+    "type": "Paper",
+    "label": "pubs.acs.org/macroletters Letter",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P358",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P359",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P360",
+    "type": "Paper",
+    "label": "pubs.acs.org/JACS Article",
+    "category": "polymer_physics",
+    "year": "2005",
+    "journal": "Nanoscale"
+  },
+  {
+    "id": "P361",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P362",
+    "type": "Paper",
+    "label": "A New Approach to the Theory of",
+    "category": "polymer_physics",
+    "year": "2004",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P363",
+    "type": "Paper",
+    "label": "5630 Macromolecules 1991, 24, 5630-5638",
+    "category": "polymer_physics",
+    "year": "1991",
+    "journal": "Science"
+  },
+  {
+    "id": "P364",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P365",
+    "type": "Paper",
+    "label": "SMALL-ANGLE X-RAY SCATTERING OF POLYMER",
+    "category": "polymer_physics",
+    "year": "2013",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P366",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR",
+    "category": "polymer_physics",
+    "year": "2016",
+    "journal": "Science"
+  },
+  {
+    "id": "P367",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P368",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2021",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P369",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules",
+    "category": "polymer_physics",
+    "year": "2012",
+    "journal": "Science"
+  },
+  {
+    "id": "P370",
+    "type": "Paper",
+    "label": "Polymer45(2004)7273–7291",
+    "category": "polymer_physics",
+    "year": "2004",
+    "journal": "Science"
+  },
+  {
+    "id": "P371",
+    "type": "Paper",
+    "label": "Supporting Information",
+    "category": "polymer_physics",
+    "year": "",
+    "journal": "Science"
+  },
+  {
+    "id": "P372",
+    "type": "Paper",
+    "label": "Polymer Vol.38No.18,pp.4571-4575,1997",
+    "category": "polymer_physics",
+    "year": "1996",
+    "journal": "Science"
+  },
+  {
+    "id": "P373",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P374",
+    "type": "Paper",
+    "label": "CiteThis:Macromolecules2018,51,8306−8315 pubs.acs.org/Macrom",
+    "category": "polymer_physics",
+    "year": "2018",
+    "journal": "Science"
+  },
+  {
+    "id": "P375",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules",
+    "category": "polymer_physics",
+    "year": "2016",
+    "journal": "Science"
+  },
+  {
+    "id": "P376",
+    "type": "Paper",
+    "label": "NuclearInstrumentsandMethodsinPhysicsResearchA467–468(2001)1",
+    "category": "polymer_physics",
+    "year": "2001",
+    "journal": "Science"
+  },
+  {
+    "id": "P377",
+    "type": "Paper",
+    "label": "Macromolecules2008,41,5723-5728 5723",
+    "category": "polymer_physics",
+    "year": "2008",
+    "journal": "Science"
+  },
+  {
+    "id": "P378",
+    "type": "Paper",
+    "label": "HYDROGELS alkyl-watercontactsandmaximizefavorable",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P379",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P380",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "polymer_physics",
+    "year": "2008",
+    "journal": "Nature"
+  },
+  {
+    "id": "P381",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P382",
+    "type": "Paper",
+    "label": "Flaw-Tolerant Fracture Enabled by Liquid-like",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P383",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2014",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P384",
+    "type": "Paper",
+    "label": "CORRECTED 28 MARCH 2019; SEE FULL TEXT",
+    "category": "polymer_physics",
+    "year": "2019",
+    "journal": "Science"
+  },
+  {
+    "id": "P385",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P386",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P387",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P388",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 135, 158101 (2025)",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P389",
+    "type": "Paper",
+    "label": "Journal of Non-Newtonian Fluid Mechanics, 43 (1992) 273-288 ",
+    "category": "polymer_physics",
+    "year": "1992",
+    "journal": "Science"
+  },
+  {
+    "id": "P390",
+    "type": "Paper",
+    "label": "nature physics",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  {
+    "id": "P391",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2014",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P392",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P393",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 131, 228102 (2023)",
+    "category": "polymer_physics",
+    "year": "2023",
+    "journal": "Science"
+  },
+  {
+    "id": "P394",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 113,015405(2026)",
+    "category": "polymer_physics",
+    "year": "2026",
+    "journal": "Science"
+  },
+  {
+    "id": "P395",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P396",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P397",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P398",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 135, 218101 (2025)",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P399",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P400",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P401",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P402",
+    "type": "Paper",
+    "label": "Temperature Dependence of Polymer Network Diffusion",
+    "category": "polymer_physics",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P403",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P404",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 113,015404(2026)",
+    "category": "polymer_physics",
+    "year": "2026",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P405",
+    "type": "Paper",
+    "label": "nature physics",
+    "category": "polymer_physics",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  {
+    "id": "P406",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 99,012107(2019)",
+    "category": "polymer_physics",
+    "year": "2019",
+    "journal": "Physical Review"
+  },
+  {
+    "id": "P407",
+    "type": "Paper",
+    "label": "See discussions, stats, and author profiles for this publica",
+    "category": "polymer_physics",
+    "year": "2006",
+    "journal": "Science"
+  },
+  {
+    "id": "P408",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW X 12, 021001 (2022)",
+    "category": "polymer_physics",
+    "year": "2021",
+    "journal": "Science"
+  },
+  {
+    "id": "P409",
+    "type": "Paper",
+    "label": "PUBLISHEDONLINE:18JANUARY2016|DOI:10.1038/NMAT4538",
+    "category": "polymer_physics",
+    "year": "2016",
+    "journal": "Supramolecular Chemistry"
+  },
+  {
+    "id": "P410",
+    "type": "Paper",
+    "label": "doi:10.1038/nature10720",
+    "category": "polymer_physics",
+    "year": "2012",
+    "journal": "Nature"
+  },
+  {
+    "id": "P411",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 120, 085705 (2018)",
+    "category": "polymer_physics",
+    "year": "2018",
+    "journal": "Physical Review"
+  },
+  {
+    "id": "P412",
+    "type": "Paper",
+    "label": "Selected for a Viewpoint in Physics",
+    "category": "polymer_physics",
+    "year": "2016",
+    "journal": "Physical Review"
+  },
+  {
+    "id": "P413",
+    "type": "Paper",
+    "label": "PUBLISHEDONLINE:20JUNE2016|DOI:10.1038/NMAT4663",
+    "category": "polymer_physics",
+    "year": "",
+    "journal": "Matter"
+  },
+  {
+    "id": "P414",
+    "type": "Paper",
+    "label": "Dynamic pathways in energy landscapes",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P415",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2021",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P416",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2021",
+    "journal": "Nature"
+  },
+  {
+    "id": "P417",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY-NC-ND 4.0",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P418",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW LETTERS 135, 238101 (2025)",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P419",
+    "type": "Paper",
+    "label": "pubs.acs.org/macroletters Letter",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P420",
+    "type": "Paper",
+    "label": "ScieNce Adv ANceS | ReSeAR ch AR ticle",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P421",
+    "type": "Paper",
+    "label": "ScieNce Adv ANceS | ReSeAR ch AR ticle",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P422",
+    "type": "Paper",
+    "label": "PHYSICAL REVIEW E 112,065405(2025)",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P423",
+    "type": "Paper",
+    "label": "Theory of inhomogeneous polymers:",
+    "category": "polymer_physics",
+    "year": "2008",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P424",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2022",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P425",
+    "type": "Paper",
+    "label": "This article is licensed under CC-BY 4.0",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P426",
+    "type": "Paper",
+    "label": "Perspective",
+    "category": "polymer_physics",
+    "year": "2017",
+    "journal": "Science"
+  },
+  {
+    "id": "P427",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "polymer_physics",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P428",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P429",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2024",
+    "journal": ""
+  },
+  {
+    "id": "P430",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2001",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P431",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Supramolecular Chemistry"
+  },
+  {
+    "id": "P432",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P433",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P434",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "elastomer",
+    "year": "2021",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P435",
+    "type": "Paper",
+    "label": "nature nanotechnology",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P436",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P437",
+    "type": "Paper",
+    "label": "RESEARCH ARTICLE",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Science"
+  },
+  {
+    "id": "P438",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P439",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P440",
+    "type": "Paper",
+    "label": "nature materials",
+    "category": "elastomer",
+    "year": "2024",
+    "journal": "Nature"
+  },
+  {
+    "id": "P441",
+    "type": "Paper",
+    "label": "View Article Online",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Nature"
+  },
+  {
+    "id": "P442",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P443",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P444",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P445",
+    "type": "Paper",
+    "label": "Flaw-Tolerant Fracture Enabled by Liquid-like",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P446",
+    "type": "Paper",
+    "label": "Chem Soc Rev",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P447",
+    "type": "Paper",
+    "label": "CiteThis:Macromolecules2018,51,6369−6379 pubs.acs.org/Macrom",
+    "category": "elastomer",
+    "year": "2018",
+    "journal": "Science"
+  },
+  {
+    "id": "P448",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P449",
+    "type": "Paper",
+    "label": "pubs.acs.org/CR Review",
+    "category": "elastomer",
+    "year": "2025",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P450",
+    "type": "Paper",
+    "label": "COMMUNICATION",
+    "category": "elastomer",
+    "year": "2024",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P451",
+    "type": "Paper",
+    "label": "pubs.acs.org/Macromolecules Article",
+    "category": "elastomer",
+    "year": "2026",
+    "journal": "Macromolecules"
+  },
+  {
+    "id": "P452",
+    "type": "Paper",
+    "label": "A stretchable, mechanically robust polymer",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P453",
+    "type": "Paper",
+    "label": "Eine Zeitschrift der Gesellschaft Deutscher Chemiker",
+    "category": "elastomer",
+    "year": "2023",
+    "journal": "Angewandte Chemie International Edition"
+  },
+  {
+    "id": "P454",
+    "type": "Paper",
+    "label": "Chemical Society Reviews",
+    "category": "elastomer",
+    "year": "2013",
+    "journal": "Polymer"
+  },
+  {
+    "id": "P455",
+    "type": "Paper",
+    "label": "Angewandte Chemie International Edition",
+    "category": "elastomer",
+    "year": "2026",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "P456",
+    "type": "Paper",
+    "label": "Angewandte Chemie International Edition",
+    "category": "polyurethane",
+    "year": "2026",
+    "journal": "Advanced Materials"
+  },
+  {
+    "id": "MAT_Polyimide",
+    "type": "Material_System",
+    "label": "Polyimide"
+  },
+  {
+    "id": "MAT_Self-healing",
+    "type": "Material_System",
+    "label": "Self-healing"
+  },
+  {
+    "id": "MAT_Polyurethane",
+    "type": "Material_System",
+    "label": "Polyurethane"
+  },
+  {
+    "id": "MAT_Ionogel",
+    "type": "Material_System",
+    "label": "Ionogel"
+  },
+  {
+    "id": "MAT_Polylactic_acid",
+    "type": "Material_System",
+    "label": "Polylactic acid"
+  },
+  {
+    "id": "MAT_PCL",
+    "type": "Material_System",
+    "label": "PCL"
+  },
+  {
+    "id": "MAT_Alginate",
+    "type": "Material_System",
+    "label": "Alginate"
+  },
+  {
+    "id": "MAT_Shape_memory_polymer",
+    "type": "Material_System",
+    "label": "Shape memory polymer"
+  },
+  {
+    "id": "MAT_PEG",
+    "type": "Material_System",
+    "label": "PEG"
+  },
+  {
+    "id": "MAT_Elastomer",
+    "type": "Material_System",
+    "label": "Elastomer"
+  },
+  {
+    "id": "MAT_Hydrogel",
+    "type": "Material_System",
+    "label": "Hydrogel"
+  },
+  {
+    "id": "MAT_Polyethylene",
+    "type": "Material_System",
+    "label": "Polyethylene"
+  },
+  {
+    "id": "MAT_SBR",
+    "type": "Material_System",
+    "label": "SBR"
+  },
+  {
+    "id": "MAT_Furan",
+    "type": "Material_System",
+    "label": "Furan"
+  },
+  {
+    "id": "MAT_Polyester",
+    "type": "Material_System",
+    "label": "Polyester"
+  },
+  {
+    "id": "MAT_Thiourea",
+    "type": "Material_System",
+    "label": "Thiourea"
+  },
+  {
+    "id": "MAT_Block_copolymer",
+    "type": "Material_System",
+    "label": "Block copolymer"
+  },
+  {
+    "id": "MAT_Natural_rubber",
+    "type": "Material_System",
+    "label": "Natural rubber"
+  },
+  {
+    "id": "MAT_Polysiloxane",
+    "type": "Material_System",
+    "label": "Polysiloxane"
+  },
+  {
+    "id": "MAT_Gelatin",
+    "type": "Material_System",
+    "label": "Gelatin"
+  },
+  {
+    "id": "MAT_Polyacrylate",
+    "type": "Material_System",
+    "label": "Polyacrylate"
+  },
+  {
+    "id": "MAT_Polyelectrolyte",
+    "type": "Material_System",
+    "label": "Polyelectrolyte"
+  },
+  {
+    "id": "MAT_PDMS",
+    "type": "Material_System",
+    "label": "PDMS"
+  },
+  {
+    "id": "MAT_Polythiophene",
+    "type": "Material_System",
+    "label": "Polythiophene"
+  },
+  {
+    "id": "MAT_Polyamide",
+    "type": "Material_System",
+    "label": "Polyamide"
+  },
+  {
+    "id": "MAT_PVDF-TrFE",
+    "type": "Material_System",
+    "label": "PVDF-TrFE"
+  },
+  {
+    "id": "MAT_Ionic_liquid",
+    "type": "Material_System",
+    "label": "Ionic liquid"
+  },
+  {
+    "id": "MAT_PVDF",
+    "type": "Material_System",
+    "label": "PVDF"
+  },
+  {
+    "id": "MAT_Ferrocene",
+    "type": "Material_System",
+    "label": "Ferrocene"
+  },
+  {
+    "id": "MAT_Boronic_ester",
+    "type": "Material_System",
+    "label": "Boronic ester"
+  },
+  {
+    "id": "MAT_Vitrimer",
+    "type": "Material_System",
+    "label": "Vitrimer"
+  },
+  {
+    "id": "MAT_PEDOT:PSS",
+    "type": "Material_System",
+    "label": "PEDOT:PSS"
+  },
+  {
+    "id": "MAT_Chitosan",
+    "type": "Material_System",
+    "label": "Chitosan"
+  },
+  {
+    "id": "MAT_BaTiO3",
+    "type": "Material_System",
+    "label": "BaTiO3"
+  },
+  {
+    "id": "MAT_Polysulfide",
+    "type": "Material_System",
+    "label": "Polysulfide"
+  },
+  {
+    "id": "MAT_Lipoic_acid",
+    "type": "Material_System",
+    "label": "Lipoic acid"
+  },
+  {
+    "id": "MAT_Oxime-carbamate",
+    "type": "Material_System",
+    "label": "Oxime-carbamate"
+  },
+  {
+    "id": "METHOD_DMA",
+    "type": "Characterization_Method",
+    "label": "DMA"
+  },
+  {
+    "id": "METHOD_DSC",
+    "type": "Characterization_Method",
+    "label": "DSC"
+  },
+  {
+    "id": "METHOD_SEM",
+    "type": "Characterization_Method",
+    "label": "SEM"
+  },
+  {
+    "id": "METHOD_MD_Simulation",
+    "type": "Characterization_Method",
+    "label": "MD Simulation"
+  },
+  {
+    "id": "METHOD_TEM",
+    "type": "Characterization_Method",
+    "label": "TEM"
+  },
+  {
+    "id": "METHOD_Tensile",
+    "type": "Characterization_Method",
+    "label": "Tensile"
+  },
+  {
+    "id": "METHOD_Rheology",
+    "type": "Characterization_Method",
+    "label": "Rheology"
+  },
+  {
+    "id": "METHOD_AFM",
+    "type": "Characterization_Method",
+    "label": "AFM"
+  },
+  {
+    "id": "METHOD_SAXS",
+    "type": "Characterization_Method",
+    "label": "SAXS"
+  },
+  {
+    "id": "METHOD_TGA",
+    "type": "Characterization_Method",
+    "label": "TGA"
+  },
+  {
+    "id": "METHOD_GPC",
+    "type": "Characterization_Method",
+    "label": "GPC"
+  },
+  {
+    "id": "METHOD_WAXD",
+    "type": "Characterization_Method",
+    "label": "WAXD"
+  },
+  {
+    "id": "METHOD_FTIR",
+    "type": "Characterization_Method",
+    "label": "FTIR"
+  },
+  {
+    "id": "METHOD_NMR",
+    "type": "Characterization_Method",
+    "label": "NMR"
+  },
+  {
+    "id": "METHOD_DLS",
+    "type": "Characterization_Method",
+    "label": "DLS"
+  },
+  {
+    "id": "METHOD_DFT",
+    "type": "Characterization_Method",
+    "label": "DFT"
+  },
+  {
+    "id": "METHOD_Fluorescence",
+    "type": "Characterization_Method",
+    "label": "Fluorescence"
+  },
+  {
+    "id": "METHOD_Cyclic_Voltammetry",
+    "type": "Characterization_Method",
+    "label": "Cyclic Voltammetry"
+  },
+  {
+    "id": "METHOD_Neutron_Scattering",
+    "type": "Characterization_Method",
+    "label": "Neutron Scattering"
+  },
+  {
+    "id": "METHOD_Dielectric",
+    "type": "Characterization_Method",
+    "label": "Dielectric"
+  },
+  {
+    "id": "METHOD_Piezoelectric",
+    "type": "Characterization_Method",
+    "label": "Piezoelectric"
+  },
+  {
+    "id": "METHOD_XPS",
+    "type": "Characterization_Method",
+    "label": "XPS"
+  },
+  {
+    "id": "METHOD_UV-Vis",
+    "type": "Characterization_Method",
+    "label": "UV-Vis"
+  },
+  {
+    "id": "CAT_ionic_liquid",
+    "type": "Research_Topic",
+    "label": "Ionic Liquid"
+  },
+  {
+    "id": "CAT_hydrogel",
+    "type": "Research_Topic",
+    "label": "Hydrogel"
+  },
+  {
+    "id": "CAT_other",
+    "type": "Research_Topic",
+    "label": "Other"
+  },
+  {
+    "id": "CAT_biocompatibility",
+    "type": "Research_Topic",
+    "label": "Biocompatibility"
+  },
+  {
+    "id": "CAT_gel",
+    "type": "Research_Topic",
+    "label": "Gel"
+  },
+  {
+    "id": "CAT_shape_memory",
+    "type": "Research_Topic",
+    "label": "Shape Memory"
+  },
+  {
+    "id": "CAT_triboelectric",
+    "type": "Research_Topic",
+    "label": "Triboelectric"
+  },
+  {
+    "id": "CAT_computational",
+    "type": "Research_Topic",
+    "label": "Computational"
+  },
+  {
+    "id": "CAT_adaptive_network",
+    "type": "Research_Topic",
+    "label": "Adaptive Network"
+  },
+  {
+    "id": "CAT_adhesion",
+    "type": "Research_Topic",
+    "label": "Adhesion"
+  },
+  {
+    "id": "CAT_ionomer",
+    "type": "Research_Topic",
+    "label": "Ionomer"
+  },
+  {
+    "id": "CAT_crystallization",
+    "type": "Research_Topic",
+    "label": "Crystallization"
+  },
+  {
+    "id": "CAT_fluorescence",
+    "type": "Research_Topic",
+    "label": "Fluorescence"
+  },
+  {
+    "id": "CAT_synthesis",
+    "type": "Research_Topic",
+    "label": "Synthesis"
+  },
+  {
+    "id": "CAT_piezoelectric",
+    "type": "Research_Topic",
+    "label": "Piezoelectric"
+  },
+  {
+    "id": "CAT_polymer_physics",
+    "type": "Research_Topic",
+    "label": "Polymer Physics"
+  },
+  {
+    "id": "CAT_michael_addition",
+    "type": "Research_Topic",
+    "label": "Michael Addition"
+  },
+  {
+    "id": "CAT_self_healing",
+    "type": "Research_Topic",
+    "label": "Self Healing"
+  },
+  {
+    "id": "CAT_elastomer",
+    "type": "Research_Topic",
+    "label": "Elastomer"
+  },
+  {
+    "id": "CAT_machine_learning",
+    "type": "Research_Topic",
+    "label": "Machine Learning"
+  },
+  {
+    "id": "CAT_polyurethane",
+    "type": "Research_Topic",
+    "label": "Polyurethane"
+  },
+  {
+    "id": "CAT_ionogel",
+    "type": "Research_Topic",
+    "label": "Ionogel"
+  },
+  {
+    "id": "CAT_biophysics",
+    "type": "Research_Topic",
+    "label": "Biophysics"
+  },
+  {
+    "id": "CAT_rheology",
+    "type": "Research_Topic",
+    "label": "Rheology"
+  },
+  {
+    "id": "MECH_Hydrogen_Bonding",
+    "type": "Mechanism",
+    "label": "Hydrogen Bonding"
+  },
+  {
+    "id": "MECH_Ionic_Interaction",
+    "type": "Mechanism",
+    "label": "Ionic Interaction"
+  },
+  {
+    "id": "MECH_Phase_Separation",
+    "type": "Mechanism",
+    "label": "Phase Separation"
+  },
+  {
+    "id": "MECH_Microphase_Separation",
+    "type": "Mechanism",
+    "label": "Microphase Separation"
+  },
+  {
+    "id": "MECH_Dynamic_Covalent",
+    "type": "Mechanism",
+    "label": "Dynamic Covalent Bond"
+  },
+  {
+    "id": "MECH_Entanglement",
+    "type": "Mechanism",
+    "label": "Chain Entanglement"
+  },
+  {
+    "id": "MECH_Crosslinking",
+    "type": "Mechanism",
+    "label": "Crosslinking"
+  },
+  {
+    "id": "MECH_Crystallization",
+    "type": "Mechanism",
+    "label": "Crystallization"
+  },
+  {
+    "id": "MECH_Supramolecular",
+    "type": "Mechanism",
+    "label": "Supramolecular Interaction"
+  },
+  {
+    "id": "MECH_Coordination",
+    "type": "Mechanism",
+    "label": "Metal Coordination"
+  },
+  {
+    "id": "PROP_Toughness",
+    "type": "Property",
+    "label": "Toughness"
+  },
+  {
+    "id": "PROP_Self_Healing",
+    "type": "Property",
+    "label": "Self-Healing"
+  },
+  {
+    "id": "PROP_Stretchability",
+    "type": "Property",
+    "label": "Stretchability"
+  },
+  {
+    "id": "PROP_Ionic_Conductivity",
+    "type": "Property",
+    "label": "Ionic Conductivity"
+  },
+  {
+    "id": "PROP_Piezoelectric",
+    "type": "Property",
+    "label": "Piezoelectric Response"
+  },
+  {
+    "id": "PROP_Shape_Memory",
+    "type": "Property",
+    "label": "Shape Memory"
+  },
+  {
+    "id": "PROP_Fatigue_Resistance",
+    "type": "Property",
+    "label": "Fatigue Resistance"
+  },
+  {
+    "id": "PROP_Biocompatibility",
+    "type": "Property",
+    "label": "Biocompatibility"
+  },
+  {
+    "id": "PROP_Transparency",
+    "type": "Property",
+    "label": "Transparency"
+  },
+  {
+    "id": "PROP_Adhesion",
+    "type": "Property",
+    "label": "Adhesion"
+  },
+  {
+    "id": "PROP_Crystallinity",
+    "type": "Property",
+    "label": "Crystallinity"
+  },
+  {
+    "id": "PROP_Viscoelasticity",
+    "type": "Property",
+    "label": "Viscoelasticity"
+  },
+  {
+    "id": "APP_Flexible_Electronics",
+    "type": "Application",
+    "label": "Flexible Electronics"
+  },
+  {
+    "id": "APP_Biomedical",
+    "type": "Application",
+    "label": "Biomedical"
+  },
+  {
+    "id": "APP_Energy_Harvesting",
+    "type": "Application",
+    "label": "Energy Harvesting"
+  },
+  {
+    "id": "APP_Sensors",
+    "type": "Application",
+    "label": "Sensors"
+  },
+  {
+    "id": "APP_Actuators",
+    "type": "Application",
+    "label": "Actuators"
+  },
+  {
+    "id": "APP_Coatings",
+    "type": "Application",
+    "label": "Coatings"
+  },
+  {
+    "id": "APP_Textiles",
+    "type": "Application",
+    "label": "Textiles"
+  },
+  {
+    "id": "APP_Packaging",
+    "type": "Application",
+    "label": "Packaging"
+  },
+  {
+    "id": "SQ1",
+    "type": "Scientific_Question",
+    "label": "How do molecular architecture and processing control microphase separation?"
+  },
+  {
+    "id": "SQ2",
+    "type": "Scientific_Question",
+    "label": "What governs the balance between mechanical toughness and self-healing?"
+  },
+  {
+    "id": "SQ3",
+    "type": "Scientific_Question",
+    "label": "How do ionic interactions affect both mechanical and electrical properties?"
+  },
+  {
+    "id": "SQ4",
+    "type": "Scientific_Question",
+    "label": "What controls crystallization kinetics in dynamic polymer networks?"
+  },
+  {
+    "id": "SQ5",
+    "type": "Scientific_Question",
+    "label": "How can piezoelectric response be enhanced in soft polymers?"
+  },
+  {
+    "id": "SQ6",
+    "type": "Scientific_Question",
+    "label": "What is the role of chain entanglement in toughening hydrogels/ionogels?"
+  },
+  {
+    "id": "SQ7",
+    "type": "Scientific_Question",
+    "label": "How do dynamic bonds influence viscoelastic behavior?"
+  },
+  {
+    "id": "SQ8",
+    "type": "Scientific_Question",
+    "label": "Can machine learning predict polymer structure-property relationships?"
+  }
+]

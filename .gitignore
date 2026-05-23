@@ -1,0 +1,38 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node / frontend build
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Runtime caches and logs
+data/cache/
+data/logs/
+*.npy
+*.log
+
+# Raw copyrighted/local literature files
+00_manifest/english_pdf_copies/
+06_logs/
+*.pdf
+
+# Local path manifests
+00_manifest/file_path_mapping.csv
+00_manifest/original_file_paths.csv
+00_manifest/original_file_paths.md
+00_manifest/literature_manifest.md
+
+# OS / shortcuts
+*.lnk
+Thumbs.db
+.DS_Store

@@ -1,0 +1,7616 @@
+[
+  {
+    "id": "METH_DSC",
+    "type": "Method",
+    "label": "DSC",
+    "category": "method"
+  },
+  {
+    "id": "METH_DMA",
+    "type": "Method",
+    "label": "DMA",
+    "category": "method"
+  },
+  {
+    "id": "METH_Tensile_Testing",
+    "type": "Method",
+    "label": "Tensile Testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_memory_testing",
+    "type": "Method",
+    "label": "shape memory testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Molecular_simulation__COMPASS_force_fiel",
+    "type": "Method",
+    "label": "Molecular simulation (COMPASS force field",
+    "category": "method"
+  },
+  {
+    "id": "METH_Materials_Studio_",
+    "type": "Method",
+    "label": "Materials Studio)",
+    "category": "method"
+  },
+  {
+    "id": "METH_gas_permeability",
+    "type": "Method",
+    "label": "gas permeability",
+    "category": "method"
+  },
+  {
+    "id": "METH_WAXD",
+    "type": "Method",
+    "label": "WAXD",
+    "category": "method"
+  },
+  {
+    "id": "METH_TGA",
+    "type": "Method",
+    "label": "TGA",
+    "category": "method"
+  },
+  {
+    "id": "METH_PALS",
+    "type": "Method",
+    "label": "PALS",
+    "category": "method"
+  },
+  {
+    "id": "METH_density_measurement",
+    "type": "Method",
+    "label": "density measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_SAXS",
+    "type": "Method",
+    "label": "SAXS",
+    "category": "method"
+  },
+  {
+    "id": "METH_Rheology",
+    "type": "Method",
+    "label": "Rheology",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mechanical_Testing",
+    "type": "Method",
+    "label": "Mechanical Testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Living_Polymerization",
+    "type": "Method",
+    "label": "Living Polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_ATRP",
+    "type": "Method",
+    "label": "ATRP",
+    "category": "method"
+  },
+  {
+    "id": "METH_RAFT",
+    "type": "Method",
+    "label": "RAFT",
+    "category": "method"
+  },
+  {
+    "id": "METH_SEC_GPC",
+    "type": "Method",
+    "label": "SEC/GPC",
+    "category": "method"
+  },
+  {
+    "id": "METH_SEM",
+    "type": "Method",
+    "label": "SEM",
+    "category": "method"
+  },
+  {
+    "id": "METH_SCFT",
+    "type": "Method",
+    "label": "SCFT",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_diagram_construction",
+    "type": "Method",
+    "label": "phase diagram construction",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_",
+    "type": "Method",
+    "label": "cyclic)",
+    "category": "method"
+  },
+  {
+    "id": "METH_FTIR",
+    "type": "Method",
+    "label": "FTIR",
+    "category": "method"
+  },
+  {
+    "id": "METH_TEM",
+    "type": "Method",
+    "label": "TEM",
+    "category": "method"
+  },
+  {
+    "id": "METH_DLS",
+    "type": "Method",
+    "label": "DLS",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_seeding",
+    "type": "Method",
+    "label": "self-seeding",
+    "category": "method"
+  },
+  {
+    "id": "METH_seeded_growth",
+    "type": "Method",
+    "label": "seeded growth",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ellipsometry",
+    "type": "Method",
+    "label": "Ellipsometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_neutron_reflectivity",
+    "type": "Method",
+    "label": "neutron reflectivity",
+    "category": "method"
+  },
+  {
+    "id": "METH_SANS",
+    "type": "Method",
+    "label": "SANS",
+    "category": "method"
+  },
+  {
+    "id": "METH_AFM",
+    "type": "Method",
+    "label": "AFM",
+    "category": "method"
+  },
+  {
+    "id": "METH_XPCS",
+    "type": "Method",
+    "label": "XPCS",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ring_opening_polymerization",
+    "type": "Method",
+    "label": "Ring-opening polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_polycondensation",
+    "type": "Method",
+    "label": "polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_LCA",
+    "type": "Method",
+    "label": "LCA",
+    "category": "method"
+  },
+  {
+    "id": "METH_catalytic_degradation",
+    "type": "Method",
+    "label": "catalytic degradation",
+    "category": "method"
+  },
+  {
+    "id": "METH_SI_NMP",
+    "type": "Method",
+    "label": "SI-NMP",
+    "category": "method"
+  },
+  {
+    "id": "METH_SI_PIMP",
+    "type": "Method",
+    "label": "SI-PIMP",
+    "category": "method"
+  },
+  {
+    "id": "METH_light_mediated_CRP",
+    "type": "Method",
+    "label": "light-mediated CRP",
+    "category": "method"
+  },
+  {
+    "id": "METH_ellipsometry",
+    "type": "Method",
+    "label": "ellipsometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_QCM_D",
+    "type": "Method",
+    "label": "QCM-D",
+    "category": "method"
+  },
+  {
+    "id": "METH_electron_diffraction",
+    "type": "Method",
+    "label": "electron diffraction",
+    "category": "method"
+  },
+  {
+    "id": "METH_synchrotron_X_ray",
+    "type": "Method",
+    "label": "synchrotron X-ray",
+    "category": "method"
+  },
+  {
+    "id": "METH_epitaxial_crystallization",
+    "type": "Method",
+    "label": "epitaxial crystallization",
+    "category": "method"
+  },
+  {
+    "id": "METH_dark_field_imaging",
+    "type": "Method",
+    "label": "dark field imaging",
+    "category": "method"
+  },
+  {
+    "id": "METH_Post_polymerization_modification",
+    "type": "Method",
+    "label": "Post-polymerization modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_CuAAC",
+    "type": "Method",
+    "label": "CuAAC",
+    "category": "method"
+  },
+  {
+    "id": "METH_thiol_ene",
+    "type": "Method",
+    "label": "thiol-ene",
+    "category": "method"
+  },
+  {
+    "id": "METH_NHS_ester_amidation",
+    "type": "Method",
+    "label": "NHS-ester amidation",
+    "category": "method"
+  },
+  {
+    "id": "METH_PFP_transesterification",
+    "type": "Method",
+    "label": "PFP transesterification",
+    "category": "method"
+  },
+  {
+    "id": "METH_Conductivity_Measurement",
+    "type": "Method",
+    "label": "Conductivity Measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_band_gap_engineering",
+    "type": "Method",
+    "label": "band gap engineering",
+    "category": "method"
+  },
+  {
+    "id": "METH_resonance_structure_analysis",
+    "type": "Method",
+    "label": "resonance structure analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_doping",
+    "type": "Method",
+    "label": "doping",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dry_jet_wet_spinning",
+    "type": "Method",
+    "label": "Dry-jet wet spinning",
+    "category": "method"
+  },
+  {
+    "id": "METH_gel_spinning",
+    "type": "Method",
+    "label": "gel spinning",
+    "category": "method"
+  },
+  {
+    "id": "METH_Electrospinning",
+    "type": "Method",
+    "label": "Electrospinning",
+    "category": "method"
+  },
+  {
+    "id": "METH_melt_spinning",
+    "type": "Method",
+    "label": "melt spinning",
+    "category": "method"
+  },
+  {
+    "id": "METH_carbonization",
+    "type": "Method",
+    "label": "carbonization",
+    "category": "method"
+  },
+  {
+    "id": "METH_dilatometry",
+    "type": "Method",
+    "label": "dilatometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dielectric_Spectroscopy",
+    "type": "Method",
+    "label": "Dielectric Spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_viscoelastic_spectroscopy",
+    "type": "Method",
+    "label": "viscoelastic spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_creep_compliance",
+    "type": "Method",
+    "label": "creep compliance",
+    "category": "method"
+  },
+  {
+    "id": "METH_Anionic_Polymerization",
+    "type": "Method",
+    "label": "Anionic Polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_cationic_polymerization",
+    "type": "Method",
+    "label": "cationic polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_ROMP",
+    "type": "Method",
+    "label": "ROMP",
+    "category": "method"
+  },
+  {
+    "id": "METH_NMP",
+    "type": "Method",
+    "label": "NMP",
+    "category": "method"
+  },
+  {
+    "id": "METH_Shape_memory_programming_recovery",
+    "type": "Method",
+    "label": "Shape memory programming/recovery",
+    "category": "method"
+  },
+  {
+    "id": "METH_scratch_healing_tests",
+    "type": "Method",
+    "label": "scratch healing tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_fluorescence_spectroscopy",
+    "type": "Method",
+    "label": "fluorescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_photonic_crystal_characterization",
+    "type": "Method",
+    "label": "photonic crystal characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gas_permeability_testing",
+    "type": "Method",
+    "label": "Gas permeability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_pure_gas_and_mixed_gas_testing",
+    "type": "Method",
+    "label": "pure gas and mixed gas testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Robeson_upper_bound_analysis",
+    "type": "Method",
+    "label": "Robeson upper bound analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_block_copolymer_synthesis_by_sequential_",
+    "type": "Method",
+    "label": "block copolymer synthesis by sequential addition",
+    "category": "method"
+  },
+  {
+    "id": "METH_Fracture_mechanics",
+    "type": "Method",
+    "label": "Fracture mechanics",
+    "category": "method"
+  },
+  {
+    "id": "METH_uniaxial_tension",
+    "type": "Method",
+    "label": "uniaxial tension",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gent_model",
+    "type": "Method",
+    "label": "Gent model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Lake_Thomas_theory",
+    "type": "Method",
+    "label": "Lake-Thomas theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_slip_link_model",
+    "type": "Method",
+    "label": "slip-link model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Statistical_mechanics",
+    "type": "Method",
+    "label": "Statistical mechanics",
+    "category": "method"
+  },
+  {
+    "id": "METH_path_integral_representation",
+    "type": "Method",
+    "label": "path integral representation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Flory_Huggins_theory",
+    "type": "Method",
+    "label": "Flory-Huggins theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_scaling_analysis",
+    "type": "Method",
+    "label": "scaling analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_NCA_ring_opening_polymerization",
+    "type": "Method",
+    "label": "NCA ring-opening polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_SPAAC",
+    "type": "Method",
+    "label": "SPAAC",
+    "category": "method"
+  },
+  {
+    "id": "METH_tetrazine_ligation",
+    "type": "Method",
+    "label": "tetrazine ligation",
+    "category": "method"
+  },
+  {
+    "id": "METH_recombinant_DNA_technology",
+    "type": "Method",
+    "label": "recombinant DNA technology",
+    "category": "method"
+  },
+  {
+    "id": "METH_Debye_H_ckel_theory",
+    "type": "Method",
+    "label": "Debye-Hückel theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_Bjerrum_length_analysis",
+    "type": "Method",
+    "label": "Bjerrum length analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Katchalsky_free_energy_model",
+    "type": "Method",
+    "label": "Katchalsky free energy model",
+    "category": "method"
+  },
+  {
+    "id": "METH_scaling_theory",
+    "type": "Method",
+    "label": "scaling theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_N_A",
+    "type": "Method",
+    "label": "N/A",
+    "category": "method"
+  },
+  {
+    "id": "METH_Lattice_dynamics",
+    "type": "Method",
+    "label": "Lattice dynamics",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_mechanics",
+    "type": "Method",
+    "label": "molecular mechanics",
+    "category": "method"
+  },
+  {
+    "id": "METH_X_ray_diffraction",
+    "type": "Method",
+    "label": "X-ray diffraction",
+    "category": "method"
+  },
+  {
+    "id": "METH_Raman_spectroscopy",
+    "type": "Method",
+    "label": "Raman spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystal_elastic_modulus_calculation",
+    "type": "Method",
+    "label": "crystal elastic modulus calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Submolecule_concept",
+    "type": "Method",
+    "label": "Submolecule concept",
+    "category": "method"
+  },
+  {
+    "id": "METH_orthogonal_transformation",
+    "type": "Method",
+    "label": "orthogonal transformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_normal_mode_analysis",
+    "type": "Method",
+    "label": "normal mode analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_NMR",
+    "type": "Method",
+    "label": "NMR",
+    "category": "method"
+  },
+  {
+    "id": "METH_MALDI_TOF",
+    "type": "Method",
+    "label": "MALDI-TOF",
+    "category": "method"
+  },
+  {
+    "id": "METH_DFT",
+    "type": "Method",
+    "label": "DFT",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_extension",
+    "type": "Method",
+    "label": "chain extension",
+    "category": "method"
+  },
+  {
+    "id": "METH_Sticky_Rouse_model",
+    "type": "Method",
+    "label": "Sticky Rouse model",
+    "category": "method"
+  },
+  {
+    "id": "METH_MD_Simulation",
+    "type": "Method",
+    "label": "MD Simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_graph_theory_for_eigenvalue_analysis",
+    "type": "Method",
+    "label": "graph theory for eigenvalue analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Modified_SRM",
+    "type": "Method",
+    "label": "Modified SRM",
+    "category": "method"
+  },
+  {
+    "id": "METH_graph_theory_for_eigenvalues",
+    "type": "Method",
+    "label": "graph theory for eigenvalues",
+    "category": "method"
+  },
+  {
+    "id": "METH_FENE_potential",
+    "type": "Method",
+    "label": "FENE potential",
+    "category": "method"
+  },
+  {
+    "id": "METH_Epoxidation_with_mCPBA",
+    "type": "Method",
+    "label": "Epoxidation with mCPBA",
+    "category": "method"
+  },
+  {
+    "id": "METH_ring_opening_with_amines__ethylamine",
+    "type": "Method",
+    "label": "ring-opening with amines (ethylamine",
+    "category": "method"
+  },
+  {
+    "id": "METH_butylamine",
+    "type": "Method",
+    "label": "butylamine",
+    "category": "method"
+  },
+  {
+    "id": "METH_diethylamine_",
+    "type": "Method",
+    "label": "diethylamine)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Hybrid_MD_Monte_Carlo_simulation",
+    "type": "Method",
+    "label": "Hybrid MD-Monte Carlo simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Rouse_mode_analysis",
+    "type": "Method",
+    "label": "Rouse mode analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_FENE_bonds",
+    "type": "Method",
+    "label": "FENE bonds",
+    "category": "method"
+  },
+  {
+    "id": "METH_LJ_potential",
+    "type": "Method",
+    "label": "LJ potential",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mechanical_recycling__extrusion",
+    "type": "Method",
+    "label": "Mechanical recycling (extrusion",
+    "category": "method"
+  },
+  {
+    "id": "METH_compression",
+    "type": "Method",
+    "label": "compression",
+    "category": "method"
+  },
+  {
+    "id": "METH_injection_moulding_",
+    "type": "Method",
+    "label": "injection moulding)",
+    "category": "method"
+  },
+  {
+    "id": "METH_glycolysis",
+    "type": "Method",
+    "label": "glycolysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_hydrolysis",
+    "type": "Method",
+    "label": "hydrolysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_physical_recycling",
+    "type": "Method",
+    "label": "physical recycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_biodegradation",
+    "type": "Method",
+    "label": "biodegradation",
+    "category": "method"
+  },
+  {
+    "id": "METH_start_up_flow",
+    "type": "Method",
+    "label": "start-up flow",
+    "category": "method"
+  },
+  {
+    "id": "METH_flow_cessation",
+    "type": "Method",
+    "label": "flow cessation",
+    "category": "method"
+  },
+  {
+    "id": "METH_step_strain",
+    "type": "Method",
+    "label": "step strain",
+    "category": "method"
+  },
+  {
+    "id": "METH_rheo_dielectric_measurements",
+    "type": "Method",
+    "label": "rheo-dielectric measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_photomask_patterning",
+    "type": "Method",
+    "label": "UV photomask patterning",
+    "category": "method"
+  },
+  {
+    "id": "METH_capacitance_measurement",
+    "type": "Method",
+    "label": "capacitance measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_cycling",
+    "type": "Method",
+    "label": "mechanical cycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ball_milling_for_SD_MD_particle_preparat",
+    "type": "Method",
+    "label": "Ball milling for SD/MD particle preparation",
+    "category": "method"
+  },
+  {
+    "id": "METH_magnetic_hysteresis_loops",
+    "type": "Method",
+    "label": "magnetic hysteresis loops",
+    "category": "method"
+  },
+  {
+    "id": "METH_3D_Printing",
+    "type": "Method",
+    "label": "3D Printing",
+    "category": "method"
+  },
+  {
+    "id": "METH_XRD",
+    "type": "Method",
+    "label": "XRD",
+    "category": "method"
+  },
+  {
+    "id": "METH_rheometer_based_healing_test",
+    "type": "Method",
+    "label": "rheometer-based healing test",
+    "category": "method"
+  },
+  {
+    "id": "METH_Solid_state_polycondensation",
+    "type": "Method",
+    "label": "Solid-state polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_melt_polycondensation",
+    "type": "Method",
+    "label": "melt polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_WAXS",
+    "type": "Method",
+    "label": "WAXS",
+    "category": "method"
+  },
+  {
+    "id": "METH_tan__",
+    "type": "Method",
+    "label": "tanδ)",
+    "category": "method"
+  },
+  {
+    "id": "METH_model_compound_kinetics",
+    "type": "Method",
+    "label": "model compound kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_Freeze_thawing_dissolution",
+    "type": "Method",
+    "label": "Freeze-thawing dissolution",
+    "category": "method"
+  },
+  {
+    "id": "METH_stepwise_mechanical_training",
+    "type": "Method",
+    "label": "stepwise mechanical training",
+    "category": "method"
+  },
+  {
+    "id": "METH_swelling_tests",
+    "type": "Method",
+    "label": "swelling tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_cycle_tests",
+    "type": "Method",
+    "label": "cycle tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_Hot_pressing",
+    "type": "Method",
+    "label": "Hot-pressing",
+    "category": "method"
+  },
+  {
+    "id": "METH_XPS",
+    "type": "Method",
+    "label": "XPS",
+    "category": "method"
+  },
+  {
+    "id": "METH_EIS",
+    "type": "Method",
+    "label": "EIS",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_article_covering_classification",
+    "type": "Method",
+    "label": "Review article covering classification",
+    "category": "method"
+  },
+  {
+    "id": "METH_properties",
+    "type": "Method",
+    "label": "properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_applications",
+    "type": "Method",
+    "label": "and applications",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_polymerization",
+    "type": "Method",
+    "label": "UV polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_simulation",
+    "type": "Method",
+    "label": "molecular simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_SLS",
+    "type": "Method",
+    "label": "SLS",
+    "category": "method"
+  },
+  {
+    "id": "METH_compression_tensile_cycling",
+    "type": "Method",
+    "label": "compression/tensile cycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_article_organizing_toughening_str",
+    "type": "Method",
+    "label": "Review article organizing toughening strategies by",
+    "category": "method"
+  },
+  {
+    "id": "METH_tube_inversion_gelation_test",
+    "type": "Method",
+    "label": "tube inversion gelation test",
+    "category": "method"
+  },
+  {
+    "id": "METH_xerogel_formation",
+    "type": "Method",
+    "label": "xerogel formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_FEA_simulation",
+    "type": "Method",
+    "label": "FEA simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_TENG_physics",
+    "type": "Method",
+    "label": "Review of TENG physics",
+    "category": "method"
+  },
+  {
+    "id": "METH_working_modes",
+    "type": "Method",
+    "label": "working modes",
+    "category": "method"
+  },
+  {
+    "id": "METH_DC_TENG_designs",
+    "type": "Method",
+    "label": "DC-TENG designs",
+    "category": "method"
+  },
+  {
+    "id": "METH_Raman",
+    "type": "Method",
+    "label": "Raman",
+    "category": "method"
+  },
+  {
+    "id": "METH_panttear_test",
+    "type": "Method",
+    "label": "panttear test",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_radical_polymerization__thermo",
+    "type": "Method",
+    "label": "Review of radical polymerization (thermochemical",
+    "category": "method"
+  },
+  {
+    "id": "METH_photochemical",
+    "type": "Method",
+    "label": "photochemical",
+    "category": "method"
+  },
+  {
+    "id": "METH_redox_",
+    "type": "Method",
+    "label": "redox)",
+    "category": "method"
+  },
+  {
+    "id": "METH_physical_crosslinking",
+    "type": "Method",
+    "label": "physical crosslinking",
+    "category": "method"
+  },
+  {
+    "id": "METH_Contact_charge_exchange_spectroscopy",
+    "type": "Method",
+    "label": "Contact charge exchange spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_film_potential_measurement",
+    "type": "Method",
+    "label": "film potential measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_orbital_analysis",
+    "type": "Method",
+    "label": "molecular-orbital analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_actuation_mechanisms__thermal",
+    "type": "Method",
+    "label": "Review of actuation mechanisms (thermal",
+    "category": "method"
+  },
+  {
+    "id": "METH_light",
+    "type": "Method",
+    "label": "light",
+    "category": "method"
+  },
+  {
+    "id": "METH_pressure",
+    "type": "Method",
+    "label": "pressure",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical",
+    "type": "Method",
+    "label": "chemical",
+    "category": "method"
+  },
+  {
+    "id": "METH_electric_magnetic_",
+    "type": "Method",
+    "label": "electric/magnetic)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_actuation_mechanisms",
+    "type": "Method",
+    "label": "Review of actuation mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_performance_metrics_comparison",
+    "type": "Method",
+    "label": "performance metrics comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_Capacitive_sensing",
+    "type": "Method",
+    "label": "Capacitive sensing",
+    "category": "method"
+  },
+  {
+    "id": "METH_FDC2214_capacitance_to_digital_converter",
+    "type": "Method",
+    "label": "FDC2214 capacitance-to-digital converter",
+    "category": "method"
+  },
+  {
+    "id": "METH_double_layer_sandwich_structure",
+    "type": "Method",
+    "label": "double-layer sandwich structure",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_ionic_gel_preparation",
+    "type": "Method",
+    "label": "Review of ionic gel preparation",
+    "category": "method"
+  },
+  {
+    "id": "METH_EDL_transistor_fabrication",
+    "type": "Method",
+    "label": "EDL transistor fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_sensor_integration",
+    "type": "Method",
+    "label": "sensor integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_battery_electrolyte_design",
+    "type": "Method",
+    "label": "Review of battery electrolyte design",
+    "category": "method"
+  },
+  {
+    "id": "METH_fuel_cell_membrane_fabrication",
+    "type": "Method",
+    "label": "fuel cell membrane fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_carbon_precursor_synthesis",
+    "type": "Method",
+    "label": "carbon precursor synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Radical_polymerization___freeze_drying",
+    "type": "Method",
+    "label": "Radical polymerization + freeze-drying",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_d33_testing",
+    "type": "Method",
+    "label": "piezoelectric d33 testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_COMSOL_FEM",
+    "type": "Method",
+    "label": "COMSOL FEM",
+    "category": "method"
+  },
+  {
+    "id": "METH_DMTA",
+    "type": "Method",
+    "label": "DMTA",
+    "category": "method"
+  },
+  {
+    "id": "METH_Freeze_thaw_cycles",
+    "type": "Method",
+    "label": "Freeze-thaw cycles",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrophysiological_measurements",
+    "type": "Method",
+    "label": "electrophysiological measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_vivo_biocompatibility",
+    "type": "Method",
+    "label": "in vivo biocompatibility",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_EDLC",
+    "type": "Method",
+    "label": "Review of EDLC",
+    "category": "method"
+  },
+  {
+    "id": "METH_pseudocapacitor",
+    "type": "Method",
+    "label": "pseudocapacitor",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_hybrid_supercapacitor_electrolyte_de",
+    "type": "Method",
+    "label": "and hybrid supercapacitor electrolyte design",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_gel_classification__physical_c",
+    "type": "Method",
+    "label": "Review of gel classification (physical/chemical",
+    "category": "method"
+  },
+  {
+    "id": "METH_solvent_type",
+    "type": "Method",
+    "label": "solvent type",
+    "category": "method"
+  },
+  {
+    "id": "METH_solid_phase_type_",
+    "type": "Method",
+    "label": "solid phase type)",
+    "category": "method"
+  },
+  {
+    "id": "METH_sol_gel_process",
+    "type": "Method",
+    "label": "sol-gel process",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_ion_transfer_mechanisms",
+    "type": "Method",
+    "label": "Review of ion transfer mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrolyte_design_strategies",
+    "type": "Method",
+    "label": "electrolyte design strategies",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_EDLC_pseudocapacitor_mechanism",
+    "type": "Method",
+    "label": "Review of EDLC/pseudocapacitor mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_flexible_electrode_design",
+    "type": "Method",
+    "label": "flexible electrode design",
+    "category": "method"
+  },
+  {
+    "id": "METH_gel_electrolyte_synthesis",
+    "type": "Method",
+    "label": "gel electrolyte synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_electrode_electrolyte_interact",
+    "type": "Method",
+    "label": "Review of electrode-electrolyte interaction",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_stability",
+    "type": "Method",
+    "label": "electrochemical stability",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_tough_hydrogel_strategies__DN",
+    "type": "Method",
+    "label": "Review of tough hydrogel strategies (DN",
+    "category": "method"
+  },
+  {
+    "id": "METH_nanocomposite",
+    "type": "Method",
+    "label": "nanocomposite",
+    "category": "method"
+  },
+  {
+    "id": "METH_micelle_crosslinked",
+    "type": "Method",
+    "label": "micelle-crosslinked",
+    "category": "method"
+  },
+  {
+    "id": "METH_polyampholyte_",
+    "type": "Method",
+    "label": "polyampholyte)",
+    "category": "method"
+  },
+  {
+    "id": "METH_sensor_fabrication",
+    "type": "Method",
+    "label": "sensor fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_DSSC_electrolyte_design",
+    "type": "Method",
+    "label": "Review of DSSC electrolyte design",
+    "category": "method"
+  },
+  {
+    "id": "METH_transport_mechanisms",
+    "type": "Method",
+    "label": "transport mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_cell_performance_optimization",
+    "type": "Method",
+    "label": "cell performance optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Condensation_polymerization",
+    "type": "Method",
+    "label": "Condensation polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_gel_based_ionic_circuit_elemen",
+    "type": "Method",
+    "label": "Review of gel-based ionic circuit elements (resist",
+    "category": "method"
+  },
+  {
+    "id": "METH_capacitors",
+    "type": "Method",
+    "label": "capacitors",
+    "category": "method"
+  },
+  {
+    "id": "METH_memristors",
+    "type": "Method",
+    "label": "memristors",
+    "category": "method"
+  },
+  {
+    "id": "METH_diodes",
+    "type": "Method",
+    "label": "diodes",
+    "category": "method"
+  },
+  {
+    "id": "METH_transistors_",
+    "type": "Method",
+    "label": "transistors)",
+    "category": "method"
+  },
+  {
+    "id": "METH_ionic_conduction_mechanisms",
+    "type": "Method",
+    "label": "ionic conduction mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_EDL_formation",
+    "type": "Method",
+    "label": "EDL formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_relaxation_",
+    "type": "Method",
+    "label": "stress relaxation)",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_stability_testing",
+    "type": "Method",
+    "label": "cyclic stability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Sol_gel_process",
+    "type": "Method",
+    "label": "Sol-gel process",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymerization__free_radical",
+    "type": "Method",
+    "label": "polymerization (free radical",
+    "category": "method"
+  },
+  {
+    "id": "METH_photopolymerization",
+    "type": "Method",
+    "label": "photopolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_curing_",
+    "type": "Method",
+    "label": "UV-curing)",
+    "category": "method"
+  },
+  {
+    "id": "METH_solution_casting",
+    "type": "Method",
+    "label": "solution casting",
+    "category": "method"
+  },
+  {
+    "id": "METH_Michael_addition",
+    "type": "Method",
+    "label": "Michael addition",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_polymer_electrolyte_types",
+    "type": "Method",
+    "label": "Review of polymer electrolyte types",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_device_applications",
+    "type": "Method",
+    "label": "electrochemical device applications",
+    "category": "method"
+  },
+  {
+    "id": "METH_Photopolymerization",
+    "type": "Method",
+    "label": "Photopolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_EDS",
+    "type": "Method",
+    "label": "EDS",
+    "category": "method"
+  },
+  {
+    "id": "METH_Li_symmetric_cell_cycling",
+    "type": "Method",
+    "label": "Li symmetric cell cycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_full_cell_testing",
+    "type": "Method",
+    "label": "full cell testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Solution_casting",
+    "type": "Method",
+    "label": "Solution casting",
+    "category": "method"
+  },
+  {
+    "id": "METH_J_V_characterization",
+    "type": "Method",
+    "label": "J-V characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_photocurrent_measurements",
+    "type": "Method",
+    "label": "photocurrent measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_ionogel_preparation_methods__i",
+    "type": "Method",
+    "label": "Review of ionogel preparation methods: in-situ rea",
+    "category": "method"
+  },
+  {
+    "id": "METH_double_network_formation",
+    "type": "Method",
+    "label": "double-network formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_nanocomposites",
+    "type": "Method",
+    "label": "nanocomposites",
+    "category": "method"
+  },
+  {
+    "id": "METH_direct_polymerization_",
+    "type": "Method",
+    "label": "direct polymerization)",
+    "category": "method"
+  },
+  {
+    "id": "METH_solvent_exchange",
+    "type": "Method",
+    "label": "solvent exchange",
+    "category": "method"
+  },
+  {
+    "id": "METH_direct_polymerization_of_polymerizable_I",
+    "type": "Method",
+    "label": "direct polymerization of polymerizable ILs",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermovoltage_measurements",
+    "type": "Method",
+    "label": "thermovoltage measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_screen_printing",
+    "type": "Method",
+    "label": "screen printing",
+    "category": "method"
+  },
+  {
+    "id": "METH_melt_pressing",
+    "type": "Method",
+    "label": "melt-pressing",
+    "category": "method"
+  },
+  {
+    "id": "METH_fuel_cell_MEA_testing",
+    "type": "Method",
+    "label": "fuel cell MEA testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_DN_hydrogel_fabrication",
+    "type": "Method",
+    "label": "DN hydrogel fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_optical_transmittance_measurement",
+    "type": "Method",
+    "label": "optical transmittance measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_stretchability_testing",
+    "type": "Method",
+    "label": "stretchability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_ACEL_device_integration",
+    "type": "Method",
+    "label": "ACEL device integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_FRAP",
+    "type": "Method",
+    "label": "FRAP",
+    "category": "method"
+  },
+  {
+    "id": "METH_Physical_co_chemical_crosslinking",
+    "type": "Method",
+    "label": "Physical-co-chemical crosslinking",
+    "category": "method"
+  },
+  {
+    "id": "METH_inkjet_printing",
+    "type": "Method",
+    "label": "inkjet printing",
+    "category": "method"
+  },
+  {
+    "id": "METH_spray_coating",
+    "type": "Method",
+    "label": "spray coating",
+    "category": "method"
+  },
+  {
+    "id": "METH_Melt_processing",
+    "type": "Method",
+    "label": "Melt processing",
+    "category": "method"
+  },
+  {
+    "id": "METH_PEDOT_PSS_coating_composite_formation",
+    "type": "Method",
+    "label": "PEDOT:PSS coating/composite formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_biodegradation_testing",
+    "type": "Method",
+    "label": "biodegradation testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_vivo_implantation",
+    "type": "Method",
+    "label": "in vivo implantation",
+    "category": "method"
+  },
+  {
+    "id": "METH_HSAB_theory_guided_design",
+    "type": "Method",
+    "label": "HSAB theory-guided design",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_exchange_synthesis",
+    "type": "Method",
+    "label": "ion exchange synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Menshutkin_reaction",
+    "type": "Method",
+    "label": "Menshutkin reaction",
+    "category": "method"
+  },
+  {
+    "id": "METH_Debus_Radziszewski_reaction",
+    "type": "Method",
+    "label": "Debus-Radziszewski reaction",
+    "category": "method"
+  },
+  {
+    "id": "METH_anion_metathesis",
+    "type": "Method",
+    "label": "anion metathesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Landau_Ginsburg_Devonshire__phenomenolog",
+    "type": "Method",
+    "label": "Landau-Ginsburg-Devonshire  phenomenological theor",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gibbs_free_energy_analysis",
+    "type": "Method",
+    "label": "Gibbs free energy analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_orientation_dependent_piezoelectric_coef",
+    "type": "Method",
+    "label": "orientation-dependent piezoelectric coefficient ca",
+    "category": "method"
+  },
+  {
+    "id": "METH_One_pot_photoinitiated_copolymerization",
+    "type": "Method",
+    "label": "One-pot photoinitiated copolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_2D_correlation_spectroscopy",
+    "type": "Method",
+    "label": "2D correlation spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_piezoelectric_development_hist",
+    "type": "Method",
+    "label": "Review of piezoelectric development history",
+    "category": "method"
+  },
+  {
+    "id": "METH_LGD_phenomenological_theory",
+    "type": "Method",
+    "label": "LGD phenomenological theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_single_domain_crystal_measurements",
+    "type": "Method",
+    "label": "single-domain crystal measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_Neutron_Scattering",
+    "type": "Method",
+    "label": "Neutron Scattering",
+    "category": "method"
+  },
+  {
+    "id": "METH_Sixth_order_Landau_free_energy_polynomia",
+    "type": "Method",
+    "label": "Sixth-order Landau free energy polynomial",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermodynamic_calculations",
+    "type": "Method",
+    "label": "thermodynamic calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_diagram_computation",
+    "type": "Method",
+    "label": "phase diagram computation",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_barrier__analysis_along_minimum_e",
+    "type": "Method",
+    "label": "energy barrier  analysis along minimum energy path",
+    "category": "method"
+  },
+  {
+    "id": "METH_LGD_theory",
+    "type": "Method",
+    "label": "LGD theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_orientation_dependent_d____calculations",
+    "type": "Method",
+    "label": "orientation-dependent d₃₃* calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_piezoelectric_ma",
+    "type": "Method",
+    "label": "Comprehensive review of piezoelectric materials an",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mid_infrared__pulse_excitation",
+    "type": "Method",
+    "label": "Mid-infrared  pulse excitation",
+    "category": "method"
+  },
+  {
+    "id": "METH_SHG",
+    "type": "Method",
+    "label": "SHG",
+    "category": "method"
+  },
+  {
+    "id": "METH_First_Principles_Calculation",
+    "type": "Method",
+    "label": "First-Principles Calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Hydrothermal_synthesis",
+    "type": "Method",
+    "label": "Hydrothermal synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_PFM",
+    "type": "Method",
+    "label": "PFM",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mott_Schottky_analysis",
+    "type": "Method",
+    "label": "Mott-Schottky analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_vis",
+    "type": "Method",
+    "label": "UV-vis",
+    "category": "method"
+  },
+  {
+    "id": "METH_ultrasound_assisted_PDA_modification",
+    "type": "Method",
+    "label": "ultrasound-assisted PDA modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_RT_qPCR",
+    "type": "Method",
+    "label": "RT-qPCR",
+    "category": "method"
+  },
+  {
+    "id": "METH_Western_blot",
+    "type": "Method",
+    "label": "Western blot",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_nanoscale_piezoe",
+    "type": "Method",
+    "label": "Comprehensive review of nanoscale piezoelectric ad",
+    "category": "method"
+  },
+  {
+    "id": "METH_Neumann_s_principle_symmetry_analysis",
+    "type": "Method",
+    "label": "Neumann's principle symmetry analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Voigt_notation",
+    "type": "Method",
+    "label": "Voigt notation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Curie_group_classification",
+    "type": "Method",
+    "label": "Curie group classification",
+    "category": "method"
+  },
+  {
+    "id": "METH_corona_thermal_poling",
+    "type": "Method",
+    "label": "corona/thermal poling",
+    "category": "method"
+  },
+  {
+    "id": "METH_drawing_stretching",
+    "type": "Method",
+    "label": "drawing/stretching",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_tensor_transformation",
+    "type": "Method",
+    "label": "piezoelectric tensor transformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Corona_poling",
+    "type": "Method",
+    "label": "Corona poling",
+    "category": "method"
+  },
+  {
+    "id": "METH_freeze_drying",
+    "type": "Method",
+    "label": "freeze-drying",
+    "category": "method"
+  },
+  {
+    "id": "METH_cell_culture__MSCs",
+    "type": "Method",
+    "label": "cell culture (MSCs",
+    "category": "method"
+  },
+  {
+    "id": "METH_osteoblasts",
+    "type": "Method",
+    "label": "osteoblasts",
+    "category": "method"
+  },
+  {
+    "id": "METH_neurons",
+    "type": "Method",
+    "label": "neurons",
+    "category": "method"
+  },
+  {
+    "id": "METH_fibroblasts_",
+    "type": "Method",
+    "label": "fibroblasts)",
+    "category": "method"
+  },
+  {
+    "id": "METH_signaling_pathway_analysis",
+    "type": "Method",
+    "label": "signaling pathway analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_wet_spinning___mechanical_stretching",
+    "type": "Method",
+    "label": "wet spinning + mechanical stretching",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_poling",
+    "type": "Method",
+    "label": "thermal poling",
+    "category": "method"
+  },
+  {
+    "id": "METH_organogel_method",
+    "type": "Method",
+    "label": "organogel method",
+    "category": "method"
+  },
+  {
+    "id": "METH_Buckling_wavy_microstructure_design",
+    "type": "Method",
+    "label": "Buckling/wavy microstructure design",
+    "category": "method"
+  },
+  {
+    "id": "METH_coiled_fiber_fabrication",
+    "type": "Method",
+    "label": "coiled fiber fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_hybrid_piezo_thermoelectric_generators",
+    "type": "Method",
+    "label": "hybrid piezo-thermoelectric generators",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_characterization",
+    "type": "Method",
+    "label": "self-healing characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_FEM",
+    "type": "Method",
+    "label": "FEM",
+    "category": "method"
+  },
+  {
+    "id": "METH_contact_angle_measurement",
+    "type": "Method",
+    "label": "contact angle measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_BMSC_culture",
+    "type": "Method",
+    "label": "BMSC culture",
+    "category": "method"
+  },
+  {
+    "id": "METH_fluorescence_microscopy",
+    "type": "Method",
+    "label": "fluorescence microscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_statistical_analysis",
+    "type": "Method",
+    "label": "statistical analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Laminated_hot_pressing",
+    "type": "Method",
+    "label": "Laminated hot-pressing",
+    "category": "method"
+  },
+  {
+    "id": "METH_bend_self_polarization_testing",
+    "type": "Method",
+    "label": "bend-self-polarization testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_direct_piezoelectric_charge_method",
+    "type": "Method",
+    "label": "direct piezoelectric charge method",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dual_crosslinking",
+    "type": "Method",
+    "label": "Dual crosslinking",
+    "category": "method"
+  },
+  {
+    "id": "METH_freeze_thaw_cycling",
+    "type": "Method",
+    "label": "freeze-thaw cycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_ultrasound_irradiation__1_0_MHz",
+    "type": "Method",
+    "label": "ultrasound irradiation (1.0 MHz",
+    "category": "method"
+  },
+  {
+    "id": "METH_2_5_W_cm__",
+    "type": "Method",
+    "label": "2.5 W/cm²)",
+    "category": "method"
+  },
+  {
+    "id": "METH_RNA_Seq",
+    "type": "Method",
+    "label": "RNA-Seq",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_vivo_diabetic_rat_model",
+    "type": "Method",
+    "label": "in vivo diabetic rat model",
+    "category": "method"
+  },
+  {
+    "id": "METH_tube_formation_assay",
+    "type": "Method",
+    "label": "tube formation assay",
+    "category": "method"
+  },
+  {
+    "id": "METH_Indentation_experiment",
+    "type": "Method",
+    "label": "Indentation experiment",
+    "category": "method"
+  },
+  {
+    "id": "METH_Poisson_Nernst_Planck_poroelastic_model",
+    "type": "Method",
+    "label": "Poisson-Nernst-Planck poroelastic model",
+    "category": "method"
+  },
+  {
+    "id": "METH_16_element_sensor_array_fabrication",
+    "type": "Method",
+    "label": "16-element sensor array fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_hydrothermal_synthesis",
+    "type": "Method",
+    "label": "hydrothermal synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_organometallic_method",
+    "type": "Method",
+    "label": "organometallic method",
+    "category": "method"
+  },
+  {
+    "id": "METH_sol_gel",
+    "type": "Method",
+    "label": "sol-gel",
+    "category": "method"
+  },
+  {
+    "id": "METH_molten_salt_method",
+    "type": "Method",
+    "label": "molten salt method",
+    "category": "method"
+  },
+  {
+    "id": "METH_ultrasound_activation",
+    "type": "Method",
+    "label": "ultrasound activation",
+    "category": "method"
+  },
+  {
+    "id": "METH_cell_culture_with_piezoelectric_scaffold",
+    "type": "Method",
+    "label": "cell culture with piezoelectric scaffolds",
+    "category": "method"
+  },
+  {
+    "id": "METH_Literature_review",
+    "type": "Method",
+    "label": "Literature review",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_coefficient_comparison",
+    "type": "Method",
+    "label": "piezoelectric coefficient comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_bioelectricity_mechanism_analysis",
+    "type": "Method",
+    "label": "bioelectricity mechanism analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ultrasound_activation",
+    "type": "Method",
+    "label": "Ultrasound activation",
+    "category": "method"
+  },
+  {
+    "id": "METH_EPR",
+    "type": "Method",
+    "label": "EPR",
+    "category": "method"
+  },
+  {
+    "id": "METH_radical_quenching_experiments",
+    "type": "Method",
+    "label": "radical quenching experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_band_theory_analysis",
+    "type": "Method",
+    "label": "energy band theory analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_screening_charge_effect_analysis",
+    "type": "Method",
+    "label": "screening charge effect analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_gradient_freezing_for_macroporous_struct",
+    "type": "Method",
+    "label": "gradient-freezing for macroporous structure",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_voltammetry",
+    "type": "Method",
+    "label": "cyclic voltammetry",
+    "category": "method"
+  },
+  {
+    "id": "METH_CCK_8_viability",
+    "type": "Method",
+    "label": "CCK-8 viability",
+    "category": "method"
+  },
+  {
+    "id": "METH_Alcian_blue_Safranin_O_staining",
+    "type": "Method",
+    "label": "Alcian blue/Safranin O staining",
+    "category": "method"
+  },
+  {
+    "id": "METH_ALP_Alizarin_Red_staining",
+    "type": "Method",
+    "label": "ALP/Alizarin Red staining",
+    "category": "method"
+  },
+  {
+    "id": "METH_qPCR",
+    "type": "Method",
+    "label": "qPCR",
+    "category": "method"
+  },
+  {
+    "id": "METH_Calorimetry",
+    "type": "Method",
+    "label": "Calorimetry",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrostimulation_parameter_optimizatio",
+    "type": "Method",
+    "label": "electrostimulation parameter optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_cell_culture_on_conductive_piezoelectric",
+    "type": "Method",
+    "label": "cell culture on conductive/piezoelectric scaffolds",
+    "category": "method"
+  },
+  {
+    "id": "METH_implantable_energy_harvesters",
+    "type": "Method",
+    "label": "implantable energy harvesters",
+    "category": "method"
+  },
+  {
+    "id": "METH_triboelectric_nanogenerators",
+    "type": "Method",
+    "label": "triboelectric nanogenerators",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_nanogenerators",
+    "type": "Method",
+    "label": "piezoelectric nanogenerators",
+    "category": "method"
+  },
+  {
+    "id": "METH_2_mL_h",
+    "type": "Method",
+    "label": "2 mL/h",
+    "category": "method"
+  },
+  {
+    "id": "METH_13_cm_",
+    "type": "Method",
+    "label": "13 cm)",
+    "category": "method"
+  },
+  {
+    "id": "METH_ultrasound_assisted_PDA_modification__40",
+    "type": "Method",
+    "label": "ultrasound-assisted PDA modification (40 kHz",
+    "category": "method"
+  },
+  {
+    "id": "METH_400W_",
+    "type": "Method",
+    "label": "400W)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Perspective_commentary_on_Zhang_et_al__S",
+    "type": "Method",
+    "label": "Perspective/commentary on Zhang et al. Science 202",
+    "category": "method"
+  },
+  {
+    "id": "METH_ferroelectrochemistry_analysis",
+    "type": "Method",
+    "label": "ferroelectrochemistry analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Solution_blending",
+    "type": "Method",
+    "label": "Solution blending",
+    "category": "method"
+  },
+  {
+    "id": "METH_solvent_evaporation_recrystallization",
+    "type": "Method",
+    "label": "solvent evaporation/recrystallization",
+    "category": "method"
+  },
+  {
+    "id": "METH_EDS_mapping",
+    "type": "Method",
+    "label": "EDS mapping",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_strain_testing",
+    "type": "Method",
+    "label": "stress-strain testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_dielectric_permittivity_loss_measurement",
+    "type": "Method",
+    "label": "dielectric permittivity/loss measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_coefficient__measurement",
+    "type": "Method",
+    "label": "piezoelectric coefficient  measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_linear_motor_impact_testing",
+    "type": "Method",
+    "label": "linear motor impact testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_10_cm_distance",
+    "type": "Method",
+    "label": "10 cm distance",
+    "category": "method"
+  },
+  {
+    "id": "METH_0_5_mL_h",
+    "type": "Method",
+    "label": "0.5 mL/h",
+    "category": "method"
+  },
+  {
+    "id": "METH_200_rpm_collector_",
+    "type": "Method",
+    "label": "200 rpm collector)",
+    "category": "method"
+  },
+  {
+    "id": "METH_100_kHz",
+    "type": "Method",
+    "label": "100 kHz",
+    "category": "method"
+  },
+  {
+    "id": "METH_1_3_V_AC_",
+    "type": "Method",
+    "label": "1-3 V AC)",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystal_growth",
+    "type": "Method",
+    "label": "crystal growth",
+    "category": "method"
+  },
+  {
+    "id": "METH_d___piezometer_measurement",
+    "type": "Method",
+    "label": "d₃₃ piezometer measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_transmission_XRD",
+    "type": "Method",
+    "label": "transmission XRD",
+    "category": "method"
+  },
+  {
+    "id": "METH_manual_compression_voltage_testing",
+    "type": "Method",
+    "label": "manual compression voltage testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_LABVIEW_data_collection",
+    "type": "Method",
+    "label": "LABVIEW data collection",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mid_infrared__MIR",
+    "type": "Method",
+    "label": "Mid-infrared (MIR",
+    "category": "method"
+  },
+  {
+    "id": "METH_5__m__nonresonant_Raman_excitation",
+    "type": "Method",
+    "label": "5 μm) nonresonant Raman excitation",
+    "category": "method"
+  },
+  {
+    "id": "METH_transient_transmission_measurements",
+    "type": "Method",
+    "label": "transient transmission measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review",
+    "type": "Method",
+    "label": "Comprehensive review",
+    "category": "method"
+  },
+  {
+    "id": "METH_high_throughput_screening",
+    "type": "Method",
+    "label": "high-throughput screening",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_engineering__H_F_substitution",
+    "type": "Method",
+    "label": "molecular engineering (H/F substitution",
+    "category": "method"
+  },
+  {
+    "id": "METH_genetic_modification",
+    "type": "Method",
+    "label": "genetic modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bond_heterostructure",
+    "type": "Method",
+    "label": "H-bond heterostructure",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical_crosslinking_",
+    "type": "Method",
+    "label": "chemical crosslinking)",
+    "category": "method"
+  },
+  {
+    "id": "METH_manufacturing__mechanical__exfoliation",
+    "type": "Method",
+    "label": "manufacturing: mechanical (exfoliation",
+    "category": "method"
+  },
+  {
+    "id": "METH_annealing",
+    "type": "Method",
+    "label": "annealing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Liquid_liquid_interface_polar_engineerin",
+    "type": "Method",
+    "label": "Liquid-liquid interface polar engineering",
+    "category": "method"
+  },
+  {
+    "id": "METH_d___piezoelectric_measurement",
+    "type": "Method",
+    "label": "d₃₃ piezoelectric measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_60_day_stability_testing",
+    "type": "Method",
+    "label": "60-day stability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Aza_Michael_reaction_kinetics",
+    "type": "Method",
+    "label": "Aza-Michael reaction kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_5_recycling_cycles",
+    "type": "Method",
+    "label": "5 recycling cycles",
+    "category": "method"
+  },
+  {
+    "id": "METH_ITC",
+    "type": "Method",
+    "label": "ITC",
+    "category": "method"
+  },
+  {
+    "id": "METH_selective_catalyst_design",
+    "type": "Method",
+    "label": "selective catalyst design",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of__30_types_of_dyn",
+    "type": "Method",
+    "label": "Comprehensive review of >30 types of dynamic coval",
+    "category": "method"
+  },
+  {
+    "id": "METH_bond_exchange_kinetics",
+    "type": "Method",
+    "label": "bond exchange kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_topology_manipulation",
+    "type": "Method",
+    "label": "topology manipulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Step_growth_polycondensation",
+    "type": "Method",
+    "label": "Step-growth polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_photolithographic_patterning",
+    "type": "Method",
+    "label": "photolithographic patterning",
+    "category": "method"
+  },
+  {
+    "id": "METH_GPC_molecular_weight_analysis",
+    "type": "Method",
+    "label": "GPC molecular weight analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetics_studies",
+    "type": "Method",
+    "label": "kinetics studies",
+    "category": "method"
+  },
+  {
+    "id": "METH_depolymerization_stability_testing",
+    "type": "Method",
+    "label": "depolymerization stability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_light_triggered_depolymerization",
+    "type": "Method",
+    "label": "light-triggered depolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_ionene_synthesis",
+    "type": "Method",
+    "label": "Comprehensive review of ionene synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_polyelectrolytes_and_pol",
+    "type": "Method",
+    "label": "comparison with polyelectrolytes and poly",
+    "category": "method"
+  },
+  {
+    "id": "METH_Soft_segment_modification_strategy",
+    "type": "Method",
+    "label": "Soft-segment modification strategy",
+    "category": "method"
+  },
+  {
+    "id": "METH_notch_sensitivity_testing",
+    "type": "Method",
+    "label": "notch sensitivity testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_testing__45_C",
+    "type": "Method",
+    "label": "self-healing testing (45°C",
+    "category": "method"
+  },
+  {
+    "id": "METH_3h_",
+    "type": "Method",
+    "label": "3h)",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_relaxation",
+    "type": "Method",
+    "label": "stress relaxation",
+    "category": "method"
+  },
+  {
+    "id": "METH_frequency_dependent_response",
+    "type": "Method",
+    "label": "frequency-dependent response",
+    "category": "method"
+  },
+  {
+    "id": "METH_One_pot_two_step_polycondensation",
+    "type": "Method",
+    "label": "One-pot two-step polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_photoluminescence_spectroscopy",
+    "type": "Method",
+    "label": "photoluminescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_time_polyelectrolyte_salt_superposition",
+    "type": "Method",
+    "label": "time-polyelectrolyte-salt superposition",
+    "category": "method"
+  },
+  {
+    "id": "METH_Solvent_casting",
+    "type": "Method",
+    "label": "Solvent casting",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_testing",
+    "type": "Method",
+    "label": "self-healing testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bond_characterization",
+    "type": "Method",
+    "label": "H-bond characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_memory_cycle_testing__programming_",
+    "type": "Method",
+    "label": "shape memory cycle testing (programming at T_high",
+    "category": "method"
+  },
+  {
+    "id": "METH_cooling_to_T_mid_T_low",
+    "type": "Method",
+    "label": "cooling to T_mid/T_low",
+    "category": "method"
+  },
+  {
+    "id": "METH_recovery_heating_",
+    "type": "Method",
+    "label": "recovery heating)",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_of_dual_",
+    "type": "Method",
+    "label": "comparison of dual-",
+    "category": "method"
+  },
+  {
+    "id": "METH_triple_",
+    "type": "Method",
+    "label": "triple-",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_quadruple_shape_memory_protocols",
+    "type": "Method",
+    "label": "and quadruple-shape memory protocols",
+    "category": "method"
+  },
+  {
+    "id": "METH_Alkaline_extraction_of_keratin_from_huma",
+    "type": "Method",
+    "label": "Alkaline extraction of keratin from human hair",
+    "category": "method"
+  },
+  {
+    "id": "METH_film_casting",
+    "type": "Method",
+    "label": "film casting",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_memory_cycle_testing",
+    "type": "Method",
+    "label": "shape memory cycle testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_recovery_testing",
+    "type": "Method",
+    "label": "stress recovery testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_output_quantification",
+    "type": "Method",
+    "label": "energy output quantification",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_2W_SMP_mechanism",
+    "type": "Method",
+    "label": "Comprehensive review of 2W-SMP mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_structures",
+    "type": "Method",
+    "label": "structures",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_2W_SMP_fabricati",
+    "type": "Method",
+    "label": "Comprehensive review of 2W-SMP fabrication strateg",
+    "category": "method"
+  },
+  {
+    "id": "METH_programming_mechanisms",
+    "type": "Method",
+    "label": "programming mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_Copolymerization",
+    "type": "Method",
+    "label": "Copolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_refractive_index_measurement",
+    "type": "Method",
+    "label": "refractive index measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_ammonolysis_for_chemical_recycling",
+    "type": "Method",
+    "label": "ammonolysis for chemical recycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_selection_series_testing",
+    "type": "Method",
+    "label": "Comprehensive selection series testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_contact_separation__and_single_electrode",
+    "type": "Method",
+    "label": "contact-separation  and single-electrode  TENG mod",
+    "category": "method"
+  },
+  {
+    "id": "METH_surface_charge_density_measurement_at_20",
+    "type": "Method",
+    "label": "surface charge density measurement at 20% and 95% ",
+    "category": "method"
+  },
+  {
+    "id": "METH_moisture_resistance_rate__quantification",
+    "type": "Method",
+    "label": "moisture resistance rate  quantification",
+    "category": "method"
+  },
+  {
+    "id": "METH_normalization_method_for_material_rankin",
+    "type": "Method",
+    "label": "normalization method for material ranking",
+    "category": "method"
+  },
+  {
+    "id": "METH_Hydrogel_synthesis",
+    "type": "Method",
+    "label": "Hydrogel synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_fatigue_threshold_",
+    "type": "Method",
+    "label": "fatigue threshold)",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_loading__10",
+    "type": "Method",
+    "label": "cyclic loading (10",
+    "category": "method"
+  },
+  {
+    "id": "METH_000_cycles_",
+    "type": "Method",
+    "label": "000 cycles)",
+    "category": "method"
+  },
+  {
+    "id": "METH_polariscope_based_color_visualization",
+    "type": "Method",
+    "label": "polariscope-based color visualization",
+    "category": "method"
+  },
+  {
+    "id": "METH_strain_rate_dependence_testing",
+    "type": "Method",
+    "label": "strain rate dependence testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_tactile_sensor_demonstration",
+    "type": "Method",
+    "label": "tactile sensor demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_porous_materials",
+    "type": "Method",
+    "label": "Comprehensive review of porous materials and struc",
+    "category": "method"
+  },
+  {
+    "id": "METH_Roll_to_roll_continuous_coating_process",
+    "type": "Method",
+    "label": "Roll-to-roll continuous coating process",
+    "category": "method"
+  },
+  {
+    "id": "METH_fiber_TENG_weaving_into_fabric",
+    "type": "Method",
+    "label": "fiber TENG weaving into fabric",
+    "category": "method"
+  },
+  {
+    "id": "METH_wearable_integration",
+    "type": "Method",
+    "label": "wearable integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Charge_excitation_strategy",
+    "type": "Method",
+    "label": "Charge excitation strategy",
+    "category": "method"
+  },
+  {
+    "id": "METH_multi_utilization_of_waste_wind_energy",
+    "type": "Method",
+    "label": "multi-utilization of waste wind energy",
+    "category": "method"
+  },
+  {
+    "id": "METH_power_output_measurement",
+    "type": "Method",
+    "label": "power output measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_frequency_analysis",
+    "type": "Method",
+    "label": "frequency analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_dielectric_constant_measurement",
+    "type": "Method",
+    "label": "dielectric constant measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_single_electrode_mode_TENG_fabrication",
+    "type": "Method",
+    "label": "single-electrode-mode TENG fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_wireless_power_transmission_demonstratio",
+    "type": "Method",
+    "label": "wireless power transmission demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_TVNG_mechanisms",
+    "type": "Method",
+    "label": "Comprehensive review of TVNG mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_materials",
+    "type": "Method",
+    "label": "materials",
+    "category": "method"
+  },
+  {
+    "id": "METH_Triboelectric_charge_modulation_techniqu",
+    "type": "Method",
+    "label": "Triboelectric charge modulation technique",
+    "category": "method"
+  },
+  {
+    "id": "METH_impedance_matching",
+    "type": "Method",
+    "label": "impedance matching",
+    "category": "method"
+  },
+  {
+    "id": "METH_power_management_circuit_design",
+    "type": "Method",
+    "label": "power management circuit design",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_TENG_based_marin",
+    "type": "Method",
+    "label": "Comprehensive review of TENG-based marine exploita",
+    "category": "method"
+  },
+  {
+    "id": "METH_angle_resolution_testing",
+    "type": "Method",
+    "label": "angle resolution testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_underwater_vibration_localization",
+    "type": "Method",
+    "label": "underwater vibration localization",
+    "category": "method"
+  },
+  {
+    "id": "METH_trigonometric_positioning",
+    "type": "Method",
+    "label": "trigonometric positioning",
+    "category": "method"
+  },
+  {
+    "id": "METH_Graph_neural_network",
+    "type": "Method",
+    "label": "Graph neural network",
+    "category": "method"
+  },
+  {
+    "id": "METH_data_augmentation",
+    "type": "Method",
+    "label": "data augmentation",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystal_structure_descriptor",
+    "type": "Method",
+    "label": "crystal structure descriptor",
+    "category": "method"
+  },
+  {
+    "id": "METH_prediction_of_mechanical_properties",
+    "type": "Method",
+    "label": "prediction of mechanical properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_experimental_validation",
+    "type": "Method",
+    "label": "experimental validation",
+    "category": "method"
+  },
+  {
+    "id": "METH_compression_testing",
+    "type": "Method",
+    "label": "compression testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_bearing_monitoring_demonstration",
+    "type": "Method",
+    "label": "bearing monitoring demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_gradient_nano_doping_strategy",
+    "type": "Method",
+    "label": "gradient nano-doping strategy",
+    "category": "method"
+  },
+  {
+    "id": "METH_triboelectric_charge_density_measurement",
+    "type": "Method",
+    "label": "triboelectric charge density measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_powered_smart_boxing_bag_demonstrat",
+    "type": "Method",
+    "label": "self-powered smart boxing bag demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Space_tribo_charge_region__model",
+    "type": "Method",
+    "label": "Space tribo-charge region  model",
+    "category": "method"
+  },
+  {
+    "id": "METH_equivalent_charge_plane__model",
+    "type": "Method",
+    "label": "equivalent charge plane  model",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrostatic_analysis",
+    "type": "Method",
+    "label": "electrostatic analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Transformer_model_with_self_attention",
+    "type": "Method",
+    "label": "Transformer model with self-attention",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_tokenizer_with_chemical_awarenes",
+    "type": "Method",
+    "label": "polymer tokenizer with chemical awareness",
+    "category": "method"
+  },
+  {
+    "id": "METH_Masked_Language_Modeling__pretraining",
+    "type": "Method",
+    "label": "Masked Language Modeling  pretraining",
+    "category": "method"
+  },
+  {
+    "id": "METH_benchmark_evaluation_on_10_polymer_prope",
+    "type": "Method",
+    "label": "benchmark evaluation on 10 polymer property datase",
+    "category": "method"
+  },
+  {
+    "id": "METH___learning_approach",
+    "type": "Method",
+    "label": "Δ-learning approach",
+    "category": "method"
+  },
+  {
+    "id": "METH_graph_neural_network",
+    "type": "Method",
+    "label": "graph neural network",
+    "category": "method"
+  },
+  {
+    "id": "METH_electronic_scalar_features_as_node_level",
+    "type": "Method",
+    "label": "electronic scalar features as node-level features ",
+    "category": "method"
+  },
+  {
+    "id": "METH_orbital_resolved_projectors",
+    "type": "Method",
+    "label": "orbital-resolved projectors",
+    "category": "method"
+  },
+  {
+    "id": "METH_applied_potential_",
+    "type": "Method",
+    "label": "applied potential)",
+    "category": "method"
+  },
+  {
+    "id": "METH_cross_validation_with_leave_one_out_stra",
+    "type": "Method",
+    "label": "cross-validation with leave-one-out strategies",
+    "category": "method"
+  },
+  {
+    "id": "METH_CLAM____pretrained_ML_interatomic_potent",
+    "type": "Method",
+    "label": "CLAM  - pretrained ML interatomic potential",
+    "category": "method"
+  },
+  {
+    "id": "METH_local_fine_tuning_algorithm",
+    "type": "Method",
+    "label": "local fine-tuning algorithm",
+    "category": "method"
+  },
+  {
+    "id": "METH_transition_state_searches",
+    "type": "Method",
+    "label": "transition state searches",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review__high_throughput_computational_sc",
+    "type": "Method",
+    "label": "Review: high-throughput computational screening",
+    "category": "method"
+  },
+  {
+    "id": "METH_transition_state_theory",
+    "type": "Method",
+    "label": "transition state theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_flexible_force_fields",
+    "type": "Method",
+    "label": "flexible force fields",
+    "category": "method"
+  },
+  {
+    "id": "METH_machine_learning",
+    "type": "Method",
+    "label": "machine learning",
+    "category": "method"
+  },
+  {
+    "id": "METH_large_language_models",
+    "type": "Method",
+    "label": "large language models",
+    "category": "method"
+  },
+  {
+    "id": "METH_automated_self_driving_laboratories",
+    "type": "Method",
+    "label": "automated/self-driving laboratories",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_ML_techniques_in",
+    "type": "Method",
+    "label": "Comprehensive review of ML techniques in polymer r",
+    "category": "method"
+  },
+  {
+    "id": "METH_classification_",
+    "type": "Method",
+    "label": "classification)",
+    "category": "method"
+  },
+  {
+    "id": "METH_unsupervised_learning",
+    "type": "Method",
+    "label": "unsupervised learning",
+    "category": "method"
+  },
+  {
+    "id": "METH_reinforcement_learning",
+    "type": "Method",
+    "label": "reinforcement learning",
+    "category": "method"
+  },
+  {
+    "id": "METH_physics_informed_neural_networks",
+    "type": "Method",
+    "label": "physics-informed neural networks",
+    "category": "method"
+  },
+  {
+    "id": "METH_PerioGT_framework__periodicity_aware_gra",
+    "type": "Method",
+    "label": "PerioGT framework: periodicity-aware graph Transfo",
+    "category": "method"
+  },
+  {
+    "id": "METH_contrastive_learning_with_periodicity_pr",
+    "type": "Method",
+    "label": "contrastive learning with periodicity prior",
+    "category": "method"
+  },
+  {
+    "id": "METH_graph_augmentation_with_virtual_nodes",
+    "type": "Method",
+    "label": "graph augmentation with virtual nodes",
+    "category": "method"
+  },
+  {
+    "id": "METH_wet_lab_experimental_validation",
+    "type": "Method",
+    "label": "wet-lab experimental validation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Hierarchical_graph_convolutional_network",
+    "type": "Method",
+    "label": "Hierarchical graph convolutional network",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_Monte_Carlo__simulation_for_grap",
+    "type": "Method",
+    "label": "kinetic Monte Carlo  simulation for graph generati",
+    "category": "method"
+  },
+  {
+    "id": "METH_MMD_integration",
+    "type": "Method",
+    "label": "MMD integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Multi_target_regression_ML_models",
+    "type": "Method",
+    "label": "Multi-target regression ML models",
+    "category": "method"
+  },
+  {
+    "id": "METH_domain_knowledge_augmented_feature_engin",
+    "type": "Method",
+    "label": "domain-knowledge augmented feature engineering",
+    "category": "method"
+  },
+  {
+    "id": "METH_composition_processing_structure_propert",
+    "type": "Method",
+    "label": "composition-processing-structure-property-performa",
+    "category": "method"
+  },
+  {
+    "id": "METH_SHAP_explainability",
+    "type": "Method",
+    "label": "SHAP explainability",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_ML_approaches_for_SSE__classic",
+    "type": "Method",
+    "label": "Review of ML approaches for SSE: classical ML scre",
+    "category": "method"
+  },
+  {
+    "id": "METH_graph_neural_networks",
+    "type": "Method",
+    "label": "graph neural networks",
+    "category": "method"
+  },
+  {
+    "id": "METH_ML_interatomic_potentials",
+    "type": "Method",
+    "label": "ML interatomic potentials",
+    "category": "method"
+  },
+  {
+    "id": "METH_generative_models_for_de_novo_design",
+    "type": "Method",
+    "label": "generative models for de novo design",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_soft_multifuncti",
+    "type": "Method",
+    "label": "Comprehensive review of soft multifunctional senso",
+    "category": "method"
+  },
+  {
+    "id": "METH_Thermodynamic_fusion_cycle___ML_predicti",
+    "type": "Method",
+    "label": "Thermodynamic fusion cycle + ML predictions of act",
+    "category": "method"
+  },
+  {
+    "id": "METH_fusion_enthalpy",
+    "type": "Method",
+    "label": "fusion enthalpy",
+    "category": "method"
+  },
+  {
+    "id": "METH_melting_point",
+    "type": "Method",
+    "label": "melting point",
+    "category": "method"
+  },
+  {
+    "id": "METH_tested_on__100",
+    "type": "Method",
+    "label": "tested on >100",
+    "category": "method"
+  },
+  {
+    "id": "METH_000_experimental_solubility_values",
+    "type": "Method",
+    "label": "000 experimental solubility values",
+    "category": "method"
+  },
+  {
+    "id": "METH_2D_intensity_distribution_modeling",
+    "type": "Method",
+    "label": "2D intensity distribution modeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_equilibrium_distribution_of_molecular_or",
+    "type": "Method",
+    "label": "equilibrium distribution of molecular orientations",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_bio_based_polyes",
+    "type": "Method",
+    "label": "Comprehensive review of bio-based polyester synthe",
+    "category": "method"
+  },
+  {
+    "id": "METH_ring_opening_polymerization_",
+    "type": "Method",
+    "label": "ring-opening polymerization)",
+    "category": "method"
+  },
+  {
+    "id": "METH_copolymerization_modification",
+    "type": "Method",
+    "label": "copolymerization modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_PAN_piezoelectri",
+    "type": "Method",
+    "label": "Comprehensive review of PAN piezoelectric design",
+    "category": "method"
+  },
+  {
+    "id": "METH_structure",
+    "type": "Method",
+    "label": "structure",
+    "category": "method"
+  },
+  {
+    "id": "METH_fabrication",
+    "type": "Method",
+    "label": "fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bonding_stabilization_in_ethanol",
+    "type": "Method",
+    "label": "H-bonding stabilization in ethanol",
+    "category": "method"
+  },
+  {
+    "id": "METH_sequential_destabilization__H_O_addition",
+    "type": "Method",
+    "label": "sequential destabilization (H₂O addition",
+    "category": "method"
+  },
+  {
+    "id": "METH_competitive_capping_agents",
+    "type": "Method",
+    "label": "competitive capping agents",
+    "category": "method"
+  },
+  {
+    "id": "METH_mild_heating_",
+    "type": "Method",
+    "label": "mild heating)",
+    "category": "method"
+  },
+  {
+    "id": "METH_mineralization_control",
+    "type": "Method",
+    "label": "mineralization control",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_bio_based_elasto",
+    "type": "Method",
+    "label": "Comprehensive review of bio-based elastomer design",
+    "category": "method"
+  },
+  {
+    "id": "METH_synthesis",
+    "type": "Method",
+    "label": "synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_biomedical_applications",
+    "type": "Method",
+    "label": "and biomedical applications",
+    "category": "method"
+  },
+  {
+    "id": "METH_theoretical_derivation",
+    "type": "Method",
+    "label": "theoretical derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_piezoelectric_po",
+    "type": "Method",
+    "label": "Comprehensive review of piezoelectric polymer theo",
+    "category": "method"
+  },
+  {
+    "id": "METH_symmetry_requirements",
+    "type": "Method",
+    "label": "symmetry requirements",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanisms",
+    "type": "Method",
+    "label": "mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_processing",
+    "type": "Method",
+    "label": "processing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Tube_model_analysis",
+    "type": "Method",
+    "label": "Tube model analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_PIL_formation",
+    "type": "Method",
+    "label": "Comprehensive review of PIL formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_physicochemical_properties",
+    "type": "Method",
+    "label": "physicochemical properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_Modified_eight_site_bond_fluctuation_Mon",
+    "type": "Method",
+    "label": "Modified eight-site bond fluctuation Monte Carlo s",
+    "category": "method"
+  },
+  {
+    "id": "METH_bond_angle_constraint",
+    "type": "Method",
+    "label": "bond angle constraint",
+    "category": "method"
+  },
+  {
+    "id": "METH_persistence_length_analysis",
+    "type": "Method",
+    "label": "persistence length analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_equivalent_ellipsoid_model",
+    "type": "Method",
+    "label": "equivalent ellipsoid model",
+    "category": "method"
+  },
+  {
+    "id": "METH_steady_shear_analysis",
+    "type": "Method",
+    "label": "steady shear analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_plateau_characterization",
+    "type": "Method",
+    "label": "stress plateau characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Langevin_dynamics_simulation",
+    "type": "Method",
+    "label": "Langevin dynamics simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_start_up_shear_flow_analysis",
+    "type": "Method",
+    "label": "start-up shear flow analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_structure_relationship",
+    "type": "Method",
+    "label": "stress-structure relationship",
+    "category": "method"
+  },
+  {
+    "id": "METH_Sandwich_structure_fabrication",
+    "type": "Method",
+    "label": "Sandwich structure fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoelectric_piezoionic_coupling_charac",
+    "type": "Method",
+    "label": "piezoelectric/piezoionic coupling characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_d___measurement",
+    "type": "Method",
+    "label": "d₃₃ measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_pressure_sensitivity_testing",
+    "type": "Method",
+    "label": "pressure sensitivity testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_1D_string_model",
+    "type": "Method",
+    "label": "1D string model",
+    "category": "method"
+  },
+  {
+    "id": "METH_order_parameter_for_active_deformation",
+    "type": "Method",
+    "label": "order parameter for active deformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_independent_parameter_measurement",
+    "type": "Method",
+    "label": "independent parameter measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_numerical_algorithm",
+    "type": "Method",
+    "label": "numerical algorithm",
+    "category": "method"
+  },
+  {
+    "id": "METH_PID_control_simulation",
+    "type": "Method",
+    "label": "PID control simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Monte_Carlo_simulation",
+    "type": "Method",
+    "label": "Monte Carlo simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_confined_between_asymmetric_hard_walls",
+    "type": "Method",
+    "label": "confined between asymmetric hard walls",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_behavior_and_interfacial_property_",
+    "type": "Method",
+    "label": "phase behavior and interfacial property analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_creep_testing",
+    "type": "Method",
+    "label": "creep testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_adhesion_strength_measurement",
+    "type": "Method",
+    "label": "adhesion strength measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_topological_network_design",
+    "type": "Method",
+    "label": "topological network design",
+    "category": "method"
+  },
+  {
+    "id": "METH_Thiol_ene_click_polymerization",
+    "type": "Method",
+    "label": "Thiol-ene click polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_cross_link_density_variation",
+    "type": "Method",
+    "label": "cross-link density variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical_recycling_demonstration",
+    "type": "Method",
+    "label": "chemical recycling demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Molecular_theory_development",
+    "type": "Method",
+    "label": "Molecular theory development",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_theory_of_elasticity_extension_t",
+    "type": "Method",
+    "label": "kinetic theory of elasticity extension to non-isot",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermodynamic_analysis",
+    "type": "Method",
+    "label": "thermodynamic analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_experimental",
+    "type": "Method",
+    "label": "Review of experimental",
+    "category": "method"
+  },
+  {
+    "id": "METH_theoretical",
+    "type": "Method",
+    "label": "theoretical",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_simulation_studies_on_copolymer_comp",
+    "type": "Method",
+    "label": "and simulation studies on copolymer compatibilizat",
+    "category": "method"
+  },
+  {
+    "id": "METH_Generalized_Langevin_equation",
+    "type": "Method",
+    "label": "Generalized Langevin equation",
+    "category": "method"
+  },
+  {
+    "id": "METH_memory_kernel_function__derivation",
+    "type": "Method",
+    "label": "memory kernel function  derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Langevin_dynamics_simulation_validation",
+    "type": "Method",
+    "label": "Langevin dynamics simulation validation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Slip_link_model_calculations",
+    "type": "Method",
+    "label": "Slip-link model calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_corrected_algorithm_for_star_branched_re",
+    "type": "Method",
+    "label": "corrected algorithm for star-branched relaxation",
+    "category": "method"
+  },
+  {
+    "id": "METH_relaxation_spectrum_and_zero_shear_rate_",
+    "type": "Method",
+    "label": "relaxation spectrum and zero-shear-rate viscosity ",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_tube_models",
+    "type": "Method",
+    "label": "comparison with tube models",
+    "category": "method"
+  },
+  {
+    "id": "METH_Linear_response_theory_for_oscillatory_d",
+    "type": "Method",
+    "label": "Linear response theory for oscillatory deformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_transient_network_model",
+    "type": "Method",
+    "label": "transient network model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_tube_model__and_its_modificati",
+    "type": "Method",
+    "label": "Review of tube model  and its modifications: conto",
+    "category": "method"
+  },
+  {
+    "id": "METH_constraint_release",
+    "type": "Method",
+    "label": "constraint release",
+    "category": "method"
+  },
+  {
+    "id": "METH_convective_constraint_release",
+    "type": "Method",
+    "label": "convective constraint release",
+    "category": "method"
+  },
+  {
+    "id": "METH_GLaMM_theory",
+    "type": "Method",
+    "label": "GLaMM theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dissipative_particle_dynamics__simulatio",
+    "type": "Method",
+    "label": "Dissipative particle dynamics  simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_steady_state_extensional_viscosity_measu",
+    "type": "Method",
+    "label": "steady-state extensional viscosity measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_micellar_structure_analysis",
+    "type": "Method",
+    "label": "micellar structure analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_scission_kinetics_analysis",
+    "type": "Method",
+    "label": "scission kinetics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_LAOS",
+    "type": "Method",
+    "label": "LAOS",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_stretch_testing",
+    "type": "Method",
+    "label": "cyclic stretch testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_comparison_of_30__constitu",
+    "type": "Method",
+    "label": "Comprehensive comparison of 30+ constitutive model",
+    "category": "method"
+  },
+  {
+    "id": "METH_nonlinear_curve_fitting",
+    "type": "Method",
+    "label": "nonlinear curve fitting",
+    "category": "method"
+  },
+  {
+    "id": "METH_Fr_chet_distance_calculation_for_model_s",
+    "type": "Method",
+    "label": "Fréchet distance calculation for model similarity",
+    "category": "method"
+  },
+  {
+    "id": "METH_mathematical_equivalence_analysis",
+    "type": "Method",
+    "label": "mathematical equivalence analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Brownian_dynamics_simulation",
+    "type": "Method",
+    "label": "Brownian dynamics simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_GLaMM_theory_calculations",
+    "type": "Method",
+    "label": "GLaMM theory calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_startup_shear_experiments",
+    "type": "Method",
+    "label": "startup shear experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_of_simulation_vs_theory_vs_ex",
+    "type": "Method",
+    "label": "comparison of simulation vs theory vs experiment",
+    "category": "method"
+  },
+  {
+    "id": "METH_shear_flow_analysis",
+    "type": "Method",
+    "label": "shear flow analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_structure_analysis__normalized_R_g",
+    "type": "Method",
+    "label": "chain structure analysis (normalized R_g",
+    "category": "method"
+  },
+  {
+    "id": "METH_gyration_tensor",
+    "type": "Method",
+    "label": "gyration tensor",
+    "category": "method"
+  },
+  {
+    "id": "METH_orientation_suppression_parameter_",
+    "type": "Method",
+    "label": "orientation suppression parameter)",
+    "category": "method"
+  },
+  {
+    "id": "METH_tumbling_dynamics_analysis",
+    "type": "Method",
+    "label": "tumbling dynamics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_three_classical_phenomenologic",
+    "type": "Method",
+    "label": "Review of three classical phenomenological models:",
+    "category": "method"
+  },
+  {
+    "id": "METH_Voigt_Kelvin_model",
+    "type": "Method",
+    "label": "Voigt-Kelvin model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Boltzmann_superposition_principle_deriva",
+    "type": "Method",
+    "label": "Boltzmann superposition principle derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_linear_viscoelasticity_fundamentals",
+    "type": "Method",
+    "label": "linear viscoelasticity fundamentals",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_three_single_chain_models__Rou",
+    "type": "Method",
+    "label": "Review of three single-chain models: Rouse model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Zimm_model",
+    "type": "Method",
+    "label": "Zimm model",
+    "category": "method"
+  },
+  {
+    "id": "METH_partially_permeable_sphere_model",
+    "type": "Method",
+    "label": "partially permeable sphere model",
+    "category": "method"
+  },
+  {
+    "id": "METH_derivation_of_dynamic_equations",
+    "type": "Method",
+    "label": "derivation of dynamic equations",
+    "category": "method"
+  },
+  {
+    "id": "METH_diffusion_coefficients",
+    "type": "Method",
+    "label": "diffusion coefficients",
+    "category": "method"
+  },
+  {
+    "id": "METH_intrinsic_viscosity",
+    "type": "Method",
+    "label": "intrinsic viscosity",
+    "category": "method"
+  },
+  {
+    "id": "METH_Thia_Michael_reaction_kinetics_control_v",
+    "type": "Method",
+    "label": "Thia-Michael reaction kinetics control via electro",
+    "category": "method"
+  },
+  {
+    "id": "METH_optical_microscopy_",
+    "type": "Method",
+    "label": "optical microscopy)",
+    "category": "method"
+  },
+  {
+    "id": "METH_compression_molding_reprocessing",
+    "type": "Method",
+    "label": "compression molding reprocessing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Raman_spectroscopy_for_tM_adduct_quantif",
+    "type": "Method",
+    "label": "Raman spectroscopy for tM adduct quantification",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_loading_unloading",
+    "type": "Method",
+    "label": "cyclic loading-unloading",
+    "category": "method"
+  },
+  {
+    "id": "METH_spatial_patterning",
+    "type": "Method",
+    "label": "spatial patterning",
+    "category": "method"
+  },
+  {
+    "id": "METH_Site_directed_mutagenesis_for_flagellar_",
+    "type": "Method",
+    "label": "Site-directed mutagenesis for flagellar labeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_specific_fluorescence_labeling",
+    "type": "Method",
+    "label": "specific fluorescence labeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_fluorescence_microscopy_for_direct_flage",
+    "type": "Method",
+    "label": "fluorescence microscopy for direct flagellar visua",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_quantifiers_and_descriptors_for_fl",
+    "type": "Method",
+    "label": "shape quantifiers and descriptors for flagella ana",
+    "category": "method"
+  },
+  {
+    "id": "METH_motility_tracking",
+    "type": "Method",
+    "label": "motility tracking",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dynamic_light_scattering",
+    "type": "Method",
+    "label": "Dynamic light scattering",
+    "category": "method"
+  },
+  {
+    "id": "METH_transmission_electron_microscopy",
+    "type": "Method",
+    "label": "transmission electron microscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_concentration_dependent_cross_linking",
+    "type": "Method",
+    "label": "concentration-dependent cross-linking",
+    "category": "method"
+  },
+  {
+    "id": "METH_entropy_driven_intramolecular_collapse",
+    "type": "Method",
+    "label": "entropy-driven intramolecular collapse",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_polymer_design",
+    "type": "Method",
+    "label": "Review of polymer design",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_characterization_for_bioelectronic_d",
+    "type": "Method",
+    "label": "and characterization for bioelectronic devices",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_transport_mechanisms",
+    "type": "Method",
+    "label": "ion transport mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_device_fabrication__organic_electrochemi",
+    "type": "Method",
+    "label": "device fabrication (organic electrochemical transi",
+    "category": "method"
+  },
+  {
+    "id": "METH_amperometric_detectors",
+    "type": "Method",
+    "label": "amperometric detectors",
+    "category": "method"
+  },
+  {
+    "id": "METH_controlled_release_devices",
+    "type": "Method",
+    "label": "controlled-release devices",
+    "category": "method"
+  },
+  {
+    "id": "METH_neuromorphic_computing_",
+    "type": "Method",
+    "label": "neuromorphic computing)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Melt_extrusion_blending",
+    "type": "Method",
+    "label": "Melt extrusion blending",
+    "category": "method"
+  },
+  {
+    "id": "METH_antibacterial_testing__in_vitro",
+    "type": "Method",
+    "label": "antibacterial testing (in vitro",
+    "category": "method"
+  },
+  {
+    "id": "METH_flow_state",
+    "type": "Method",
+    "label": "flow state",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_vivo_",
+    "type": "Method",
+    "label": "in vivo)",
+    "category": "method"
+  },
+  {
+    "id": "METH_biocompatibility_testing",
+    "type": "Method",
+    "label": "biocompatibility testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_property_characterization",
+    "type": "Method",
+    "label": "mechanical property characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_dissolution_rate_measurement",
+    "type": "Method",
+    "label": "dissolution rate measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_Collapse_simulations_of_coarse_grained_m",
+    "type": "Method",
+    "label": "Collapse simulations of coarse-grained models with",
+    "category": "method"
+  },
+  {
+    "id": "METH_structural_analysis__R_g",
+    "type": "Method",
+    "label": "structural analysis (R_g",
+    "category": "method"
+  },
+  {
+    "id": "METH_fraction_of_core_amino_acids_f_core",
+    "type": "Method",
+    "label": "fraction of core amino acids f_core",
+    "category": "method"
+  },
+  {
+    "id": "METH_packing_fraction__",
+    "type": "Method",
+    "label": "packing fraction φ",
+    "category": "method"
+  },
+  {
+    "id": "METH_structure_factor_S_",
+    "type": "Method",
+    "label": "structure factor S)",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_x_ray_crystal_structures",
+    "type": "Method",
+    "label": "comparison with x-ray crystal structures",
+    "category": "method"
+  },
+  {
+    "id": "METH_3D_cellular_Potts_model_with_amoeboid_li",
+    "type": "Method",
+    "label": "3D cellular Potts model with amoeboid-like cell sh",
+    "category": "method"
+  },
+  {
+    "id": "METH_computational_modeling_and_theory",
+    "type": "Method",
+    "label": "computational modeling and theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_motility_regime_analysis",
+    "type": "Method",
+    "label": "motility regime analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_transport_property_calculations",
+    "type": "Method",
+    "label": "transport property calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_Network_design_with_dangling_chains_for_",
+    "type": "Method",
+    "label": "Network design with dangling chains for transient ",
+    "category": "method"
+  },
+  {
+    "id": "METH_toughness_",
+    "type": "Method",
+    "label": "toughness)",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_permanently_trapped_enta",
+    "type": "Method",
+    "label": "comparison with permanently trapped entanglements",
+    "category": "method"
+  },
+  {
+    "id": "METH_Fluorescence_spectroscopy__cluster_trigg",
+    "type": "Method",
+    "label": "Fluorescence spectroscopy (cluster-triggered emiss",
+    "category": "method"
+  },
+  {
+    "id": "METH_through_space_conjugation_TSC_",
+    "type": "Method",
+    "label": "through-space conjugation TSC)",
+    "category": "method"
+  },
+  {
+    "id": "METH_quantum_yield_measurement",
+    "type": "Method",
+    "label": "quantum yield measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_situ_fluorescence_visualization_of_ph",
+    "type": "Method",
+    "label": "in situ fluorescence visualization of phase separa",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_materials",
+    "type": "Method",
+    "label": "Review of materials",
+    "category": "method"
+  },
+  {
+    "id": "METH_Maxwell_stress_analysis___",
+    "type": "Method",
+    "label": "Maxwell stress analysis ²)",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_network_engineering",
+    "type": "Method",
+    "label": "polymer network engineering",
+    "category": "method"
+  },
+  {
+    "id": "METH_functional_component_incorporation",
+    "type": "Method",
+    "label": "functional component incorporation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ring_opening_polymerization__of_thioctic",
+    "type": "Method",
+    "label": "Ring-opening polymerization  of thioctic acid",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermally_stimulated_polymerization",
+    "type": "Method",
+    "label": "thermally stimulated polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_tribological_testing",
+    "type": "Method",
+    "label": "tribological testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_force_induced_phase_transitio",
+    "type": "Method",
+    "label": "mechanical force-induced phase transition characte",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bonding_and_Al_carboxylate_coordinatio",
+    "type": "Method",
+    "label": "H-bonding and Al-carboxylate coordination crosslin",
+    "category": "method"
+  },
+  {
+    "id": "METH_SQUID_magnetometry",
+    "type": "Method",
+    "label": "SQUID magnetometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_inductively_coupled_plasma_mass_spectrom",
+    "type": "Method",
+    "label": "inductively coupled plasma mass spectrometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_computational_modeling",
+    "type": "Method",
+    "label": "computational modeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_MRI_contrast_agent_testing",
+    "type": "Method",
+    "label": "MRI contrast agent testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_magnetic_drug_delivery_demonstration",
+    "type": "Method",
+    "label": "magnetic drug delivery demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Boronic_ester_transesterification",
+    "type": "Method",
+    "label": "Boronic ester transesterification",
+    "category": "method"
+  },
+  {
+    "id": "METH_B_N_coordination_characterization",
+    "type": "Method",
+    "label": "B-N coordination characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_efficiency_measurement",
+    "type": "Method",
+    "label": "self-healing efficiency measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_surface_wetting_for_accelerated_healing",
+    "type": "Method",
+    "label": "surface wetting for accelerated healing",
+    "category": "method"
+  },
+  {
+    "id": "METH_boronate_bond_exchange_for_interlayer_ad",
+    "type": "Method",
+    "label": "boronate bond exchange for interlayer adhesion",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_memory_effect_for_4D_printing",
+    "type": "Method",
+    "label": "shape memory effect for 4D printing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Magnetic_field_alignment_during_thio_Mic",
+    "type": "Method",
+    "label": "Magnetic field alignment during thio-Michael polya",
+    "category": "method"
+  },
+  {
+    "id": "METH_photo_crosslinking",
+    "type": "Method",
+    "label": "photo-crosslinking",
+    "category": "method"
+  },
+  {
+    "id": "METH_nematic_phase_characterization",
+    "type": "Method",
+    "label": "nematic phase characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_actuation_testing__radial_contraction_ex",
+    "type": "Method",
+    "label": "actuation testing (radial contraction/expansion",
+    "category": "method"
+  },
+  {
+    "id": "METH_thickness_contraction",
+    "type": "Method",
+    "label": "thickness contraction",
+    "category": "method"
+  },
+  {
+    "id": "METH_bending_",
+    "type": "Method",
+    "label": "bending)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ring_opening_metathesis_polymerization",
+    "type": "Method",
+    "label": "Ring-opening metathesis polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_post_modification",
+    "type": "Method",
+    "label": "post-modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_ZFC_FC_measurements",
+    "type": "Method",
+    "label": "ZFC-FC measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_vis_photoresponse_testing",
+    "type": "Method",
+    "label": "UV-vis photoresponse testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_gel_based_ionic_circuit_fundam",
+    "type": "Method",
+    "label": "Review of gel-based ionic circuit fundamentals",
+    "category": "method"
+  },
+  {
+    "id": "METH_materials_strategies",
+    "type": "Method",
+    "label": "materials strategies",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_device_architectures",
+    "type": "Method",
+    "label": "and device architectures",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_processes",
+    "type": "Method",
+    "label": "electrochemical processes",
+    "category": "method"
+  },
+  {
+    "id": "METH_device_integration",
+    "type": "Method",
+    "label": "device integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_MIL_loading_optimization",
+    "type": "Method",
+    "label": "MIL loading optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_",
+    "type": "Method",
+    "label": "self-healing)",
+    "category": "method"
+  },
+  {
+    "id": "METH_magnetization_characterization",
+    "type": "Method",
+    "label": "magnetization characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_photo_polymerizable_ionic_monomer_synthe",
+    "type": "Method",
+    "label": "photo-polymerizable ionic monomer synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_capacitive_sensor_design",
+    "type": "Method",
+    "label": "capacitive sensor design",
+    "category": "method"
+  },
+  {
+    "id": "METH_drone_remote_control_demonstration",
+    "type": "Method",
+    "label": "drone remote control demonstration",
+    "category": "method"
+  },
+  {
+    "id": "METH_Swelling_strategy_for_IL_incorporation",
+    "type": "Method",
+    "label": "Swelling strategy for IL incorporation",
+    "category": "method"
+  },
+  {
+    "id": "METH_capacitive_sensor_fabrication",
+    "type": "Method",
+    "label": "capacitive sensor fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_human_movement_monitoring",
+    "type": "Method",
+    "label": "human movement monitoring",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_Vis_spectroscopy",
+    "type": "Method",
+    "label": "UV/Vis spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_magnetic_property_characterization",
+    "type": "Method",
+    "label": "magnetic property characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_stability_analysis",
+    "type": "Method",
+    "label": "thermal stability analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_IL_structures_pr",
+    "type": "Method",
+    "label": "Comprehensive review of IL structures/properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrolyte_design__liquid",
+    "type": "Method",
+    "label": "electrolyte design (liquid",
+    "category": "method"
+  },
+  {
+    "id": "METH_quasi_solid",
+    "type": "Method",
+    "label": "quasi-solid",
+    "category": "method"
+  },
+  {
+    "id": "METH_solid_state_",
+    "type": "Method",
+    "label": "solid-state)",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_characterization",
+    "type": "Method",
+    "label": "electrochemical characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_analysis",
+    "type": "Method",
+    "label": "thermal analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Theoretical_models__lattice_models",
+    "type": "Method",
+    "label": "Theoretical models (lattice models",
+    "category": "method"
+  },
+  {
+    "id": "METH_off_lattice_models",
+    "type": "Method",
+    "label": "off-lattice models",
+    "category": "method"
+  },
+  {
+    "id": "METH_Schmickler_s_model",
+    "type": "Method",
+    "label": "Schmickler's model",
+    "category": "method"
+  },
+  {
+    "id": "METH_mean_field_continuum_",
+    "type": "Method",
+    "label": "mean-field continuum)",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_simulations",
+    "type": "Method",
+    "label": "molecular simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_equivalent_circuit_models",
+    "type": "Method",
+    "label": "equivalent circuit models",
+    "category": "method"
+  },
+  {
+    "id": "METH_statistical_mechanics",
+    "type": "Method",
+    "label": "statistical mechanics",
+    "category": "method"
+  },
+  {
+    "id": "METH_fractional_precipitation",
+    "type": "Method",
+    "label": "fractional precipitation",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_behavior_characterization_as_funct",
+    "type": "Method",
+    "label": "phase behavior characterization as function of pol",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dynamic_light_scattering__for_collective",
+    "type": "Method",
+    "label": "Dynamic light scattering  for collective diffusion",
+    "category": "method"
+  },
+  {
+    "id": "METH_tunable_model_polymer_network_synthesis",
+    "type": "Method",
+    "label": "tunable model polymer network synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_decomposition_of_diffusion_into_mixing__",
+    "type": "Method",
+    "label": "decomposition of diffusion into mixing  and elasti",
+    "category": "method"
+  },
+  {
+    "id": "METH_Donnan_equilibrium_analysis",
+    "type": "Method",
+    "label": "Donnan equilibrium analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_synthesis_methods__radical_cha",
+    "type": "Method",
+    "label": "Review of synthesis methods: radical chain polymer",
+    "category": "method"
+  },
+  {
+    "id": "METH_step_growth_chemistries",
+    "type": "Method",
+    "label": "step-growth chemistries",
+    "category": "method"
+  },
+  {
+    "id": "METH_click_chemistry",
+    "type": "Method",
+    "label": "click chemistry",
+    "category": "method"
+  },
+  {
+    "id": "METH_characterization_of_MW",
+    "type": "Method",
+    "label": "characterization of MW",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_properties",
+    "type": "Method",
+    "label": "thermal properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_transport",
+    "type": "Method",
+    "label": "ion transport",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing",
+    "type": "Method",
+    "label": "self-healing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_skin_adhesion_mechanisms",
+    "type": "Method",
+    "label": "Review of skin adhesion mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_interface_design_strategies",
+    "type": "Method",
+    "label": "interface design strategies",
+    "category": "method"
+  },
+  {
+    "id": "METH_wearability_and_functionality_optimizati",
+    "type": "Method",
+    "label": "wearability and functionality optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_X_ray_crystallography",
+    "type": "Method",
+    "label": "X-ray crystallography",
+    "category": "method"
+  },
+  {
+    "id": "METH_Arrhenius_analysis",
+    "type": "Method",
+    "label": "Arrhenius analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_fundamental_limitations",
+    "type": "Method",
+    "label": "fundamental limitations",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_ion_correlations",
+    "type": "Method",
+    "label": "ion-ion correlations",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_electrolyte_design_strategies",
+    "type": "Method",
+    "label": "polymer electrolyte design strategies",
+    "category": "method"
+  },
+  {
+    "id": "METH_Compositional_studies_of_PEC_phase_behav",
+    "type": "Method",
+    "label": "Compositional studies of PEC phase behavior",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamics_and_mechanics_analysis",
+    "type": "Method",
+    "label": "dynamics and mechanics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_glass_transition_humidity_measurement",
+    "type": "Method",
+    "label": "glass transition humidity measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_water_affinity_characterization",
+    "type": "Method",
+    "label": "water affinity characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dielectric_relaxation_spectroscopy",
+    "type": "Method",
+    "label": "Dielectric relaxation spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrode_polarization_model_for_separat",
+    "type": "Method",
+    "label": "electrode polarization model for separating mobile",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_association_model__unpaired_ions",
+    "type": "Method",
+    "label": "ion association model (unpaired ions",
+    "category": "method"
+  },
+  {
+    "id": "METH_separated_ion_pairs",
+    "type": "Method",
+    "label": "separated ion pairs",
+    "category": "method"
+  },
+  {
+    "id": "METH_contact_ion_pairs_",
+    "type": "Method",
+    "label": "contact ion pairs)",
+    "category": "method"
+  },
+  {
+    "id": "METH_side_chain_length_diameter_control",
+    "type": "Method",
+    "label": "side chain length/diameter control",
+    "category": "method"
+  },
+  {
+    "id": "METH_ionization_ion_exchange",
+    "type": "Method",
+    "label": "ionization/ion exchange",
+    "category": "method"
+  },
+  {
+    "id": "METH_elastic_recovery_measurement",
+    "type": "Method",
+    "label": "elastic recovery measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_X_ray_scattering",
+    "type": "Method",
+    "label": "X-ray scattering",
+    "category": "method"
+  },
+  {
+    "id": "METH_Walden_rule_analysis",
+    "type": "Method",
+    "label": "Walden rule analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Calorimetric_T_g_measurement",
+    "type": "Method",
+    "label": "Calorimetric T_g measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_dynamics_analysis",
+    "type": "Method",
+    "label": "ion dynamics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mechanical_balance__zone_construction",
+    "type": "Method",
+    "label": "Mechanical balance  zone construction",
+    "category": "method"
+  },
+  {
+    "id": "METH_scaffold_design",
+    "type": "Method",
+    "label": "scaffold design",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_situ_polymerization",
+    "type": "Method",
+    "label": "in situ polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_battery_cycling_tests",
+    "type": "Method",
+    "label": "battery cycling tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_pouch_cell_fabrication",
+    "type": "Method",
+    "label": "pouch cell fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_Direct_numerical_simulations",
+    "type": "Method",
+    "label": "Direct numerical simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_modified_Poisson_Nernst_Planck_equations",
+    "type": "Method",
+    "label": "modified Poisson-Nernst-Planck equations with ioni",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrohydrodynamic_coupling_analysis",
+    "type": "Method",
+    "label": "electrohydrodynamic coupling analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Debye_number_and_steric_parameter_variat",
+    "type": "Method",
+    "label": "Debye number and steric parameter variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Analytical_solution_derivation",
+    "type": "Method",
+    "label": "Analytical solution derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_flat_plate_geometry_approximation",
+    "type": "Method",
+    "label": "flat-plate geometry approximation",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_steric_exclusion_effect",
+    "type": "Method",
+    "label": "ion steric exclusion effect",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_partitioning_effect",
+    "type": "Method",
+    "label": "ion partitioning effect",
+    "category": "method"
+  },
+  {
+    "id": "METH_hydrophobic_core_consideration",
+    "type": "Method",
+    "label": "hydrophobic core consideration",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_situ_XRD",
+    "type": "Method",
+    "label": "in situ XRD",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoionic_testing",
+    "type": "Method",
+    "label": "piezoionic testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Association_dynamics_regulation",
+    "type": "Method",
+    "label": "Association dynamics regulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_entanglement_control",
+    "type": "Method",
+    "label": "chain entanglement control",
+    "category": "method"
+  },
+  {
+    "id": "METH_fracture_toughness_testing",
+    "type": "Method",
+    "label": "fracture toughness testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_fatigue_threshold_measurement",
+    "type": "Method",
+    "label": "fatigue threshold measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_recyclability_self_healability_testing",
+    "type": "Method",
+    "label": "recyclability/self-healability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_ion_transport_mechanisms",
+    "type": "Method",
+    "label": "Review of ion transport mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_interactions",
+    "type": "Method",
+    "label": "electrochemical interactions",
+    "category": "method"
+  },
+  {
+    "id": "METH_electron_ion_coupling",
+    "type": "Method",
+    "label": "electron-ion coupling",
+    "category": "method"
+  },
+  {
+    "id": "METH_neuromorphic_sensing_architectures",
+    "type": "Method",
+    "label": "neuromorphic sensing architectures",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_harvesting_mechanisms",
+    "type": "Method",
+    "label": "energy harvesting mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gel_point_state_optimization",
+    "type": "Method",
+    "label": "Gel point state optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrophysiological_signal_recording",
+    "type": "Method",
+    "label": "electrophysiological signal recording",
+    "category": "method"
+  },
+  {
+    "id": "METH_adhesion_testing",
+    "type": "Method",
+    "label": "adhesion testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_4R_paradigm__Repair",
+    "type": "Method",
+    "label": "Review of 4R paradigm (Repair",
+    "category": "method"
+  },
+  {
+    "id": "METH_Recycle",
+    "type": "Method",
+    "label": "Recycle",
+    "category": "method"
+  },
+  {
+    "id": "METH_Replacement",
+    "type": "Method",
+    "label": "Replacement",
+    "category": "method"
+  },
+  {
+    "id": "METH_Reduction_",
+    "type": "Method",
+    "label": "Reduction)",
+    "category": "method"
+  },
+  {
+    "id": "METH_material_selection_framework",
+    "type": "Method",
+    "label": "material selection framework",
+    "category": "method"
+  },
+  {
+    "id": "METH_biofabrication_concepts",
+    "type": "Method",
+    "label": "biofabrication concepts",
+    "category": "method"
+  },
+  {
+    "id": "METH_supply_chain_analysis",
+    "type": "Method",
+    "label": "supply chain analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_market_viability_assessment",
+    "type": "Method",
+    "label": "market viability assessment",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_six_diffusion_coefficients__D_",
+    "type": "Method",
+    "label": "Review of six diffusion coefficients: D_seg",
+    "category": "method"
+  },
+  {
+    "id": "METH_D_self",
+    "type": "Method",
+    "label": "D_self",
+    "category": "method"
+  },
+  {
+    "id": "METH___and_D_self",
+    "type": "Method",
+    "label": "+ and D_self",
+    "category": "method"
+  },
+  {
+    "id": "METH_D__",
+    "type": "Method",
+    "label": "D₀⁺",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_D__",
+    "type": "Method",
+    "label": "and D₊₋",
+    "category": "method"
+  },
+  {
+    "id": "METH_activity_coefficient_analysis",
+    "type": "Method",
+    "label": "activity coefficient analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_limiting_current_prediction",
+    "type": "Method",
+    "label": "limiting current prediction",
+    "category": "method"
+  },
+  {
+    "id": "METH_segmental_relaxation_time_measurement",
+    "type": "Method",
+    "label": "segmental relaxation time measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_fragility_analysis",
+    "type": "Method",
+    "label": "fragility analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_decoupling_exponent_calculation",
+    "type": "Method",
+    "label": "decoupling exponent calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_IL_impregnation",
+    "type": "Method",
+    "label": "IL impregnation",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_fatigue_testing",
+    "type": "Method",
+    "label": "cyclic fatigue testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_solid_electrolyte_classes",
+    "type": "Method",
+    "label": "Review of solid electrolyte classes",
+    "category": "method"
+  },
+  {
+    "id": "METH_metal_salt_complex_formation",
+    "type": "Method",
+    "label": "metal salt complex formation",
+    "category": "method"
+  },
+  {
+    "id": "METH_structure_characterization",
+    "type": "Method",
+    "label": "structure characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_transport_measurement_and_interpreta",
+    "type": "Method",
+    "label": "ion transport measurement and interpretation",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_percolation_theory",
+    "type": "Method",
+    "label": "dynamic percolation theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_Arrhenius_analysis_below_T_g",
+    "type": "Method",
+    "label": "Arrhenius analysis below T_g",
+    "category": "method"
+  },
+  {
+    "id": "METH_dielectric_permittivity_measurement",
+    "type": "Method",
+    "label": "dielectric permittivity measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_instantaneous_shear_modulus_measurement",
+    "type": "Method",
+    "label": "instantaneous shear modulus measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_Anderson_and_Stuart_model",
+    "type": "Method",
+    "label": "Anderson and Stuart model",
+    "category": "method"
+  },
+  {
+    "id": "METH_parametric_studies_on_chain_topology_sti",
+    "type": "Method",
+    "label": "parametric studies on chain topology/stiffness",
+    "category": "method"
+  },
+  {
+    "id": "METH_EDL_analysis",
+    "type": "Method",
+    "label": "EDL analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_confinement_effects",
+    "type": "Method",
+    "label": "confinement effects",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_behavior_analysis",
+    "type": "Method",
+    "label": "phase behavior analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_HSAB__theory_guided_IL_design",
+    "type": "Method",
+    "label": "HSAB  theory-guided IL design",
+    "category": "method"
+  },
+  {
+    "id": "METH_IL_synthesis_and_characterization",
+    "type": "Method",
+    "label": "IL synthesis and characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gordon_Taylor_equation_for_T_g_analysis",
+    "type": "Method",
+    "label": "Gordon-Taylor equation for T_g analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_effective_activation_energy_analysis",
+    "type": "Method",
+    "label": "effective activation energy analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dynamic_Monte_Carlo_simulations_with_Max",
+    "type": "Method",
+    "label": "Dynamic Monte Carlo simulations with Maxwell model",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_of_stress_induced_vs_strain_i",
+    "type": "Method",
+    "label": "comparison of stress-induced vs strain-induced cry",
+    "category": "method"
+  },
+  {
+    "id": "METH_Michell_s_instability_exploitation",
+    "type": "Method",
+    "label": "Michell's instability exploitation",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_simulation",
+    "type": "Method",
+    "label": "mechanical simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_stimulus_triggered_shape_morphing",
+    "type": "Method",
+    "label": "stimulus-triggered shape morphing",
+    "category": "method"
+  },
+  {
+    "id": "METH_task_demonstration__screwing_bottle_cap",
+    "type": "Method",
+    "label": "task demonstration (screwing bottle cap",
+    "category": "method"
+  },
+  {
+    "id": "METH_kicking_ball",
+    "type": "Method",
+    "label": "kicking ball",
+    "category": "method"
+  },
+  {
+    "id": "METH_synergetic_deformations_",
+    "type": "Method",
+    "label": "synergetic deformations)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Painter_association_model",
+    "type": "Method",
+    "label": "Painter association model",
+    "category": "method"
+  },
+  {
+    "id": "METH_viscometry",
+    "type": "Method",
+    "label": "viscometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_Synchrotron_radiation_X_ray_scattering",
+    "type": "Method",
+    "label": "Synchrotron radiation X-ray scattering",
+    "category": "method"
+  },
+  {
+    "id": "METH_ultrafast_X_ray_detectors",
+    "type": "Method",
+    "label": "ultrafast X-ray detectors",
+    "category": "method"
+  },
+  {
+    "id": "METH_rheo_optical_devices",
+    "type": "Method",
+    "label": "rheo-optical devices",
+    "category": "method"
+  },
+  {
+    "id": "METH_polarized_optical_microscopy",
+    "type": "Method",
+    "label": "polarized optical microscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_birefringence",
+    "type": "Method",
+    "label": "birefringence",
+    "category": "method"
+  },
+  {
+    "id": "METH_Two_fluid_theory",
+    "type": "Method",
+    "label": "Two-fluid theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_constitutive_equations_for_polymer__and_",
+    "type": "Method",
+    "label": "constitutive equations for polymer  and solvent",
+    "category": "method"
+  },
+  {
+    "id": "METH_linear_viscoelastic_regime_analysis",
+    "type": "Method",
+    "label": "linear viscoelastic regime analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_MD_IMC__simulations",
+    "type": "Method",
+    "label": "MD/IMC  simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_true_stress_strain_analysis",
+    "type": "Method",
+    "label": "true stress-strain analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystal_phase_transition_tracking",
+    "type": "Method",
+    "label": "crystal phase transition tracking",
+    "category": "method"
+  },
+  {
+    "id": "METH_cavitation_detection",
+    "type": "Method",
+    "label": "cavitation detection",
+    "category": "method"
+  },
+  {
+    "id": "METH_Infrared_reflection_absorption_spectrosc",
+    "type": "Method",
+    "label": "Infrared reflection-absorption spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_film_thickness_variation",
+    "type": "Method",
+    "label": "film thickness variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_weight_variation",
+    "type": "Method",
+    "label": "molecular weight variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_substrate_modification__11_mercapto_1_un",
+    "type": "Method",
+    "label": "substrate modification (11-mercapto-1-undecanol",
+    "category": "method"
+  },
+  {
+    "id": "METH_1_dodecanethiol_SAMs_on_Au_",
+    "type": "Method",
+    "label": "1-dodecanethiol SAMs on Au)",
+    "category": "method"
+  },
+  {
+    "id": "METH_polarized_light_optical_microscopy",
+    "type": "Method",
+    "label": "polarized light optical microscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_isothermal_crystallization_kinetics",
+    "type": "Method",
+    "label": "isothermal crystallization kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_WAXS_WAXD",
+    "type": "Method",
+    "label": "WAXS/WAXD",
+    "category": "method"
+  },
+  {
+    "id": "METH_IR_spectral_analysis__correlation_splitt",
+    "type": "Method",
+    "label": "IR spectral analysis (correlation splitting",
+    "category": "method"
+  },
+  {
+    "id": "METH_progression_bands_",
+    "type": "Method",
+    "label": "progression bands)",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystal_structure_determination",
+    "type": "Method",
+    "label": "crystal structure determination",
+    "category": "method"
+  },
+  {
+    "id": "METH_subcell_analysis",
+    "type": "Method",
+    "label": "subcell analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_n_alkane_dispersion_curv",
+    "type": "Method",
+    "label": "comparison with n-alkane dispersion curves",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dynamic_Monte_Carlo_simulations_comparin",
+    "type": "Method",
+    "label": "Dynamic Monte Carlo simulations comparing crystall",
+    "category": "method"
+  },
+  {
+    "id": "METH_biaxial_stretching_simulation",
+    "type": "Method",
+    "label": "biaxial stretching simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_concentrate__vs_dilute__microdomain_case",
+    "type": "Method",
+    "label": "concentrate  vs dilute  microdomain cases",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_situ_POM",
+    "type": "Method",
+    "label": "in situ POM",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystallization_Gibbs_free_energy__calcu",
+    "type": "Method",
+    "label": "crystallization Gibbs free energy  calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_lamellar_thickness_determination",
+    "type": "Method",
+    "label": "lamellar thickness determination",
+    "category": "method"
+  },
+  {
+    "id": "METH_growth_rate_equation_model_development",
+    "type": "Method",
+    "label": "growth rate equation model development",
+    "category": "method"
+  },
+  {
+    "id": "METH_Monte_Carlo_simulation_comparison",
+    "type": "Method",
+    "label": "Monte Carlo simulation comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_crystal_structure_analysis",
+    "type": "Method",
+    "label": "Review of crystal structure analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_molecular_modeling",
+    "type": "Method",
+    "label": "molecular modeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_covering_synthesis",
+    "type": "Method",
+    "label": "Review covering synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_catalysis",
+    "type": "Method",
+    "label": "catalysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_bond_exchange_characterization",
+    "type": "Method",
+    "label": "dynamic bond exchange characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical_recycling_reprocessing",
+    "type": "Method",
+    "label": "chemical recycling/reprocessing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Multiscale_characterization",
+    "type": "Method",
+    "label": "Multiscale characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_vivo_ECG_EMG_testing",
+    "type": "Method",
+    "label": "in vivo ECG/EMG testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_contact_impedance_measurement",
+    "type": "Method",
+    "label": "contact impedance measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_Binder_synthesis",
+    "type": "Method",
+    "label": "Binder synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrode_fabrication",
+    "type": "Method",
+    "label": "electrode fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_testing__cycling_stabili",
+    "type": "Method",
+    "label": "electrochemical testing (cycling stability",
+    "category": "method"
+  },
+  {
+    "id": "METH_capacity_",
+    "type": "Method",
+    "label": "capacity)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Adhesion_strength_testing",
+    "type": "Method",
+    "label": "Adhesion strength testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_various_substrate_testing",
+    "type": "Method",
+    "label": "various substrate testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_supramolecular_interaction_balance__H_bo",
+    "type": "Method",
+    "label": "supramolecular interaction balance (H-bonding",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrostatic",
+    "type": "Method",
+    "label": "electrostatic",
+    "category": "method"
+  },
+  {
+    "id": "METH_____stacking",
+    "type": "Method",
+    "label": "π-π stacking",
+    "category": "method"
+  },
+  {
+    "id": "METH_cation___",
+    "type": "Method",
+    "label": "cation-π)",
+    "category": "method"
+  },
+  {
+    "id": "METH_One_pot_polycondensation",
+    "type": "Method",
+    "label": "One-pot polycondensation",
+    "category": "method"
+  },
+  {
+    "id": "METH_reprocessing_tests",
+    "type": "Method",
+    "label": "reprocessing tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_excitation__photoluminescence",
+    "type": "Method",
+    "label": "UV excitation  photoluminescence",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_tests__40_C",
+    "type": "Method",
+    "label": "self-healing tests (40°C",
+    "category": "method"
+  },
+  {
+    "id": "METH_24_h_",
+    "type": "Method",
+    "label": "24 h)",
+    "category": "method"
+  },
+  {
+    "id": "METH_acid_base_response_testing",
+    "type": "Method",
+    "label": "acid-base response testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_mechanical_poor_solvent_experime",
+    "type": "Method",
+    "label": "thermal/mechanical/poor solvent experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_Photoluminescence_spectroscopy",
+    "type": "Method",
+    "label": "Photoluminescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_excitation_wavelength_variation",
+    "type": "Method",
+    "label": "excitation wavelength variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_alkyl_chain_length_variation",
+    "type": "Method",
+    "label": "alkyl chain length variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_counterion_effects",
+    "type": "Method",
+    "label": "counterion effects",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_stimuli_response",
+    "type": "Method",
+    "label": "mechanical stimuli response",
+    "category": "method"
+  },
+  {
+    "id": "METH_Clusteroluminescence_spectroscopy",
+    "type": "Method",
+    "label": "Clusteroluminescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_77K_phosphorescence_measurement",
+    "type": "Method",
+    "label": "77K phosphorescence measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_disulfide_exchange_kinetics",
+    "type": "Method",
+    "label": "disulfide exchange kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_metal_coordination_kinetics",
+    "type": "Method",
+    "label": "metal coordination kinetics",
+    "category": "method"
+  },
+  {
+    "id": "METH_reprocessability_testing",
+    "type": "Method",
+    "label": "reprocessability testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical_closed_loop_recycling",
+    "type": "Method",
+    "label": "chemical closed-loop recycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_PL_spectroscopy",
+    "type": "Method",
+    "label": "PL spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_concentration_dependent_PL",
+    "type": "Method",
+    "label": "concentration-dependent PL",
+    "category": "method"
+  },
+  {
+    "id": "METH_excitation_dependent_emission_analysis",
+    "type": "Method",
+    "label": "excitation-dependent emission analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_lifetime_measurement",
+    "type": "Method",
+    "label": "lifetime measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_photoluminescence_mechanisms",
+    "type": "Method",
+    "label": "Review of photoluminescence mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_through_space_conjugation__theory_develo",
+    "type": "Method",
+    "label": "through-space conjugation  theory development",
+    "category": "method"
+  },
+  {
+    "id": "METH_application_demonstrations",
+    "type": "Method",
+    "label": "application demonstrations",
+    "category": "method"
+  },
+  {
+    "id": "METH_SANS__comparison",
+    "type": "Method",
+    "label": "SANS  comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_Teubner_Strey_model_analysis",
+    "type": "Method",
+    "label": "Teubner-Strey model analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH___parameter_optimization",
+    "type": "Method",
+    "label": "χ-parameter optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_coarse_grained_particle_assignment",
+    "type": "Method",
+    "label": "coarse-grained particle assignment",
+    "category": "method"
+  },
+  {
+    "id": "METH_fracture_energy_measurement",
+    "type": "Method",
+    "label": "fracture energy measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_tests__45_C",
+    "type": "Method",
+    "label": "self-healing tests (45°C",
+    "category": "method"
+  },
+  {
+    "id": "METH_3_h_",
+    "type": "Method",
+    "label": "3 h)",
+    "category": "method"
+  },
+  {
+    "id": "METH_morphological_analysis__lamella_crystall",
+    "type": "Method",
+    "label": "morphological analysis (lamella crystallite size",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_orientation",
+    "type": "Method",
+    "label": "chain orientation",
+    "category": "method"
+  },
+  {
+    "id": "METH_interlamellar_connectivity_",
+    "type": "Method",
+    "label": "interlamellar connectivity)",
+    "category": "method"
+  },
+  {
+    "id": "METH_RESP_charge_assignment",
+    "type": "Method",
+    "label": "RESP charge assignment",
+    "category": "method"
+  },
+  {
+    "id": "METH_iterative_Boltzmann_inversion",
+    "type": "Method",
+    "label": "iterative Boltzmann inversion",
+    "category": "method"
+  },
+  {
+    "id": "METH_chemical_bond_formation_algorithm_in_CG",
+    "type": "Method",
+    "label": "chemical bond formation algorithm in CG",
+    "category": "method"
+  },
+  {
+    "id": "METH_Effective_interaction_computation",
+    "type": "Method",
+    "label": "Effective interaction computation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Monte_Carlo_simulations_with_effective_i",
+    "type": "Method",
+    "label": "Monte Carlo simulations with effective interaction",
+    "category": "method"
+  },
+  {
+    "id": "METH_radial_distribution_function_comparison",
+    "type": "Method",
+    "label": "radial distribution function comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_morphological_model_for_interpenetration",
+    "type": "Method",
+    "label": "morphological model for interpenetration analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Electrochemical_surface_forces_apparatus",
+    "type": "Method",
+    "label": "Electrochemical surface forces apparatus",
+    "category": "method"
+  },
+  {
+    "id": "METH_force_distance_measurements",
+    "type": "Method",
+    "label": "force-distance measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochemical_potential_modulation",
+    "type": "Method",
+    "label": "electrochemical potential modulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_gradient_boosting_regression__model",
+    "type": "Method",
+    "label": "gradient boosting regression  model",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bond_analysis",
+    "type": "Method",
+    "label": "H-bond analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_CG_MD_framework",
+    "type": "Method",
+    "label": "CG MD framework",
+    "category": "method"
+  },
+  {
+    "id": "METH_force_matching___Boltzmann_inversion_for",
+    "type": "Method",
+    "label": "force matching + Boltzmann inversion for CG parame",
+    "category": "method"
+  },
+  {
+    "id": "METH_three_site_mapping_for_P3HT",
+    "type": "Method",
+    "label": "three-site mapping for P3HT",
+    "category": "method"
+  },
+  {
+    "id": "METH_one_site_per_monomer_for_SBS",
+    "type": "Method",
+    "label": "one-site-per-monomer for SBS",
+    "category": "method"
+  },
+  {
+    "id": "METH_water_assisted_tensile_experiments",
+    "type": "Method",
+    "label": "water-assisted tensile experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_Fluorescence_spectroscopy",
+    "type": "Method",
+    "label": "Fluorescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_in_situ_fluorescence_microscopy_for_phas",
+    "type": "Method",
+    "label": "in situ fluorescence microscopy for phase separati",
+    "category": "method"
+  },
+  {
+    "id": "METH_home_built_algorithms_for_crystallinity_",
+    "type": "Method",
+    "label": "home-built algorithms for crystallinity evolution",
+    "category": "method"
+  },
+  {
+    "id": "METH_radius_of_gyration_tensor___Q_tensor_ana",
+    "type": "Method",
+    "label": "radius of gyration tensor + Q-tensor analysis for ",
+    "category": "method"
+  },
+  {
+    "id": "METH_mean_first_passage_time_analysis_for_ind",
+    "type": "Method",
+    "label": "mean first passage time analysis for induction tim",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_fitting",
+    "type": "Method",
+    "label": "kinetic fitting",
+    "category": "method"
+  },
+  {
+    "id": "METH_Amino_acid_catalysis",
+    "type": "Method",
+    "label": "Amino acid catalysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_various_solvent_screening_conditions",
+    "type": "Method",
+    "label": "various solvent/screening conditions",
+    "category": "method"
+  },
+  {
+    "id": "METH_yield_optimization",
+    "type": "Method",
+    "label": "yield optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_isocyanate_hydroxyl_coupling",
+    "type": "Method",
+    "label": "isocyanate-hydroxyl coupling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Michael_and_radical_mediated_thiol_ene_a",
+    "type": "Method",
+    "label": "Michael and radical-mediated thiol-ene addition",
+    "category": "method"
+  },
+  {
+    "id": "METH_GPC",
+    "type": "Method",
+    "label": "GPC",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_reaction_mechanisms",
+    "type": "Method",
+    "label": "Review of reaction mechanisms",
+    "category": "method"
+  },
+  {
+    "id": "METH_substrate_catalyst_scope",
+    "type": "Method",
+    "label": "substrate/catalyst scope",
+    "category": "method"
+  },
+  {
+    "id": "METH_materials_applications",
+    "type": "Method",
+    "label": "materials applications",
+    "category": "method"
+  },
+  {
+    "id": "METH_Acylation___Michael_addition_reaction",
+    "type": "Method",
+    "label": "Acylation + Michael addition reaction",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review__mechanism__base_st",
+    "type": "Method",
+    "label": "Comprehensive review: mechanism (base strength",
+    "category": "method"
+  },
+  {
+    "id": "METH_solvent",
+    "type": "Method",
+    "label": "solvent",
+    "category": "method"
+  },
+  {
+    "id": "METH_substrate_effects_",
+    "type": "Method",
+    "label": "substrate effects)",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_synthesis__step_growth",
+    "type": "Method",
+    "label": "polymer synthesis (step-growth",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_growth_",
+    "type": "Method",
+    "label": "chain-growth)",
+    "category": "method"
+  },
+  {
+    "id": "METH_dendrimers",
+    "type": "Method",
+    "label": "dendrimers",
+    "category": "method"
+  },
+  {
+    "id": "METH_hydrogels",
+    "type": "Method",
+    "label": "hydrogels",
+    "category": "method"
+  },
+  {
+    "id": "METH_bioconjugates",
+    "type": "Method",
+    "label": "bioconjugates",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_catalyzed_and_catalyst_free_th",
+    "type": "Method",
+    "label": "Review of catalyzed and catalyst-free thia-Michael",
+    "category": "method"
+  },
+  {
+    "id": "METH_Continuous_phase_separation__solvent_pol",
+    "type": "Method",
+    "label": "Continuous phase separation (solvent polarity redu",
+    "category": "method"
+  },
+  {
+    "id": "METH_H_bond_breaking_",
+    "type": "Method",
+    "label": "H-bond breaking)",
+    "category": "method"
+  },
+  {
+    "id": "METH_cyclic_testing",
+    "type": "Method",
+    "label": "cyclic testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_EMG_signal_monitoring",
+    "type": "Method",
+    "label": "EMG signal monitoring",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_NFJ_sensing_principles",
+    "type": "Method",
+    "label": "Review of NFJ sensing principles",
+    "category": "method"
+  },
+  {
+    "id": "METH_voltage_step_characterization",
+    "type": "Method",
+    "label": "voltage step characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_modeling_of_end_group_main_chain_crystal",
+    "type": "Method",
+    "label": "modeling of end group/main chain/crystallinity con",
+    "category": "method"
+  },
+  {
+    "id": "METH_Synthesis_of_varying_CTFE_content_copoly",
+    "type": "Method",
+    "label": "Synthesis of varying CTFE content copolymers",
+    "category": "method"
+  },
+  {
+    "id": "METH_dielectric_ferroelectric_electromechanic",
+    "type": "Method",
+    "label": "dielectric/ferroelectric/electromechanical charact",
+    "category": "method"
+  },
+  {
+    "id": "METH_crystalline_and_ferroelectric_phase_tran",
+    "type": "Method",
+    "label": "crystalline and ferroelectric phase transition ana",
+    "category": "method"
+  },
+  {
+    "id": "METH_Structure_property_tuning",
+    "type": "Method",
+    "label": "Structure-property tuning",
+    "category": "method"
+  },
+  {
+    "id": "METH_enzymatic_degradation",
+    "type": "Method",
+    "label": "enzymatic degradation",
+    "category": "method"
+  },
+  {
+    "id": "METH_enzymatic_reinforcement_strategy",
+    "type": "Method",
+    "label": "enzymatic reinforcement strategy",
+    "category": "method"
+  },
+  {
+    "id": "METH_strain_sensor_fabrication",
+    "type": "Method",
+    "label": "strain sensor fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comparative_simulations",
+    "type": "Method",
+    "label": "Comparative simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_conformational_relaxation_dynamics",
+    "type": "Method",
+    "label": "conformational relaxation dynamics",
+    "category": "method"
+  },
+  {
+    "id": "METH_Analytical_theory",
+    "type": "Method",
+    "label": "Analytical theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_Cell_model_with_intermonomer_electrostat",
+    "type": "Method",
+    "label": "Cell model with intermonomer electrostatic interac",
+    "category": "method"
+  },
+  {
+    "id": "METH_single_molecule_force_spectroscopy",
+    "type": "Method",
+    "label": "single-molecule force spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_simulation",
+    "type": "Method",
+    "label": "simulation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Molecular_simulations",
+    "type": "Method",
+    "label": "Molecular simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrostatic_tension_analysis",
+    "type": "Method",
+    "label": "electrostatic tension analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_elastic_stress_modeling",
+    "type": "Method",
+    "label": "elastic stress modeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_osmotic_pressure_decomposition",
+    "type": "Method",
+    "label": "osmotic pressure decomposition",
+    "category": "method"
+  },
+  {
+    "id": "METH_Bjerrum_length_dependence_study",
+    "type": "Method",
+    "label": "Bjerrum length dependence study",
+    "category": "method"
+  },
+  {
+    "id": "METH_Thiol_ene_polymerization",
+    "type": "Method",
+    "label": "Thiol-ene polymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_degradation_and_chemical_recycling_exper",
+    "type": "Method",
+    "label": "degradation and chemical recycling experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_analysis_of_LCE_fiber_actuation",
+    "type": "Method",
+    "label": "dynamic analysis of LCE fiber actuation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_covering_TPMS_mathematical_design",
+    "type": "Method",
+    "label": "Review covering TPMS mathematical design (Schwarz ",
+    "category": "method"
+  },
+  {
+    "id": "METH_Schwarz_D",
+    "type": "Method",
+    "label": "Schwarz D",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gyroid",
+    "type": "Method",
+    "label": "Gyroid",
+    "category": "method"
+  },
+  {
+    "id": "METH_Diamond",
+    "type": "Method",
+    "label": "Diamond",
+    "category": "method"
+  },
+  {
+    "id": "METH_I_WP",
+    "type": "Method",
+    "label": "I-WP",
+    "category": "method"
+  },
+  {
+    "id": "METH_F_RD",
+    "type": "Method",
+    "label": "F-RD",
+    "category": "method"
+  },
+  {
+    "id": "METH_etc__",
+    "type": "Method",
+    "label": "etc.)",
+    "category": "method"
+  },
+  {
+    "id": "METH_additive_manufacturing__SLM",
+    "type": "Method",
+    "label": "additive manufacturing (SLM",
+    "category": "method"
+  },
+  {
+    "id": "METH_SLA",
+    "type": "Method",
+    "label": "SLA",
+    "category": "method"
+  },
+  {
+    "id": "METH_FDM",
+    "type": "Method",
+    "label": "FDM",
+    "category": "method"
+  },
+  {
+    "id": "METH_chirality_correlation_function_analysis",
+    "type": "Method",
+    "label": "chirality correlation function analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Onsager_theory_comparison",
+    "type": "Method",
+    "label": "Onsager theory comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_diagram_mapping",
+    "type": "Method",
+    "label": "phase diagram mapping",
+    "category": "method"
+  },
+  {
+    "id": "METH_nonequilibrium_MD_under_shear",
+    "type": "Method",
+    "label": "nonequilibrium MD under shear",
+    "category": "method"
+  },
+  {
+    "id": "METH_viscosity_analysis",
+    "type": "Method",
+    "label": "viscosity analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_ionic_cluster_morphology_tracking",
+    "type": "Method",
+    "label": "ionic cluster morphology tracking",
+    "category": "method"
+  },
+  {
+    "id": "METH_Havriliak_Negami_analysis",
+    "type": "Method",
+    "label": "Havriliak-Negami analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Functional_integral_representation_of_pa",
+    "type": "Method",
+    "label": "Functional integral representation of partition fu",
+    "category": "method"
+  },
+  {
+    "id": "METH_saddle_function_method_optimization",
+    "type": "Method",
+    "label": "saddle-function method optimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_gradient_expansion_for_interaction_energ",
+    "type": "Method",
+    "label": "gradient expansion for interaction energy",
+    "category": "method"
+  },
+  {
+    "id": "METH_Cahn_Hilliard_theory_comparison",
+    "type": "Method",
+    "label": "Cahn-Hilliard theory comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_numerical_binodal_curve_calculation",
+    "type": "Method",
+    "label": "numerical binodal curve calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Generalized_entropy_theory",
+    "type": "Method",
+    "label": "Generalized entropy theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_packing_frustration_analysis",
+    "type": "Method",
+    "label": "packing frustration analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Lap_joint_shear_testing",
+    "type": "Method",
+    "label": "Lap joint shear testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_creep_rate_measurement",
+    "type": "Method",
+    "label": "creep rate measurement",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_network_topology_design",
+    "type": "Method",
+    "label": "polymer network topology design",
+    "category": "method"
+  },
+  {
+    "id": "METH_ionic_liquid_selection",
+    "type": "Method",
+    "label": "ionic liquid selection",
+    "category": "method"
+  },
+  {
+    "id": "METH_solvent_selectivity_variation",
+    "type": "Method",
+    "label": "solvent selectivity variation",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_path_analysis",
+    "type": "Method",
+    "label": "kinetic path analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Two_models___torsional_persistent_chain_",
+    "type": "Method",
+    "label": "Two models:  torsional persistent chain  and  tors",
+    "category": "method"
+  },
+  {
+    "id": "METH_Lifshitz_conformational_entropy_derivati",
+    "type": "Method",
+    "label": "Lifshitz conformational entropy derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_2D_Maier_Saupe_theory_for_uniaxial_biaxi",
+    "type": "Method",
+    "label": "2D Maier-Saupe theory for uniaxial-biaxial nematic",
+    "category": "method"
+  },
+  {
+    "id": "METH_analytical_solutions_in_weak_strong_orde",
+    "type": "Method",
+    "label": "analytical solutions in weak/strong ordering limit",
+    "category": "method"
+  },
+  {
+    "id": "METH_Aggregation_volume_bias_Monte_Carlo__sim",
+    "type": "Method",
+    "label": "Aggregation-volume-bias Monte Carlo  simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_finite_difference_free_energy_analyses",
+    "type": "Method",
+    "label": "finite-difference free energy analyses",
+    "category": "method"
+  },
+  {
+    "id": "METH_Tolman_length_extraction",
+    "type": "Method",
+    "label": "Tolman length extraction",
+    "category": "method"
+  },
+  {
+    "id": "METH_classical_nucleation_theory__comparison",
+    "type": "Method",
+    "label": "classical nucleation theory  comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_uniaxial_elongation",
+    "type": "Method",
+    "label": "uniaxial elongation",
+    "category": "method"
+  },
+  {
+    "id": "METH_toughness_analysis",
+    "type": "Method",
+    "label": "toughness analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_entanglement_counting",
+    "type": "Method",
+    "label": "entanglement counting",
+    "category": "method"
+  },
+  {
+    "id": "METH_Single_molecule_force_spectroscopy",
+    "type": "Method",
+    "label": "Single-molecule force spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_radical_copolymerization",
+    "type": "Method",
+    "label": "radical copolymerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_hierarchical_study_from_single_molecules",
+    "type": "Method",
+    "label": "hierarchical study from single molecules to networ",
+    "category": "method"
+  },
+  {
+    "id": "METH_Coherent_state_field_theory",
+    "type": "Method",
+    "label": "Coherent state field theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_mean_field_analysis",
+    "type": "Method",
+    "label": "mean-field analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gaussian_fluctuation_analysis",
+    "type": "Method",
+    "label": "Gaussian fluctuation analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_loop_density_operator",
+    "type": "Method",
+    "label": "loop density operator",
+    "category": "method"
+  },
+  {
+    "id": "METH_Flory_Stockmayer__theory_comparison",
+    "type": "Method",
+    "label": "Flory-Stockmayer  theory comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_primitive_path_analysis",
+    "type": "Method",
+    "label": "primitive path analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_tube_model_framework",
+    "type": "Method",
+    "label": "tube model framework",
+    "category": "method"
+  },
+  {
+    "id": "METH_constraint_release_analysis",
+    "type": "Method",
+    "label": "constraint release analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Molecular_theory_of_relaxing_media",
+    "type": "Method",
+    "label": "Molecular theory of relaxing media",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_theory_of_elasticity_extended_to",
+    "type": "Method",
+    "label": "kinetic theory of elasticity extended to non-isotr",
+    "category": "method"
+  },
+  {
+    "id": "METH_tensor_stress_strain_time_relations",
+    "type": "Method",
+    "label": "tensor stress-strain-time relations",
+    "category": "method"
+  },
+  {
+    "id": "METH_biaxial_stretching___solvent_extraction_",
+    "type": "Method",
+    "label": "biaxial stretching + solvent extraction + drying",
+    "category": "method"
+  },
+  {
+    "id": "METH_Classical_thermodynamic_theory",
+    "type": "Method",
+    "label": "Classical thermodynamic theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_association_interassociation_modeli",
+    "type": "Method",
+    "label": "self-association/interassociation modeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_Couchman_Karasz_equation_analysis",
+    "type": "Method",
+    "label": "Couchman-Karasz equation analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_enthalpy_of_mixing_calculations",
+    "type": "Method",
+    "label": "enthalpy of mixing calculations",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_morphology_characterization",
+    "type": "Method",
+    "label": "phase morphology characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_structure_factor",
+    "type": "Method",
+    "label": "structure factor",
+    "category": "method"
+  },
+  {
+    "id": "METH_correlation_functions_",
+    "type": "Method",
+    "label": "correlation functions)",
+    "category": "method"
+  },
+  {
+    "id": "METH_data_measurement_processing",
+    "type": "Method",
+    "label": "data measurement/processing",
+    "category": "method"
+  },
+  {
+    "id": "METH_transmission_and_grazing_incidence__geom",
+    "type": "Method",
+    "label": "transmission and grazing incidence  geometries",
+    "category": "method"
+  },
+  {
+    "id": "METH_combination_with_simulations_and_other_c",
+    "type": "Method",
+    "label": "combination with simulations and other characteriz",
+    "category": "method"
+  },
+  {
+    "id": "METH_phase_behavior_study",
+    "type": "Method",
+    "label": "phase behavior study",
+    "category": "method"
+  },
+  {
+    "id": "METH_microphase_separation_characterization",
+    "type": "Method",
+    "label": "microphase separation characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_lamellar_structure_determination",
+    "type": "Method",
+    "label": "lamellar structure determination",
+    "category": "method"
+  },
+  {
+    "id": "METH_unit_cell_analysis",
+    "type": "Method",
+    "label": "unit cell analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_of_globular_models__distorted",
+    "type": "Method",
+    "label": "comparison of globular models (distorted 1D lattic",
+    "category": "method"
+  },
+  {
+    "id": "METH_Percus_Yevick_",
+    "type": "Method",
+    "label": "Percus-Yevick)",
+    "category": "method"
+  },
+  {
+    "id": "METH_weak_segregation_model",
+    "type": "Method",
+    "label": "weak segregation model",
+    "category": "method"
+  },
+  {
+    "id": "METH_ideal_lamellar_model",
+    "type": "Method",
+    "label": "ideal lamellar model",
+    "category": "method"
+  },
+  {
+    "id": "METH_Teubner_Strey_microemulsion_model",
+    "type": "Method",
+    "label": "Teubner-Strey microemulsion model",
+    "category": "method"
+  },
+  {
+    "id": "METH_stress_strain_measurements",
+    "type": "Method",
+    "label": "stress-strain measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_uniaxial_deformation_through_yield_point",
+    "type": "Method",
+    "label": "uniaxial deformation through yield point to failur",
+    "category": "method"
+  },
+  {
+    "id": "METH_piezoionic_energy_harvesting_testing",
+    "type": "Method",
+    "label": "piezoionic energy harvesting testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_fractal_dimension_analysis",
+    "type": "Method",
+    "label": "fractal dimension analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Porod_s_law_comparison",
+    "type": "Method",
+    "label": "Porod's law comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_In_situ_X_ray_scattering_during_stretchi",
+    "type": "Method",
+    "label": "In situ X-ray scattering during stretching",
+    "category": "method"
+  },
+  {
+    "id": "METH_pole_figure_analysis",
+    "type": "Method",
+    "label": "pole figure analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_image_intensified_CCD_detector",
+    "type": "Method",
+    "label": "image-intensified CCD detector",
+    "category": "method"
+  },
+  {
+    "id": "METH_respiratory_monitoring",
+    "type": "Method",
+    "label": "respiratory monitoring",
+    "category": "method"
+  },
+  {
+    "id": "METH_wireless_platform_integration",
+    "type": "Method",
+    "label": "wireless platform integration",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrode_polarization_model_for_mobile_",
+    "type": "Method",
+    "label": "electrode polarization model for mobile ion concen",
+    "category": "method"
+  },
+  {
+    "id": "METH_ion_association_model",
+    "type": "Method",
+    "label": "ion association model",
+    "category": "method"
+  },
+  {
+    "id": "METH_quantitative_analysis_of_chain_segment_c",
+    "type": "Method",
+    "label": "quantitative analysis of chain segment conformatio",
+    "category": "method"
+  },
+  {
+    "id": "METH_spatial_distribution_analysis",
+    "type": "Method",
+    "label": "spatial distribution analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_COSY",
+    "type": "Method",
+    "label": "COSY",
+    "category": "method"
+  },
+  {
+    "id": "METH_NOESY",
+    "type": "Method",
+    "label": "NOESY",
+    "category": "method"
+  },
+  {
+    "id": "METH_ROESY",
+    "type": "Method",
+    "label": "ROESY",
+    "category": "method"
+  },
+  {
+    "id": "METH_ESI",
+    "type": "Method",
+    "label": "ESI",
+    "category": "method"
+  },
+  {
+    "id": "METH_MALDI",
+    "type": "Method",
+    "label": "MALDI",
+    "category": "method"
+  },
+  {
+    "id": "METH_APCI_mass_spectrometry",
+    "type": "Method",
+    "label": "APCI mass spectrometry",
+    "category": "method"
+  },
+  {
+    "id": "METH_rate",
+    "type": "Method",
+    "label": "rate",
+    "category": "method"
+  },
+  {
+    "id": "METH_geometry_variation_",
+    "type": "Method",
+    "label": "geometry variation)",
+    "category": "method"
+  },
+  {
+    "id": "METH_cross_linking",
+    "type": "Method",
+    "label": "cross-linking",
+    "category": "method"
+  },
+  {
+    "id": "METH_BDT_analysis",
+    "type": "Method",
+    "label": "BDT analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_LDWO_hypothesis_comparison",
+    "type": "Method",
+    "label": "LDWO hypothesis comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_Tensile_tearing_tests",
+    "type": "Method",
+    "label": "Tensile tearing tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_notched_specimen_testing",
+    "type": "Method",
+    "label": "notched specimen testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_strain_homogenization_analysis",
+    "type": "Method",
+    "label": "strain homogenization analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_with_conventional_elastomers",
+    "type": "Method",
+    "label": "comparison with conventional elastomers",
+    "category": "method"
+  },
+  {
+    "id": "METH_Freeze_thaw_cycling",
+    "type": "Method",
+    "label": "Freeze-thaw cycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_kirigami_hydrogel_sheet_fabrication",
+    "type": "Method",
+    "label": "kirigami hydrogel sheet fabrication",
+    "category": "method"
+  },
+  {
+    "id": "METH_aging_dynamics_analysis",
+    "type": "Method",
+    "label": "aging dynamics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_similarity_verification",
+    "type": "Method",
+    "label": "self-similarity verification",
+    "category": "method"
+  },
+  {
+    "id": "METH_length_scale_characterization__persisten",
+    "type": "Method",
+    "label": "length scale characterization (persistence length",
+    "category": "method"
+  },
+  {
+    "id": "METH_chord_lengths_",
+    "type": "Method",
+    "label": "chord lengths)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Slip_link_model",
+    "type": "Method",
+    "label": "Slip-link model",
+    "category": "method"
+  },
+  {
+    "id": "METH_relaxation_spectrum_calculation",
+    "type": "Method",
+    "label": "relaxation spectrum calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_zero_shear_rate_viscosity_comparison_wit",
+    "type": "Method",
+    "label": "zero-shear-rate viscosity comparison with experime",
+    "category": "method"
+  },
+  {
+    "id": "METH_FAST__method",
+    "type": "Method",
+    "label": "FAST  method",
+    "category": "method"
+  },
+  {
+    "id": "METH_geometric_dimensions",
+    "type": "Method",
+    "label": "geometric dimensions",
+    "category": "method"
+  },
+  {
+    "id": "METH_cross_validation_with_multiple_polymers",
+    "type": "Method",
+    "label": "cross-validation with multiple polymers",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_mechanical_moduli_derivation",
+    "type": "Method",
+    "label": "dynamic mechanical moduli derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_G__",
+    "type": "Method",
+    "label": "G\")",
+    "category": "method"
+  },
+  {
+    "id": "METH_Cox_Merz_rule_test",
+    "type": "Method",
+    "label": "Cox-Merz rule test",
+    "category": "method"
+  },
+  {
+    "id": "METH_Computer_simulations",
+    "type": "Method",
+    "label": "Computer simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_power_law_divergence_analysis",
+    "type": "Method",
+    "label": "power-law divergence analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_damage_quantification__plastic_rearrange",
+    "type": "Method",
+    "label": "damage quantification (plastic rearrangements",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_dissipation_",
+    "type": "Method",
+    "label": "energy dissipation)",
+    "category": "method"
+  },
+  {
+    "id": "METH_percolation_transition_analysis",
+    "type": "Method",
+    "label": "percolation transition analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_extensional_flow_analysis",
+    "type": "Method",
+    "label": "extensional flow analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_chain_orientation_tracking",
+    "type": "Method",
+    "label": "chain orientation tracking",
+    "category": "method"
+  },
+  {
+    "id": "METH_end_to_end_distance_and_ionic_cluster_mo",
+    "type": "Method",
+    "label": "end-to-end distance and ionic cluster monitoring",
+    "category": "method"
+  },
+  {
+    "id": "METH_Microscopic_statistical_mechanical_theor",
+    "type": "Method",
+    "label": "Microscopic statistical mechanical theory (Elastic",
+    "category": "method"
+  },
+  {
+    "id": "METH_ECNLE_",
+    "type": "Method",
+    "label": "ECNLE)",
+    "category": "method"
+  },
+  {
+    "id": "METH_activated_segmental_relaxation_analysis",
+    "type": "Method",
+    "label": "activated segmental relaxation analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_sticker_clustering_microdomain_correlati",
+    "type": "Method",
+    "label": "sticker clustering/microdomain correlation effects",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_covering__fracture_",
+    "type": "Method",
+    "label": "Comprehensive review covering: fracture properties",
+    "category": "method"
+  },
+  {
+    "id": "METH_strength",
+    "type": "Method",
+    "label": "strength",
+    "category": "method"
+  },
+  {
+    "id": "METH_stretchability",
+    "type": "Method",
+    "label": "stretchability",
+    "category": "method"
+  },
+  {
+    "id": "METH_work_of_fracture",
+    "type": "Method",
+    "label": "work of fracture",
+    "category": "method"
+  },
+  {
+    "id": "METH_fatigue_threshold",
+    "type": "Method",
+    "label": "fatigue threshold",
+    "category": "method"
+  },
+  {
+    "id": "METH_endurance_limit_",
+    "type": "Method",
+    "label": "endurance limit)",
+    "category": "method"
+  },
+  {
+    "id": "METH_theories__Lake_Thomas",
+    "type": "Method",
+    "label": "theories (Lake-Thomas",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mikos_Peppas",
+    "type": "Method",
+    "label": "Mikos-Peppas",
+    "category": "method"
+  },
+  {
+    "id": "METH_shear_lag",
+    "type": "Method",
+    "label": "shear lag",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mazich_Samus_",
+    "type": "Method",
+    "label": "Mazich-Samus)",
+    "category": "method"
+  },
+  {
+    "id": "METH_Experiments",
+    "type": "Method",
+    "label": "Experiments",
+    "category": "method"
+  },
+  {
+    "id": "METH_simulations",
+    "type": "Method",
+    "label": "simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_Lake_Thomas_model_comparison",
+    "type": "Method",
+    "label": "Lake-Thomas model comparison",
+    "category": "method"
+  },
+  {
+    "id": "METH_nonlocal_energy_dissipation_analysis",
+    "type": "Method",
+    "label": "nonlocal energy dissipation analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_two_population_Rouse_model_analysis",
+    "type": "Method",
+    "label": "two-population Rouse model analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_suppressed_Rouse_model_for_interfacial_c",
+    "type": "Method",
+    "label": "suppressed Rouse model for interfacial constraints",
+    "category": "method"
+  },
+  {
+    "id": "METH_four_point_correlation_function_G4_r",
+    "type": "Method",
+    "label": "four-point correlation function G4(r",
+    "category": "method"
+  },
+  {
+    "id": "METH_t__analysis",
+    "type": "Method",
+    "label": "t) analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_susceptibility__4",
+    "type": "Method",
+    "label": "dynamic susceptibility χ4",
+    "category": "method"
+  },
+  {
+    "id": "METH_KWW_fitting_of_relaxation_data",
+    "type": "Method",
+    "label": "KWW fitting of relaxation data",
+    "category": "method"
+  },
+  {
+    "id": "METH_Avrami_crystallization_kinetics_analysis",
+    "type": "Method",
+    "label": "Avrami crystallization kinetics analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Generalized_Langevin_equation__theoretic",
+    "type": "Method",
+    "label": "Generalized Langevin equation  theoretical derivat",
+    "category": "method"
+  },
+  {
+    "id": "METH_Langevin_dynamics_simulations",
+    "type": "Method",
+    "label": "Langevin dynamics simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_autocorrelation_function_Crr_and_force_p",
+    "type": "Method",
+    "label": "autocorrelation function Crr and force-position cr",
+    "category": "method"
+  },
+  {
+    "id": "METH_mode_expansion",
+    "type": "Method",
+    "label": "mode expansion",
+    "category": "method"
+  },
+  {
+    "id": "METH_sticky_Rouse_model_analysis",
+    "type": "Method",
+    "label": "sticky Rouse model analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_KWW_fitting_of_relaxation_times",
+    "type": "Method",
+    "label": "KWW fitting of relaxation times",
+    "category": "method"
+  },
+  {
+    "id": "METH_Dynamic_light_scattering__to_measure_col",
+    "type": "Method",
+    "label": "Dynamic light scattering  to measure collective di",
+    "category": "method"
+  },
+  {
+    "id": "METH_extrapolation_to_gelation_point",
+    "type": "Method",
+    "label": "extrapolation to gelation point",
+    "category": "method"
+  },
+  {
+    "id": "METH_Monte_Carlo_computer_simulations",
+    "type": "Method",
+    "label": "Monte Carlo computer simulations",
+    "category": "method"
+  },
+  {
+    "id": "METH_force_extension_measurements",
+    "type": "Method",
+    "label": "force-extension measurements",
+    "category": "method"
+  },
+  {
+    "id": "METH_torsional_stiffness_characterization_via",
+    "type": "Method",
+    "label": "torsional stiffness characterization via applied t",
+    "category": "method"
+  },
+  {
+    "id": "METH_parametric_studies_varying_chain_topolog",
+    "type": "Method",
+    "label": "parametric studies varying chain topology",
+    "category": "method"
+  },
+  {
+    "id": "METH_stiffness",
+    "type": "Method",
+    "label": "stiffness",
+    "category": "method"
+  },
+  {
+    "id": "METH_confinement",
+    "type": "Method",
+    "label": "confinement",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_salt_concentration",
+    "type": "Method",
+    "label": "and salt concentration",
+    "category": "method"
+  },
+  {
+    "id": "METH_linear_elasticity_modeling_of_surface_de",
+    "type": "Method",
+    "label": "linear elasticity modeling of surface deformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Mean_field_theory_of_glass_transition",
+    "type": "Method",
+    "label": "Mean-field theory of glass transition",
+    "category": "method"
+  },
+  {
+    "id": "METH_replica_symmetry_breaking_analysis",
+    "type": "Method",
+    "label": "replica symmetry breaking analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_complete_phase_diagram_construction_in__",
+    "type": "Method",
+    "label": "complete phase diagram construction in (ϕ",
+    "category": "method"
+  },
+  {
+    "id": "METH_kBT____space",
+    "type": "Method",
+    "label": "kBT/ε) space",
+    "category": "method"
+  },
+  {
+    "id": "METH_potential_energy_minima_enumeration",
+    "type": "Method",
+    "label": "potential energy minima enumeration",
+    "category": "method"
+  },
+  {
+    "id": "METH_configurational_entropy_calculation",
+    "type": "Method",
+    "label": "configurational entropy calculation",
+    "category": "method"
+  },
+  {
+    "id": "METH_steepest_descent_energy_minimization",
+    "type": "Method",
+    "label": "steepest descent energy minimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_inherent_structure_analysis",
+    "type": "Method",
+    "label": "inherent structure analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Two_channel_confocal_microscopy",
+    "type": "Method",
+    "label": "Two-channel confocal microscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_fluctuation_dissipation_theorem_applied_",
+    "type": "Method",
+    "label": "fluctuation-dissipation theorem applied to tracer ",
+    "category": "method"
+  },
+  {
+    "id": "METH_model_free_theoretical_description",
+    "type": "Method",
+    "label": "model-free theoretical description",
+    "category": "method"
+  },
+  {
+    "id": "METH_Stopped_flow_CD_spectroscopy",
+    "type": "Method",
+    "label": "Stopped-flow CD spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_chirality_manipulation_via_tartaric_acid",
+    "type": "Method",
+    "label": "chirality manipulation via tartaric acid auxiliary",
+    "category": "method"
+  },
+  {
+    "id": "METH_Compression_cycles_within_same_glass_rea",
+    "type": "Method",
+    "label": "Compression cycles within same glass realization",
+    "category": "method"
+  },
+  {
+    "id": "METH_tracking_particle_trajectories_across_mu",
+    "type": "Method",
+    "label": "tracking particle trajectories across multiple com",
+    "category": "method"
+  },
+  {
+    "id": "METH_mean_square_displacement_and_mean_square",
+    "type": "Method",
+    "label": "mean square displacement and mean square distance ",
+    "category": "method"
+  },
+  {
+    "id": "METH_cage_order_parameter_characterization",
+    "type": "Method",
+    "label": "cage order parameter characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_CD_spectroscopy",
+    "type": "Method",
+    "label": "CD spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_annealing_studies",
+    "type": "Method",
+    "label": "annealing studies",
+    "category": "method"
+  },
+  {
+    "id": "METH_ionic_strength_control",
+    "type": "Method",
+    "label": "ionic strength control",
+    "category": "method"
+  },
+  {
+    "id": "METH_energy_barrier_estimation_via_Arrhenius_",
+    "type": "Method",
+    "label": "energy barrier estimation via Arrhenius analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_light_scattering",
+    "type": "Method",
+    "label": "dynamic light scattering",
+    "category": "method"
+  },
+  {
+    "id": "METH_nanoparticle_tracking_analysis",
+    "type": "Method",
+    "label": "nanoparticle tracking analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_FFT_analysis_of_structural_periodicity",
+    "type": "Method",
+    "label": "FFT analysis of structural periodicity",
+    "category": "method"
+  },
+  {
+    "id": "METH_kinetic_annealing_studies",
+    "type": "Method",
+    "label": "kinetic annealing studies",
+    "category": "method"
+  },
+  {
+    "id": "METH_morphological_characterization",
+    "type": "Method",
+    "label": "morphological characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Energy_minimization",
+    "type": "Method",
+    "label": "Energy minimization",
+    "category": "method"
+  },
+  {
+    "id": "METH_analysis_of_fractal_dimension_of_relaxat",
+    "type": "Method",
+    "label": "analysis of fractal dimension of relaxation pathwa",
+    "category": "method"
+  },
+  {
+    "id": "METH_avalanche_statistics",
+    "type": "Method",
+    "label": "avalanche statistics",
+    "category": "method"
+  },
+  {
+    "id": "METH_Cyclic_fatigue_testing_on_pure_shear_not",
+    "type": "Method",
+    "label": "Cyclic fatigue testing on pure-shear notched sampl",
+    "category": "method"
+  },
+  {
+    "id": "METH_crack_propagation_rate__vs_energy_releas",
+    "type": "Method",
+    "label": "crack propagation rate  vs energy release rate  an",
+    "category": "method"
+  },
+  {
+    "id": "METH_GPC_molecular_weight_characterization",
+    "type": "Method",
+    "label": "GPC molecular weight characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Analytical_theory_for_strain_dependent_K",
+    "type": "Method",
+    "label": "Analytical theory for strain-dependent Kuhn length",
+    "category": "method"
+  },
+  {
+    "id": "METH_force_extension_curve_analysis",
+    "type": "Method",
+    "label": "force-extension curve analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Adam_Gibbs_theory_analysis",
+    "type": "Method",
+    "label": "Adam-Gibbs theory analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_ECNLE__model",
+    "type": "Method",
+    "label": "ECNLE  model",
+    "category": "method"
+  },
+  {
+    "id": "METH_depth_resolved_measurements__surface_z__",
+    "type": "Method",
+    "label": "depth-resolved measurements (surface z̄=2.8 nm",
+    "category": "method"
+  },
+  {
+    "id": "METH_bulk_z__79_nm_",
+    "type": "Method",
+    "label": "bulk z̄=79 nm)",
+    "category": "method"
+  },
+  {
+    "id": "METH_entropy_enthalpy_compensation_analysis",
+    "type": "Method",
+    "label": "entropy-enthalpy compensation analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_HSAB__theory_guided_IL_selection",
+    "type": "Method",
+    "label": "HSAB  theory-guided IL selection",
+    "category": "method"
+  },
+  {
+    "id": "METH_Functional_integral_techniques",
+    "type": "Method",
+    "label": "Functional integral techniques",
+    "category": "method"
+  },
+  {
+    "id": "METH_Gaussian_random_walk_model",
+    "type": "Method",
+    "label": "Gaussian random-walk model",
+    "category": "method"
+  },
+  {
+    "id": "METH_mean_field_theory",
+    "type": "Method",
+    "label": "mean field theory",
+    "category": "method"
+  },
+  {
+    "id": "METH_statistical_mechanical_derivation",
+    "type": "Method",
+    "label": "statistical mechanical derivation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Graph_theoretical_approach_using_Pr_fer_",
+    "type": "Method",
+    "label": "Graph theoretical approach using Prüfer labeling",
+    "category": "method"
+  },
+  {
+    "id": "METH_analytical_derivation_of_configurational",
+    "type": "Method",
+    "label": "analytical derivation of configurational entropy a",
+    "category": "method"
+  },
+  {
+    "id": "METH_efficient_sampling_scheme_for_tree_confi",
+    "type": "Method",
+    "label": "efficient sampling scheme for tree configurations",
+    "category": "method"
+  },
+  {
+    "id": "METH_Quantum_chemical_calculations_of_H_bondi",
+    "type": "Method",
+    "label": "Quantum chemical calculations of H-bonding structu",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_recoverability_assessment",
+    "type": "Method",
+    "label": "self-recoverability assessment",
+    "category": "method"
+  },
+  {
+    "id": "METH_Single__and_multi_mode_exponential_decay",
+    "type": "Method",
+    "label": "Single- and multi-mode exponential decay models",
+    "category": "method"
+  },
+  {
+    "id": "METH_relaxation_spectra_analysis",
+    "type": "Method",
+    "label": "relaxation spectra analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_spectroscopic_characterization",
+    "type": "Method",
+    "label": "spectroscopic characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Review_of_controlled_radical_polymerizat",
+    "type": "Method",
+    "label": "Review of controlled radical polymerization from s",
+    "category": "method"
+  },
+  {
+    "id": "METH_new_theoretical_models",
+    "type": "Method",
+    "label": "new theoretical models",
+    "category": "method"
+  },
+  {
+    "id": "METH_sophisticated_characterization_tools__ne",
+    "type": "Method",
+    "label": "sophisticated characterization tools (neutron refl",
+    "category": "method"
+  },
+  {
+    "id": "METH_nanoscale_patterning",
+    "type": "Method",
+    "label": "nanoscale patterning",
+    "category": "method"
+  },
+  {
+    "id": "METH_viscoelastic_property_analysis",
+    "type": "Method",
+    "label": "viscoelastic property analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_Vis_fluorescence_spectroscopy",
+    "type": "Method",
+    "label": "UV-Vis fluorescence spectroscopy",
+    "category": "method"
+  },
+  {
+    "id": "METH_fatigue_resistance_testing_in_liquid_env",
+    "type": "Method",
+    "label": "fatigue resistance testing in liquid environment",
+    "category": "method"
+  },
+  {
+    "id": "METH_biocompatibility_assessment",
+    "type": "Method",
+    "label": "biocompatibility assessment",
+    "category": "method"
+  },
+  {
+    "id": "METH_self_healing_assessment",
+    "type": "Method",
+    "label": "self-healing assessment",
+    "category": "method"
+  },
+  {
+    "id": "METH_dampening_property_characterization",
+    "type": "Method",
+    "label": "dampening property characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_comparison_of_DA_vs_static_cross_linkers",
+    "type": "Method",
+    "label": "comparison of DA vs static cross-linkers",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_covering_chemical_r",
+    "type": "Method",
+    "label": "Comprehensive review covering chemical recycling",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_shifting",
+    "type": "Method",
+    "label": "shape-shifting",
+    "category": "method"
+  },
+  {
+    "id": "METH_topological_transformation",
+    "type": "Method",
+    "label": "topological transformation",
+    "category": "method"
+  },
+  {
+    "id": "METH_Ring_opening_polymerization_characteriza",
+    "type": "Method",
+    "label": "Ring-opening polymerization characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_thermal_recycling_tests",
+    "type": "Method",
+    "label": "thermal recycling tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_ethanol_assisted_recycling_testing",
+    "type": "Method",
+    "label": "ethanol-assisted recycling testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Metal_coordination_chemistry",
+    "type": "Method",
+    "label": "Metal coordination chemistry",
+    "category": "method"
+  },
+  {
+    "id": "METH_polymer_network_construction",
+    "type": "Method",
+    "label": "polymer network construction",
+    "category": "method"
+  },
+  {
+    "id": "METH_mechanical_and_adhesive_property_testing",
+    "type": "Method",
+    "label": "mechanical and adhesive property testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_fatigue_testing",
+    "type": "Method",
+    "label": "fatigue testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_bond_level_analysis",
+    "type": "Method",
+    "label": "bond-level analysis",
+    "category": "method"
+  },
+  {
+    "id": "METH_Molecular_engineering",
+    "type": "Method",
+    "label": "Molecular engineering",
+    "category": "method"
+  },
+  {
+    "id": "METH_Epoxidation_and_ring_opening_synthesis",
+    "type": "Method",
+    "label": "Epoxidation and ring-opening synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_quantum_chemical_calculations_of_H_bonde",
+    "type": "Method",
+    "label": "quantum chemical calculations of H-bonded dimer st",
+    "category": "method"
+  },
+  {
+    "id": "METH_dynamic_bond_characterization",
+    "type": "Method",
+    "label": "dynamic bond characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_organizing_tougheni",
+    "type": "Method",
+    "label": "Comprehensive review organizing toughening strateg",
+    "category": "method"
+  },
+  {
+    "id": "METH_ACEL_device_fabrication_and_testing",
+    "type": "Method",
+    "label": "ACEL device fabrication and testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_of_chemical_modific",
+    "type": "Method",
+    "label": "Comprehensive review of chemical modification",
+    "category": "method"
+  },
+  {
+    "id": "METH_PU_synthesis",
+    "type": "Method",
+    "label": "PU synthesis",
+    "category": "method"
+  },
+  {
+    "id": "METH_and_property_characterization",
+    "type": "Method",
+    "label": "and property characterization",
+    "category": "method"
+  },
+  {
+    "id": "METH_electrochromic_device_fabrication_and_te",
+    "type": "Method",
+    "label": "electrochromic device fabrication and testing",
+    "category": "method"
+  },
+  {
+    "id": "METH_bending_cycle_stability_tests",
+    "type": "Method",
+    "label": "bending cycle stability tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_Comprehensive_review_covering_self_heali",
+    "type": "Method",
+    "label": "Comprehensive review covering self-healing",
+    "category": "method"
+  },
+  {
+    "id": "METH_biocompatible_hydrogels",
+    "type": "Method",
+    "label": "biocompatible hydrogels",
+    "category": "method"
+  },
+  {
+    "id": "METH_recyclable_thermosets",
+    "type": "Method",
+    "label": "recyclable thermosets",
+    "category": "method"
+  },
+  {
+    "id": "METH_shape_shifting_polymers",
+    "type": "Method",
+    "label": "shape-shifting polymers",
+    "category": "method"
+  },
+  {
+    "id": "METH_extrusion_processing_tests",
+    "type": "Method",
+    "label": "extrusion processing tests",
+    "category": "method"
+  },
+  {
+    "id": "METH_UV_triggered_anthracene_dimerization",
+    "type": "Method",
+    "label": "UV-triggered anthracene dimerization",
+    "category": "method"
+  },
+  {
+    "id": "METH_Supramolecular_chemistry",
+    "type": "Method",
+    "label": "Supramolecular chemistry",
+    "category": "method"
+  },
+  {
+    "id": "METH_structural_characterization",
+    "type": "Method",
+    "label": "structural characterization",
+    "category": "method"
+  }
+]

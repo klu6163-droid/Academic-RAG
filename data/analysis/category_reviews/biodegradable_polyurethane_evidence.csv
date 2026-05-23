@@ -1,0 +1,126 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,evidence_text,page_est,keyword,confidence
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,abstract,"Piezoelectricmaterialsarepromisingforbiomedical
+applications because they can provide mechanical or electrical
+stimulations via converse or direct piezoelectric effects. The
+stimulationshavebeenproventobebeneficialforcellproliferation
+and tissue regeneration. Recent reports showed that doping
+differentcontentsofreducedgrapheneoxide(rGO)orpolyaniline
+(PANi) into biodegradablepolyhydroxybutyrate (PHB)enhanced
+their piezoelectric response, showing potential for biomedical
+applications. In this stud",1,abstract,high
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,conclusion,"3PANi had a significantly lower electrochemical impedance Thisarticlereportedthedesign,fabrication,andkeyproperties
+than other groups but showed no significant difference in the of PHB-based composites as well as their interactions with
+BMSC adhesion and morphology when compared with other BMSCs in vitro. The addition of rGO or PANi to PHB
+groups. The short culture duration of 24 h may have scaffolds significantly affected the key properties such as the
+contributed to the difference between our ",end,conclusion,high
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,excerpt,"Composites and Cytocompatibility with Mesenchymal Stem Cells Ruoyu Sheng, Jing Mu, Roman V. Chernozem, Yulia R. Mukhortova, Maria A. Surmeneva, Igor O. Pariy,",1,cell,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,excerpt,stimulationshavebeenproventobebeneficialforcellproliferation and tissue regeneration. Recent reports showed that doping,1,cell,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,excerpt,"(PANi) into biodegradablepolyhydroxybutyrate (PHB)enhanced their piezoelectric response, showing potential for biomedical",1,biodegradable,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,excerpt,betweenphysiochemicalpropertiesandtheinvitrocellresponseto the PHB-based composite scaffolds with rGO or PANi.,1,cell,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,excerpt,"the PHB-based composite scaffolds with rGO or PANi. Specifically, we characterized the surface morphology, wetting",1,scaffold,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,figure_caption,"(A)Watercontactangleand(B)surfacefreeenergy(DC-dispersivecomponentandPC-polarcomponent)ofelectrospunPHB-based
+compositesofPHB0.2rGO,PHB1rGO,PHB2PANi,andPHB3PANiaswellasthecontrolsofPHBandPCL.Nostatisticalsignificancewas
+foundasp > 0.05.
+(model SB70P, VWR). The average pH values and standard
+derivati",,Figure 1,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,figure_caption,"Electrochemicalimpedancespectrafor(A)PHB,(B)PHB0.2rGO,(C)PHB1rGO,(D)PHB2PANi,and(E)PHB3PANiatdifferent
+frequencies.
+3735 https://doi.org/10.1021/acsami.2c15802
+ACSAppl.Mater.Interfaces2023,15,3731−3743
+ACS Applied Materials & Interfaces www.acsami.org ResearchArticle
+with a corresponding EDS map, el",,Figure 4,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,figure_caption,"FTIR-ATR spectra of (A) PHB 0.2rGO, (B) PHB 1rGO,
+corresponding EDS map, elemental composition (carbon and
+(C)PHB2PANi,(D) PHB3PANi,and (E)PHB.
+oxygen in atomic percent), and fiber-diameter distribution",,Figure 5,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,figure_caption,"Surface morphology, elemental composition, and fiber diameter distribution of PHB-based composites with rGO or PANi and the
+controlsofPHBandPCLaftercellculture.(A)SEMimage,(B)SEMimagesoverlaidwithEDSmaps,(C)atomiccontentofcarbon,oxygen,
+phosphorus,silicon,chlorineandsodium,and(D)fiberdiameterdistrib",,Figure 7,medium
+P119,Fabrication and Characterization of Piezoelectric Polymer,P119_unidentified.pdf,2023,high,good,figure_caption,"RepresentativefluorescenceimagesofBMSCsafterinvitro
+control was observed.
+direct culture with PHB 0.2rGO, PHB 1rGO, PHB 2PANi, PHB
+3PANi, PHB, PCL, and the glass control group (direct and indirect Figure 9D shows the pH values of the culture media
+contact) for 24 h. The original magnification was 10",,Figure 8,medium
+P164,A bioinspired and hierarchically structured,P164_unidentified.pdf,2021,low,partial,excerpt,"is biocompatible and processable through fibre spinning and three-dimensional (3D) printing. We extract keratin protofibrils from animal hair and subject them to shear stress to induce their self-organization into a nematic phase, which recapitulates",1,biocompat,medium
+P164,A bioinspired and hierarchically structured,P164_unidentified.pdf,2021,low,partial,excerpt,the scalable fabrication of strong and hierarchically structured shape-memory fibres and 3D-printed scaffolds with potential applications in bioengineering and smart textiles.,1,scaffold,medium
+P164,A bioinspired and hierarchically structured,P164_unidentified.pdf,2021,low,partial,excerpt,polymeric shape-memory materials6 with improved biocompat- and their anisotropic alignment was further tuned by the charge ibility and biodegradability properties7. Despite the wide variety of screening effect to achieve protofibril alignment during the extru-,1,biocompat,medium
+P164,A bioinspired and hierarchically structured,P164_unidentified.pdf,2021,low,partial,excerpt,"inherently biocompatible and biodegradable. Our design approach hydryl moieties23. This reaction is reversible under oxidative condi- targets the recapitulation of the α-keratin hierarchical and aniso- tions, thereby allowing for the reconstitution of the native disulfide",2,biodegradable,medium
+P164,A bioinspired and hierarchically structured,P164_unidentified.pdf,2021,low,partial,excerpt,with very few protein degradation products (Supplementary Fig. 4). Evidence of the keratin hierarchical structure up to the proto- Hierachical structuring and anisotropy in keratin fibres,5,degradation,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,abstract,"Triboelectric nanogenerators (TEN Gs) continue to serve as promising candidates to harvest
+micromechanical energy from amlbient sources and convert into useful electrical energy for
+a
+meeting the globally increasing energy demands. However, the output from TENG is pulsed
+alternating current (AC)n with high crest factor, often unsuitable for directly powering electronic
+devices. This necessitates the need for additional rectification measures, such as a rectifier
+r
+bridge, diode, etc. which reduc",1,abstract,high
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,conclusion,"and Future Outlook
+o
+While TVNGs are paving the way forward as a reliable and sustainable technique of energy
+r
+harvesting to directly power electronic devices without any external rectification, there are
+p
+issues that plague the real-world utilization of TVNG devices. For practical large-area
+harvesting, innovations for scaling up from lab-sc-ale (limited to nanoscale and micro scale
+contact area) is crucial. The working mechanisem of a TVNG points some inherent limitations,
+including low outp",end,conclusion,high
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,excerpt,"output current of 22 µA), excellent lubricating properties, and duroability (Figure 2C)[26]. In contrast with most studies, both p-type and n-type Si were explored in this case to probe the",6,cell,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,excerpt,(nitrocellulose) as the nslider to generate ultrahigh DC voltage and power based on charge deposition and charge recombination[45]. This quasi-TVNG designed solely using insulators,10,cell,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,excerpt,degradation[60]. A breathable TVNG was achieved using simple chemical doping to create p- and n-type fabrics integrated with clothing for enhanced comfort and energy harvesting[73].,16,degradation,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,excerpt,"deliver a steady current output of up to 2.5 mA (multiple cells in parallel), enabling rapid charging of commercial capacitors[72]. TVNGs have also been designed to co-harvest multiple",16,cell,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,excerpt,"Implants via Triboelectric Energy Harvesting, Advanced Materials Technologies (2025) e01451. [3] C. Zhang, T. Zhou, W. Tang, C. Han, L. Zhang, Z.L. Wang, Rotating-Disk-Based Direct-Current",19,implant,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,figure_caption,Band energy diagram depicting A) Photovoltaic effect [7]; B) Tribovoltaic effect [9].,,Figure 1,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,figure_caption,"SS interface junction TVNGs: Materials and dominant operatinfg mechanisms leading
+o
+to DC power generation owing to the built-in electric field acting from A) p-Si to n-WSe [33]
+2
+and B) p-Si to n-Si [35] irrespective of the sliding direction; interfacial electric field acting
+o
+from C) p-Si to n-Ga",,Figure 3,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,figure_caption,"Liquid interface-based TVNGsr: Materials and dominant operating mechanisms
+P
+leading to DC power generation in A) graphene oxide [48] and B) MXene solution as lubricant
+and conducting layer at the MS junction TVNGs [49].",,Figure 5,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,figure_caption,"Enviuronmental factors affecting the output performance in TVNGs; A) Effect of
+temperature on Voc and Isc of water/Si and water/metal junction TVNGs; B) Effect of varying
+o
+humidity levels on Voc and Isc of Cu/n-Si MS junction TVNG.",,Figure 7,medium
+P176,Recent developments in tribovoltaic,P176_unidentified.pdf,2026,low,good,figure_caption,"Future outlook of TVNGs
+Table Captions
+Table 1. Materials used and output parameters of MS interface-based TVNGs
+Table 2. Materials used and output parameters of SS interface-based TVNGs
+Table 3. Materials used and output parameters of MIS or SIS interface-based TVNGs
+Table 4. Materials used and out",,Figure 9,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,abstract,"The development of next-generation sustainable
+polymers presents a promising strategy for addressing the global
+plastic waste crisis. However, many designs focus solely on
+degradabilityandrecyclabilitywhileneglectingmechanicalproper-
+ties and functionalities, ultimately limiting their potential, as they
+often fall short of conventional plastics. Herein, we designed
+various tough, multifunctional, and biodegradable polyurethanes
+(PUs) through structure−property tuning for versatile applica-
+tions",1,abstract,high
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,conclusion,"Ryohei Ikura − Department of Macromolecular Science,
+Graduate School of Science, The University of Osaka,
+In this study, we successfully developed a range of tough,
+Toyonaka 560-0043 Osaka, Japan; Forefront Research
+multifunctional,andbiodegradablePUsbytuningthechemical
+Center,GraduateSchoolofScience,TheUniversityofOsaka,
+compositions and polymer structures. Compared with L-PUs,
+Toyonaka 560-0043 Osaka, Japan; orcid.org/0000-
+γCD-PUs performed better mechanical performance, which is
+0002-3850-45",end,conclusion,high
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,excerpt,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled by Structure−Property Tuning for Versatile Applications",1,biodegradable,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,excerpt,"various tough, multifunctional, and biodegradable polyurethanes (PUs) through structure−property tuning for versatile applica-",1,biodegradable,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,excerpt,"mechanicalproperties, enzymaticdegradability, andfunctionalities of PUs can be finely tuned. Notably, PUs incorporating a low",1,enzymatic,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,excerpt,"and excellent recyclability. Furthermore, selective enzymatic degradation of γCD-PUs was achieved with specific enzymes and reaction conditions. By adjusting their chemical structures, biodegradable γCD-PUs can function as hydrophobic materials, shape-",1,degradation,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,excerpt,"reaction conditions. By adjusting their chemical structures, biodegradable γCD-PUs can function as hydrophobic materials, shape- memory materials, adhesives or strain sensors. After applying a novel enzymatic reinforcement strategy, the reinforced γCD-PUs",1,biodegradable,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,figure_caption,"ChemicalstructuresandcharacterizationsofPUs.(a)ChemicalcompositionsandpolymerstructuresofPUs.(b)FTIRcharacterization
+ofPUs withTAcγCD-based movablecross-links (γCD-PUs).(c) TGAcurves showingthe decomposition temperaturesofPUs (FigureS22).
+duetotheinherentversatility.1,2,45,46Bypreciselytailoringthe ",,Figure 1,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,figure_caption,"Enzymaticdegradationbehaviorsandpolymerfunctionalities.(a)CurvesoftheresidualweightofPUsafterenzymaticdegradationwith
+lipasePSinphosphatebuffer(pH7.0)at37°Cforseveraldays;inset:photographofthepristinePCL-γCD-PUfilmandP(DMS-CL)-γCD-PU
+filmandthefilmsafterincubationinbufferfortheprescribeddegradationt",,Figure 3,medium
+P337,"Tough, Multifunctional, and Biodegradable Polyurethanes Enabled",P337_unidentified.pdf,2025,medium,good,figure_caption,"PreparationandcharacterizationofPUsasreusableadhesivesandbiodegradablestrainsensors.(a)Schemeshowingthepreparationand
+reusability of PUs adhesive materials. (b) Photograph showing that the P(TME-CL)-γCD-PU adhesive (∼ 1.0 mg) on a 2.0 cm2 aluminum
+substratecouldholda4.0kgbottle.(c)ShearstrengthofPUs",,Figure 4,medium

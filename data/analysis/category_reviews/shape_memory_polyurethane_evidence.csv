@@ -1,0 +1,83 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,evidence_text,page_est,keyword,confidence
+P045,第 38卷 第 2 期,P045_unidentified.pdf,2025,medium,good,abstract,"Associative polymers (APs), due to their unique dynamic behaviors, show significant potential
+in fields such as self-healing, shape memory, and rheological modification. The presence of associative
+interactions leads to a coupling between strand motion and associative reactions, which not only broadens
+the application of APs, but also adds complexity to their processing. Developing a rheological theory for
+APs is essential for understanding their viscoelastic properties at the molecular level. S",1,abstract,high
+P045,第 38卷 第 2 期,P045_unidentified.pdf,2025,medium,good,excerpt,"in fields such as self-healing, shape memory, and rheological modification. The presence of associative interactions leads to a coupling between strand motion and associative reactions, which not only broadens",1,shape memory,medium
+P045,第 38卷 第 2 期,P045_unidentified.pdf,2025,medium,good,excerpt,"6 Dolog, R.; Weiss, R. A. Shape memory behavior of Diels-Alder chemistry. Macromolecules, 2010, 43(13), a polyethylene-based carboxylate ionomer. Macro- 5515-5520.",15,shape memory,medium
+P045,第 38卷 第 2 期,P045_unidentified.pdf,2025,medium,good,excerpt,"and tough shape memory polyurea with unprecedented 22 Green, M. S.; Tobolsky, A. V. A new approach to the energy density by precise slight cross-linking. Adv. theory of relaxing polymeric media. J. Chem. Phys.,",15,shape memory,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,abstract,"Thiol−ene click chemistry has been widely used for
+synthesizing cross-linked polymers, but conventional networks
+contain irreversible thioether bonds, preventing reprocessing and
+contributing to waste. To address this, dynamic covalent linkages
+have been introduced. However, designing chemistry that permits
+the dynamicity and robustness of the network is a formidable
+challenge. Besides, regulating dynamicity and creep in the network
+bearing the dynamic linkages remains another major challenge. T",1,abstract,high
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,conclusion,"behaviorofBE-T-Hwasevaluatedbystressrelaxationstudies.
+Theactivationenergy(E)113.1kJ/molwasestimatedusingthe In summary, this report presents a strategy for designing
+a
+Arrheniusequation.Themechanicalpropertiesoftheupcycled reprocessable and recyclable thiol−ene networks with the
+H https://doi.org/10.1021/acs.macromol.5c02805
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Article
+incorporationofrobustanddynamicetherlinkagestoregulate AuthorContributions
+creepanddynamic",end,conclusion,high
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,excerpt,"networks containing both dynamic and permanent linkages.33 Furthermore, the shape memory performance of the network While these strategies were effective to some extent, these was demonstrated. Besides, as the end-of-life solution, the",3,shape memory,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,excerpt,"by facilitating the recovery of monomers that can be 2.1. Synthesis of Small Molecules. 2.1.1. Synthesis of repolymerized to obtain pristine-like polymers without a 1,3,5-Tris(chloromethyl)-2,4,6-trimethylbenzene (TCM-TMB).",3,recovery,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,excerpt,differenttemperatures.(E)Digitalphotosofbend-recoveryshapememoryofBETE-02. Figure7.(A)FigureshowingdegradationoftheBETE-06networkwithanexcessofmethanol.Thedegradationwascarriedoutat140°Cinthe,10,recovery,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,excerpt,"Figure S32A,B). The modulus remained stable at higher performance was evaluated using a bend recovery experiment. frequencies but decreased in the lower frequency range. To investigate this behavior, the rectangular bar of BETE-02",10,recovery,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,excerpt,recovery (R) were calculated to be 97.77% and 98.8% r,10,recovery,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,figure_caption,"Schemeshowing(A)thesynthesisofbenzylicetherbearingtrifunctionalalkene,1,3,5-tris((allyloxy)methyl)-2,4,6-trimethylbenzene(TAM-
+TMB) monomer from mesitylene. (B) Scheme showing the transetherification of TAM-TMB. (C) Stacked 1H NMR spectra monitoring ether
+exchangeabilityinTAM-TMB.Thebenzylprotonsint",,Figure 1,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,figure_caption,"(A)TGAplotsoftheBETE-02,BETE-06,andBETE-10networks.Theinsetshowsthezoomed-inTGAprofileshighlightingthe5%weight
+losstemperature(T ).(B)DSCprofilesofthenetworksshowingtheglasstransitiontemperature.(C)DMAprofileoftheBETEnetworks.
+d,5%
+3.3. Network Preparation. To synthesize the thiol−ene which further ",,Figure 3,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,figure_caption,"(A)ComparativeFT-IRspectraoftheoriginalBETE-06and
+relaxation.Forexample,at140°C,thecharacteristicrelaxation
+reprocessed BETE-06P showing no observable change. The inset
+times for BETE-02, BETE-06, and BETE-10 were 173.03,
+showstheprocessingofthenetwork.(B)Tensiledataplotsofthe1st
+reprocessed samples",,Figure 4,medium
+P209,Design of a Recyclable Thiol−ene Network with Dynamic Ether,P209_unidentified.pdf,2025,low,good,figure_caption,"Strainvstimeplotfor(A)BETE-02,(B)BETE-06,and(C)BETE-10.(D)ComparativesecondarystrainrateforBETEnetworksat
+differenttemperatures.(E)Digitalphotosofbend-recoveryshapememoryofBETE-02.",,Figure 6,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,conclusion,"6 S. Mukherjee, J. J. Cash and B. S. Sumerlin, Dyn. Covalent
+Chem.,2017,321–358.
+In summary, the combination of the tetrathiol PTMP with 7 G.M.Scheutz,J.J.Lessard,M.B.SimsandB.S.Sumerlin,J.
+ditopic benzalcyanoacetate Michael acceptors grants access to Am.Chem.Soc.,2019,141,16181–16196.
+dynamic networks with a wide range of thermomechanical 8 S.J.Rowan,S.J.Cantrill,G.R.L.Cousins,J.K.M.Sanders
+properties. Furthermore, the electronic nature of the substit- andJ.F.Stoddart,Angew.Chem.Int.Ed.,2002,41",end,conclusion,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,excerpt,"matrix (attributed to the lower thermal transition) with hard, behaviour. In a representative example, the shape memory circularinclusions(attributedtothehigherthermaltransition) behaviour of the 2N 50 H 50 lm was evaluated using force-",12,shape memory,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,excerpt,"(Fig.6aandb).Wehypothesizethatwhiledynamicbondsexist controlled DMA shape memory experiments. A single tempo- inbothphases,accesstothedynamicexchangeineitherphase raryshapewasimpartedtothesampleat60(cid:1)Candxedupon",12,shape memory,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,excerpt,"hand, revealed more complex morphologies, indicative of original shape (recovery strain, 3 ¼ 0.0371), with the residual r",12,recovery,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,excerpt,"Forexample,2N 50 H 50revealsconcentricphasedevelopmentin occurred throughout the shape memory process (a phenom- which a continuous hard phase contains encapsulated soer enon common to dynamic covalent materials). The ability to",12,shape memory,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,excerpt,"transitionphase,whichexplainstheresultingplateauregimein permanent shape (Fig. 7b, Shape 1) in the lm at elevated theDMAaboveT .Similarphasebehaviourwasalsoobserved temperatures (90 (cid:1)C), allowing the continuous stiff phase to",12,permanent shape,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,figure_caption,"Pioneering small molecule studies by Taunton,32 Ans-
+dDepartment of Macromolecular Science and Engineering, Case Western Reserve
+lyn,33 and Houk34 have shown that thiol addition to such
+University,2100AdelbertRoad,Cleveland,OH44106,USA
+Michaelacceptorsrequiresnocatalystandisdynamicatroom
+eChemicalSc",,Figure 1,medium
+P224,EDGE ARTICLE,P224_unidentified.pdf,2020,low,partial,figure_caption,"Annealingabovetheupper (d)AFMimage).Scalebar¼5mm.Phasegradientappliestoboth(c)
+and(d).",,Figure 6,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,conclusion,"40mms−1,thefilldensityandfilloverlapratewereboth100%,thefill
+shapewaseitherlineorconcentriccircle,theinternalcoolingfanspeed
+WeakinterlayerbondinglimitstheperformanceofFDM-printed wassetto100%,andtheambienttemperaturewas25°Cintheprinting
+parts due to its layer-by-layer deposition process. In this work, chamber.
+Characterization: Structuresofthesynthesizedcrosslinkerswerecon-
+we introduce a blended approach to enhance interlayer ad-
+firmedby1H-NMR(500MHz,CDCl assolvent).T andT weretested hesion i",end,conclusion,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,excerpt,"reform covalent bonds between layers upon heating. Notably, synergy of welding and shape memory effects enables the cre- the polyurethanes featured dynamic urea bonds not only en- ationofmodular4Dprinting,[30]whereprintedobjectscanadapt",3,shape memory,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,excerpt,"The fully assembled object can undergo shape memory cycles, at100°Cfor2min(Figure2c).Theweldedspecimencanwith- where the shape can be temporarily fixed and recovered in re- standaweightofatleast200g,over2000timesitsownweight.",5,shape memory,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,excerpt,"PLA(Figure3e).Itisimportanttonotethatallmechanicaltests PLA exhibits shape memory properties, where the T acts g",8,shape memory,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,excerpt,"ing the printing process. While annealing facilitates interlayer ing points responsible for shape recovery.[35] As shown in bonding(Figure3e),italsoinducescoldcrystallizationofPLA,[35] Figure4a,blendinghasminimalimpactonthethermodynamic",8,recovery,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,excerpt,"theboronateanioninPLA/BAthathindersstablecrosslinkfor- shape memory performance (Figure S11, Supporting Informa- mationanddeterioratesitsassociatedmechanicalenhancement. tion).TakingthePLA/PB20Z-axissampleasanexample,itex-",9,shape memory,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,figure_caption,"ThechemicaldesignandtheprincipleofthedynamicnetworkblendingforFDMprinting.a)Molecularstructuresofdynamiccrosslinkers.
+b)Schematicofthedynamicnetworkformedviaclick-reaction.c)FDMprintinganditsinterfacialinteractions.d)Modular4Dprinting.
+materialscontainingDiels-Alder(DA)moietiesordirectlyprint- layer",,Figure 1,medium
+P237,Dynamic Boronate Ester Chemistry Facilitating 3D Printing,P237_unidentified.pdf,2025,low,partial,figure_caption,"MechanicalpropertiesandinterlayerSEMcharacterizationof3Dprintedsamples.a)FDM-printedbasic3Dmodelswithatwo-filament
+thickness,scalebar:5mm.b)Stress-straincurvesalongtheZ-axisoftheprintedmodel.c)MechanicalstrengthalongtheXandZaxes.d)SEMimages
+ofthecross-sectionsbeforeheattreatment.e)SEMimagesofthesurf",,Figure 3,medium

@@ -1,0 +1,668 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,claim_type,evidence_text,figure_table_source,page_est,keyword,confidence,relevance,ml_feature_candidate
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,conclusion,finding,"Progress and potential
+The current paradigm of elastomer design typically falls into the Stiffness-extensibilitytrade-offof
+trade-off between stiffness and extensibility. With a few reports elastomersisalong-standing
+on circumventing this trade-off behavior, e.g., increasing Young’s challengethatimposesgreat
+modulus without sacrificing extensibility, the design principles to difficultyonimprovingtheir
+achieveimprovementsinbothstiffnessandextensibilityhaverarely overallmechanicalperformance.
+been",conclusion section,end,conclusion,medium,high_relevance_pu,TRUE
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,excerpt,general,of elastomers via mastering the hydrogen- bonding clusters,line 5,1,elastomer,medium,high_relevance_pu,FALSE
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,excerpt,interpretation,"elastomersbyimprovingbothparameters.Themicroscopicdynamicpictures wereproposedbasedonexperimentalandsimulationdata,andgenerated",line 24,1,elastomer,medium,high_relevance_pu,FALSE
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,excerpt,general,knowledgewillbeinstrumentalforotherelastomersystemsforfunctionalelastic materials.,line 26,1,elastomer,medium,high_relevance_pu,FALSE
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"Characterizationsofthedevelopedelastomers
+(A)InfraredspectroscopyoftheECN,pc-IPN,andnetworkwithchemicallygraftedUPyunits(cg-
+ECN)from1,350to1,850cm(cid:3)1;insertshowsthebroaderabsorptionrangefrom600to4,000cm(cid:3)1.
+(B)DSCcurvesofECN,pc-IPN1.5UPy,andcg-ECN1.5UPy;insertisthecoolingcurve;heatingrate",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P010,Surpassing the stiffness-extensibility trade-off,P010_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"Theproposeddynamicprocessesofchemicalnetworkgraftedwith1.5equivalentofUPy(cg-ECN
+1.5UPy
+)uponstretching
+(A)Phase1:elasticrecovery(0%–5%linearrecovery,5%–10%non-linearrecovery).Phase2:breakofchemicalbondsandUPy-clusterrearrangement.
+(B)Scatteringfunction,S(q),fromB-typebeadsfordifferentvaluesofεforth",Figure 3,,Figure 3,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,abstract,finding,"An overview is given of the development of NMR
+spectroscopy during the past 50 years with emphasis on applications in
+macromolecular science. The unique versatility of the technique, in
+particular solid-state NMR, being able to elucidate structure and dynamics
+over wide ranges in space and time is demonstrated. The examples pre-
+sentedillustratehowadvancedNMRmethodsmeetthechallengesposedby
+the delicate interplay of structure and dynamics in macromolecular and
+supramolecular systems, leading to i",abstract section,1,abstract,high,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,conclusion,finding,"have AstheshapesofthedomainsaredifficulttodiscerninNMR,
+recentlybeenconfirmedbysimpletime-savingandyeteffective
+the technique is particularly useful for elucidating small
+1H NMR methods.138,139 domainsinmisciblesystems,145whicharebelowtheresolution
+In a related study, chain folding within the fold surface limit of other methods.6 For quantification of the results the
+between crystalline and noncrystalline regions in isotactic spin-diffusion coefficients have to be known. In glassy systems
+poly(p",conclusion section,end,conclusion,high,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,excerpt,general,ABSTRACT: An overview is given of the development of NMR spectroscopy during the past 50 years with emphasis on applications in,line 11,1,overview,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,excerpt,general,"of macromolecules. In fact, in a recent overview entitled “Innovative NMR Strategies for Complex Macromolecules” by 1H, 2H 13C, 15N, and the parameters governing NMR spectra;",line 32,1,overview,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,excerpt,general,"reviews on solution NMR7 and solid-state NMR8 of polymers. applied to macromolecular science in detail here, as they are Interestingly, multidimensional solid-state NMR spectroscopy described in the references cited. In Table 1 of ref 12 the",line 64,2,review,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Current applications of NMRin various fieldsof science.
+and dynamics. Current efforts to further increase the NMR
+signal intensity dramatically as well as combining NMR with polymershavepublishedseminalpapersinMacromolecules,25−27
+other techniques directly and in situ studies are in the focus of oft",Figure 2,,Figure 2,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,figure_caption,measurement,"fuelcellsandbatteries,polymericionicconductors,sensorsand
+Correspondingly, according to Web of Science the number of information processors, macromolecular systems for drug
+papers employing NMR published per year is 40 times higher delivery and biomedical devices, etc.
+today than it was in the late ",Figure 2,,Figure 2,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Chain dynamics of atactic polypropelene in the vicinity of
+displacements. Reproduced with permission from ref 8. Copyright the glass transition as revealed by various NMR techniques.
+2012Elsevier. Reproduced with permission fromref 103.Copyright 1994 Wiley.
+the model predicts five different regimes ",Figure 5,,Figure 5,medium,standard,TRUE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,figure_caption,measurement,"This important
+Byadvanced2DNMRtechniques,whichenablerecording13C processwasinvestigatedbysolid-stateNMRalreadyin1991,132
+anisotropic chemical shift patterns for the different aromatic and more recently studied in well-defined high molar mass
+carbons in the repeat unit, the geometry of the phenylene ",Figure 7,,Figure 7,medium,standard,FALSE
+P018,"This is an open access article published under an ACS AuthorChoice License, which permits",P018_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Scheme of dynamics relevant for the drawability of (a) The magnetization reflects the morphology of a two-component
+polyethylene. system with equal fractions A and B. (b) After selection of the
+magnetization of one component (A in this case), spin diffusion
+chain diffusion. Moreover, the difference ",Figure 7,,Figure 7,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,excerpt,general,ABSTRACT: This Perspective outlines recent advances con- cerning the formation and potential uses of block copolymer,line 9,1,recent advance,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,excerpt,general,"review,andthereaderisreferredtotherelevantliterature.32−37 consist of covalently linked, and more recently non-covalently",line 20,1,review,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,excerpt,method,"including anionic polymerization and controlled radical actions and leading to a further reduction in the total free polymerization methods, such as reversible addition−fragmen- energyofthesystem.Micelleformationoccursaboveaspecific",line 34,1,ionic,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Thermodynamically preferred morphology of the self-
+micellecore51orcorona52−56can“lock-in”themicellestructure
+assembled BCPs in a selective solvent can be predicted by means of and make it permanent.57 This very useful and now well-
+thedimensionless“packingparameter”P.Reproducedwithpermission
+develo",Figure 1,,Figure 1,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Laser Confocal Fluorescence Microcopy (LCFM) images revealing the microphase separation of PB-b-PEO and PB-b-PAA in aqueous
+solutionduetogelationofPAAwithdivalentcations.DependingontheblendratioofPB-b-PAAandPB-b-PEO,differentmicellarmorphologies
+were observed (a−c). Scale bars: 2μm.Reproduced with p",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"StepwiseassemblyofPS-b-PB-b-PMMA(SBM)andPS-b-PD-b-PMMA(SDM)triBCPsintohierarchicalmicellarstructures,inducedby
+changes in the solvent composition. Depending on the volume ratios of the core-forming blocks, monovalent SBM and divalent SDMS colloidal
+buildingblocksare formed bypolymer self-assembly (l",Figure 5,,Figure 5,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Methodsforproducingmonodispersecylindricalmicelleswithcrystallinecoresinsolutionvia“self-seeding”(upperroute)and“seeded
+growth”(bottom route). Reproduced with permission fromref 163.
+of the core−corona interface,49 and intercoronal chain stereocomplexated PLA core were formed (Figure 6) by an
+repuls",Figure 7,,Figure 7,medium,standard,FALSE
+P021,Solution Self-Assembly of Block Copolymers,P021_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"(a) TEM images of centrosymmetric triblock comicelles
+with patchy segments of controlled length, formed through seeded
+CDSA processes have been reported for other BCPSs such a growthofPS-b-PE-b-PMMAunimerfromPS-b-PE-b-PSmicelleseeds.
+PS-b-PE-b-PS triblock terpolymer with a crystallizable central Sca",Figure 9,,Figure 9,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,conclusion,method,"of recent
+signals.17Syntheticpolymer brushesare increasingly important studiesof“grownfrom”brushsynthesis,theoreticalconceptsof
+as interfaces between materials and biological environments, neutral and charged polymer brushes, new brush architectures,
+asstimuli-responsivesurfacesindrugdelivery,18andassurfaces andselectedexamplesofapplicationsinvolvingpolymerbrushes.
+for cell growth and for bioseparation.19 For example, charged Inparticular,exampleswherebrushdensityorbrushstretching
+brushesareused",conclusion section,end,conclusion,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,excerpt,general,"inpolymerbrushesandmayproducemechanochemicaleffects, lead to interesting mechanical properties in the solid state, influenceslocationofbrushchainendsinplanarregionsinthe including the ability to span channels and gaps over surprising",line 59,2,mechanical,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,excerpt,finding,"Other uses include polymer compatibilizers,12 new adhesive new, significantly improved thermomechanical, optical, and materials,13,14 chromatographic devices,15 and etch barriers.16 electrical properties22 have already been observed. More infor-",line 111,3,mechanical,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,excerpt,general,"mationcanbefoundinrecentreviews.23−26 and binding properties, act as valves in microfluidics, control The remainder of this Perspective will focus on polymer",line 114,3,review,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Synthesisofpolymerbrushesonsiliconsubstrateusing(a)SI-ATRP,1(b)SI-RAFT,3(c)SI-NMP,47(d)SI-PIMP,53and(e)light-mediated
+CRPviaphotoredoxcatalyst.59
+Polymerbrushesarewell-knownfortransformingthenature mustberatherhigh(aradiusofafewnanometers)toobservethis
+of a surface with a layer just a few nanometers",Figure 1,,Figure 1,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Changeofthethicknessscalingatdifferentgraftingdensities
+controlledsolventqualityasameanstocontrolbrushbehavior.
+and solvent qualities. (a) Mushroom to brush transition of PAAm Another “lever” that provides unique segmental density for
+brushes. Reproduced with permission from ref 79. (b) Transition o",Figure 3,,Figure 3,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"(a)Thermoresponsivepolypeptidebrusheswitholigo(ethyleneglycol)sidechains.Reproducedwithpermissionfromref147.(b)Stimuli
+responsive diblock copolymer brushes. Reproduced with permission from ref 136. (c) Poly(acrylic acid) brushes with grafting density gradient.
+Reproducedwithpermissionfromref113.(d)M",Figure 5,,Figure 5,medium,standard,FALSE
+P023,: Polymer Brushes: Novel Surfaces for,P023_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Schematic depiction of a cell-repellent surface (left) with
+PNIPAMbrushesinthehydratedstatebelowitslowestcriticalsolution
+temperature(LCST).AsthetemperatureincreasesabovetheLCST,the
+brushesdehydrateandcollapseallowingforcellstoadheretothesurface
+(right).",Figure 9,,Figure 9,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,excerpt,general,"physical and mechanical properties, and material processing conditions, for both fully amorphous and semicrystalline",line 31,1,mechanical,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,excerpt,general,"coming decade...”; however, although progress is being made, over two decades later, successful resolution of the glass",line 36,1,progress,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,excerpt,general,"begin with a simplified overview of the viscoelastic behavior in the form of a master or reduced curve, which covers 12−14",line 218,6,overview,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Schematic of the thermodynamic signature of glass-
+provide a background of the glass transition, its phenomenol-
+formation on cooling. If one remains at the temperature T, the
+ogy, structural recovery and physical aging, and modeling a
+nonequilibriumglasswillevolvespontaneouslytowardequilibriumina
+e",Figure 1,,Figure 1,medium,standard,TRUE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Normalized heat capacity data for polystyrene obtained on compared to the viscosity changes. In that case, eqs 1 and 2
+heating at 10 K/min after cooling at the rates indicated. Reproduced areinterchangeable,andforT ref =T g ,theparametersarerelated
+with permission fromref 4. Copyright 2007Elsevier. ",Figure 3,,Figure 3,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"(a) Relaxation modulus as a function of time on a linear scale for a model polymer. (b) Same data as in (a) but now in a double-
+logarithmicrepresentation.Thisshowstheimportanceofthedouble-logarithmicrepresentationoftheviscoelasticresponseofpolymericmaterials
+becausethespectrumofrelaxationtimes(ther",Figure 5,,Figure 5,medium,standard,TRUE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Double-logarithmic representation of the creep compliance
+In addition to stress relaxation behavior, one can examine mastercurveforapoly(vinylacetate)polymershowingthesegmental,
+dynamicdatainfrequencyspace.Typicalreducedcurvesforthe
+rubbery,andterminalflowregimes,thelatterwithslopeS=1.0.The
+storagem",Figure 8,,Figure 8,medium,standard,FALSE
+P029,: Challenges in the Dynamics and,P029_unidentified.pdf,2017,medium,partial,figure_caption,measurement,"Schematic of how a series of experiments at a range of
+temperaturesfromT toT areusedtodefinethetime−temperature
+6 1
+shift factor a . See text for discussion. Reproduced with permission
+T
+fromref 14. Copyright 2017CRC Press.
+5. In this case, the superposition is a simple horizontal shift
+along the lo",Figure 9,,Figure 9,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,abstract,method,"Biomaterials have been extensively used to leverage beneficial outcomes in
+various therapeutic applications, such as providing spatial and temporal control over the
+release of therapeutic agents in drug delivery as well as engineering functional tissues and
+promoting the healing process in tissue engineering and regenerative medicine. This
+Perspective presents important milestones in the development of polymeric biomaterials
+with defined structures and properties. Contemporary studies of biomate",abstract section,1,abstract,high,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,conclusion,general,"AND FUTURE PERSPECTIVES Present Addresses
+This Perspective highlights the recent developments in the Y.L.: Discovery Pharmaceutical Sciences, Merck Research
+design of polymeric and (poly)peptidic biomaterials with a Laboratories, Merck & Co., Kenilworth, NJ 07033.
+494 DOI:10.1021/acs.macromol.6b02389
+Macromolecules2017,50,483−502
+Macromolecules Perspective
+L.L.: Department of Biomedical Engineering, Boston Uni-
+versity, Boston, MA, 02215; Wyss Institute for Biologically
+Inspired Engineering, Har",conclusion section,end,conclusion,high,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,excerpt,general,: Polymeric Biomaterials: Diverse Functions Enabled by Advances in Macromolecular Chemistry,line 4,1,biomaterial,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,excerpt,general,"ABSTRACT: Biomaterials have been extensively used to leverage beneficial outcomes in various therapeutic applications, such as providing spatial and temporal control over the",line 22,1,biomaterial,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,excerpt,general,Perspective presents important milestones in the development of polymeric biomaterials with defined structures and properties. Contemporary studies of biomaterial design have,line 26,1,biomaterial,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Examples of orthogonal chemistries that are commonly used in the production of functional biomaterials: (A) copper(I)-catalyzed
+alkyne−azidecycloaddition(CuAAC);(B)strain-promotedazide−alkynecycloaddition(SPAAC);(C)tetrazineligation;(D)thiol−enereaction;
+(E) alkyne−azide cycloaddition by photoinitia",Figure 1,,Figure 1,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Resilin-based elastomeric hydrogels with independent tunability of mechanical and biological functions for regenerative medicine
+application.(A)SchematicofmodularRLP-basedhydrogelsfabricatedwithvariousmaterialcompositions.Reproducedwithpermissionfromref84.
+Copyright2016JohnWiley&Sons,Inc.(B)Represen",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Examplesofmodularengineeredhydrogelsassembledviareprogrammeddomainassociationthroughmolecularrecognition.(A)Artificial
+proteinsEPEandEREconsistofterminalcysteineresidues,elastin-likeend-blocksE,andeitherthePorRmidblockdomain.EREalsocontainsan
+octapeptide recognition sequence M for proteolytic cleava",Figure 5,,Figure 5,medium,standard,FALSE
+P038,: Polymeric Biomaterials: Diverse,P038_unidentified.pdf,2017,medium,good,figure_caption,measurement,"Purepopulationsofmarker-positivecellsattainedthroughpolymerization.(A)Cellsareimmunolabeledwithpolymerizationinitiators,and
+protective coatings are formed only on initiator labeled cells. Unprotected cells are lysed while coated cells are viable. (B) Naive Jurkat cells.
+(C)UncoatedJurkatcellsarelyse",Figure 7,,Figure 7,medium,standard,FALSE
+P040,"CiteThis:Macromolecules2017,50,9525−9527",P040_unidentified.pdf,2017,medium,partial,conclusion,finding,"the the past five decades. This is not the place to go in detail into
+50th anniversary of Macromolecules. The journal has thejustificationfortheseselections,butafewcommentsarein
+published a series of 24 50th Anniversary Perspectives by order.Thetopchoicewilllikelyengenderlittleargument.Until
+leadingexpertsaroundtheworld,whichwehopewillbecomea the1980s,modelpolymerswerepreparedalmostexclusivelyby
+great resource to the community for years to
+come.1−24
+These living anionic polymerization. This grea",conclusion section,end,conclusion,medium,standard,FALSE
+P040,"CiteThis:Macromolecules2017,50,9525−9527",P040_unidentified.pdf,2017,medium,partial,excerpt,general,These living anionic polymerization. This greatly restricted both the papers provide personal insights into many of the great polymers that could be prepared and the number of,line 11,1,ionic,medium,standard,FALSE
+P040,"CiteThis:Macromolecules2017,50,9525−9527",P040_unidentified.pdf,2017,medium,partial,excerpt,general,"lationsdeservesextracomment.Thepowerofbothhardware Perspective: Polymeric Biomaterials: Diverse Functions Enabled by and current algorithms has elevated simulations to the level of Advances in Macromolecular Chemistry. Macromolecules 2017, 50,",line 103,3,biomaterial,medium,standard,FALSE
+P040,"CiteThis:Macromolecules2017,50,9525−9527",P040_unidentified.pdf,2017,medium,partial,excerpt,general,"Matrix Membranes for Gas and Vapor Separation: A Review and AUTHOR INFORMATION Prospective Opportunities. Macromolecules 2017,50, 7809−7843.",line 171,5,review,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,conclusion,general,"Triboelectricnanogenerator(TENG) isconsideredasapotential solution tohar-
+vest distributed energy for the sustainable and reliable power supply of the
+internet of things. Although numerous researches on alternating current (AC)
+output TENG from fundamental physics to potential applications have been
+widely promoted in recent years, the studies about direct current (DC) output
+TENGisjustbeginning,especiallyforaconstantcurrentoutput.Thisworkgives
+the summary of recent key researches from AC-TENG t",conclusion section,end,conclusion,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,excerpt,general,"ithasattractedsignificantattentionasanemergingmechanicalenergyharvestingtechnologyowingtoits variousmeritsofsimplestructure,lightweight,diversechoiceofmaterials,lowcost,andhighefficiency",line 81,3,mechanical,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,excerpt,general,"Inrecentyears,thereareseveralelaboratereviewsaboutAC-TENG(Wang,2014,2020b;WangandWang, 2019;Wuetal.,2019;Zhouetal.,2020b).However,thestudiesofDC-TENGhavenotbeenreviewedtill",line 99,3,review,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,excerpt,general,"2019;Wuetal.,2019;Zhouetal.,2020b).However,thestudiesofDC-TENGhavenotbeenreviewedtill now.Webelieveatimelyreviewonthistopicisveryimportantforfuturedevelopmentofthenew-gener-",line 100,3,review,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,figure_caption,measurement,"ThemechanismandoutputsofgeneralizedTENGbasedonCE
+ion transfer, where electron transfer plays a dominant role in liquid-solid CE (Lin et al., 2020b; Wang,
+2020b).
+ThedistancebetweentwoatomswhereCEoccursisexploredbymeasuringthesurfacepotentialusing
+KPFMinatappingmode(Lietal.,2016;Linetal.,2020a).Thesu",Figure 1,,Figure 1,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,figure_caption,measurement,"FourworkingmodesofAC-TENG
+(A–D)(A)Thecontact-separationmode,(B)lateral-slidingmode,(C)single-electrodemode,and(D)freestanding
+triboelectric-layermodeTENG.
+(E)ThecapacitormodeloftwotypesofAC-TENG.
+widelyusedinrotarymodeenergyharvestingsuchaswindandwaterflowenergy.Thesliding-typeAC-
+TENGhastheadvantag",Figure 3,,Figure 3,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,figure_caption,measurement,"FigureofmeritsforTENGs
+Reprintedfrom(Zietal.,2015)withpermission,Copyrightª2015SpringerNature.
+(A)SchematicdiagramoftheLSmodeTENG.
+(B)Thecyclesforenergyoutputattheloadresistanceof100MU.
+(C)ThemaximumFOMsofdifferentstructuralTENGfromFEMsimulations.
+(D)Themeasurementdiagramwithliquidmetalasoneelectrod",Figure 5,,Figure 5,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,figure_caption,measurement,"PhasecontrolforTENG
+(A)(i)Schematicdescriptionofthemulti-phaserotation-typeTENG.(ii)Multi-phasemanagementcircuitdiagramoftheMP-TENG.(iii)Outputvoltageofthe
+MP-TENGwithdifferentphasesduringonecycle.Adoptedfrom(Ryuetal.,2018).
+(B)(i)SchematicdiagramofthestructuralrelationshipofphaseandgroupinthisDC-TE",Figure 7,,Figure 7,medium,standard,FALSE
+P070,OPEN ACCESS,P070_unidentified.pdf,2009,medium,partial,figure_caption,measurement,"ConstantcurrentTENGarisingfromelectrostaticbreakdown
+Adoptedfrom(Liuetal.,2020b).
+(A)WorkingmechanismoftheslidingmodeDC-TENG.
+(B)ThebasicprincipleoftheDC-TENGfromacircuitperspective.
+Recently,Yoonetal.(2020)reportedamicro-discharge-basedDC-TENGviaaccumulationoftriboelectric
+chargesinatmosphericcondi",Figure 9,,Figure 9,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,excerpt,general,Recent Advances in the Design of Ionenes: Toward Convergence with High-Performance Polymers,line 3,1,recent advance,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,excerpt,general,"Ionenes, condensation polymers wherein the charge (typically cationic) mers, the earliest studied uses of ILs were lies directly within the polymer backbone, have been known for over 85 as plasticizers[13,14] and as solvents for",line 7,1,ionic,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,excerpt,general,"growth of research in imidazolium-based ionic liquids (ILs), wherein the number of reports by Bara and co-workers combination of ionenes with ILs can yield unexpected behaviors. Further- in this area.[32–40] Lodge identified the",line 23,1,ionic,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"Examples of IL monomers and representations of typical cati-
+onic imidazolium poly(IL) structure with free bistriflimide (TfN−) anions and synthesis of new monomers and ionic polymers; ionic
+2
+(top) and sulfonimide anionic poly(IL) with “free” Li+ cations (bottom). liquids and their interactions wit",Figure 1,,Figure 1,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"Repeat unit of imidazolium-based ionene (left) and picture of melt-pressed film (right). N N
+Photograph reproduced with permission.[58] Copyright 2010, Elsevier. fonated product. The H+ catalytic activity
+of this ionene was demonstrated through
+the condensation of napthol, benzalde-
+hyde, and either",Figure 3,,Figure 3,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"OH− stable ionenes with polybenzimidazolium backbones synthesized by Thomas[91] (left) and Wright[65] (right).
+Scheme 4. Synthesis of OH− stable ionenes containing N-spirocyclic 4o ammonium salts by Pham et al.[66]
+Macromol. Chem. Phys. 2019, 220, 1900078 1900078 (5 of 17) © 2019 WILEY-VCH Verlag Gm",Figure 5,,Figure 5,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"[93–95] (MDA) and 4,4′-(hexafluoroisopropylidene)diphthalic anhydride
+Specifically, the polyimide-ionene in Figure 6 contains a bipyri- (6-FDA) to form random and block copolymers that contain imi-
+dinium moiety which would be classified as a viologen, meaning dazolium cations within the polymer bac",Figure 6,,Figure 6,medium,standard,FALSE
+P102,Recent Advances in the Design of Ionenes: Toward,P102_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"Synthesis of perylene-containing ammonium polyimide ionene-zwitterion with pendant sulfonate anions with inset photograph of 0.1 mg
+mL−1 of ionenes (R = Br, 50 mol% copolymer with TMHDA) in water and TFE under a) ambient light and b) 365 nm UV light. Photographs reproduced
+with permission.[100] Copy",Figure 8,,Figure 8,medium,standard,FALSE
+P139,INSIGHTS | PERSPECTIVES,P139_unidentified.pdf,2023,medium,partial,excerpt,general,A more biofriendly piezoelectric material A ferroelectric molecular crystal displays characteristics required for implantation,line 3,1,piezoelectric,medium,standard,FALSE
+P139,INSIGHTS | PERSPECTIVES,P139_unidentified.pdf,2023,medium,partial,excerpt,finding,"their design because they convert mechan- piezoelectric performance of these molec- biocompatibility, as demonstrated by cul- ical force into electricity and vice versa (1). ular crystals falls substantially short, with turing the film with multiple types of cells,",line 13,1,piezoelectric,medium,standard,FALSE
+P139,INSIGHTS | PERSPECTIVES,P139_unidentified.pdf,2023,medium,partial,excerpt,general,"However, traditional piezoelectrics such low piezoelectric coefficients (d ) of ≤40 these films also had no discernible toxicity 33",line 15,1,piezoelectric,medium,standard,FALSE
+P194,Progress in Polymer Science 120 (2021) 101430,P194_unidentified.pdf,2021,medium,partial,excerpt,general,Progress in Polymer Science 120 (2021) 101430 Contents lists available at ScienceDirect,line 1,1,progress,medium,standard,FALSE
+P194,Progress in Polymer Science 120 (2021) 101430,P194_unidentified.pdf,2021,medium,partial,excerpt,general,"Bio-based polyesters: Recent progress and future prospects Qinan Zhang a , b, Mengze Song a , b, Yanyan Xu a , b, Wencai Wang a , b, c, Zhao Wang a , b , c , ∗,",line 5,1,progress,medium,standard,FALSE
+P194,Progress in Polymer Science 120 (2021) 101430,P194_unidentified.pdf,2021,medium,partial,excerpt,general,"b Center of Advanced Elastomer Materials, Beijing University of Chemical Technology, Beijing 10 0 029, PR China c Beijing Laboratory of Biomedical Materials, Beijing University of Chemical Technology, Beijing 10 0 029, PR China",line 9,1,elastomer,medium,high_relevance_pu,FALSE
+P194,Progress in Polymer Science 120 (2021) 101430,P194_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"T c (crystallization temperature) and T m as a function of the number of aroused the interest of researchers in the construction of bio-based
+methylene groups in diols for dodecanedioic acid-based polyesters. [51] , Copyright aliphatic binary copolyesters containing cyclic units. For exam-
+2019. Rep",Figure 1,,Figure 1,medium,standard,FALSE
+P194,Progress in Polymer Science 120 (2021) 101430,P194_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"Compared melting (a) and glass transition (b) temperatures of PBS copolyesters made from Glux-diol, Manx-diol and isosorbide. PBS data is orange. [110] , Copyright
+2015. Reproduced with permission from The Royal Society of Chemistry.",Figure 3,,Figure 3,medium,standard,TRUE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,abstract,finding,"Flow-induced translocation of linear and ring polymers is studied by
+usingacombinationofmultiparticlecollisiondynamicsandmoleculardynamics.The
+resultsshowthatbothendcaptureandfoldcapturearepresentinthecaptureprocess
+oflinearchainsinweakflows,whereasfoldcapturebecomesdominantinstrongflows,
+resulting in similar behavior for the linear and ring chains in the strong flow regime.
+Fornarrowchannels,thecriticalfluxdecreaseswiththeincreaseofchannelsize,which
+is qualitatively consistent with the predicti",abstract section,1,abstract,high,standard,TRUE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,conclusion,method,"of conclusions and outlook.
+c
+increaseswiththeincreaseof chainlengthforshort chains(N
+<32),whichwassupportedbytheexperimentsofLietal.33In II. MODEL AND METHODS
+addition,Wu et
+al.24−26
+experimentallyfound that J forlinear The polymer chain consisting of N monomers is simulated by
+c
+polymer chainsdecreases with increasingchannel size.On the molecular dynamics (MD). The monomers interact with each
+basis of this observation, they assumed that the confined blob other by a truncated and shifted Lennar",conclusion section,end,conclusion,high,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,excerpt,general,While great progresses have been made in Langevin dynamics and multiparticle collision dynamics,line 37,1,progress,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,excerpt,general,"diffusion: A fractional dynamics approach. Physics Reports-Review polymer conformation, distribution and migration in microcapillary Sectionof Physics Letters2000,339,1−77. flows. J. Phys.:Condens. Matter2011,23, 184117.",line 1819,46,review,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,excerpt,general,"(50)Sakaue,T.Dynamicsofpolymertranslocation:Ashortreview withanintroductionofweakly-drivenregime.Polymers2016,8,424.",line 1831,46,review,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,figure_caption,measurement,"The chainiscapturedfirstbythechannelandthenescapesfromit,
+simulation box is divided into cis and trans compartments before a successful translocation event. Here, capture means
+that one or more monomers are driven into the channel. If
+translocation happens in one attempt, n = 0.
+try
+As shown in Figu",Figure 1,,Figure 1,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,figure_caption,measurement,"Numberofcaptureattempts(n try )asafunctionoftheflux
+conditions were employed in the flow direction. Detailed (J) for both linear and ring polymer chains with different channel
+parametersforthetranslocationmodelaresetasL =20σ, sizes.Inset:acomparisonbetweenn try offoldcapture(Fold)andend
+H=2.3σ∼4.3σ,",Figure 2,,Figure 2,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,figure_caption,measurement,"(a)Indexofpulleyeffect(I )asafunctionoftheflux(J)
+for linear chain. Inset: the correlatio pu n between i and i . (b) translocation begins to take place at some threshold flow flux
+first last
+Comparison of the degree of pulley effect λ (λ = ⟨|i − i |2⟩1/2) J ,whichisdefinedasthefluxatwhichtranslocati",Figure 3,,Figure 3,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,figure_caption,measurement,"Relationshipbetweenthecriticalflux(J)andchannelsize
+c
+(H) for both linear (black) and ring (red) polymer chains. For
+comparison, the results predicted by de Gennes et al.1,27,28 (de
+Gennes) and
+Wuetal.24−26(Wu)
+areincluded.
+al.24−26 (J ∼ H α , α ≈ −0.83 from simulations, whereas α ≈
+−0.70from c thep",Figure 6,,Figure 6,medium,standard,FALSE
+P201,Mechanisms of Flow-Induced Polymer Translocation,P201_unidentified.pdf,2022,medium,good,figure_caption,measurement,"fold translocation is the only mode for ring chains. Therefore, Specifically, de Gennes et al.1,27,28 and Wu et al.24−26 adopted
+J for the ring chain is significantly greater than that of the very differentpolymer models. de Genneset al.1,27,28 assumed
+0
+linearchain.Forstrongflows,thetranslocationmo",Figure 6,,Figure 6,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,abstract,finding,"We investigate the steady-state extensional viscosity
+of wormlike micellar solutions using dissipative particle dynamics
+simulations. As the extension rate increases, the steady-state
+extensional viscosity initially increases and subsequently decreases
+after reaching a maximum, as observed in experiments. We reveal
+that this nonmonotonic behavior arises from the competition
+betweenmicellarstretchingandscissionunderuniaxialextensional
+flow. We further propose a relation that connects the extensio",abstract section,1,abstract,high,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,conclusion,finding,"We have examined the steady-state extensional viscosity of
+wormlike micellar solutions by conducting DPD simulations
+with theGKRmethod(Figure1).One ofthemostimportant
+conclusions is that the steady-state extensional viscosity η (ϵ)̇
+E
+exhibits a nonmonotonic dependence on the extension rate ϵ̇
+(Figure 2), as observed in previous experiments.11−16 Our
+detailed analyses have demonstrated that this nonmonotonic
+behavior of η (ϵ)̇ results from the competition between
+E
+Figure11.Micellarcontribution ",conclusion section,end,conclusion,high,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,excerpt,measurement,"have been an active area of research. Significant progress has arguedthatthereductionofη (ϵ̇ )obtainedwithopposed E,app app",line 29,1,progress,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,excerpt,finding,"However, Gaillard et al.34 demonstrated that the extensional nonionic surfactant solutions under uniaxial extensional flow, relaxation time obtained with CaBER depended on the plate as shown in Figure 1. In the DPD method, each particle",line 90,3,ionic,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,excerpt,general,"as well as the counterion conditions in the case of ionic Rheol. Acta 1987, 26,532−542.",line 1371,35,ionic,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,figure_caption,measurement,"In the DPD method, each particle
+diameterandthedropletvolume.WuandMohammadigoush-
+ki35 reported that in DoS experiments, extensional properties
+can be affected by the dynamics of the contact line. Thus,
+accurately measuring the extensional rheology of wormlike
+micellar solutions, especially with low",Figure 1,,Figure 1,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,figure_caption,measurement,"ProbabilitydensityfunctionP(N )oftheaggregationnumberN .In(a),differentlinesdenotedifferentvaluesofWifork T=1andϕ
+ag ag B
+=0.05. In(b), differentlinesdenotedifferent valuesof k T and ϕforWi ≃ 2.
+B",Figure 3,,Figure 3,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,figure_caption,measurement,"However, the onset of the
+ag B E 0
+N ag . Since ϕ is common in these two systems, relatively small decrease inη E (ϵ)̇ doesnot necessarily coincidewith theonset
+micelles are prevalent in the system with k B T = 1.2. of flow-induced scission, because changes in η E (ϵ̇) are
+Qualitatively, this differ",Figure 2,,Figure 2,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,figure_caption,measurement,"(a)SurvivalfunctionS(t;N )ofmicelleswithN =300withthe95%confidenceintervalfordifferentvaluesofWiatk T=1andϕ=
+ag ag B
+0.05.ThegraydashedlinesindicateanexponentialfittoS(t;N ).(b)Averagelifetimeτ(N )ofmicelleswithN =150(circle),200(square),
+ag b ag ag
+and300(diamond)normalizedbythevalueτ (N )atequilib",Figure 6,,Figure 6,medium,standard,FALSE
+P219,Steady-State Extensional Viscosity of Wormlike Micellar Solutions,P219_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Weprovide B aquantitativediscussion
+the ensemble average over micelles whose aggregation on this issue in the next section. Figure 7b also presents the
+F https://doi.org/10.1021/acs.macromol.5c01993
+MacromoleculesXXXX,XXX,XXX−XXX
+Macromolecules pubs.acs.org/Macromolecules Article",Figure 2,,Figure 2,medium,standard,FALSE
+P221,高 等 学 校 化 学 学 报,P221_unidentified.pdf,2021,medium,good,abstract,general,"， ，
+The effects of nanorods on the structural dynamical and rheological properties of polymer matrix
+via
+were investigated under shear flow nonequilibrium molecular dynamics simulation. By comparing the re‐
+（ ） ，
+sults of nanocomposites with volume fractions from 0. 8% to 10% and pure melts it is found that the diffu‐
+，
+sion and relaxation of polymer chains are gradually limited with the increase of nanoparticles while the poly‐
+，
+mer size keeps almost unchanged. Under shear flow it is found tha",abstract section,1,abstract,high,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,excerpt,interpretation,"PHYSICAL REVIEW E 112,054404(2025) Editors’Suggestion",line 1,1,review,medium,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,excerpt,general,"matrices—whicharemadeofpolymersandaremechanically In this study, we aimed to address this knowledge gap",line 52,2,mechanical,medium,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,excerpt,method,"SHRESTHA,OKYERE,MORTENSON,CHEN,ANDWANG PHYSICALREVIEWE112,054404(2025) II. MATERIALSANDMETHODS",line 75,2,review,medium,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,figure_caption,measurement,"Schematicillustrationofbacterialflagellarentanglement
+troduce a cysteine substitution mutation at residue 237
+in polymeric hydrogel matrix. (a) Illustration of the polymeric
+network of the hydrogel and with bacterial flagella entangled (T237C) [32], which was chosen based upon previous
+within the me",Figure 1,,Figure 1,medium,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,figure_caption,measurement,"Characterization of bacterial motility across three distinct types of flagellar motions. (a)–(c) Representative fluorescence
+microscopic images of specifically labeled flagella and the corresponding trajectories of individual bacteria: (a) SWIM (directional run-
+ning/swimming), (b) TRAP (intermitten",Figure 3,,Figure 3,medium,standard,FALSE
+P228,"PHYSICAL REVIEW E 112,054404(2025)",P228_unidentified.pdf,2025,medium,partial,figure_caption,measurement,"Quantificationandcomparisonofthreemoreshapedescriptorsforthethreetypesofflagellarmotions:(a)solidity,(b)coverage(cid:2),
+and(c)radialirregularityσ.Theleftcolumnillustratestheshapedescriptors,whilecolumns(i)and(ii)showtheaveragesanddistributionsof
+thequantifiers,respectively.
+examinethispossibility,w",Figure 5,,Figure 5,medium,standard,TRUE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,abstract,general,"Iontronicsarerapidlyemergingtechnologieswith
+strongpotentialinsensingandenergyharvesting.Byleveraging
+ion transport, electrochemical interactions, and electron-ion
+coupling, iontronic systems have driven advancements in
+intelligent sensing and sustainable energy harvesting. This
+review explores the efficiency and suitability of iontronics for
+next-generation sensing and energy harvesting applications,
+emphasizing their advantages over conventional electronic
+approaches.Weprovideacomprehensivesum",abstract section,1,abstract,high,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,excerpt,general,"review explores the efficiency and suitability of iontronics for next-generation sensing and energy harvesting applications,",line 14,1,review,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,excerpt,general,"applications. Finally, this review discusses the current challenges and future directions in advanced iontronic sensing and energy harvesting technologies, providing insights into how continued research and development can further enhance their",line 22,1,review,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,excerpt,general,"KEYWORDS: iontronic,ionic,sensor,neuromorphicsensing,artificialsynapse,energyharvester,powergenerator,sustainablepowersource 1. INTRODUCTION To overcome these limitations, researchers have adopted",line 25,1,ionic,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Iontronics.(a)Schematicillustrationofchargeseparationandelectricdoublelayerformationundersensorystimuliandambient
+energy sources. (b) Schematic illustration of a flexible iontronic device processing sensory stimuli by mimicking a biological synapse for
+neuromorphicsensingand sustainableenergy harves",Figure 1,,Figure 1,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,figure_caption,measurement,"SchematicrepresentationoftheEDLatachargedsurface.TheEDLconsistsofdistinctregions(theSternlayerandthediffuse
+layer) according to the Gouy−Chapman−Stern model. The Stern layer is subdivided into the inner Helmholtz plane (IHP), where
+specificallyadsorbedionsreside,andtheouterHelmholtzplane(OHP),wheres",Figure 3,,Figure 3,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Schematic representation of ion transport behavior. (a) Spontaneous ion transport without external forces, governed by
+thermodynamicprinciples.(b)Ionmovementundertheinfluenceofanelectricfield,withcationsmovingtowardthenegativeelectrodeand
+anionstowardthepositiveelectrode(migration).(c)Iontransportfa",Figure 5,,Figure 5,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Iontronicneuromorphicsensors forstimulusresponsivesensingandiontronicpowergeneratorsforambient energyharvesting.
+Neuromorphic sensors. Chemosensory sensors: Olfactory. Reproduced with permission from ref 184. Copyright 2023 Wiley-VCH.
+Gustatory.Reproducedwithpermissionfromref297.Copyright2022Wiley-V",Figure 8,,Figure 8,medium,standard,FALSE
+P266,Iontronics: Neuromorphic Sensing and Energy,P266_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Artificial tactile sensory systems. (a) Schematic illustration of the working mechanism for artificial tactile sensory; (i) ion
+movement modulated by gate voltage and pressure and (ii) piezoionic structure (b) Pyramid ion gel integrated OECT resulting in ion
+penetration to the channel under pressure",Figure 10,,Figure 10,medium,standard,FALSE
+P270,Sustainable electronic textiles towards,P270_unidentified.pdf,2022,medium,partial,excerpt,general,"of Mechanical and Materials Engineering, Western University, London, Ontario, Canada. 4Department of Materials Science and Engineering, University of Maryland, College Park, MD, USA. 5Micro- and Nano-technology Research Centre, State Key Laboratory for Manufacturing Systems Engineering,",line 42,2,mechanical,medium,standard,FALSE
+P270,Sustainable electronic textiles towards,P270_unidentified.pdf,2022,medium,partial,excerpt,interpretation,"biofabrication-inspired processing to reach sustainable growth, as overview of the 4R concepts. This is followed by a discussion of the fun- shown in Fig. 1. Our Perspective proposes a strategic framework with damental materials properties that govern rational design strategies",line 50,2,overview,medium,standard,FALSE
+P270,Sustainable electronic textiles towards,P270_unidentified.pdf,2022,medium,partial,excerpt,general,"development progress, with examples of technologies developed and created by adopting the 4R design framework. b, The 4R design concept within commercial products released14–21. The graph depicts three projected growth the e-textile circular economy. c, Fibre material embodiment of 4R. (i) At the",line 94,3,progress,medium,standard,FALSE
+P270,Sustainable electronic textiles towards,P270_unidentified.pdf,2022,medium,partial,figure_caption,measurement,"Our Perspective proposes a strategic framework with damental materials properties that govern rational design strategies
+a focus on a concept (as shown in Fig. 1b) that involves repair, recycle, for achieving the 4R goals. On the basis of these materials principles,
+replacement, and reduction (4R) t",Figure 1,,Figure 1,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,abstract,finding,"Using infrared reflection−absorption spectroscopy and atomic force
+microscopy, we revealed that polymer−substrate interactions, chain length, and film
+thickness critically influenced the morphology and orientation of lamellar crystals of
+poly(L-lactide) (PLLA) grown at a constant temperature. In contrast to the often-
+observed monotonic change from preferentially flat-on to edge-on crystals upon
+increasing film thickness, an unprecedented nonmonotonic change in the dominating
+orientation of lame",abstract section,1,abstract,high,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,conclusion,measurement,"is consistent length.
+w
+4977 https://doi.org/10.1021/acs.macromol.6c00397
+Macromolecules2026,59,4970−4981
+Macromolecules pubs.acs.org/Macromolecules Article
+Figure7.AFMheightimagesofthePLLAadsorbedlayeronSiO−Sisubstrateaftercrystallizationat110°Cfor12h.PLLAabsorbedlayerwas
+2
+preparedbyannealingca.150nmthickfilmsat190°Cfor720minandwashinginagoodsolvent(CHCl).(a)39kg/mol,h =4.3nm;(b)71
+3 ads
+kg/mol,h = 5.9 nm;(c) 310 kg/mol,h = 12.4 nm; (d)630 kg/mol,h = 17.9 nm.
+ads ads ads
+Figure8.(a)Themeltingp",conclusion section,end,conclusion,high,standard,TRUE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,excerpt,general,"chain confined in the plane of the substrate, progressively favored the formation of flat-on lamellar crystals. Intriguingly, in the thickestfilms, thehighmobility of chainsatthefree surface,preferentiallyalignedparallelto thesurface,causedan increaseinthe",line 23,1,progress,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,excerpt,interpretation,"films,a three-layermodelwasproposedbyWang et al.,where JinanDaigangBiomaterialCo.,Ltd.(China).Beforetheexperiments, these three layers differed in their glass transition temperature thepolymersweredissolvedinchloroformandprecipitatedinethanol",line 83,3,biomaterial,medium,standard,TRUE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,excerpt,general,"D. F.; Zhang, Y. X.; Dang, Z. M. Recent Progress and Future Curvature. Macromolecules2006, 39,4272−4275. Prospects on All-Organic Polymer Dielectrics for Energy Storage (33) Maillard, D.; Prud’homme, R. E. Crystallization of Ultrathin",line 617,16,progress,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,figure_caption,measurement,"AFMheightimagesshowingtheinfluenceofinitialPLLAfilmthicknessonthecrystallinemorphologyoffilmscrystallizedat110°Cfor
+12h.Thefilmsweredepositedongold-coatedsubstratesmodifiedwiththiolderivateshavinghydroxylendgroups(W/W =1.22).Resultsfortwo
+a c
+polymersdifferinginmolecularweight M areshown: (a) M = 71",Figure 1,,Figure 1,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,figure_caption,measurement,"underlying nucleation and growth mechanisms were quite
+In a previous study on crystallization of spin coated thin differentfromthoseinZoneII,whichcanbeattributedtothe
+films of poly(bisphenol A hexane ether) of increasing decreasing influence of size confinement. In fact, molecular
+thickness, a monot",Figure 1,,Figure 1,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,figure_caption,measurement,"AFMheightimagesshowingtheevolutionofthemorphologyofcrystallinestructuresemerginginamorphousPLLAfilmsof150nm
+duringcrystallizationat110°Cfordifferenttimes.Thefilmsweredepositedonhydroxyl-modifiedgold-coatedsubstrates(W/W =1.22).(a)M
+a c w
+=71kg/mol,(b)M =630kg/mol,and(c)M =2100kg/molwithaninsetofthec",Figure 4,,Figure 4,medium,standard,FALSE
+P285,Nonmonotonic Variation of the Preferential Orientation of Lamellar,P285_unidentified.pdf,2026,medium,good,figure_caption,measurement,"AFMheightimagesoffilmsofPLLAwithM =2100kg/molaftercrystallizationat110°Cfor90min.Thefilmsweredepositedon
+w
+modifiedgold-coated substrateswith varying polymer−substrate interactionstrengths: (a) W/W = 0.85,(b) W/W =1.06, and (c) W/W =
+a c a c a c
+1.22. (d) Ratio of the area A to the sum of the areas ",Figure 6,,Figure 6,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,abstract,method,"TheMichaeladditionreactionisaversatilesyntheticmethodologyfortheefficientcouplingofelectronpoorolefinswithavast
+array of nucleophiles. This review outlines the role of the Michael addition reaction in polymer synthesis with attention to
+applicationsinemergingtechnologiesincludingbiomedical,pharmaceutical,optoelectronic,composites,adhesives,andcoatings.
+Polymerarchitectures,whichbroadlyrangefromlinearthermoplasticstohyperbranchedpolymersandnetworksareachievable.
+TheversatilityoftheMichaelreaction",abstract section,1,abstract,high,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,excerpt,general,"array of nucleophiles. This review outlines the role of the Michael addition reaction in polymer synthesis with attention to applicationsinemergingtechnologiesincludingbiomedical,pharmaceutical,optoelectronic,composites,adhesives,andcoatings.",line 11,1,review,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,excerpt,general,"oftheMichaeladditioninmanybiologicalapplicationssuchasgenedelivery,polymerdrugconjugates,andtissuescaffoldsis discussedinrelationtomacromolecularstructure.",line 16,1,scaffold,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,excerpt,general,Keywords:Michaeladdition;Conjugateaddition;Genetransfection;Drugdelivery;Tissuescaffolds;Acetoacetates;Acrylates;Bioconjugates; Cysteine,line 19,1,scaffold,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,figure_caption,measurement,"(a)ArthurMichael(1855–1942),whodiscoveredtheMichaeladditionreaction.(b)SchematicdepictionoftheMichaeladditionreaction.
+theadditionofenolatenucleophilestoactivatedolefins, of only a few examples, namely the carbon–carbon
+a wide range of functional groups possess sufficient bond forming Michael additi",Figure 1,,Figure 1,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,figure_caption,measurement,"SecondMichaeladditionofacetoacetategrouptomethylacrylate.
+Eq. (5), there is a pseudo first-order dependence on these solvents. Initially, protic solvents were desirable
+acrylateconcentration,wherek isafunctionofbase inthecarbon-Michaelreactiontopromoterapidproton
+obs
+concentration. transfer and to s",Figure 3,,Figure 3,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,figure_caption,measurement,"Lewis-acidcatalyzedMichaeladditionreaction.
+ethers.Stericsarealsoanimportantfactor.Thelargerthe of TiCl (Fig. 6) [29]. In the area of enantioselective
+4
+groupssubstitutedattheaandbpositions,theslowerthe carbon-Michaeladditions,thereaderisdirectedtotwo
+reactionrate,althoughthiscanbeoffsetbystrongerpo",Figure 5,,Figure 5,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,figure_caption,measurement,"PhosphinecatalyzedMichaeladditionreaction.
+secondadditionaffectstheobservedkinetics,especially Acid catalyzed aza-Michael additions have also
+as the concentration of the secondary amine increases. been studied extensively. Spencer and coworkershave
+Anexampleisthereactionofmethylaminewithethyl determ",Figure 7,,Figure 7,medium,standard,FALSE
+P333,Prog.Polym.Sci.31(2006)487–531,P333_unidentified.pdf,2006,medium,good,figure_caption,measurement,"Aza-Michaeladditionofmethylaminetotwoequivalentsofethylacrylate.
+494 B.D.Matheretal./Prog.Polym.Sci.31(2006)487–531",Figure 9,,Figure 9,medium,standard,FALSE
+P334,OF ORGANIC CHEMISTRY,P334_unidentified.pdf,2011,medium,partial,conclusion,finding,"of widespread applications of thia-Michael
+adducts.
+Preeti Wadhwa obtained herBSc
+(2011) and MSc (2013)degrees in
+Organic Chemistry from
+Kurukshetra University, India.She
+was a gold medalist duringher
+Anupreet Kharbanda obtained her B. Sc from
+Bachelors. She is persuing her Ph.D
+Delhi University, India.Later on, She is
+from IndianInstitute of Technology,
+pursuing her M.Sc from IndianInstitute of
+Roorkee under the supervision of Dr
+Technology, Roorkee. During her masters,
+Anuj Sharma. Her present",conclusion section,end,conclusion,medium,standard,FALSE
+P334,OF ORGANIC CHEMISTRY,P334_unidentified.pdf,2011,medium,partial,excerpt,general,"This manuscript has been accepted after peer review and appears as an Accepted Article online prior to editing, proofing, and formal publication",line 7,1,review,medium,standard,FALSE
+P334,OF ORGANIC CHEMISTRY,P334_unidentified.pdf,2011,medium,partial,excerpt,general,"synthetic applications, there has not been any exclusive review organosulfur compounds.[12-13] The thia-Michael addition reaction on thia-Michael addition reaction. Therefore, this feature article is a robust, highly efficient reaction that provides high functional",line 41,2,review,medium,standard,TRUE
+P334,OF ORGANIC CHEMISTRY,P334_unidentified.pdf,2011,medium,partial,excerpt,general,"Therefore, it is desirable to review the progress of this reaction critically and find the areas where new developments can be",line 109,3,review,medium,standard,FALSE
+P334,OF ORGANIC CHEMISTRY,P334_unidentified.pdf,2011,medium,partial,figure_caption,measurement,"C-S bonds are remarkably important functional units in organic
+chemistry.[1] They are essential for the manufacture of a great
+number of products or chemicals including pharmaceuticals,
+bioactive natural products, pesticides, food additives, surfactants
+and polymers which are an integral part of eve",Figure 1,,Figure 1,medium,standard,FALSE
+P340,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1,P340_unidentified.pdf,2025,medium,good,abstract,general,"Sections
+A non-faradaic junction (NFJ) is a connection between an ionic Introduction
+conductor and an electronic conductor in which no electrochemical
+Principles of non-faradaic
+reaction takes place. The junction behaves like a capacitor and couples junction sensing
+the ionic and electronic currents through chemistry, electricity and Characterization of junctions
+by voltage steps
+entropy. Its charge–voltage curve is sensitive to various environmental
+signals, allowing it to function as a sensor;",abstract section,1,abstract,high,standard,FALSE
+P340,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1,P340_unidentified.pdf,2025,medium,good,excerpt,general,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1 Review article Check for updates,line 1,1,review,medium,standard,FALSE
+P340,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1,P340_unidentified.pdf,2025,medium,good,excerpt,general,Review article Check for updates Non-faradaic junction sensing,line 2,1,review,medium,standard,FALSE
+P340,nature reviews materials https://doi.org/10.1038/s41578-024-00755-1,P340_unidentified.pdf,2025,medium,good,excerpt,general,A non-faradaic junction (NFJ) is a connection between an ionic Introduction conductor and an electronic conductor in which no electrochemical,line 6,1,ionic,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,abstract,method,"Inspiredbynaturalporousarchitectures,numerousattemptshavebeenmadetogenerateporous
+structures.Owingtothesmoothsurfaces,highlyinterconnectedporousarchitectures,and
+mathematicalcontrollablegeometryfeatures,triplyperiodicminimalsurface(TPMS)is
+emergingasanoutstandingsolutiontoconstructingporousstructuresinrecentyears.However,
+manyadvantagesofTPMSarenotfullyutilizedincurrentresearch.Criticalproblemsofthe
+processfromdesign,manufacturingtoapplicationsneedfurthersystematicandintegrated
+discussions.Inthi",abstract section,1,abstract,high,standard,TRUE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,excerpt,general,TOPICAL REVIEW • OPEN ACCESS You may also like Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,line 2,1,review,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,excerpt,general,"1StateKeyLaboratoryofFluidPowerandMechatronicSystems,CollegeofMechanicalEngineering, ZhejiangUniversity,Hangzhou310027,People’sRepublicofChina",line 32,1,mechanical,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,excerpt,general,"2KeyLaboratoryof3DPrintingProcessandEquipmentofZhejiangProvince,CollegeofMechanical Engineering,ZhejiangUniversity,Hangzhou310027,People’sRepublicofChina",line 34,1,mechanical,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,figure_caption,measurement,"totheintricatedinternalstruts,mostofthelatticestructuresare AlthoughTPMSisaninterestingresearchhotspotindif-
+fabricated by additive manufacturing. Yet, the stress concen- ferent areas, the advantages of TPMS are not fully utilized.
+tration may appear at the connections of lattice struts. Based Most ",Figure 1,,Figure 1,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,figure_caption,measurement,"Specifically,themultiscale expressedviaalgebraicequations,whichcanbesimplifiedas
+design methods including geometry design and performance f(x,y,z)=C,inwhichCisaconstant.Basedonthat,TPMS
+controlwillbediscussedinsections2and3.Then,currentpre- is also regarded as isosurface. Secondly, TPMS is periodic
+",Figure 1,,Figure 1,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,figure_caption,measurement,"NetworkandsheetTPMSgenerationprinciple.
+orfoamstructures.Comparedwiththesesolutions,thegraded continuity. The curvature, period, and wall thickness can be
+TPMSporousstructuresowntwoobviousadvantages.Firstly, adjusted in different degrees. More design freedom can be
+the graded porosities can be preci",Figure 3,,Figure 3,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,figure_caption,measurement,"HeterogeneousTPMSporousstructures.(a)HeterogeneousTPMSfromDtoGstructures.Reproducedwithpermissionfrom
+[86].Copyright2018,theAuthors,CCBY4.0.(b)HeterogeneousTPMSwithdifferentunitsindifferentregions.Reproducedwith
+permissionfrom[87].Copyright2015,KoreanSocietyforPrecisionEngineeringandSpringer-VerlagB",Figure 5,,Figure 5,medium,standard,FALSE
+P345,Triply periodic minimal surface (TPMS) porous -Surface curvature in triply-periodic minimal,P345_unidentified.pdf,2022,medium,good,figure_caption,measurement,"DesignmethodsforTPMSporousstructureswithcomplexexternalshapes.(a)Three-dimensionalBooleanoperationdesign
+approach.Reproducedwithpermissionfrom[89].Copyright2017,SpringerInternationalPublishingSwitzerland.(b)Shapefunction
+mappingmethod.Reproducedwithpermissionfrom[81].Copyright2011,KoreanSocietyforPr",Figure 7,,Figure 7,medium,standard,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,abstract,interpretation,"Molecular branching, an important characteristic of
+both synthetic and natural polymers, plays a crucial role in
+determining the physical properties of polymeric materials. Never-
+theless, the mechanisms of how branching affects polymer glass
+formation are not fully understood. Here, the generalized entropy
+theory (GET) is extended to study the glass formation of graft
+polymer melts having variable grafting density. Our theoretical
+calculations indicate that polymers with a flexible backbone and",abstract section,1,abstract,high,standard,TRUE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,excerpt,measurement,"tolargervalues,τ progressivelyincreasesatfixedTintheF− 0 α corresponds to a condition where S approaches zero,",line 625,16,progress,medium,standard,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,excerpt,general,"Authors H.;Qin,S.;Berry,G.C.MolecularbrushesasSuper-softelastomers. Polymer 2006, 47(20),7198−7206.",line 1154,29,elastomer,medium,high_relevance_pu,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,excerpt,general,"Complete contact information is available at: Rubinstein,M.;Weitz,D.A.SoftPoly(dimethylsiloxane)Elastomers https://pubs.acs.org/10.1021/acs.macromol.5c03382 from Architecture-Driven Entanglement Free Design. Adv. Mater.",line 1170,30,elastomer,medium,high_relevance_pu,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Schematic illustration of the graft polymer model
+flexible backbone and rigid side chains, a rigid backbone and
+considered in the present work. Spheres designate the basic units of
+flexiblesidechains,andarigidbackboneandrigidsidechains,
+a polymer, which are called beads or groups. Cylinders depict t",Figure 1,,Figure 1,medium,standard,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Extent of collective motion z, quantified by the reduced configurational entropyS c */S c, versus inverse temperature 103/T determined
+fromtheGETforgraftpolymershavingvariablegraftingdensityN.Panels(a−d)correspondtoresultsfortheF−F,F−S,S−F,andS−Spolymers,
+g
+respectively.Thebackboneandside-chainlengt",Figure 3,,Figure 3,medium,standard,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,figure_caption,measurement,"FragilityofglassformationdeterminedfromtheGETasafunctionofN fordifferentclassesofpolymers.Panels(a)and(b)correspond
+g
+toresultsforthefragilityparametersmandK ,respectively.Thebackboneandside-chainlengthsarefixedatN =61andN =3.Linesarefitsto
+VFT b s
+eq4.
+3. RESULTS AND DISCUSSION follows its operatio",Figure 5,,Figure 5,medium,standard,FALSE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Characteristic temperatures of glass formation determined from the molecular dynamics (MD) simulations as a function of N for
+g
+different classes of polymers. Panels (a−d) correspond to results for the onset T , crossover T, glass transition temperature T, and ideal glass
+A c g
+transitiontemperature",Figure 6,,Figure 6,medium,standard,TRUE
+P356,Generalized Entropy Theory of Glass Formation in Graft Polymer,P356_unidentified.pdf,2025,medium,good,figure_caption,measurement,"Xia
+N g .Inarecentexperimentalstudy,Torkelsonandcoworkers65 et al.29 also observed in their simulations that as grafting
+synthesized bottlebrush polymers consisting of a poly(4- densityincreases(i.e.,N decreases),thetrenddependsonthe
+g
+methacryloyloxy-2,2,6,6-tetramethylpiperidine-1-oxyl) relative c",Figure 4,,Figure 4,medium,standard,FALSE
+P390,Fatigue failure in glasses under cyclic shear,P390_unidentified.pdf,2024,medium,partial,conclusion,finding,"failure in soft matter. Soft Matter 16, 82–93 (2020).
+In summary, we studied fatigue failure in different classes of glass 11. Bonn, D., Denn, M. M., Berthier, L., Divoux, T. & Manneville, S. Yield
+subject to a finite rate of cyclic shear. Failure is identified through a stress materials in soft condensed matter. Rev. Mod. Phys. 89,
+sigmoidal and rapid change in energy, measures of structural change 035005 (2017).
+and plasticity. The number of cycles to failure, calculated from these 12. Nicolas",conclusion section,end,conclusion,medium,high_relevance_pu,FALSE
+P390,Fatigue failure in glasses under cyclic shear,P390_unidentified.pdf,2024,medium,partial,excerpt,measurement,"The mechanical response of a solid to applied stress or deformation of damage, which is quantified by several measurable properties4–6. is a material property of obvious importance. This response for large The initiation of failure at the microscopic level occurs before macro-",line 30,1,mechanical,medium,standard,FALSE
+P390,Fatigue failure in glasses under cyclic shear,P390_unidentified.pdf,2024,medium,partial,excerpt,general,"cycles of loading without failing. Several empirical forms have been ing their mechanical response, which have been investigated actively used to describe the variation of failure times upon approaching the in recent years11–14.",line 39,1,mechanical,medium,standard,FALSE
+P390,Fatigue failure in glasses under cyclic shear,P390_unidentified.pdf,2024,medium,partial,excerpt,general,"damage in each cycle Dcyc in terms of dissipated work in a mechanical system, that is the stress–strain loop area. The variation of Dcyc with",line 593,15,mechanical,medium,standard,FALSE
+P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",P393_unidentified.pdf,2023,medium,partial,excerpt,interpretation,"PHYSICAL REVIEW LETTERS 131, 228102 (2023) Editors'Suggestion FeaturedinPhysics",line 1,1,review,medium,standard,TRUE
+P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",P393_unidentified.pdf,2023,medium,partial,excerpt,general,"1Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA 2Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology,",line 5,1,mechanical,medium,standard,FALSE
+P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",P393_unidentified.pdf,2023,medium,partial,excerpt,general,Polymer networks are the molecular scaffolds that form significantlyunderestimatedtheintrinsicfractureenergyof thebasisofmaterialsinawiderangeofbothcommonand polymer networks by ∼1–2 orders of magnitude (see,line 17,1,scaffold,medium,standard,FALSE
+P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",P393_unidentified.pdf,2023,medium,partial,figure_caption,measurement,"Intrinsic fracture energy. (a) In Griffith’s theory, the
+bridging polymer chain (U chain ), i.e., Γ 0 ¼Γ LT ¼MU chain i s n in tr g in le si l c ay f e r r ac o t f u a re tom en i e c rg b y on e d q s u . a (b ls )I t n he th e e n L er a g k y e-T ne h e o d m e a d s t m o o b d r e e l a , k th",Figure 1,,Figure 1,medium,standard,FALSE
+P393,"PHYSICAL REVIEW LETTERS 131, 228102 (2023)",P393_unidentified.pdf,2023,medium,partial,figure_caption,measurement,"Generality of elevated intrinsic fracture energy in To investigate where and how the released energy is
+polymerlike networks. (a) Intrinsic fracture energy of irregular dissipated, we establish a spring-mass model to simulate
+networks with dispersed edge lengths, with variations ranging
+the dynamic ",Figure 3,,Figure 3,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,excerpt,general,"PHYSICAL REVIEW E 99,012107(2019) Marginallystablephasesinmean-fieldstructuralglasses",line 1,1,review,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,excerpt,general,havebarelyenoughcontactstobemechanicallystable.From transitionshavequalitativelydistinctfeatures.,line 42,2,mechanical,medium,standard,TRUE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,excerpt,method,"the glassy phase at T =0, jamming transitions are protocol instance,bydivergingmechanicalsusceptibilities[34,37,38]. dependent and occur over a continuous range of packing The Gardner phase may thus provide an elegant route to",line 72,2,mechanical,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"Therelevantadimensional
+Theoretical calculations in the framework of the mean-
+control parameters are the packing fraction ϕ and the ratio
+fieldtheoryoftheglasstransition[11,21–24]haveconfirmed
+of thermal agitation k T to the interaction strength between
+B these ideas and suggested in addition the e",Figure 1,,Figure 1,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"In
+Numerical simulations and experiments in finite- particular,itisusefultoconsidertheharmonicspheremodel
+(cid:2) (cid:3)
+dimensional systems were performed to explore these (cid:3) r 2
+theoreticalideas,yieldingcontrastingresults.Numericalstud- v (r)= 1− θ(σ −r), (1)
+harm
+2 σ
+ies of three-dimensiona",Figure 1,,Figure 1,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"12λ2 − ∞ dhP(h)A(h) ItisusefultodefineanadditionallineT (ϕˆ )inthephasedi-
+(cid:3)4 −∞ J g
+agramtorationalizetheresultsinSec.IV.Thislineseparates
+with
+glassesintotwoclasses:IfT >T (ϕˆ ),thestateisjammed
+g J g
+A(h)=f (cid:7)(cid:7)(cid:7)(cid:7) (h)2−12λf (cid:7)(cid:7) (h)f (cid:7)(cid:7)(cid:7) (h)",Figure 2,,Figure 2,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"For each initial glass, we construct a
+ofincreasingglassstability[67–69].
+two-dimensionalstate-followingphasediagram,presentedin
+Overall,increasingthedegreeofannealingoftheglassex-
+terms of T and η. Results for the inverse power law are
+tendstheregionofstabilityofthesimpleglassphase,pushing
+presente",Figure 2,,Figure 2,medium,standard,FALSE
+P406,"PHYSICAL REVIEW E 99,012107(2019)",P406_unidentified.pdf,2019,medium,partial,figure_caption,measurement,"These glasses are stable enough that the Gardner
+also destabilizes at the Gardner transition (solid blue line) or at phaseisseparatedintotwodistinctregions.
+a continuous transition towards a 1RSB phase (dashed blue line). We present in Figs. 5(a)–5(d) the state-following phase
+BelowtheGardnertransit",Figure 2,,Figure 2,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,abstract,general,"Most liquids, under suitable conditions, are capable of transforming into glass, which is a microscopically disor-
+dered, solid form of matter. Glass formation occurs in the laboratory because the viscosity of the liquid becomes
+very high, causing the liquid to fall out of equilibrium on experimental time scales. Whether a true thermody-
+namic transition underlies the laboratory transformation is among the questions that remains to be answered. An-
+other major theme of research activity is direc",abstract section,1,abstract,high,standard,TRUE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,excerpt,general,the dramatic growth of viscosity of liquids at low temperatures. Significant progress has recently been made by focusing attention on quantitative aspects of the energy landscape of glass-forming liquids. An outline of the ap-,line 28,1,progress,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,excerpt,general,"mechanical properties of a solid [1–7]. For many materials, the glass state is a metastable state, and the state of the material in equilibrium is a crystalline solid. For some, notably",line 41,2,mechanical,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,excerpt,general,A brief overview of the phenomenology of glass formation is described in this section. Fur- ther details may be found in various recent reviews on the subject [1–7]. The purpose here,line 78,2,overview,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,figure_caption,measurement,"(a) Relaxation times for a range of densities for the ‘80:20’ binary mixture shown in an Arrhenius plot,
+indicating deviation from Arrhenius behaviour at low temperatures. (b) Scaled plot of inherent structure energies
+showing a 1/T temperature dependence at low temperatures, and deviations away fro",Figure 1,,Figure 1,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,figure_caption,measurement,"The temperature dependence of the inherent
+structure (IS) energy and the KWW exponent b for
+the ‘50:50’ binary mixture. Deviations in b away
+from 1 closely track the deviations of the IS energy
+from the high temperature plateau. Adapted from
+[62]. Four independent samples for the energy, and
+two dif",Figure 2,,Figure 2,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,figure_caption,measurement,"(a) The self intermediate scattering function of A particles, from the time series of inherent structures,
+along with fits to the KWW stretched exponential form in eqn (3). (b) Coefficients f(k) from the KWW fits
+above vs temperature. Adapted from [61].
+from these structures, at very low temperature",Figure 3,,Figure 3,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,figure_caption,measurement,"The thermodynamic fragilities agree with the
+kinetic fragilities (obtained from diffusivities) to quite a reasonable degree. Figure 6 shows
+the configurational entropy densities (log of the distribution W of minima) estimated in the
+process of calculating the configurational entropy, which shows tha",Figure 4,,Figure 4,medium,standard,FALSE
+P407,"See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228644644",P407_unidentified.pdf,2006,medium,good,figure_caption,measurement,"The distribution of minima estimated from simu-
+lation data following the method described in Section 7,
+represented by the configurational entropy density (see
+eqn (5)). The larger data points are averages of estimates
+from individual temperatures (shown in smaller sym-
+bols). The continuous lines ",Figure 6,,Figure 6,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,excerpt,general,"PHYSICAL REVIEW X 12, 021001 (2022) Relaxation Dynamics in the Energy Landscape of Glass-Forming Liquids",line 1,1,review,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,excerpt,general,and mechanical properties [32]. ments between initial and final configurations in several Virtually all studies of glassy landscapes start by three-dimensional models and reports the existence of a,line 97,3,mechanical,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,excerpt,general,"geneities and Mechanical Behavior of Amorphous Alloys, Theory for a Supercooled Binary Lennard-Jones Mixture.",line 1039,26,mechanical,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"(a)VelocityhjvðtÞjiasafunctionoftimetintheMari-
+Kurchan soft-sphere model at several temperatures with
+N ¼16384.(b)Velocitydecayattwoselectedinitialequilibrium
+temperaturesandseveralsystemsizes.Thedashedlineindicates
+β¼0.75.
+021001-3
+temperature. For high temperatures, T≳0.006, hjvðtÞji T ≈0.0084, c",Figure 1,,Figure 1,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"ThevelocityhjvðtÞjiasafunctionoftimetfortheharmonicspheresintwo,three,four,andeightdimensions(a),thethree-
+dimensionalsoftspheres(b),theKob-AndersenLennard-Jonesmodel(KALJ)(c),thetwo-dimensionalharmonicspheres(d),thesoft
+spheres(e),andtheKob-AndersenLennard-Jonesmodel(f).In(a),thenumberofparticlesis",Figure 2,,Figure 2,medium,standard,FALSE
+P408,"PHYSICAL REVIEW X 12, 021001 (2022)",P408_unidentified.pdf,2021,medium,partial,figure_caption,measurement,"Two-dimensional soft spheres. (a)–(c) Nonaffine dis-
+1
+EðtÞ≃Eðt→∞Þþ ΔrðtÞ·H·ΔrðtÞ; ð4Þ placements D2 min and (d)–(f) defects for three different configu-
+2 rations.In(d)–(f),defectsareshowninred,otherparticlesarein
+blue. In all panels, the displacement vectors rðt¼0Þ−rðt→
+withΔrðtÞ¼rðt→∞Þ−rðtÞandHth",Figure 3,,Figure 3,medium,standard,FALSE
+P454,Chemical Society Reviews,P454_unidentified.pdf,2013,medium,partial,excerpt,general,Phase transition-induced elasticity of αα-helical bioelastomeric fi bres and networks Chem Soc Rev,line 6,1,elastomer,medium,high_relevance_pu,FALSE
+P454,Chemical Society Reviews,P454_unidentified.pdf,2013,medium,partial,excerpt,general,"bioelastomeric fibres and networks Citethis:Chem.Soc.Rev.,2013,",line 10,1,elastomer,medium,high_relevance_pu,FALSE
+P454,Chemical Society Reviews,P454_unidentified.pdf,2013,medium,partial,excerpt,general,Naturalelastomericfibresplaycentralstructuralandfunctionalrolesinavarietyoftissuesproducedbymany organisms from diverse Phyla. Most of these fibres feature amorphous structure and their long-range elastic,line 14,1,elastomer,medium,high_relevance_pu,TRUE
+P454,Chemical Society Reviews,P454_unidentified.pdf,2013,medium,partial,figure_caption,measurement,"For some of these structural
+features exist – such as b-spirals,6 b-turns and polyproline(II) proteinsX-raydiffractiondataofwholetissuesorreconstituted
+structure14 in elastin-like peptides as observed by circular- native materials are often difficult to obtain. However three-
+dichroism(CD)orNuclearM",Figure 1,,Figure 1,medium,standard,TRUE

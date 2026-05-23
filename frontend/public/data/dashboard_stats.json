@@ -1,0 +1,32 @@
+{
+ "refined_cards": 290,
+ "active_work_papers": 179,
+ "cleaned_evidence_rows": 1858,
+ "manual_check_rows": 647,
+ "kg_nodes": 228,
+ "kg_edges": 820,
+ "ml_feature_candidates": 214,
+ "high_value_citations": 101,
+ "page_missing": 755,
+ "title_needs_cleanup": 136,
+ "category_distribution": {
+  "PCL_Based_Polyurethane": 40,
+  "PVDF_Piezoelectric_Biomaterials": 256,
+  "SAXS_WAXS_FTIR_DSC": 332,
+  "TPU_Mechanics": 258,
+  "Biodegradable_Polyurethane": 39,
+  "Ionogel_Magnetic_Ionogel": 271,
+  "ML_Polymer_Properties": 103,
+  "PU_Microphase_Separation": 126,
+  "Review_Background": 199,
+  "Self_Healing_Elastomer": 203,
+  "Shape_Memory_Polyurethane": 31
+ },
+ "claim_type_distribution": {
+  "general": 1209,
+  "measurement": 523,
+  "method": 38,
+  "finding": 70,
+  "interpretation": 18
+ }
+}

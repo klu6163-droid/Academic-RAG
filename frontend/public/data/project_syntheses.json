@@ -1,0 +1,192 @@
+[
+ {
+  "title": "PU Microphase Separation and Mechanics",
+  "file": "project_PU_microphase_mechanics.md",
+  "sections": [
+   {
+    "heading": "1. Research Question",
+    "content": "\n如何通过双软段设计实现聚氨酯微相分离的精确调控，从而同时提高强度和韧性？\n界面自由能在微相分离形态演化中的热力学角色是什么？\n拉伸诱导的结构演化（硬域重组、结晶、链取向）如何贡献于力学增强？\n\n"
+   },
+   {
+    "heading": "2. Existing Evidence from Corpus",
+    "content": "\n### 微相分离形成机制\n- P320: \"The performance of multicomponent polyurethane elastomers is governed by their microphase-separated morphology, which arises from a complex interplay between intermolecular interactions and thermodynamic incompatibility.\" (file: P320.txt, abstract, confidence: high)\n- P235: \"Developing high-performance polyurethane (PU) elastomers requires overcoming the inherent trade-off between strength and toughness through precise control of the microphase separation morphology.\" (file: P235.txt, abstract, confidence: high)\n\n### 硬域和软域\n- P375: Shape recovery in SMTPU — IPDI hard segment drives hard domain formation (file: P375.txt, abstract, confidence: high)\n- P322: Dangling PEG soft segments create unique self-stiffening when exposed to water (file: P322.txt, abstract, confidence: high)\n\n### 拉伸诱导结构演化\n- P011: \"strain-induced stiffening combined with nonhomogeneous strain produces selective reinforcement in the crack tip area\" (file: P011.txt, excerpt, confidence: high)\n- P159: \"Under strain, the amorphous phase is transformed into a rigid metastable crystal providing a mechanical reinforcement\" — reversible strain-induced crystallization (file: P159.txt, excerpt, confidence: medium)\n- P375: Hard domain reorganization under deformation via in situ SAXS (file: P375.txt, figures, confidence: high)\n\n### 力学增强\n- P437: \"ultra-high tensile strength (76.54 MPa), exceptional toughness (589.75 MJ/m3), significant fracture true stress (1.45 GPa)\" (file: P437.txt, page 11, confidence: high)\n- P438: \"Supramolecular interactions have enabled the development of high-strength and tough polyurethane elastomers\" (file: P438.txt, abstract, confidence: high)\n- P439: \"Multiscale energy-dissipation mechanism enables simultaneous high strength, large deformability, and long-term durability.\" (file: P439.txt, abstract, confidence: high)\n\n"
+   },
+   {
+    "heading": "3. Mechanistic Chain",
+    "content": "\nchemical structure (diisocyanate + chain extender + polyol)\n    -> thermodynamic incompatibility\n    -> microphase separation (hard domains + soft matrix)\n    -> hydrogen bonding + lateral stacking in hard domains\n    -> under deformation: hard domain reorientation + strain-induced crystallization\n    -> strain-induced stiffening at crack tip\n    -> enhanced toughness and fatigue resistance\n\n"
+   },
+   {
+    "heading": "4. Key Papers",
+    "content": "\n1. P375: Shape recovery mechanism via hard domain reorganization (SAXS + FTIR)\n2. P011: Crack tip reinforcement via strain-induced stiffening (in situ WAXS/SAXS)\n3. P320: Multiscale simulation framework for microphase separation thermodynamics\n4. P159: Reversible strain-induced crystallization via H-bond switching\n5. P437: Ultra-strong bio-based PU (76.54 MPa, 589.75 MJ/m3)\n6. P438: Supramolecular PUU toughness engineering\n7. P322: Dangling soft segment design (closest to dual soft phase)\n\n"
+   },
+   {
+    "heading": "5. Best Evidence Excerpts",
+    "content": "\n- P320 abstract: \"The performance of multicomponent polyurethane elastomers is governed by their microphase-separated morphology, which arises from a complex interplay between intermolecular interactions and thermodynamic incompatibility.\"\n- P011 excerpt: \"strain-induced stiffening combined with nonhomogeneous strain produces selective reinforcement in the crack tip area\"\n- P159 excerpt: \"Under strain, the amorphous phase is transformed into a rigid metastable crystal providing a mechanical reinforcement\"\n- P437 conclusion: \"ultra-high tensile strength (76.54 MPa), exceptional toughness (589.75 MJ/m3), significant fracture true stress (1.45 GPa)\"\n\n"
+   },
+   {
+    "heading": "6. Missing Evidence",
+    "content": "\n1. 双软段PU中两种软段的热力学不相容性直接测量 — evidence_missing\n2. 界面自由能的实验量化（SAXS + 热力学分析）— evidence_missing\n3. 拉伸过程中硬域重组的时间分辨原位表征 — partial evidence from P011, P375\n4. 双软段PU的SAXS orientation图 — evidence_missing\n\n"
+   },
+   {
+    "heading": "7. Recommended Experiments or Simulations",
+    "content": "\n1. 合成双软段PU系列（不同软段比例），用SAXS表征微相分离形态\n2. 原位SAXS/WAXS拉伸实验，追踪硬域重组和结晶动力学\n3. MD模拟计算双软段体系的界面自由能\n4. AFM相图定量分析硬域尺寸和分布\n\n"
+   },
+   {
+    "heading": "8. How to Use in Paper/Grant Writing",
+    "content": "\n- 引言：用P320/P235建立微相分离对力学性能的重要性\n- 方法：用P370的SAXS建模方法，P260的多尺度表征框架\n- 讨论：用P011/P159/P375讨论拉伸诱导结构演化机制\n- 创新点：双软段PU的次级微相分离是文献空白，可作为核心创新\n\n"
+   }
+  ]
+ },
+ {
+  "title": "PCL-Based Biodegradable PU",
+  "file": "project_PCL_biodegradable_PU.md",
+  "sections": [
+   {
+    "heading": "1. Research Question",
+    "content": "\n如何设计PCL基可降解聚氨酯，使其在降解过程中保持力学性能和形状记忆功能？\nPCL分子量、硬/软段比例如何调控降解速率和生物相容性？\n\n"
+   },
+   {
+    "heading": "2. Existing Evidence from Corpus",
+    "content": "\n### PCL合成\n- P151: \"selective and self-switchable ring-opening polymerization (ROP) of three different cyclic ester monomers (lactide (LA), rac-beta-butyrolactone (BL), and epsilon-caprolactone (CL))\" (file: P151.txt, abstract, confidence: high)\n\n### 可降解PU\n- P337: \"Tough, Multifunctional, and Biodegradable Polyurethanes\" (file: P337.txt, abstract, confidence: high)\n\n### 生物相容性\n- P119: \"Piezoelectric materials are promising for biomedical applications because they can provide mechanical or electrical stimulations\" — PHB-based composites with BMSC compatibility (file: P119.txt, abstract, confidence: high)\n\n"
+   },
+   {
+    "heading": "3. Mechanistic Chain",
+    "content": "\nPCL synthesis (ROP of caprolactone)\n    -> PCL as soft segment in PU\n    -> microphase separation (hard domains + PCL soft domains)\n    -> mechanical properties (modulus, strength)\n    -> in vivo: ester bond hydrolysis\n    -> degradation (surface erosion or bulk degradation)\n    -> cell response (adhesion, proliferation)\n    -> tissue integration\n\n"
+   },
+   {
+    "heading": "4. Key Papers",
+    "content": "\n1. P151: Switchable ROP methodology for PCL synthesis\n2. P337: Tough biodegradable PU\n3. P119: Biocompatible piezoelectric polymer (PHB-based)\n\n"
+   },
+   {
+    "heading": "5. Best Evidence Excerpts",
+    "content": "\n- P151 abstract: \"selective and self-switchable ring-opening polymerization (ROP) of three different cyclic ester monomers\"\n- P337 abstract: \"Tough, Multifunctional, and Biodegradable Polyurethanes\"\n\n"
+   },
+   {
+    "heading": "6. Missing Evidence",
+    "content": "\n1. PCL分子量对PU微相分离形态的系统研究 — evidence_missing\n2. 降解过程中形状记忆性能的定量演变 — evidence_missing\n3. 活死细胞染色和成骨/成血管分化数据 — evidence_missing\n4. 降解产物的细胞毒性定量评估 — evidence_missing\n\n"
+   },
+   {
+    "heading": "7. Recommended Experiments or Simulations",
+    "content": "\n1. 合成不同PCL分子量的PU系列，表征微相分离和力学性能\n2. 体外降解实验（PBS, pH 7.4, 37C），定期测量力学性能和形状记忆\n3. 细胞实验：活死细胞染色、CCK-8、成骨标志物（ALP, OCN）\n4. 降解产物毒性评估\n\n"
+   },
+   {
+    "heading": "8. How to Use in Paper/Grant Writing",
+    "content": "\n- 引言：用P151建立PCL合成方法论基础\n- 方法：ROP条件、PU合成路线\n- 讨论：降解机制与力学性能的权衡\n- 创新点：可降解形状记忆PU在降解过程中的性能演变是文献空白\n\n"
+   }
+  ]
+ },
+ {
+  "title": "PVDF Piezoelectric Biointerface",
+  "file": "project_PVDF_piezo_biointerface.md",
+  "sections": [
+   {
+    "heading": "1. Research Question",
+    "content": "\nPVDF压电材料表面的动态电荷如何影响蛋白吸附层的构象和取向？\n压电信号如何通过改变细胞膜电位调控细胞行为（黏附、增殖、分化）？\n\n"
+   },
+   {
+    "heading": "2. Existing Evidence from Corpus",
+    "content": "\n### PVDF压电性能\n- P077: \"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial Electronic Skin\" — PVDF + polyacrylonitrile (file: P077.txt, abstract, confidence: high)\n- P140: \"Biocompatible Piezoelectric Elastomer for Self-Powered Electronics\" (file: P140.txt, abstract, confidence: high)\n- P338: P(VDF-CTFE) terpolymers with Maxwell stress >90% at 50 MV/m (file: P338.txt, conclusion, confidence: high)\n\n### 生物电耦合\n- P108: Chinese review on piezoelectric effect in biomedicine (file: P108.txt, confidence: medium)\n- P123: \"Piezoelectric Nanomaterial-Mediated Physical Signals\" for biomedical applications (file: P123.txt, confidence: medium)\n\n"
+   },
+   {
+    "heading": "3. Mechanistic Chain",
+    "content": "\nPVDF beta-phase (all-trans conformation)\n    -> piezoelectric coefficient d33\n    -> under mechanical strain: surface charge generation\n    -> protein adsorption (conformation, orientation, amount)\n    -> integrin binding\n    -> cell membrane potential change\n    -> cell response (proliferation, differentiation)\n    -> tissue regeneration\n\n"
+   },
+   {
+    "heading": "4. Key Papers",
+    "content": "\n1. P077: All-polymer piezoelectric elastomer for electronic skin\n2. P140: Biocompatible piezoelectric elastomer for self-powered electronics\n3. P338: P(VDF-CTFE) Maxwell stress characterization\n4. P108: Comprehensive Chinese review on piezoelectric biomedicine\n\n"
+   },
+   {
+    "heading": "5. Best Evidence Excerpts",
+    "content": "\n- P077 abstract: \"a soft skin-like piezoelectric polymer elastomer composed of poly(vinylidene fluoride) (PVDF) and a novel elastic substrate polyacrylonitrile\"\n- P140 abstract: \"Piezoelectric elastomers suit the body's curvature and flexibility, making them promising for biomedicine, but they must be biocompatible for tissue contact.\"\n\n"
+   },
+   {
+    "heading": "6. Missing Evidence",
+    "content": "\n1. PVDF表面压电电荷密度与蛋白吸附量的定量关系 — evidence_missing\n2. 压电信号对蛋白构象（如fibronectin展开）的影响 — evidence_missing\n3. 细胞膜电位变化的实时测量数据 — evidence_missing\n4. 动态压电刺激vs静态培养的细胞响应对比 — evidence_missing\n\n"
+   },
+   {
+    "heading": "7. Recommended Experiments or Simulations",
+    "content": "\n1. PVDF薄膜制备和beta相含量表征（FTIR 840 cm-1, XRD）\n2. 蛋白吸附实验：QCM-D测量吸附量，XPS测量蛋白构象\n3. 细胞实验：活死细胞染色、CCK-8、细胞骨架染色\n4. 压电刺激下细胞膜电位测量（DiBAC荧光探针）\n\n"
+   },
+   {
+    "heading": "8. How to Use in Paper/Grant Writing",
+    "content": "\n- 引言：用P077/P140建立PVDF压电生物材料的研究背景\n- 方法：PVDF beta相制备和表征方法\n- 讨论：压电电荷-蛋白吸附-细胞响应的机制链\n- 创新点：PVDF压电电荷对蛋白吸附构象的定量影响是文献空白\n\n"
+   }
+  ]
+ },
+ {
+  "title": "Ionogel / FeCl4-PU Interaction",
+  "file": "project_ionogel_FeCl4_PU.md",
+  "sections": [
+   {
+    "heading": "1. Research Question",
+    "content": "\nFeCl4-离子与聚氨酯硬段/软段的相互作用机制是什么？\n如何通过MD模拟量化FeCl4-与PU的interaction energy？\nFeCl4-如何影响PU的微相分离形态和力学性能？\n\n"
+   },
+   {
+    "heading": "2. Existing Evidence from Corpus",
+    "content": "\n### 离子凝胶基础\n- P089: \"Ionic liquids (ILs) are molten salts that are entirely composed of ions and have melting temperatures below 100C. When immobilized in polymeric matrices... they generate gels known as ionogels\" (file: P089.txt, abstract, confidence: high)\n- P090: Ionic liquid-based gels for electrochemical applications (file: P090.txt, confidence: medium)\n- P448: \"Supramolecular Self-Assembly Regulated Double-Network Ionic Conductor\" (file: P448.txt, confidence: high)\n\n### PU基离子凝胶\n- P246: \"Enhanced Mechanical Properties of Polyurethane Ionogels\" (file: P246.txt, confidence: medium)\n\n### 磁性离子凝胶\n- P245: \"Transparent, flexible, and paramagnetic ionogels\" (file: P245.txt, confidence: medium)\n\n### 离子液体与聚合物相互作用\n- P103: \"Counterion Effects of Protic Ionic Liquids on the Conductivity\" (file: P103.txt, confidence: medium)\n- P248: \"Theory and Simulations of Ionic Liquids in Nanoconfinement\" (file: P248.txt, confidence: medium)\n\n"
+   },
+   {
+    "heading": "3. Mechanistic Chain",
+    "content": "\nFeCl4- (paramagnetic anion)\n    -> ionic liquid with FeCl4- as anion\n    -> interaction with PU hard segment (-NH, -C=O)\n    -> coordination bonds and hydrogen bonds\n    -> altered microphase separation morphology\n    -> mechanical reinforcement\n    -> ionic conductivity\n    -> magnetic response\n\n"
+   },
+   {
+    "heading": "4. Key Papers",
+    "content": "\n1. P089: Ionic liquid gel fundamentals\n2. P246: PU ionogel mechanical properties\n3. P448: Double-network ionogel design\n4. P245: Paramagnetic ionogels\n5. P248: IL simulations in nanoconfinement\n\n"
+   },
+   {
+    "heading": "5. Best Evidence Excerpts",
+    "content": "\n- P089 abstract: \"Ionic liquids (ILs) are molten salts that are entirely composed of ions... When immobilized in polymeric matrices... they generate gels known as ionogels\"\n- P245 title: \"Transparent, flexible, and paramagnetic ionogels\"\n\n"
+   },
+   {
+    "heading": "6. Missing Evidence",
+    "content": "\n1. FeCl4-与PU硬段的specific interaction（配位键、氢键）的直接证据 — evidence_missing\n2. FeCl4-在PU硬段/软段界面的分布 — evidence_missing\n3. FeCl4-对PU微相分离形态影响的SAXS数据 — evidence_missing\n4. FeCl4-PU体系的MD模拟interaction energy — evidence_missing\n\n"
+   },
+   {
+    "heading": "7. Recommended Experiments or Simulations",
+    "content": "\n1. MD模拟：构建PU硬段/软段模型 + FeCl4-离子，计算interaction energy\n2. 径向分布函数（RDF）分析FeCl4-与-NH、-C=O的距离\n3. SAXS表征FeCl4-添加前后PU微相分离形态变化\n4. 力学测试：拉伸强度、伸长率、韧性\n\n"
+   },
+   {
+    "heading": "8. How to Use in Paper/Grant Writing",
+    "content": "\n- 引言：用P089/P246建立离子凝胶+PU的研究背景\n- 方法：MD模拟参数和力场选择（参考P248）\n- 讨论：FeCl4-与PU链的相互作用机制\n- 创新点：FeCl4-与PU的interaction energy量化是文献空白\n\n"
+   }
+  ]
+ },
+ {
+  "title": "ML for Polyurethane Properties",
+  "file": "project_ML_polyurethane_properties.md",
+  "sections": [
+   {
+    "heading": "1. Research Question",
+    "content": "\n如何利用机器学习预测聚氨酯的力学性能？\nSAXS/FTIR/DSC特征作为ML输入的有效性如何？\n小数据集下如何实现可靠的模型训练和预测？\n\n"
+   },
+   {
+    "heading": "2. Existing Evidence from Corpus",
+    "content": "\n### ML架构\n- P182: \"TransPolymer: a Transformer-based language model for polymer property prediction\" (file: P182.txt, confidence: medium)\n- P186: \"Periodicity-aware deep learning for polymers\" (file: P186.txt, confidence: medium)\n- P187: \"Structure-Aware Machine Learning for Polymers\" (file: P187.txt, confidence: medium)\n- P183: \"A Machine Learning Interatomic Potential Data Set and Model\" (file: P183.txt, confidence: medium)\n\n### ML特征候选（from Batch 4-5 evidence）\n- SAXS peak position: 20 evidence rows\n- SAXS FWHM: 10 evidence rows\n- WAXS peak: 12 evidence rows\n- FTIR peak / band ratio: 10 evidence rows\n- DSC Tg/Tm/delta-H: 15 evidence rows\n- Mechanical properties: 8 evidence rows\n- Total ML feature candidates: 214 rows\n\n### 光谱特征作为ML输入\n- P260: Multi-technique (SAXS/FTIR/BDS/DSC/rheology) characterization framework (file: P260.txt, abstract, confidence: high)\n- P369: SAXS + DMA for polyurea microstructure (file: P369.txt, confidence: high)\n\n"
+   },
+   {
+    "heading": "3. Mechanistic Chain",
+    "content": "\nPU chemical structure\n    -> SAXS: domain size, long period, FWHM\n    -> FTIR: H-bond index, phase separation index\n    -> DSC: Tg, Tm, crystallinity\n    -> ML model (RF, NN, GNN, Transformer)\n    -> predicted: tensile strength, elongation, toughness, modulus\n\n"
+   },
+   {
+    "heading": "4. Key Papers",
+    "content": "\n1. P182: TransPolymer — Transformer for polymer properties\n2. P186: Periodicity-aware deep learning\n3. P187: Structure-aware ML for polymers\n4. P260: Multi-technique characterization framework\n5. P369: SAXS + DMA for polyurea\n\n"
+   },
+   {
+    "heading": "5. Best Evidence Excerpts",
+    "content": "\n- P182: \"TransPolymer: a Transformer-based language model for polymer property prediction\"\n- P186: \"Periodicity-aware deep learning for polymers\"\n- P260 abstract: \"Combining X-ray scattering, Fourier transform infrared spectroscopy (FT-IR), broadband dielectric spectroscopy (BDS), rheology, and differential scanning calorimetry (DSC)\"\n\n"
+   },
+   {
+    "heading": "6. Missing Evidence",
+    "content": "\n1. 使用SAXS/FTIR/DSC特征预测PU力学性能的直接研究 — evidence_missing\n2. 聚合物ML数据集规模和泛化能力评估 — partial evidence from P182, P186\n3. 特征重要性分析：哪些SAXS/FTIR/DSC特征对力学预测最关键 — evidence_missing\n4. 小数据集下的迁移学习或数据增强策略 — evidence_missing\n\n"
+   },
+   {
+    "heading": "7. Recommended Experiments or Simulations",
+    "content": "\n1. 构建PU力学性能数据集：从文献中提取SAXS/FTIR/DSC特征 + 力学标签\n2. 特征工程：SAXS peak position, FWHM, domain size; FTIR HBI; DSC Tg, Tm, delta-H\n3. 模型训练：Random Forest (baseline), XGBoost, Neural Network\n4. 可解释性：SHAP分析特征重要性\n5. 迁移学习：从大分子数据集预训练，微调到PU数据集\n\n"
+   },
+   {
+    "heading": "8. How to Use in Paper/Grant Writing",
+    "content": "\n- 引言：用P182/P186/P187建立聚合物ML的研究背景\n- 方法：特征工程策略（SAXS/FTIR/DSC -> ML features）\n- 讨论：小数据集风险和缓解策略\n- 创新点：SAXS/FTIR/DSC特征直接用于PU力学预测是文献空白\n\n"
+   }
+  ]
+ }
+]

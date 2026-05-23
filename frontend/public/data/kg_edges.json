@@ -1,0 +1,6562 @@
+[
+ {
+  "source_id": "N0001",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P151",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0001",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P151",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0002",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P166",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0002",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P166",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0002",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P166",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0004",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P339",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0005",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P069",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0005",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P069",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0005",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P069",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0006",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P077",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0006",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P077",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0006",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P077",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0008",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P104",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0015",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P113",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0016",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P115",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0017",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P116",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0017",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P116",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0018",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P122",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0018",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P122",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0019",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P123",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0020",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P140",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0020",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P140",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0022",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P146",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0023",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P147",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0023",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P147",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0024",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P177",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0027",
+  "target_id": "N0182",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P379",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0030",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P064",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0039",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P286",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0040",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P288",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0040",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P288",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0040",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P288",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0044",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P365",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0045",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P366",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0047",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P372",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0052",
+  "target_id": "N0186",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P425",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0053",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P006",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0056",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P054",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0057",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P058",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0059",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P073",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0059",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P073",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0060",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P074",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0186",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0063",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P234",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0063",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P234",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0064",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P238",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0067",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P259",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0067",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P259",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0068",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P268",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0068",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P268",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0070",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P342",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0071",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P349",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0071",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P349",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0072",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P382",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0072",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P382",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0074",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P395",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0074",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P395",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0074",
+  "target_id": "N0186",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P395",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0075",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P401",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0075",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P401",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0076",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P419",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0079",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P452",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0079",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P452",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0080",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P119",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0082",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P176",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0082",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P176",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0084",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P057",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0085",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P068",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0085",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P068",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0085",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P068",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0086",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P075",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0086",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P075",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0087",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P084",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0091",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P093",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0094",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P100",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0099",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P247",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0100",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P248",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0101",
+  "target_id": "N0188",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P249",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0102",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P254",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0103",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P256",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0105",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P448",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0106",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P182",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0109",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P185",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0109",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P185",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0113",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P192",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0115",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P049",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0115",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P049",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0116",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P156",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0116",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P156",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0118",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P258",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0186",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0121",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P322",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0121",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P322",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0121",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P322",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0127",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P010",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0128",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P018",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0129",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P021",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0130",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P023",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0132",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P038",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0132",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P038",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0133",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P040",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0134",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P070",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0134",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P070",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0135",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P102",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0136",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P139",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0137",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P194",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0138",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P201",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0139",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P219",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0141",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P228",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0142",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P266",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0143",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P270",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0144",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P285",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0145",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P333",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0147",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P340",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0149",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P356",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0149",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P356",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0150",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P390",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0153",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P407",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0154",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P408",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0155",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P454",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0155",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P454",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0156",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P013",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0159",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P047",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0160",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P051",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0183",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0164",
+  "target_id": "N0187",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P118",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0164",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P118",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0165",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P150",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0166",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P225",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0166",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P225",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0186",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0185",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0189",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0181",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0180",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0184",
+  "edge_type": "STUDIES",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0002",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P166",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0004",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P339",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0004",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P339",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0004",
+  "target_id": "N0203",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P339",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0005",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P069",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0005",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P069",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0008",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P104",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0009",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P105",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0010",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P106",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0010",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P106",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0012",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P108",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0013",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P110",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0013",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P110",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0014",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P111",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0014",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P111",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0015",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P113",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0015",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P113",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0015",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P113",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0017",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P116",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0017",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P116",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0018",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P122",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0019",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P123",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0020",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P140",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0021",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P145",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0022",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P146",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0022",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P146",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0023",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P147",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0024",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P177",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0027",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P379",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0027",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P379",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0029",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P052",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0030",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P064",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0030",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P064",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0030",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P064",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0032",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P191",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0032",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P191",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0033",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P240",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0034",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P252",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0034",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P252",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0034",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P252",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0200",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0203",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0203",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0038",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P284",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0038",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P284",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0038",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P284",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0039",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P286",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0040",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P288",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0040",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P288",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0044",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P365",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0044",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P365",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0045",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P366",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0045",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P366",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0045",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P366",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0045",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P366",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0047",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P372",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0047",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P372",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0048",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P376",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0048",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P376",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0048",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P376",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0201",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0051",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P414",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0051",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P414",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0051",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P414",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0052",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P425",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0052",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P425",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0052",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P425",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0053",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P006",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0056",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P054",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0057",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P058",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0057",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P058",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0059",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P073",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0060",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P074",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0062",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P163",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0063",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P234",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0064",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P238",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0068",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P268",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0071",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P349",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0071",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P349",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0072",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P382",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0073",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P383",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0074",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P395",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0075",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P401",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0076",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P419",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0200",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0080",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P119",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0080",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P119",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0080",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P119",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0082",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P176",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0082",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P176",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0084",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P057",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0085",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P068",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0086",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P075",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0089",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P090",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0091",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P093",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0094",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P100",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0094",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P100",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0095",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P103",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0095",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P103",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0095",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P103",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0096",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P220",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0100",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P248",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0100",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P248",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0101",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P249",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0101",
+  "target_id": "N0200",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P249",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0102",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P254",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0103",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P256",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0103",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P256",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0103",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P256",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0105",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P448",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0105",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P448",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0107",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P183",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0107",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P183",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0108",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P184",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0109",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P185",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0111",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P187",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0112",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P189",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0112",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P189",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0115",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P049",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0116",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P156",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0202",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0118",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P258",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0118",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P258",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0121",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P322",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0121",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P322",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0191",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0127",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P010",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0127",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P010",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0128",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P018",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0128",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P018",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0128",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P018",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0129",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P021",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0129",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P021",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0130",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P023",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0130",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P023",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0131",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P029",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0131",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P029",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0132",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P038",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0132",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P038",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0134",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P070",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0137",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P194",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0138",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P201",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0139",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P219",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0139",
+  "target_id": "N0200",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P219",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0139",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P219",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0139",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P219",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0142",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P266",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0143",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P270",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0144",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P285",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0144",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P285",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0144",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P285",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0148",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P345",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0149",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P356",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0150",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P390",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0152",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P406",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0153",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P407",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0153",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P407",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0154",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P408",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0154",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P408",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0156",
+  "target_id": "N0192",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P013",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0156",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P013",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0159",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P047",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0161",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P063",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0161",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P063",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0161",
+  "target_id": "N0200",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P063",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0165",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P150",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0166",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P225",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0166",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P225",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0168",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P359",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0170",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P396",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0170",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P396",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0190",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0173",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P433",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0193",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0195",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0194",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0198",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0197",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0199",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0196",
+  "edge_type": "USES_METHOD",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0001",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P151",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0002",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P166",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0007",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P083",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0007",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P083",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0008",
+  "target_id": "N0220",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P104",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0017",
+  "target_id": "N0222",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P116",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0020",
+  "target_id": "N0222",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P140",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0022",
+  "target_id": "N0222",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P146",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0022",
+  "target_id": "N0220",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P146",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0024",
+  "target_id": "N0220",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P177",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0216",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0034",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P252",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0052",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P425",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0063",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P234",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0064",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P238",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0079",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P452",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0080",
+  "target_id": "N0220",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P119",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0081",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P164",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0082",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P176",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0085",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P068",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0086",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P075",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0091",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P093",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0101",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P249",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0115",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P049",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0116",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P156",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0118",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P258",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0222",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0129",
+  "target_id": "N0215",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P021",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0136",
+  "target_id": "N0222",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P139",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0158",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P044",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0158",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P044",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0159",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P047",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0161",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P063",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0164",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P118",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0165",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P150",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0165",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P150",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0167",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P250",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0168",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P359",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0170",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P396",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0173",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P433",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0217",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0176",
+  "target_id": "N0218",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P045",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0176",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P045",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0221",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0219",
+  "edge_type": "SUPPORTS_MECHANISM",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0003",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P188",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0004",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P339",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0006",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P077",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0006",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P077",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0011",
+  "target_id": "N0212",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P107",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0015",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P113",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0016",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P115",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0019",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P123",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0021",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P145",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0023",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P147",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0025",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P298",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0026",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P338",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0027",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P379",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0027",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P379",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0028",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P003",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0031",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P159",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0034",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P252",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0035",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P260",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0036",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P276",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0037",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P278",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0038",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P284",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0041",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P289",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0042",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P294",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0043",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P364",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0046",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P369",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0049",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P380",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0050",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P386",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0053",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P006",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0053",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P006",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0054",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P011",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0055",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P015",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0056",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P054",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0058",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P067",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0059",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P073",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0059",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P073",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0061",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P154",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0062",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P163",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0062",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P163",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0063",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P234",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0064",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P238",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0065",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P242",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0066",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P257",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0067",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P259",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0067",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P259",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0068",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P268",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0069",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P300",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0070",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P342",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0070",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P342",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0071",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P349",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0073",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P383",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0074",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P395",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0075",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P401",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0075",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P401",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0076",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P419",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0077",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P438",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0078",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P439",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0079",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P452",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0083",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P337",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0084",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P057",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0087",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P084",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0088",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P089",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0089",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P090",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0089",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P090",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0090",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P091",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0091",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P093",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0092",
+  "target_id": "N0213",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P094",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0093",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P099",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0095",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P103",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0095",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P103",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0096",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P220",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0097",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P245",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0098",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P246",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0100",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P248",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0102",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P254",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0103",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P256",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0104",
+  "target_id": "N0213",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P269",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0105",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P448",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0108",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P184",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0112",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P189",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0114",
+  "target_id": "N0211",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P305",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0115",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P049",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0116",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P156",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0117",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P235",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0119",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P287",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0120",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P320",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0122",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P370",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0123",
+  "target_id": "N0214",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P375",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0124",
+  "target_id": "N0210",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P397",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0125",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P427",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0126",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P437",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0127",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P010",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0129",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P021",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0130",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P023",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0131",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P029",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0132",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P038",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0134",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P070",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0135",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P102",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0138",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P201",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0143",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P270",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0151",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P393",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0156",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P013",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0157",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P033",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0158",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P044",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0158",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P044",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0160",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P051",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0161",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P063",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0162",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P066",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0163",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P097",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0165",
+  "target_id": "N0214",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P150",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0166",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P225",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0169",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P368",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0171",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P400",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0214",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0172",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P428",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0174",
+  "target_id": "N0205",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P443",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0206",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0175",
+  "target_id": "N0204",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P444",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0207",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0177",
+  "target_id": "N0208",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P209",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0178",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P224",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0179",
+  "target_id": "N0209",
+  "edge_type": "SHOWS_PROPERTY",
+  "evidence_id": "",
+  "paper_id": "P237",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0215",
+  "target_id": "N0223",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0216",
+  "target_id": "N0223",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0217",
+  "target_id": "N0223",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0218",
+  "target_id": "N0223",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0219",
+  "target_id": "N0224",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0220",
+  "target_id": "N0225",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0221",
+  "target_id": "N0224",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0222",
+  "target_id": "N0224",
+  "edge_type": "RELATED_TO_PROJECT",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "high"
+ },
+ {
+  "source_id": "N0204",
+  "target_id": "N0228",
+  "edge_type": "CAN_BE_ML_FEATURE",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0205",
+  "target_id": "N0228",
+  "edge_type": "CAN_BE_ML_FEATURE",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "medium"
+ },
+ {
+  "source_id": "N0206",
+  "target_id": "N0228",
+  "edge_type": "CAN_BE_ML_FEATURE",
+  "evidence_id": "",
+  "paper_id": "",
+  "confidence": "medium"
+ }
+]

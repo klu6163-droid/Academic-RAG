@@ -1,0 +1,727 @@
+paper_id,title,file_name,year,priority,extraction_quality,evidence_type,claim_type,evidence_text,figure_table_source,page_est,keyword,confidence,relevance,ml_feature_candidate
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"-caprolactone)(PCL),(e)Chitosan(CS),(f)Poly(vinylpyrrolidone)(PVP),(g)Poly(vinylchloride)(PVC),and(h)Poly(vinylidenefluoride)(PVDF). S.B.Azizetal./JournalofScience:AdvancedMaterialsandDevices3(2018)1e17 3",line 87,3,pvdf,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"ofScheme.1),resultinginthepoorionicconductivity.Plasticized morphologyof poly(vinylidene difluoride-co-hexa fluoro propyl- polymer electrolytes with suitable liquid solvents that have high ene)(PVDF-co-HFP))complexedwithLiPF6.Thesurfaceandcross-",line 140,4,poly(vinylidene,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"polymer electrolytes with suitable liquid solvents that have high ene)(PVDF-co-HFP))complexedwithLiPF6.Thesurfaceandcross- dielectricconstant,ε,andlowviscosity,h,aredesiredtoformgel section morphology of the PVDF-co-HFP polymer incorporated",line 141,4,pvdf,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"dielectricconstant,ε,andlowviscosity,h,aredesiredtoformgel section morphology of the PVDF-co-HFP polymer incorporated polymer electrolytes. Therefore, the amorphous regions grow with different amounts of in situ synthesized TiO2 nanoparticles",line 142,4,pvdf,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"are typically fragile and possess low dielectric strength [34]. volumeofthematterisstrictlyconfinedthenapolarizationphe- Though,polymershaverelativelylowdielectricpermittivity,they nomenontakesplaceor(ii)iftheelectricalchargesinthematerials",line 163,5,polarization,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,excerpt,general,"identifyandovercometheeffectofspacechargepolarizationatthe electrode/solidelectrolyteinterface,itiscrucialtocarryouttheac whereZ real andZ img aretherealandimaginarypartsoftheelec-",line 170,5,polarization,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,performance_data,measurement,Dielectric constant: 0,text extraction,,performance,medium,standard,TRUE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Chemicalstructuresofsomepolarpolymerswidelyusedforpolymerelectrolytes:(a)Poly(ethyleneoxide)(PEO),(b)Poly(vinylalcohol)(PVA),(c)Poly(methylmethacrylate)
+(PMMA),(d)Poly(
+conductivity [10]. Polymer electrolytes comprise both crystalline electricalconductivitycanbeimprovedbyincorporatingtheplas-
+and am",Figure 1,,Figure 1,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,"ColeeColeplotsandtheirequivalentcircuitsfor(a)apureresistor,(b)apurecapacitor,(c)acapacitorandaresistorinseries,(d)acapacitorandaresistorintheparallel
+combination,and(e)aleakysystem[48].Resistorisrepresentedbythesymbol andcapacitorrepresentedby .
+12
+10
+8
+6
+R = 622 Ohm
+b
+4
+2
+0
+0 2 4 6 8 10 12 14
+Z (O",Figure 3,,Figure 3,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,"Cartoonofionmotioninapolymerhost[62].
+8 S.B.Azizetal./JournalofScience:AdvancedMaterialsandDevices3(2018)1e17",Figure 5,,Figure 5,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,"SimilarArrheniusbehaviorhasbeenreportedby and intra-chain ion hopping of ion movements and the conduc-
+Baskaran et al. [69] and by Kadir et al. [70] for PVA:LiClO4 and tivity of the polymer electrolyte accordingly becomes higher
+chitosan-PVA:NH4NO3polymerelectrolytes,respectively. [73,74].
+Most of p",Figure 6,,Figure 6,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,"TemperaturedependenceofionicconductivityforPVAc:PVdF:LiClO4polymerelectrolytescontainingvariousblendratios[77].
+conductivity behavior of solid and nanocomposite polymer elec- dissociationenergy(U)anddielectricpermittivity(ε0)ofthehost
+trolytes[4,12,83e86].Iontransportstudyisthesubjectofinvesti- mate",Figure 8,,Figure 8,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,Compositiondependenceofdielectricconstant(at1kHz)forPCLasafunctionofLiBOBconcentration(wt.%)atroomtemperature[2].,Figure 10,,Figure 10,medium,standard,FALSE
+P069,JournalofScience:AdvancedMaterialsandDevices3(2018)1e17,P069_unidentified.pdf,2018,low,partial,figure_caption,measurement,Temperaturedependenceofdcconductivityusing(a)Arrheniusand(b)ReformulatedArrheniusequations[114].,Figure 12,,Figure 12,medium,standard,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,abstract,general,"Piezoelectricsensorsare widelyused inwearabledevices tomimic thefunctionsof
+humanskin.However,itisconsiderablychallengingtodevelopsoftpiezoelectricmaterialsthatcan
+exhibit high sensitivity, stretchability, super elasticity, and suitable modulus. In this study, a soft
+skin-like piezoelectric polymer elastomer composed of poly(vinylidene fluoride) (PVDF) and a
+novel elastic substrate polyacrylonitrile is prepared by combining the radical polymerization and
+freeze-dryingprocesses.Dipole−dipoleinter",abstract section,1,abstract,high,high_relevance_pu,TRUE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,conclusion,method,"Guangzhou 510150, P. R. China; orcid.org/0000-0001-
+We report a facile and efficient method to prepare multifunc- 8056-9464; Email: zhoul@gzhmu.edu.cn
+tionalpiezoelectricelastomersforsensingapplicationsviaone-
+step thermal polymerization without any electrical poling Authors
+treatment.TheobtainedPVDF-PANelastomericpolymerwas Youjun Guan − School of Chemical Engineering and Light
+greatly improved by exploiting the electric dipole−dipole Industry, Guangdong University of Technology, Guangzhou
+inte",conclusion section,end,conclusion,high,high_relevance_pu,TRUE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial Electronic Skin",line 2,1,piezoelectric,medium,high_relevance_pu,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,"ABSTRACT: Piezoelectricsensorsare widelyused inwearabledevices tomimic thefunctionsof humanskin.However,itisconsiderablychallengingtodevelopsoftpiezoelectricmaterialsthatcan",line 10,1,piezoelectric,medium,standard,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,"humanskin.However,itisconsiderablychallengingtodevelopsoftpiezoelectricmaterialsthatcan exhibit high sensitivity, stretchability, super elasticity, and suitable modulus. In this study, a soft",line 11,1,piezoelectric,medium,standard,TRUE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,skin-like piezoelectric polymer elastomer composed of poly(vinylidene fluoride) (PVDF) and a novel elastic substrate polyacrylonitrile is prepared by combining the radical polymerization and,line 13,1,pvdf,medium,high_relevance_pu,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,"freeze-dryingprocesses.Dipole−dipoleinteractionresultsinthephasetransitionofPVDF(αphase toβ phase), which enhances theelectrical andmechanical performances. Thus,we achieve a high",line 15,1,pvdf,medium,standard,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,excerpt,general,"piezoelectric coefficient (d = 63 pC/N), good stretchability (211.3−259.3%), super 33max",line 17,1,piezoelectric,medium,standard,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,figure_caption,measurement,"PreparationprocessandpiezoelectricmechanismdiagramofPVDF-PANelastomer.(a)Schematicprocedureofpreparingdualnetwork
+(chemicalcross-linkingandphysicalcross-linking)elastomersandphysicalphotoofthepreparationprocess.(b)Electricoutputmeasurementof
+thePVDF-PANelastomersunderanappliedforceof0.5Natafrequency",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P077,"Soft, Super-Elastic, All-Polymer Piezoelectric Elastomer for Artificial",P077_unidentified.pdf,2022,medium,good,figure_caption,measurement,"Mechanical performances of the PVDF-PAN elastomer. (a) Compressive and (b) tensile stress−strain curves of the PVDF-PAN
+elastomer with different PVDF content. (c) Loading−unloading compression tests of the PVDF12.5-PAN elastomer to a different strain. (d)
+Loading−unloadingcompressiontestsofthePVDF-P",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,conclusion,general,"of FSSC cell designs introduces some
+emerging electrode materials, including MXenes, metal nitrides, metal–organic frameworks (MOFs),
+Received9thJuly2017 polyoxometalates (POMs) and black phosphorus. Some potential practical applications, such as the
+development of piezoelectric, photo-, shape-memory, self-healing, electrochromic and integrated
+DOI:10.1039/c7cs00505a
+sensor-supercapacitors are also discussed. The final section highlights current challenges and future
+rsc.li/chem-soc-rev perspect",conclusion section,end,conclusion,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,general,"development of piezoelectric, photo-, shape-memory, self-healing, electrochromic and integrated DOI:10.1039/c7cs00505a",line 19,1,piezoelectric,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,general,"innovationfornext-generationSCs,includingpiezoelectric,photo-, sizeisunrelatedtosurfacearea.Notably,volumetriccapacitance shape-memory, electrochromic, self-healing SCs. To facilitate increasedB1.5-fold(from55to80Fcm(cid:2)3)whenmicroporous",line 237,6,piezoelectric,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,general,"in decreased electrochemical performance. Therefore, several double-layerchargestorage,theelectroactivesurfacearea,pore strategies have been developed to prevent aggregation of the sizedistributionandtransportresistanceoftheelectrolyteions",line 438,11,electroactive,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,general,hybrid film and polyvinyl alcohol (PVA)/H SO gel on an provide suitable scaffolds to support these pseudocapacitive 2 4,line 456,12,scaffold,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,general,"film exhibited good mechanical properties (ultimate tensile electrodeconfigurationofelectroactivematerialsdirectlysynthe- strength: 16 MPa). Thus, FSSCs based on robust CNT/PPy sisedonthesubstratesurfaceleadstoanincreaseinSCenergy",line 544,14,electroactive,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,excerpt,finding,and facilitates the rapid absorption of electroactive materials observed in electrolytic capacitors) and an energy density of because of their hydrophilic nature. This results in a much 0.12 mW h cm(cid:2)2 together with superior rate ability and cycl-,line 751,19,electroactive,medium,standard,FALSE
+P083,Chem Soc Rev,P083_unidentified.pdf,2018,low,partial,performance_data,measurement,Degradation: 93,text extraction,,performance,medium,standard,TRUE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,general,Contributions to the Piezoelectric Effect in Ferroelectric Single Crystals and Ceramics,line 6,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,general,"The piezoelectric effect in ferroelectric single crystals and ce- role as they directly affect the performance of high precision ramicsisinvestigatedconsideringintrinsic(lattice),andextrin- devices.19",line 12,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,general,"on piezoelectric anisotropy, which was examined using the ferroelectrics are discussed. In the first section, the anisotropy Landau–Ginsburg–Devonshire phenomenological theory. It is ofpiezoelectricpropertiesinthevicinityoftheMPBinPZT,the",line 16,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,general,"Landau–Ginsburg–Devonshire phenomenological theory. It is ofpiezoelectricpropertiesinthevicinityoftheMPBinPZT,the shown thatthe enhancedpiezoelectric response along nonpolar mostwidelyusedpiezoelectricferroelectric,isconsideredusing",line 17,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,finding,"shown thatthe enhancedpiezoelectric response along nonpolar mostwidelyusedpiezoelectricferroelectric,isconsideredusing directions, observed in many perovskite systems, is a conse- theLandau–Ginsburg–Devonshire (LGD)20–27thermodynamic",line 18,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,excerpt,general,"flatteningiscommonfortemperature-,composition-,andexter- piezoelectric response along nonpolar directions can be inter- nal field-induced enhancement of the piezoelectric properties preted in terms of the anisotropic flattening of the Gibbs free",line 21,1,piezoelectric,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"We shall examine compositions that are sufficiently far
+awayfromtheMPBsothatthemonoclinicphaseneednotbe
+taken into account in Eq. (1). The spontaneous polarization
+qffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+P ¼ P2þP2þP3 iscalculatedfromthe stabilityconditio",Figure 1,,Figure 1,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Forboththetetragonalandrhombohedralphaseswr
+11
+andwt increaseas theMPBisapproachedwhilethesuscepti-
+mol% PbZrO 3 bilities 11 alongthepolardirection,wr andwt ,remainnearlycon-
+33 33
+stant. This important property of MPB has been discussed in
+detailbyIwata,Ishibashi,andco-workers46–50inaseriesofar-
+ti",Figure 4,,Figure 4,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Orientationdependenceofdr(cid:2)ðy;fÞfor90/10and60/40Pb(Zr Ti )O (PZT)atroomtemperature.Cross-sectionofthesurfacesisshownin 33 1(cid:1)x x 3
+thebottompartofthefigure.Notereducedanisotropyin90/10composition,whichliesfurtherawayfromthemorphotropicphaseboundary.Dashed
+curveforthiscompositionshowsdatama",Figure 3,,Figure 3,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"DielectricsusceptibilitiesofPb(Zr Ti )O (PZT)asafunction tionrotationpathsforarhombohedralcrystal,whileM pathdescribes 1(cid:1)x x 3 C
+of composition in crystallographic coordinate system. Compare with polarizationrotationinatetragonalcrystal.Onlypathsdiscussedinthe",Figure 4,,Figure 4,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"GibbsfreeenergyfromEq.(6),withP 5Pa0;Pa0for60/ 33
+1 2 3 composition,asshowninFig.3.
+40 Pb(Zr Ti )O. Full dots represent positions of equilibrium rho-
+1(cid:1)x x 3 Thus, by investigating the anisotropic flatness of the Gibbs
+mbohedral (R), and metastable orthorhombic (O), tetrganal (T), and
+cubic(C)",Figure 6,,Figure 6,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Comparisonofenergyprofilesalong[R],[M ],and[M ]pathsfor(a)Pb(Zr Ti )O (PZT)
+A B 1(cid:1)x x 3
+60/40and(b)PZT90/10.DGprofileispresentedfor60/40and90/10PZTalopng
+ffiffiffi
+:(c)[R]path,(d)[M
+A
+]path,and(e)[M
+B
+]path.Forpurposesof
+comparison,P
+S
+inexpressionforDGðP SÞisnormalizedbyreplacingP
+S
+withP
+S
+3",Figure 6,,Figure 6,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Calculated compositional dependence of piezoelectric coeffi-
+cients on the tetragonal side of the Pb(Zr Ti )O (PZT) phase dia-
+1(cid:1)x x 3
+gram.AfterHaunetal.26
+15512916,
+2005,
+10,
+Downloaded
+from
+https://ceramics.onlinelibrary.wiley.com/doi/10.1111/j.1551-2916.2005.00671.x
+by
+Chongqing
+University",Figure 9,,Figure 9,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"SeeFig.5forpathidentification. Effectsofexternalfieldsontheintrinsicpiezoelectricanisotropy
+Fulldotsrepresentpositionsofequilibriumtetragonal(T),metastable and flattening of the Gibbs free energy profile are discussed
+orthorhombic (O), and cubic (C) phases at 251C. Dashed line is the elsewhereandonl",Figure 11,,Figure 11,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Orientationdependenceofdt(cid:2)ðyÞinBaTiO fortwotemper-
+33 3
+atures.ComparewithFig.8fortetragonalPb(Zr Ti )O.
+1(cid:1)x x 3",Figure 12,,Figure 12,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Rhombohedral ceramics with randomly oriented grains.
+Grains oriented withremanentpolarizationP perpendicular toelect- r",Figure 15,,Figure 15,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"Dynamicstressdependence,hysteresis,andfrequencydispersionassociatedwiththedirectpiezoelectriceffectin(a)SrBiTiO ,(b)Nb-doped
+4 4 15
+PZT,(c)(Pb,Sm)TiO,andMn-dopedSrBiTiO (courtesyCyrilVoisard)ceramics.Arrowsin(d)indicateclockwisesenseofhysteresisrotationfor
+3 4 4 15
+thismaterial.Thehysteresesaremeasu",Figure 16,,Figure 16,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"This concept has been
+Thecontributionofdomainwalldisplacementtothepiezoelec- 33
+successfully proven in textured ceramics with rhombohedral
+triceffectisdiscussedinSectionIII.Insinglecrystalswithspecial
+engineered domainstructures,35 domain walls arenot expected
+symmetry.74,75
+to move by external fiel",Figure 15,,Figure 15,medium,standard,FALSE
+P104,"J.Am.Ceram.Soc.,88[10]2663–2676(2005)",P104_unidentified.pdf,2005,low,partial,figure_caption,measurement,"The most interesting
+dependentcomponentofthematerialresponse(termscontain- feature of these nonlinear Cole–Cole plots is that they asymp-
+inga)isconsideredtobea consequenceofpinningofdomain toticallyapproachapointinthemiddleofthecomplexplaneas
+wallsonrandomlydistributedpinningcentersandisresponsible",Figure 17,,Figure 17,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,general,"Piezoelectric response and free-energy instability in the perovskite crystals BaTiO , PbTiO , 3 3",line 2,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,general,"The question of the origin of the piezoelectric properties enhancement in perovskite ferroelectrics is ap- proachedbyanalyzingtheGibbsfreeenergyoftetragonalBaTiO ,PbTiO ,andPb(cid:1)Zr,Ti(cid:2)O intheframework",line 10,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,finding,damental thermodynamic process behind the piezoelectric enhancement. The generality of the approach is demonstratedbyexaminingthefree-energyflatteningandpiezoelectricenhancementasafunctionofcompo-,line 14,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,finding,"demonstratedbyexaminingthefree-energyflatteningandpiezoelectricenhancementasafunctionofcompo- sition, temperature, electric field, and mechanical stress. It is shown that the anisotropy of the free-energy",line 15,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,general,"flatteningistheoriginoftheanisotropicenhancementofthepiezoelectricresponse,whichcanoccureitherby polarization rotation or by polarization contraction. Giant enhancement of the longitudinal piezoelectric re-",line 17,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,excerpt,general,polarization rotation or by polarization contraction. Giant enhancement of the longitudinal piezoelectric re- sponse(cid:1)d (cid:1)103pC/N(cid:2) ispredictedinPbTiO underuniaxialcompression.,line 18,1,piezoelectric,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,figure_caption,measurement,"(cid:1)Color online(cid:2) Effects
+of composition in PZT 0/100
+(cid:1)PbTiO (cid:2) and PZT 40/60 at
+3
+298K on free energy flattening
+and piezoelectric response: (cid:1)a(cid:2)
+(cid:2)G(cid:1)P =0,P (cid:2) profile related to
+2 3
+polarization contraction; (cid:1)b(cid:2)
+(cid:2)G(cid:1)P ,P =0.52C/",Figure 1,,Figure 1,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,figure_caption,measurement,"Figures 2(cid:1)a(cid:2)–2(cid:1)c(cid:2) compare the (cid:2)G and −44 MV/m in Figs. 2(cid:1)a(cid:2)–2(cid:1)c(cid:2)(cid:4) even a small increase in the
+d* (cid:1)(cid:8)(cid:2) forthecrystalatzerobiasfieldandforE =−35,−43, flatness of the (cid:2)G profile leads to a large enhancement of
+33 3
+and ",Figure 2,,Figure 2,medium,standard,FALSE
+P105,"PHYSICALREVIEWB73,174106(cid:1)2006(cid:2)",P105_unidentified.pdf,2006,low,partial,figure_caption,measurement,"(cid:1)Color online(cid:2) Effects
+of (cid:1)a(cid:2)–(cid:1)c(cid:2) electric bias field (cid:1)E
+3
+=0,−10MV/m(cid:2) at T=298K and
+(cid:1)d(cid:2)–(cid:1)f(cid:2) proximity of tetragonal-
+orthorhombic phase transition
+temperature (cid:1)T=283K(cid:2) at zero
+field on anisotropic free energy
+flatte",Figure 4,,Figure 4,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,conclusion,method,"3S. Zhang and F. Li, High performance ferroelectric relaxor-
+PbTiO singlecrystals:Statusandperspective,J.Appl.Phys.111,
+Inthispaper,weproposeatheoreticaldesignmethod:Binary 3
+031301(2012).
+materials with MPB compositions are added with new ele- 4E. Sun and W. Cao, Relaxor-based ferroelectric single crystals:
+ments to increase the energy of the original stabilized phase
+Growth, domain engineering, characterization and applications,
+and lower the EB. Flatter EBs and higher piezoelectric Prog.Mater",conclusion section,end,conclusion,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,general,Designing high piezoelectric properties at the BaTiO –PbZrO –PbTiO 3 3 3,line 6,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,method,"Ferroelectricmaterialspossessingexceptionalpiezoelectricattributeshavegarneredwidespreadutilizationinvariousapplications. Solidsolution systems improvepiezoelectric properties through multiphase mixing, but the methodologies for effective design",line 29,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,method,"Solidsolution systems improvepiezoelectric properties through multiphase mixing, but the methodologies for effective design remainwanting.BasedontheLandau–Devonshiretheory,weproposeatheoreticaldesignmethod.Binarymaterialswithmor-",line 30,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,finding,"phaseandlowertheenergybarrier(EB).FlatterEBsandhigherpiezoelectriccoefficientsarefoundatthephaseboundariesofthe ternarysystem.Bycalculatingthephasediagram,piezoelectriccoefficient,dielectricconstant,polarization,andEBs,werevealthe",line 33,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,finding,"ternarysystem.Bycalculatingthephasediagram,piezoelectriccoefficient,dielectricconstant,polarization,andEBs,werevealthe origin of the highest piezoelectric coefficient at the phase boundaries. This study underscores the importance of the EBs for",line 34,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,excerpt,method,origin of the highest piezoelectric coefficient at the phase boundaries. This study underscores the importance of the EBs for polarizationrotationincharacterizingpiezoelectricpropertiesandproposesatheoreticaldesignmethodforexploringmaterialswith,line 35,1,piezoelectric,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,performance_data,measurement,Dielectric constant: 3,text extraction,,performance,medium,standard,TRUE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Designflowofternarysystemmaterialsforhighpiezoelectric.(a)SchematicEBsofPb(Zr 0:52 Ti 0:48 )O 3 andBaTiO 3 .(b)Schematic
+EBs of BaTiO 3 –Pb(Zr 0:52 Ti 0:48 )O 3 after doping BaTiO 3 in Pb(Zr 0:52 Ti 0:48 )O 3 . (c) Thermodynamic results for the xBaTiO 3 -ð1(cid:2)xÞPb
+(Zr 0:52 Ti 0:48 )O 3 EB.(d)d 3",Figure 1,,Figure 1,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,figure_caption,measurement,"(a)Piezoelectriccoefficient(d ),(b)dielectricconstant("" )and(c)spontaneouspolarization(P)ofBT–PZ–PTsystem.Theblack
+33 33 s
+circlein(a)istheregionwiththelargestd .
+33
+Inthethermodynamicresults,thedirectionandmagnitude PZ–PT,theeffectofQ modificationond isneglected.d
+33 33 33
+of the spontaneous polari",Figure 3,,Figure 3,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,figure_caption,measurement,"To conduct a more detailed
+bilizedphaseundergoesasequenceoftransitions:T–R–O–T, comparison of the EB at the TR and RO boundaries,
+and at point IV, the EB reaches its lowest value. As the Figures 6(b) and 6(c) present the variation of EB with com-
+composition moves from III to V, the saddle point gra",Figure 6,,Figure 6,medium,standard,FALSE
+P106,"Vol.14,No.2(2024)2340002(9pages)",P106_unidentified.pdf,2024,low,partial,figure_caption,measurement,"(Coloronline)EBdiagramsforthermodynamiccalculations.(a)BT–PZ–PTternaryEBdiagram.Thered,greenandyellowlinesin(a)
+representtheEBsof(b)0.05PZ–yBT–ð1(cid:2)yÞPT(c)xBaTiO 3 -ð1(cid:2)xÞPb(Zr 0:52 Ti 0:48 )O 3 and(d)ROphaseboundary.(b)–(d)TheEBscurves
+and d corresponding to different component. The differ",Figure 6,,Figure 6,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,conclusion,general,"FERROELECTRICS
+Ferroelectric materials toward next- generation
+Full article and list of
+electromechanical technologies",conclusion section,end,conclusion,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,Ferroelectric materials toward next- generation Full article and list of,line 4,1,ferroelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,"BACKGROUND: Ferroelectrics are widely recognized for their exceptional functional properties, particularly piezoelectricity, Currentlyused",line 11,1,ferroelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,"exceptional functional properties, particularly piezoelectricity, Currentlyused piezoelectric devices",line 12,1,piezoelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,ferroelectric materials at the forefront of numerous modern transducer for 3D fingerprint recognition,line 16,1,ferroelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,"technologies. During the past 100 years, a wide array of ferroelectric materials with excellent piezoelectric properties have been devel- •Piezo thin-filmfilter",line 18,1,ferroelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,excerpt,general,materials with excellent piezoelectric properties have been devel- •Piezo thin-filmfilter formicrowavesignal,line 19,1,piezoelectric,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,performance_data,measurement,Dielectric constant: 33,text extraction,,performance,medium,standard,TRUE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,figure_caption,measurement,"Representative electromechanical devices made of ferroelectric materials. (A) Schematic diagram of the piezoelectric actuator’s working principle. (B) Schematic
+diagram of piezoelectric actuators with different structures, including bimorph structure, flexible hinge structure, and cymbal structure. ",Figure 1,,Figure 1,medium,standard,FALSE
+P107,REVIEW SUMMARY,P107_unidentified.pdf,2000,low,partial,figure_caption,measurement,"Enhancing piezoelectric coefficients of ferroelectric crystals by domain engineering. (A) The effective longitudinal piezoelectric coefficient d33 as a function of domain
+size for (111)-p oled BaTiO3 as measured from experiments and calculated by phase- field simulations based on the 90° ferroelasti",Figure 3,,Figure 3,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,abstract,general,"As an important member of the dielectric family, ferroelectric materials are known for their various
+physical properties and have been attracted considerable attention from both scientific respect and technology
+respect. Piezoelectricity is one of the most important properties of ferroelectrics, which has been widely used in
+many devices for the conversion between electric energy and mechanical energy. For example, the main
+piezoelectric elements of underwater acoustic transducers, medical imagi",abstract section,1,abstract,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,measurement,Piezoelectricity—An important property for ferroelectrics during last 100years Li Fei Zhang Shu-Jun Xu Zhuo,line 3,1,piezoelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,general,"Domains in ferroelectrics: formation, structure, mobility and related properties 物理学报. 2020, 69(12): 127704 https://doi.org/10.7498/aps.69.20200312",line 11,1,ferroelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,general,"Investigation into electrocaloric effect of different types of ferroelectric materials by Landau-Devonshire theory 物理学报. 2020, 69(21): 217801 https://doi.org/10.7498/aps.69.20201195",line 14,1,ferroelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,general,"Influence of electric field on the phenomenological coefficient and electrocaloric strength in ferroelectrics 物理学报. 2020, 69(12): 127701 https://doi.org/10.7498/aps.69.20200296",line 17,1,ferroelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,general,"Research progress and device applications of multifunctional materials based on two-dimensional film/ferroelectrics heterostructures 物理学报. 2020, 69(1): 017301 https://doi.org/10.7498/aps.69.20191486",line 20,1,ferroelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,excerpt,general,"Piezoelectric and electrocaloric properties of high performance potassium sodium niobate-based lead-free ceramics 物理学报. 2020, 69(21): 217705 https://doi.org/10.7498/aps.69.20200540",line 23,1,piezoelectric,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"(a) Schematic drawing of long-range ordered ferroelectrics with single-domain structure, where the red arrows indicate the
+electric dipoles; (b) the relationship between spontaneous polarization and temperature (taking the second-order ferroelectric phase
+transition as an example); (c) the relations",Figure 1,,Figure 1,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Relationship between d and T for lead-based
+33 C
+ceramics[1].
+217703-4
+并没有引起足够的重视. 包括Kuwata与Uchino
+5.1 弛豫铁电单晶的学术价值
+本人在内, 也没有继续深入开展弛豫铁电单晶的生
+长研究工作, 这也使得最后因弛豫铁电单晶而闻名
+1)从实验角度验证了铁电材料的本征压电效
+的人是Tom Shrout和Seung-Eek (Eagle) Park.
+应在MPB附近有显著提升
+1995—1997年间, Shrout和Park[13]获得了高质量
+在弛豫铁电单晶出现之前, PZT陶瓷的研究
+工作虽然已开展了",Figure 3,,Figure 3,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Schematic of shear and longitudinal piezoelectric re-
+sponses. For a ferroelectric single-domain, the applied elec-
+tric field can be divided into two categories: 1) The electric
+field (E) parallel to the direction of the spontaneous polar-
+3
+ization; 2) the electric field (E) perpendicular to the d",Figure 5,,Figure 5,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Neutron elastic diffuse scattering results for PMN and PZT single crystals. The y-axis represents the diffuse scattering in-
+tensity. The higher the intensity indicates the higher degree of the local structural heterogeneity. The inset figures give the contour
+maps of elastic scattering intensity me",Figure 7,,Figure 7,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"X-ray diffuse scattering results of (a) PZN-0.15PT and (b) PZN crystals[19].
+-40 -20 0 20 40
+夹角/(O)
+能由自
+物 理 学 报 Acta Phys. Sin. Vol. 69, No. 21 (2020) 217703
+(a)
+界面能的影响增强, 例如: 通过升高温度
+(b)
+界面能作用增强
+[011] [001] [011]
+图 10 (a)四方相长程铁电畴中嵌入正交相极性微区的
+结构示意图; (b)正交相极性微区自由能随界面能作用增
+强的变化(热力学计算结果), 其中横轴表示极化矢量与
+[001",Figure 9,,Figure 9,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Phase-field simulation results of single-domain PZN-0.15PT crystal: (a) Temperature-dependent microstructural variations
+(the color bar denotes the angle between the polar vector and the horizontal direction); (b) the transverse dielectric permittivity
+versus temperature[17].
+-1.0-0.5 0 0.5 1.0
+电场/M",Figure 11,,Figure 11,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Low-temperature dielectric permittivities (a) and dielectric losses (b) for PMN-0.28PT ceramics[21].
+50000
+40000
+30000
+20000
+10000
+0
+-100 -75 -50 -25 0 25
+D/K
+0 /33
+
+数常电介
+5
+4
+3
+2
+1
+0
+300 350 400 450 500
+温度/K
+401/0/33
+物 理 学 报 Acta Phys. Sin. Vol. 69, No. 21 (2020) 217703
+2.5Sm-PMN-31PT
+PMN-36PT
+",Figure 13,,Figure 13,medium,standard,FALSE
+P108,压电效应—百岁铁电的守护者,P108_unidentified.pdf,2020,low,partial,figure_caption,measurement,"Comparison of dielectric properties between (a) Sr-doped and (b) Sm-doped PMN-0.31PT ceramics. The room temperature
+dielectric and piezoelectric properties of Sr-doped PMN-0.31PT are given in (a)[21].
+(a) 4000
+3000
+2000
+1000
+0 50 100 150 200 250 300
+温度/K
+0/33
+数常电介
+(b) 0.06
+0.05
+0.04
+0.03
+0.02
+0.01",Figure 15,,Figure 15,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,"Keywords: Piezoelectricityhasalreadyfoundamultitudeofapplications,includingvoltagegeneration,quartzoscillators, Piezoelectricnanotransducers mechanicalsensorsandactuators,piezoelectrictransformersandmore.However,inthelastyears,intensere-",line 11,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,"Piezoelectricnanotransducers mechanicalsensorsandactuators,piezoelectrictransformersandmore.However,inthelastyears,intensere- Nanoscalepiezoelectricity searcheffortsworldwidearedemonstratingthatnanoscalepiezoelectricitycanofferoutstandingadvantagesin",line 12,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,"Nanoscalepiezoelectricity searcheffortsworldwidearedemonstratingthatnanoscalepiezoelectricitycanofferoutstandingadvantagesin Nanogenerators comparisonwithconventionalpiezoelectrics.Nevertheless,sofar,nosystematicanalysisoftheseadvantages",line 13,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,"Nanogenerators comparisonwithconventionalpiezoelectrics.Nevertheless,sofar,nosystematicanalysisoftheseadvantages Piezotronics",line 14,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,Advantagesofpiezoelectricityatnanoscale generalstrategiestoaddressthem.Ouranalysisconfirmsthatnanotechnologycanopenthewaytopiezoelectric,line 19,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,excerpt,general,"generalstrategiestoaddressthem.Ouranalysisconfirmsthatnanotechnologycanopenthewaytopiezoelectric transducerswithunprecedentedperformanceforseveralapplications,includingmechanicalenergyharvesting,",line 20,1,piezoelectric,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,figure_caption,measurement,"LargedeformationsofaZnOnanoringwithoutfractureshowthatnanoscalematerialscanhavemuchhigherfracturestrainsthantheirbulkcounterparts.
+ReprintedwithpermissionfromRef.[29].Copyright2005,AIPPublishing.
+731
+C.Falconi Nano Energy 59 (2019) 730–744
+Nevertheless, the limited number of defects is believed to b",Figure 1,,Figure 1,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,figure_caption,measurement,"Schematicillustrationoftunnelingtriboelec-
+trification (top), showing the rubbing of CVD gra-
+phene,depositedonaSiO2substrate,byanAFMtip,
+inordertogeneratetriboelectricchargeswhich,in
+part,tunnelthroughgrapheneandarestoredatthe
+SiO2–air interface; Kelvin Probe Force Microscopy
+image (bottom) of sub-",Figure 3,,Figure 3,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,figure_caption,measurement,"Devicestructuresatnanoscale.(a),FEMcalculationsofthepiezoelectricpotentialin(lefttoright)laterallybentZnOnanowirewithtotalbottomcontact,
+laterallybentZnOnanowirewithtwobottomcontacts,verticallycompressedZnOnanowireandlaterallybentZnOnanowallwithtwobottomcontacts,without
+takingintoaccountfreecharges.",Figure 5,,Figure 5,medium,standard,FALSE
+P110,Nano Energy 59 (2019) 730–744,P110_unidentified.pdf,2019,low,partial,figure_caption,measurement,"Online monitoring of the ZnO na-
+nostructuresgrowthinliquidsonaquartz
+substrate. (a) Photograph of the quartz
+crystal microbalance and of the adjacent
+Pt100 resistive temperature sensor, both
+supportedbyaTeflonbar;thetemperature
+sensor is covered by an inert high-tem-
+perature silicone paste. (b) Re",Figure 6,,Figure 6,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,conclusion,general,"material preparation experiments; G. B. Wang, H. Y. Yang and W. B.
+Wang carried out the biological experiments; G. B. Xia, J. Fang, and J.
+With the assistance of piezoelectric charges generated by ultrasound, Fang participated in writing and supervising the manuscript. All authors
+we fabricate a PDA modified PLLA scaffold for the desirable adhesion of read and approved the final manuscript.
+neural stem cell. Given the electrostatic attraction between dopamine
+(DA) molecules and the piezoelectric",conclusion section,end,conclusion,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,general,Piezoelectric charge induced hydrophilic poly(L-lactic acid) nanofiber for electro-topographical stimulation enabling stem cell differentiation,line 5,1,piezoelectric,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,general,electro-topographical stimulation enabling stem cell differentiation and expansion,line 6,1,differentiation,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,general,"Keywords: Cell-traction driven electrical stimulation on piezoelectric nanofibers mediates cell behavior without chemical Ultrasound factors or external stimuli, indicating a promising therapy at cell level. Generally, surface modification is",line 17,1,piezoelectric,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,general,"Piezoelectric nanofibers required to achieve favorable cell adhesion for efficient electromechanical signal transmission. Nevertheless, Piezoelectric charges",line 19,1,piezoelectric,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,method,common modification methodologies either easily fade away or destroy the nanostructure of piezoelectric Cell adhesion,line 21,1,piezoelectric,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,excerpt,interpretation,on piezoelectric poly(L-lactic acid) nanofibers is first proposed for cell adhesion. Due to the electrostatic inter- Cell expansion,line 25,1,piezoelectric,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Principle of PDA modification of PLLA nanofibers under ultrasound and its application for neural stem cell differentiation and expansion. (A) Piezoelectric
+charges inducing DA in situ polymerization on PLLA nanofiber. (B) PDA modulated scaffold providing favorable adhesion condition which transmits ",Figure 1,,Figure 1,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Effect of PDA modification assisted by ultrasonic vibration on fibrous structure and piezoelectric property. (A) Surface topography and phase of pristine single
+fiber. (B) Surface topography and phase of the single fiber modified with PDA nanoparticles. (C) Mechanical property of PLLA and PDA+PLLA u",Figure 3,,Figure 3,medium,standard,FALSE
+P111,NanoEnergy102(2022)107690,P111_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Cell directional expansion under variable adhesion condition. (A) Spreading area of single cell cultured on TCP, L-PLLA, PLLA, PDA+PLLA. (B) Actin length.
+(C) SEM images of cell adhesion (D) Morphology of cell clusters. (E) Migration angle of cell clusters. Quantitative analysis based on fluorescent",Figure 5,,Figure 5,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,"A review: Polyacrylonitrile as high-performance piezoelectric materials Junzhu Taoa,b,1, Yifan Wanga,b,1, Xuekai Zhenga,b, Chao Zhaob,c, Xin Jina,b,*,",line 6,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,"Keywords: Piezoelectric polymer materials have been extensively investigated as key materials for small kinetic energy Polyacrylonitrile harvesting due to their advantages over inorganic piezoelectric materials, such as high flexibility, good pro-",line 13,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,"Polyacrylonitrile harvesting due to their advantages over inorganic piezoelectric materials, such as high flexibility, good pro- Piezoelectric polymer cessability, and the possibility of a large area as well as curved surface preparation. However, the difficulty of",line 14,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,"Piezoelectric polymer cessability, and the possibility of a large area as well as curved surface preparation. However, the difficulty of Structure",line 15,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,"working at high temperatures is a huge challenge for polymeric piezoelectric materials. Therefore, researchers High performance",line 17,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,excerpt,general,have not stopped their quest to develop new piezoelectric polymer materials with higher performance. This High temperature resistant,line 19,1,piezoelectric,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,performance_data,measurement,Dielectric constant: 0.5,text extraction,,performance,medium,standard,TRUE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"The
+For a long time, there is a big challenging for designing a polymer significant topics about the relationships of three levels microstructure
+piezoelectric material working at high temperature condition (e.g >200 and the piezoelectrical performance of PAN are discussed in detail ac-
+℃) due to it",Figure 1,,Figure 1,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Key concepts of PAN piezoelectric polymerization [30].
+3
+J. Tao et al. N a n o E n e r g y 118(2023)108987
+piezoelectric materials, which still remain challenges for tail-making. 3.1. Fabrication techniques of PAN
+Despite the high dipole moment of the cyanide group on the PAN
+macromolecule, its piez",Figure 2,,Figure 2,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Combing with other substances. (a)Piezoelectric ceramics (i) Typical device structure of PBNF (PAN with BaTiO3 nanofiber) nanogenerator. (ii) Δθ(2θ-17)
+values of different types of PAN/BaTiO3 nanofiber membranes based on XRD. (iii) The voltage outputs of PAN nanofiber membranes with different conten",Figure 4,,Figure 4,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"The significant bands in FTIR and XRD spectra for PAN with different piezoelectric materials. (a) FTIR spectra of the PAN with BaTiO3 nanofiber, (b) XRD
+patterns of BaTiO3 powder, PAN and different types of PAN/BaTiO3 nanofiber membranes. Reproduced with permission from ref [34]. Copyright 2021, Els",Figure 5,,Figure 5,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a) Maximum working temperature of different polymer piezoelectric materials (b) Piezoelectric/dielectric properties of polymer piezoelectric materials at
+different temperatures [20,27,73,112–122].
+temperature and also high room temperature piezoelectric property. the piezoelectric or dielectric pro",Figure 6,,Figure 6,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Key points of PAN high temperature piezoelectric performance. (a)chemical reactions involved in the heat treatment of the PAN membranes (b) digital photos
+showing the appearance of the PAN membranes prepared in different temperature step (c) voltage outputs for the PAN membranes treated under differ",Figure 7,,Figure 7,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"In summary, polymer structure modification has been recognized as
+the most effective strategy for preparing high temperature piezoelectric
+polymer materials in the range of 200–550℃ and mixing PAN with",Figure 9,,Figure 9,medium,standard,FALSE
+P113,NanoEnergy118(2023)108987,P113_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Preparation conditions of PAN in different applications, major performance tests, and cycles (a) schematic illustration of device structure and energy
+conversion tests, (b) circuit for charging a capacitor and lighting a LED, (c) long term working stability of nanofiber device, Reproduced with permi",Figure 9,,Figure 9,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,Piezoelectric polymeric scaffold materials as biomechanical cellular stimuli to enhance tissue regeneration,line 5,1,piezoelectric,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,"Keywords: Electric fields induced by piezoelectric biological materials in humans direct tissue development, repair and Piezoelectricity regeneration. Scaffold-based tissue engineering therapies can significantly alter the inherent signaling pathways",line 11,1,piezoelectric,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,"Piezoelectricity regeneration. Scaffold-based tissue engineering therapies can significantly alter the inherent signaling pathways Scaffolds controlled by cells, extracellular matrix (ECM) and transmitted through electrical synapses. As a result, there is a",line 12,1,piezoelectric,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,"Scaffolds controlled by cells, extracellular matrix (ECM) and transmitted through electrical synapses. As a result, there is a Tissue regeneration",line 13,1,scaffold,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,"gradable piezoelectric polymers for skin, skeletal and nerve tissue engineering. We correlate the piezoelectric properties of scaffolds to in vitro and in vivo biological outcomes. In particular, EFs induced by piezoelectric",line 19,1,piezoelectric,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,excerpt,general,"properties of scaffolds to in vitro and in vivo biological outcomes. In particular, EFs induced by piezoelectric materials can lead to (1) enhanced bone formation in bone repair via activation of signaling cascades responsible",line 20,1,piezoelectric,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Challenges in tissue regeneration after a wound and resting membrane potential of major cells.
+2
+N. Goonoo and A. Bhaw-Luximon M a t e r i a ls T o d a y C o m m u n i c a t i o n s 31(2022)103491
+proliferation [23]. Application of electric signals increases cellular up- reach gap junctions. Consequ",Figure 1,,Figure 1,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Chemical structures of (A) α-and (B) β- and (C) γ- phases of PVDF.
+particular region changes the local dipole distributions and induces an are available to fabricate piezoelectric polymer-based scaffolds for bone
+electric field. tissue engineering (BTE) applications, such as compression molding,
+It ",Figure 3,,Figure 3,medium,standard,FALSE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,figure_caption,measurement,"(A) Bone repair process and (B) Signaling pathways influenced by piezoelectric materials during bone healing.
+8
+N. Goonoo and A. Bhaw-Luximon M a t e r i a ls T o d a y C o m m u n i c a t i o n s 31(2022)103491
+shear piezoelectricity of PLLA depended strongly on the product of Table 4
+crystallinity",Figure 5,,Figure 5,medium,standard,TRUE
+P115,MaterialsTodayCommunications31(2022)103491,P115_unidentified.pdf,2022,low,partial,figure_caption,measurement,"(A) Reduced astrocytic reaction and robust axon regrowth. Immunohistochemical labeling of sections through the spinal cord lesion site for astrocytes (GFAP,
+green), axons (either NF [SMI31–32], red, for neurofilaments; or Tuj1 for betaIII-tubulin, red), and cell nuclei (Dapi, blue), 4 weeks after le",Figure 7,,Figure 7,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,abstract,finding,"ARTICLEHISTORY
+Piezoelectricmaterialscandirectlytransduceelectricalandmechanicalenergy,makingthem Received15April2020
+attractive for applications such as sensors, actuators and energy harvesting devices. While Accepted7April2021
+often associated with ceramic materials, piezoelectric behaviour is also observed in many
+polymers. The flexibility, ease of processing and biocompatibility of piezoelectric polymers KEYWORDS
+Piezoelectricpolymer;
+meanthattheyareoftenpreferableforcertainapplications,desp",abstract section,1,abstract,high,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,conclusion,method,"from this discussion is
+independent piezoelectric coefficients, researchers
+that removing the centre of symmetry from any
+working on each polymer tend to discuss only one
+givenpolymersample–beitamorphousorsemi-crys-
+coefficient. Typical values for these coefficients are
+talline–requiressomedegreeofprocessing.Thispro-
+given in Figure 2. Some general sample preparation
+cessingwillrestrictthesymmetryofthefinalmaterial.
+conditions are also presented, although as we will
+Thecombinationoftheprocessing",conclusion section,end,conclusion,high,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,general,"Piezoelectric polymers: theory, challenges and opportunities",line 3,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,general,"To cite this article: Michael Smith & Sohini Kar-Narayan (2022) Piezoelectric polymers: theory, challenges and opportunities, International Materials Reviews, 67:1, 65-88, DOI:",line 6,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,general,"Piezoelectric polymers: theory, challenges and opportunities Michael Smith and Sohini Kar-Narayan",line 24,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,general,"Piezoelectricmaterialscandirectlytransduceelectricalandmechanicalenergy,makingthem Received15April2020 attractive for applications such as sensors, actuators and energy harvesting devices. While Accepted7April2021",line 28,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,finding,"often associated with ceramic materials, piezoelectric behaviour is also observed in many polymers. The flexibility, ease of processing and biocompatibility of piezoelectric polymers KEYWORDS",line 30,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,excerpt,general,"polymers. The flexibility, ease of processing and biocompatibility of piezoelectric polymers KEYWORDS Piezoelectricpolymer;",line 31,1,piezoelectric,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,figure_caption,measurement,"polymer poly(vinylidene fluoride) (PVDF) [25]. The Terms in Equations (1) and (2) that include the
+piezoelectriccoefficientswereatleastanorderofmag- stress T or strain S can be simplified to give the
+reduced constitutive equations
+nitude larger than anything previously observed in
+polymers.Moreover,",Figure 1,,Figure 1,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,figure_caption,measurement,"(a)Aschematicrepresentationofpolymercrystallisationasaresultofannealing.Notehowthatevenaftercrystallisa-
+tion,thepolymerremainsisotropicandhencecrystallisationinitselfisoftennotsufficienttoremoveacentreofsymmetry.(b)The
+influenceofpolymercrystallinefractiononthepiezoelectriccoefficientofPLLA.Datarep",Figure 3,,Figure 3,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,figure_caption,measurement,"(a) (i)A schematicofan un-poledferroelectric material.Thearrowsrepresent dipolemoments. (ii)Poling ofaferro-
+electric material through the use of attached surface electrodes. (iii) Corona poling of a ferroelectric material. This method
+doesnotrequireelectrodestobeattachedtothematerial.(b)Theinfluenc",Figure 5,,Figure 5,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,figure_caption,measurement,"(a)Thepiezoelectriccoefficientd ofaPZT/PVDF0–3compositeasafunctionofPZTcontent.Allsampleswereelec-
+33
+trically poled for 30min at 110°C using a field of 10kVmm−1. Data reproduced with permission from reference [94] . (b) The
+influence ofmulti-wallcarbon nanotube(MWCNT) content on theβ-phasecontentof",Figure 6,,Figure 6,medium,standard,FALSE
+P116,International Materials Reviews,P116_unidentified.pdf,2021,low,good,figure_caption,measurement,"(a)(i)Aschematicoftheelectrospinningprocess.Figurereproducedwithpermissionfromreference[121].(ii)Typical
+polymernanofibresproducedviaelectrospinning.Imagereproducedfromreference[122]undertheCreativeCommonsCCBY
+license.(b)(i)AsolutiontemplatewettingprocesstoproducePLLAnanowires,showninpart(ii).Figure",Figure 8,,Figure 8,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,"thoseoftriboelectricandpiezoelectricdevices. theapplicationofapressuregradientcreates aninitialioniccurrent,drivenbytheinternal",line 22,1,piezoelectric,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,ments were conducted in poly(vinylidene fluoride-co-hexafluoropropylene)(PVDF-HFP),line 136,4,poly(vinylidene,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,fluoride-co-hexafluoropropylene)(PVDF-HFP) solidpolymerelectrolyteswollenwith0.1to,line 137,4,pvdf,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,"Fig.2.Piezoionicmechanismsandelectricalresponses.(A)Schematicof thePVDF-HFPsolidpolymerelectrolytes(blue)andbulkLiTFSI/PCsolution apolymergelunderindentation,exhibitingdifferentialionicdisplacementand (green)asafunctionofconcentration,showingthatthepolymerelectrolyteis",line 209,6,pvdf,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,"intheundeformedportionofthegel.Inthiscase,apreferentialdisplacement (H)Peakvoltagesgeneratedby0.1-Hz,5%sinusoidalcompressivestraininPVDF- ofthecationsoveranionsresultsinanegativevoltagereading.(B)Poly(acrylic HFPsolidpolymerelectrolyteswithPC/LiTFSIatvaryingconcentrations,showinga",line 215,6,pvdf,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,excerpt,general,"ing.Peakpowertransferoccurswhenanexter- parisonwithstretchablepiezoelectricand reduced, because the poroelastic time con- nalresistorof500ohmsisemployed(Fig.2K), triboelectricdevices(3,9),piezoionicvoltage stant(eq.S15)isproportionaltothesquare",line 287,8,piezoelectric,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Schematicrepresentationcomparingbiologicalsensorytransductionandpiezoionics,and
+shiftinthepiezoionicvoltage.Theamplitude conceptualdepictionofapiezoionicsensingdeviceasaniontronicneuroprosthetic.(A)Mechanoreceptors
+andsignofthesensorresponsetoasinusoidal haveanchorsthatattachthemembranetotheextracel",Figure 1,,Figure 1,medium,standard,FALSE
+P122,"HYDROGELS byweight,blackcurve)producingafasterrise",P122_unidentified.pdf,2022,low,partial,figure_caption,measurement,"Piezoionicmechanismsandelectricalresponses.(A)Schematicof thePVDF-HFPsolidpolymerelectrolytes(blue)andbulkLiTFSI/PCsolution
+apolymergelunderindentation,exhibitingdifferentialionicdisplacementand (green)asafunctionofconcentration,showingthatthepolymerelectrolyteis
+field,withsmallerredcationsbeingcarr",Figure 2,,Figure 2,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,Piezoelectric Nanomaterial-Mediated Physical Signals Regulate Cell Differentiation for Regenerative Medicine,line 3,1,piezoelectric,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,"Regulate Cell Differentiation for Regenerative Medicine He Li, Xueting Pan, Tianyun Wang, Zhenlin Fan,* Hai Wang,* and Wenjie Ren*",line 4,1,differentiation,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,"recovery and poor prognosis. The use of electroactive materials to deliver Organisms have inherent self-repair mechanisms,butsomenaturalcellsexhibit",line 8,1,electroactive,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,"Among these materials, piezoelectric materials have unique electromechanical of severe trauma and neurodegenerative",line 12,1,piezoelectric,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,"conversioncapabilities,makingthemsuitableforuseascellscaffolds.Theycan diseases.[1,2] This is particularly evident in deform and emit electrical signals in response to external stimuli, thereby nondividing cells, such as nerve cells and",line 14,1,scaffold,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,excerpt,general,"regulatingcellproliferationanddifferentiation.Inthisreview,recentadvancesare skeletalmusclecells,whichlacktheability presentedinpiezoelectricmaterialsasphysicalsignalingmediatorsthatregulate to divide and regenerate postnatally.[3,4]",line 16,1,proliferation,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,figure_caption,measurement,"Schematicillustrationofthepiezoelectricproperties,classification,andapplicationsofpiezoelectricmaterials.
+SmallSci.2024,4,2300255 2300255 (4 of 16) ©2024TheAuthors.SmallSciencepublishedbyWiley-VCHGmbH
+26884046,
+2024,
+3,
+Downloaded
+from
+https://onlinelibrary.wiley.com/doi/10.1002/smsc.202300255
+by
+Co",Figure 1,,Figure 1,medium,standard,FALSE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,figure_caption,measurement,"a) Conformation-mediated cell differentiation. Reproduced with permission.[86] Copyright 2016, American Chemical Society. b) Confocal
+images and c) quantitative real-time reverse-transcription PCR (qRT-PCR) results on the effect of elastic modulus for cell differentiation.
+Reproducedwithpermission.[",Figure 3,,Figure 3,medium,standard,TRUE
+P123,Piezoelectric Nanomaterial-Mediated Physical Signals,P123_unidentified.pdf,2024,low,partial,figure_caption,measurement,"a)Immunofluorescencestaining,b)percentageofpositivecells,andc)neuritelengthanalysisofrBMSCsdifferentiationonPVDFnanofibers.
+Reproducedwithpermission.[135]Copyright2021,WILEY-VCH.d)Electricalimpulsesandmechanicalstrainsgeneratedbybendingandcyclicstretching
+stimulatemyocardialdifferentiationinMSCs.Rep",Figure 5,,Figure 5,medium,standard,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,abstract,general,"Piezoelectric elastomers suit the body’s curvature and
+flexibility, making them promising for biomedicine, but they must be
+biocompatiblefortissuecontact.Traditionalpiezoelectricceramicsare
+rigid and toxic, and synthetic polymers, despite their flexibility, often
+require harmful organic reagents in fabrication, posing risks to
+biological safety. To attain a harmonious balance among biocompat-
+ibility, piezoelectricity, and elasticity, we designed a biocompatible
+piezoelectric elastomer by combin",abstract section,1,abstract,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,"Biocompatible Piezoelectric Elastomer for Self-Powered Electronics QiuyueHu, Yuting Zhang, Xiaocui Rao, Linping Wang, Liang Gao, Fangzhou Li, Haoyu Shen, Liang Pan,",line 2,1,piezoelectric,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,"ABSTRACT: Piezoelectric elastomers suit the body’s curvature and flexibility, making them promising for biomedicine, but they must be",line 8,1,piezoelectric,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,"biocompatiblefortissuecontact.Traditionalpiezoelectricceramicsare rigid and toxic, and synthetic polymers, despite their flexibility, often",line 10,1,piezoelectric,medium,standard,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,"ibility, piezoelectricity, and elasticity, we designed a biocompatible piezoelectric elastomer by combining HOCH (CF ) CH OH",line 14,1,piezoelectric,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,piezoelectric elastomer by combining HOCH (CF ) CH OH 2 2 3 2,line 15,1,piezoelectric,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,excerpt,general,"biocompatibility, superior piezoelectric performance without poling, andmaintainshighoutputevenat200%tensilestrain.Ourworkoffers",line 20,1,piezoelectric,medium,standard,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,figure_caption,measurement,"Thedesignandpreparationprocessofabiocompatiblepiezoelectricelastomer.a)WPUisalinearpolymerwithalternatinghardandsoft
+segments, imparting exceptional elasticity to the material. b) The HFPD crystal structure features an ordered 2D hydrogen-bond network and
+asymmetrically distributed F atoms, which to",Figure 1,,Figure 1,medium,high_relevance_pu,FALSE
+P140,Biocompatible Piezoelectric Elastomer for Self-Powered Electronics,P140_unidentified.pdf,2025,medium,partial,figure_caption,measurement,"Dielectric and piezoelectric performance of biocompatible
+ratio between 0.5 and 1.25 allows the composite films to piezoelectric elastomers. a) Dielectric permittivity and b) dielectric
+achieveanoptimalbalancebetweenstretchabilityandYoung’s loss of the as-prepared films with different HFPD:WPU ratio",Figure 3,,Figure 3,medium,high_relevance_pu,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,general,"Racemic Amino Acid Piezoelectric Transducer Sarah Guerin,1,2,* Joseph O’Donnell,1,2 Ehtsham U. Haq,1,2 Cian McKeown,1,2 Christophe Silien,1,2",line 2,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,general,"Single crystal L-amino acids can exhibit technologically useful piezoelectric and nonlinear optical properties.Herewepredict,usingdensityfunctionaltheory,thepiezoelectricchargeandstrainandvoltage",line 9,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,general,"properties.Herewepredict,usingdensityfunctionaltheory,thepiezoelectricchargeandstrainandvoltage tensorsoftheracemicaminoacidDLalanine,andusethemodelingdatatoguidethefirstmacroscopicand",line 10,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,finding,nanoscopicpiezoelectricmeasurementsonDL-alaninesinglecrystalsandpolycrystallineaggregates.We demonstrate voltage generation of up to 0.8 V from DL-alanine crystal films under simple manual,line 12,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,finding,not a prerequisite for piezoelectric behavior in organic crystals. The transducer presented herein demonstrates that DL-alanine crystals can be used in applications such as temperature and force,line 15,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,excerpt,general,"Piezoelectricity, the linear conversion of mechanical their relativelylow dielectric constants (ε ) [27,28]. While r",line 20,1,piezoelectric,medium,standard,FALSE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,performance_data,measurement,Dielectric constant: 27,text extraction,,performance,medium,standard,TRUE
+P145,"PHYSICAL REVIEW LETTERS 122, 047701 (2019)",P145_unidentified.pdf,2019,low,partial,figure_caption,measurement,"Relationship between longitudinal (σ) and shear (τ)
+stress and corresponding piezoelectric polarization (P) acting range from 7 to 67 GPa (Supplemental Material Table S1
+along arbitrarily chosen mutually orthogonal 1-2-3 axes for the [41]) and are almost identical to those of L alanine. L-
+five piez",Figure 1,,Figure 1,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,conclusion,finding,"and Perspective 9912
+within the body, have recently garnered considerable interest
+13.1. Materials 9912
+in biomedical applications. These materials exhibit natural
+13.1.1. Challenges 9912
+flexibility,biocompatibility,andbiodegradability.Sincethefirst
+13.1.2. Perspectives and Strategies 9913
+indicationofthepiezoelectriceffectobservedinwoolandhair
+13.2. Characterization 9913 was reported in 1941 by Martin,13 piezoelectricity has so far
+13.2.1. Challenges 9913
+been demonstrated in numerous biomater",conclusion section,end,conclusion,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,general,Design and Manufacturing of Piezoelectric Biomaterials for Bioelectronics and Biomedical Applications,line 3,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,general,"ABSTRACT: The piezoelectric effect enables the conversion between electrical and mechanical energy, making it essential across various fields. While synthetic piezoelectric",line 9,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,general,"mechanical energy, making it essential across various fields. While synthetic piezoelectric ceramicsandpolymersareextensivelyutilizedinelectronicsandbiomedicine,theirinherent",line 10,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,general,"contrast,piezoelectricbiomaterialsofferapromisingalternativeforbiomedicalfieldsbecause of their natural biocompatibility, biodegradability, and environmental friendliness. However,",line 13,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,general,"weak piezoelectricity and challenges in large-scale fabrication hinder their applications. This paper critically reviews recent advances in piezoelectric biomaterials, focusing primarily on",line 15,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,excerpt,method,"paper critically reviews recent advances in piezoelectric biomaterials, focusing primarily on designstrategiesandmanufacturingmethods.Wefirstsummarizetheprinciples,advantages,",line 16,1,piezoelectric,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,performance_data,measurement,Dielectric constant: 5,text extraction,,performance,medium,standard,TRUE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Overviewof piezoelectricbiomaterials:from materials, todesign, tomanufacturingand applications.
+influence bone remodeling and growth,24,25 while the piezo- theirpiezoelectricperformance.Particularattentionisgivento
+electricpotentialproducedinthelungsduringrespirationmay emerging computational method",Figure 1,,Figure 1,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Comparisonof piezoelectricbiomaterials withsyntheticpiezoceramics and polymers.
+as PVDF-copolymers,46,47 polyacrylonitrile,48 and nylon- for Risk Assessment (RAC) and for Socio-Economic Analysis
+1149,50 were demonstrated with evident piezoelectricity.51 (SEAC) are currently evaluating the proposal t",Figure 3,,Figure 3,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,figure_caption,measurement,"piezoelectric strain coefficient (d ) of 195 pC N−1 and a
+16
+marvelouspiezoelectricvoltagecoefficient(g )ofupto8Vm
+16
+N−1, surpassing those of traditional inorganic or organic
+piezoelectric materials.42 Additionally, they also reported a
+significantlongitudinalpiezoelectricresponseinγ-glycinewith
+a ",Figure 4,,Figure 4,medium,standard,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Molecular engineering of piezoelectric biomaterials. A) H/F substitution strategy for HFPD molecular crystal design. (a) Molecular
+structure of PVDF. Reproduced with permission.230,231 Copyright 2022, Wiley-VCH. (b) Packing view of 2D hydrogen bond layers of HFPD
+crystalsalongthedirectionofc-axes.(c",Figure 6,,Figure 6,medium,high_relevance_pu,FALSE
+P146,Design and Manufacturing of Piezoelectric Biomaterials for,P146_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Tip-inducedelectricfield-drivenmethodsforfabricatingpiezoelectricbiomaterials.A)Electrospinningtechnique.(a)Schematicof
+electrospunsingle-componentPBLGfibers.Reproducedwithpermission.95Copyright2011,Wiley-VCH.(b)Schematicoftheelectrospunglycine-
+PLLA nanofiber. (c) TEM image showing the core−shell s",Figure 8,,Figure 8,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,piezoelectricity induced by liquid-liquid interface polar engineering,line 4,1,piezoelectric,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,"Althoughorganicpiezoelectricmaterialsareincreasinglybeingstudiedinthe Checkforupdates fieldofbiomechanicalsensing,thecombinationofhighpiezoelectricityand",line 9,1,piezoelectric,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,"Checkforupdates fieldofbiomechanicalsensing,thecombinationofhighpiezoelectricityand highsoftnessisstillahugechallengeduetotheexistenceofsterichindrance",line 10,1,piezoelectric,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,"achievinghighpiezoelectricityinasoftmaterialsystem.ThisPEG/SIScom- binedfilmnotonlyexhibitsapiezoelectriccoefficientashighas22.9pC/N,and",line 16,1,piezoelectric,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,"binedfilmnotonlyexhibitsapiezoelectriccoefficientashighas22.9pC/N,and stableperformance,withoutattenuationfor60days,whichiscomparableto",line 17,1,piezoelectric,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,excerpt,general,"thepiezoelectricityofthenaturalorganicmaterialsPVDF,butalsohasanultra- softness(~1×10–6Pa–1)similartothatofskin,cartilageandaorta,showinghigh",line 19,1,pvdf,medium,standard,FALSE
+P147,Ultra-soft organic combined lm with,P147_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Datapresentedasmean±SD,n=12.Dataarelinearly
+combinedfilmswithdifferentPEGcontents.Theinsetshowsthepositionsthat fitted.jStabilityofpiezoelectriccoefficientofPEG/SIScombinedfilmswith
+measuredinthemulti-pointtest.Datapresentedasmean±SD,n=6.fk andg of 6.82wt.%PEGcontentat105Hzover60days.Dataarelinearly",Figure 18,,Figure 18,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,abstract,finding,"P
+l
+The tribo-piezoelectric maicroscopic coupling mechanism of ferroelectric polymers remains
+n
+elusive due to the complicated interfacial electron transfer behavior and dipole-dipole
+r
+u
+interactions, limiting the development of high-performance tribo-piezoelectric hybrid
+o
+nanogenerators. Herein, we take PVDF-Cu as an example to investigate the tribo-piezoelectric
+J
+coupling mechanism at the ferroelectric polymer/metal interface under compression via first-
+principles calculations and KPFM exp",abstract section,1,abstract,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,The tribo-piezoelectric microscopic coupling mechanism of ferroelectric polymers and the,line 2,1,piezoelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,mechanism of ferroelectric polymers and the synchronous online monitoring of load,line 3,1,ferroelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,"Zirui Zhao and Gao Zheng, The tribo-piezoelectric microscopic coupling mechanism of ferroelectric polymers and the synchronous online monitoring of",line 16,1,piezoelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,"mechanism of ferroelectric polymers and the synchronous online monitoring of load distribution/roller speed for intelligent bearings, Nano Energy, (2023)",line 17,1,ferroelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,The tribo-piezoelectric microscopic coupling mechanism of ferroelectric polymers and the synchronous online monitoring of load distribution/roller speed for intelligent,line 28,1,piezoelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,excerpt,general,The tribo-piezoelectric maicroscopic coupling mechanism of ferroelectric polymers remains n,line 45,2,piezoelectric,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a)Schematic diagram of tribo-piezoelectric coupling nanogenerator based on ferroelectric
+polymer. (b)β phase PVDF-Cu atomic interface model. (c)Surface morphology of ferroelectric polymer
+PVDF film measured by KPFM. (d)The surface potential of ferroelectric polymer PVDF film measured by
+KPFM.
+8
+2.1",Figure 1,,Figure 1,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,figure_caption,measurement,"For one thing, to reveal the influence
+mechanism of the triboelectric effect on the piezoelectric effect, we first calculate the electron
+density difference of the β phase PVDF-Cu interface model under compression, to reflect
+the changes in the electron density distribution of the system caused by c",Figure 3,,Figure 3,medium,standard,FALSE
+P177,The tribo-piezoelectric microscopic coupling,P177_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a) The electron density difference of the β phase PVDF-Cu interface model under different
+pressure deformation, orange-red is the electron-gain region, while blue-green is the electron-loss region. (b)
+The number of electrons gained and lost for each PVDF molecular chain in the β phase PVDF-Cu inte",Figure 3,,Figure 3,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,general, The lithium-ion conductivity of CSL binder is 2.5 times that of PVDF binder. o,line 62,2,pvdf,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,general,that the LFP cathode using CSL (LFP-CSL) has lower polarization and better rate performance owing to higher lithium-ion conductivity of CSL. The result of,line 87,3,polarization,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,general,"Among polymers, polyvinylidene fluoride (PVDF) is a widely used commercial p",line 109,3,pvdf,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,general,"performance (Magasinski et al., 2010). In addition, PVDF binder needs to use toxic r",line 114,3,pvdf,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,finding,has better adhesion performance than PVDF. Surface SEM images demonstrate the preservation of the integrity of LFP-CSL cathode without obvious microcracks after,line 173,5,pvdf,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,excerpt,general,PVDF and the LFP-CSL cathode exhibits a discharge capacity of 133.4 mAh g-1 with a retention of 93.1 % after 300 cycles at 1 C.,line 176,5,pvdf,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,figure_caption,measurement,"Synthesis route of CSL.
+o
+J
+3.1.1. ATR analysis",Figure 1,,Figure 1,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a) FTIR-ATR spectra of RC and CSL. (b) XRD patterns of RC and CSL.
+11
+Journal Pre-proof
+(c) C13-NMR spectra of CSL. (d) GPC test results of CSL. (e) Elemental content of
+RC and CSL. (f) TGA curve of RC and CSL.
+3.2. Adhesion performance and rheological behavior analysis
+To evaluate the adhesion cap",Figure 2,,Figure 2,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a) Cycle curves of LFP cathodes with CSL and PVDF binders at 1C rate.
+Voltage profiles of cathode assembled with (d) CSL and (c) PVDF.
+(d) Rate performances of cathodes assembled with various binders. (e) CV curves.
+15
+Journal Pre-proof
+Table 1. Comparison of diverse binders used for LiFePO cathode",Figure 4,,Figure 4,medium,standard,FALSE
+P298,Cellulose sulfate lithium as a conductive binder for LiFePO4,P298_unidentified.pdf,2023,low,partial,figure_caption,measurement,"(a) EIS of the SS/CSL/SS and SS/PVDF/SS. CV test of LFP with (b) CSL
+l
+and (c) PVDF at 0.1, 0.15 aand 0.2 mV s-1. (d) Curves of normalized peak current to
+square root of different sncan rates. (e) The equivalent circuit models of LFP-PVDF
+r
+cathode before cycling and LFP-CSL cathode before and after",Figure 5,,Figure 5,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,abstract,interpretation,"Poly(vinylidene fluoride) (PVDF)-based relax-
+or ferroelectric polymers, synthesized from the physical or
+chemical modification of β-PVDF and P(VDF−TrFE) (TrFE
+refers trifluoroethylene), show high thickness strain under an
+external field, which allows them to be employed as
+electroactive materials for actuation, sensor, and artificial
+muscle applications. In an effort to disclose the formation
+mechanismofelectrostrain,aseriesofP(VDF−TrFE−CTFE)
+(CTFEischlorotrifluoroethylene)copolymersaresynthesi",abstract section,1,abstract,high,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,conclusion,measurement,"fieldof50MV/m,thepercentageoftheMaxwellstressismore
+By hydrogenation of pristine P(VDF−CTFE) with 20 mol %
+than 90% in all of the terpolymers. However, it is reduced to CTFE, a series of P(VDF−TrFE−CTFE) with varying
+about85%inVTrCT-7-Sand57%inVTrCT-12-S.Thelargest
+compositions are synthesized for electroactive investigation.
+contributionofelectrostrictivestrainofabout50%isdetectedat
+Both the chemical composition and uniaxial stretching may
+80−120MV/minthethreeterpolymers.ThemoretheCTFE
+changeth",conclusion section,end,conclusion,high,high_relevance_pu,TRUE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,general,Electromechanical Properties of Poly(vinylidene uoride)-Based Ferroelectric Polymers,line 6,1,poly(vinylidene,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,general,"ABSTRACT: Poly(vinylidene fluoride) (PVDF)-based relax- or ferroelectric polymers, synthesized from the physical or",line 23,1,pvdf,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,general,"or ferroelectric polymers, synthesized from the physical or chemical modification of β-PVDF and P(VDF−TrFE) (TrFE",line 24,1,ferroelectric,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,general,"chemical modification of β-PVDF and P(VDF−TrFE) (TrFE refers trifluoroethylene), show high thickness strain under an",line 25,1,pvdf,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,general,"electroactive materials for actuation, sensor, and artificial muscle applications. In an effort to disclose the formation",line 28,1,electroactive,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,excerpt,interpretation,"ferroelectric phase transitions to their dielectric, ferroelectric, and electromechanical performances, a new model combining both the Maxwell stress and electrostrictive effect is proposed.",line 33,1,ferroelectric,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,performance_data,measurement,Crystallinity: 100,text extraction,,performance,medium,standard,TRUE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,performance_data,measurement,Dielectric constant: 1,text extraction,,performance,medium,standard,TRUE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"DSCresultsofas-castP(VDF−TrFE−CTFE)terpolymers:(a)firstheatingcircleatascanningrateof10°C/min;(b)secondheatingcircle
+atthesamescanningrateof10°C/minafteraquickcoolingtreatment(20°C/min);and(c)firstheatingcircleofVTrCTs-Sattherateof10°C/min.
+wide-angle X-ray diffraction (WAXD) spectra were obtained o",Figure 1,,Figure 1,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"FTIR spectra of P(VDF−TrFE−CTFE) terpolymer films: PVDFinαphaseutilizedasastandard.TableS4summarizesthe
+(a)as-castsamplesand(b)uniaxiallystretchedsamples.
+RFP and NFP contents of the samples calculated by the peak
+deconvolutionof1D-WAXDspectra(showninFigureS6)using
+Jade XRD analysis software. As sho",Figure 2,,Figure 2,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"ε′asafunctionoftemperaturemeasuredat1Vbiasforas-castP(VDF−TrFE−CTFE)filmsandtheuniaxiallystretchedsamples:(a,b)
+r
+VTrCT-0,(c,d)VTrCT-4,(e,f)VTrCT-7,(g,h)VTrCT-10,and(i,j)VTrCT-12.
+temperature is lowered from 110 °C to about 70 °C, which significantly. Especially, the dielectric performance of the
+ag",Figure 4,,Figure 4,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"Permittivity ((∂D/∂E)/ε) under high electric fields calculated from the D−E loops for as-cast P(VDF−TrFE−CTFE) films and the
+0
+uniaxiallystretchedsamples:(a)VTrCT-7;(b)VTrCT-10;and(c)VTrCT-12.",Figure 6,,Figure 6,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"Strain(S)asafunctionof(a)Eand(b)P2measuredat10Hzandroomtemperatureforas-castP(VDF−TrFE−CTFE)filmsandthe
+3
+uniaxiallystretchedsamples.Asshownin(b),thelinesandelectrostrictivecoefficient,Q,arethefittingresultsofeq2.
+orientation of NFP. The electric field-induced strain curve of thatthestrainofterpolym",Figure 8,,Figure 8,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"thickness, which is mainly taking place in the polymer chain
+After stretching, E of all of the terpolymers is significantly relatedtothechainconformationchange.Equation2isusually
+a
+reducedthanthatoftheas-castones,whichagreeswellwiththe usedtocalculatetheelectrostrictivestrain(S ).However,ithas
+E
+red",Figure 8,,Figure 8,medium,standard,FALSE
+P338,"CiteThis:Macromolecules2019,52,9000−9011 pubs.acs.org/Macromolecules",P338_unidentified.pdf,2019,medium,good,figure_caption,measurement,"Experimental strain (S) and fitted S , S , and S as a function of E for the stretched samples and both the Maxwell stress and
+3 3,Cal M E
+electrostrictioneffectcontributionpercentages:(a,b)VTrCT-7-S;(c,d)VTrCT-10-S;and(e,f)VTrCT-12-S.Thecontributionpercentagesare
+calculatedbyS /S ×100%andS /S ×100%.",Figure 10,,Figure 10,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,conclusion,finding,"Using a combination of modern high-field, fast MAS NMR
+methodologies, we demonstrated here that detailed and quan-
+titative information can be obtained on the local order of two
+PVDFsofdifferentmolecularweights,includinguniqueinsights
+intochaindynamicsandnanoscalespatialdistributionsofseg-
+ments of different chain conformations. Clear distinctions are
+identifiedforthetwoPVDFs.Thehigh-molecular-weightmate-
+rialcomprisesanotablylargerfractionofpolarchainsegments
+compared to the PVDF of low M , not",conclusion section,end,conclusion,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"The Example of Poly(Vinylidene Fluoride) Henry J. Kantrow, Claire Welton, Neethu Thomas, Vincent Sarou-Kanian, Tomasz Pawlak,",line 4,1,poly(vinylidene,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"Functionalmacromolecularmaterialspromisetoenableimportant interesting pyroelectric and ferroelectric improvementsinmanyaspectsofeverydaylife,includingforenergy properties enabling use in applications",line 8,1,ferroelectric,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"PVDF attractive as a membrane material intotheinterrelationofstructureandperformanceforfunctionalpolymers, andasabinderinlithium-ionbatteries.[5–8]",line 15,1,pvdf,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"limitingprogress.Thereasonisthatthemacroscopicpropertiesofsuch Importantly,thePVDFsolid-statestructure polymersoftendependonlocalchainarrangementsratherthanlong-range is seemingly well understood. Typically",line 17,1,pvdf,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"polymorphshavebeenidentifiedforPVDF, ferroelectricpoly(vinylidenefluoride)(PVDF)thatmodernnuclearmagnetic",line 20,1,pvdf,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,excerpt,general,"ferroelectricpoly(vinylidenefluoride)(PVDF)thatmodernnuclearmagnetic thethreemostcommonbeingthealpha(𝛼),",line 21,1,pvdf,medium,standard,FALSE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,performance_data,measurement,Crystallinity: 20,text extraction,,performance,medium,standard,TRUE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Complexityofthesolid-statestructureofPVDF.a)Leftpanel:DSCfirstheatingthermogramsofPVDFoftwodifferentweight-averagemolecular
+weights,60and534kgmol−1,takenatarateof20°Cmin−1.Usingtheenthalpyoffusionfora100%crystallinematerial,[31]ΔH0≈105Jg−1weestimate
+adegreeofcrystallinityof≈20%and≈12%forthePVDFoflow",Figure 1,,Figure 1,medium,standard,TRUE
+P379,A Close Look at the Local Structure of Functional Polymers:,P379_unidentified.pdf,2025,low,partial,figure_caption,measurement,"Determiningpopulationsofchainsegmentsofdifferentconfor-
+tion).Evenwhenprobingthelocalstructureofthetwopolymers
+mations.a)1D19FNMR(20T,100kHzMAS)revealsabroaddistribution
+viahighfield(20T)solid-state1HNMRspectroscopyatveryfast
+ofchemicalenvironments,whichallowsforquantificationofthefractions
+magic-an",Figure 2,,Figure 2,medium,standard,FALSE

@@ -1,0 +1,6206 @@
+[
+  {
+    "id": "MAT_TPU__Thermoplastic_Polyurethane_",
+    "type": "Material",
+    "label": "TPU (Thermoplastic Polyurethane)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Shape_Memory_Polymers",
+    "type": "Material",
+    "label": "Shape Memory Polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_soft_segments",
+    "type": "Material",
+    "label": "soft segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hard_segments",
+    "type": "Material",
+    "label": "hard segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyimide",
+    "type": "Material",
+    "label": "Polyimide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_9_OH_FPPI",
+    "type": "Material",
+    "label": "9-OH-FPPI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PMDA",
+    "type": "Material",
+    "label": "PMDA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ODA",
+    "type": "Material",
+    "label": "ODA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Kapton",
+    "type": "Material",
+    "label": "Kapton",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Elastomers",
+    "type": "Material",
+    "label": "Elastomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bicontinuous_structures",
+    "type": "Material",
+    "label": "bicontinuous structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phase_pinned_morphology",
+    "type": "Material",
+    "label": "phase-pinned morphology",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Star",
+    "type": "Material",
+    "label": "Star",
+    "category": "material"
+  },
+  {
+    "id": "MAT_miktoarm",
+    "type": "Material",
+    "label": "miktoarm",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cyclic",
+    "type": "Material",
+    "label": "cyclic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_comb",
+    "type": "Material",
+    "label": "comb",
+    "category": "material"
+  },
+  {
+    "id": "MAT_graft_polymers",
+    "type": "Material",
+    "label": "graft polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Block_Copolymers",
+    "type": "Material",
+    "label": "Block Copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Flory_Huggins_interaction_parameter__",
+    "type": "Material",
+    "label": "Flory-Huggins interaction parameter χ",
+    "category": "material"
+  },
+  {
+    "id": "MAT_supramolecular_crosslinks",
+    "type": "Material",
+    "label": "supramolecular crosslinks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PS_b_PAA",
+    "type": "Material",
+    "label": "PS-b-PAA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PDMS",
+    "type": "Material",
+    "label": "PDMS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEO_b_PS",
+    "type": "Material",
+    "label": "PEO-b-PS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PLLA_b_PAA_",
+    "type": "Material",
+    "label": "PLLA-b-PAA)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_crystalline_core_micelles",
+    "type": "Material",
+    "label": "crystalline-core micelles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PS_thin_films",
+    "type": "Material",
+    "label": "PS thin films",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PMMA",
+    "type": "Material",
+    "label": "PMMA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyelectrolytes",
+    "type": "Material",
+    "label": "Polyelectrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conjugated_polymer_zwitterions",
+    "type": "Material",
+    "label": "conjugated polymer zwitterions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PLA",
+    "type": "Material",
+    "label": "PLA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PHA",
+    "type": "Material",
+    "label": "PHA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_isosorbide_derivatives_",
+    "type": "Material",
+    "label": "isosorbide derivatives)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_degradable_polymers",
+    "type": "Material",
+    "label": "degradable polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_reprocessable_thermosets",
+    "type": "Material",
+    "label": "reprocessable thermosets",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_Brushes",
+    "type": "Material",
+    "label": "Polymer Brushes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBA",
+    "type": "Material",
+    "label": "PBA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PSPMA_",
+    "type": "Material",
+    "label": "PSPMA)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_initiator_modified_substrates",
+    "type": "Material",
+    "label": "initiator-modified substrates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_iPP___",
+    "type": "Material",
+    "label": "iPP (α",
+    "category": "material"
+  },
+  {
+    "id": "MAT___phases_",
+    "type": "Material",
+    "label": "γ phases)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PLLA",
+    "type": "Material",
+    "label": "PLLA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_st_PP",
+    "type": "Material",
+    "label": "st-PP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_iPBu",
+    "type": "Material",
+    "label": "iPBu",
+    "category": "material"
+  },
+  {
+    "id": "MAT_i_P2VP",
+    "type": "Material",
+    "label": "i-P2VP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly",
+    "type": "Material",
+    "label": "Poly",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly",
+    "type": "Material",
+    "label": "poly",
+    "category": "material"
+  },
+  {
+    "id": "MAT_activated_esters",
+    "type": "Material",
+    "label": "activated esters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_squaric_esters",
+    "type": "Material",
+    "label": "squaric esters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyacetylene",
+    "type": "Material",
+    "label": "Polyacetylene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyaniline",
+    "type": "Material",
+    "label": "polyaniline",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPV",
+    "type": "Material",
+    "label": "PPV",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PAN",
+    "type": "Material",
+    "label": "PAN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_pitch",
+    "type": "Material",
+    "label": "pitch",
+    "category": "material"
+  },
+  {
+    "id": "MAT_rayon_precursors_",
+    "type": "Material",
+    "label": "rayon precursors)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Kevlar",
+    "type": "Material",
+    "label": "Kevlar",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Nomex",
+    "type": "Material",
+    "label": "Nomex",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBO",
+    "type": "Material",
+    "label": "PBO",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PIPD",
+    "type": "Material",
+    "label": "PIPD",
+    "category": "material"
+  },
+  {
+    "id": "MAT_UHMWPE",
+    "type": "Material",
+    "label": "UHMWPE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Vectran",
+    "type": "Material",
+    "label": "Vectran",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polystyrene",
+    "type": "Material",
+    "label": "Polystyrene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polybutadiene",
+    "type": "Material",
+    "label": "polybutadiene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_atactic_polypropylene",
+    "type": "Material",
+    "label": "atactic polypropylene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_monomers_for_living_polymerizati",
+    "type": "Material",
+    "label": "various monomers for living polymerization",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Stimuli_responsive_polymers",
+    "type": "Material",
+    "label": "Stimuli-responsive polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_self_healing_polymers",
+    "type": "Material",
+    "label": "self-healing polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mechanochromic_polymers",
+    "type": "Material",
+    "label": "mechanochromic polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_photonic_crystals",
+    "type": "Material",
+    "label": "photonic crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Liquid_Crystal_Elastomers",
+    "type": "Material",
+    "label": "Liquid Crystal Elastomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polysulfone",
+    "type": "Material",
+    "label": "Polysulfone",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Cellulose",
+    "type": "Material",
+    "label": "Cellulose",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PTMSP",
+    "type": "Material",
+    "label": "PTMSP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPO",
+    "type": "Material",
+    "label": "PPO",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mixed_matrix_membranes",
+    "type": "Material",
+    "label": "mixed matrix membranes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MOFs",
+    "type": "Material",
+    "label": "MOFs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbon_molecular_sieves",
+    "type": "Material",
+    "label": "carbon molecular sieves",
+    "category": "material"
+  },
+  {
+    "id": "MAT_RAFT_agents__dithioesters",
+    "type": "Material",
+    "label": "RAFT agents (dithioesters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trithiocarbonates",
+    "type": "Material",
+    "label": "trithiocarbonates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_xanthates",
+    "type": "Material",
+    "label": "xanthates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dithiocarbamates_",
+    "type": "Material",
+    "label": "dithiocarbamates)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyacrylates",
+    "type": "Material",
+    "label": "Polyacrylates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_acrylamides",
+    "type": "Material",
+    "label": "acrylamides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_styrenes_",
+    "type": "Material",
+    "label": "styrenes)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LAMs__VAc",
+    "type": "Material",
+    "label": "LAMs (VAc",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NVP",
+    "type": "Material",
+    "label": "NVP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NVC_",
+    "type": "Material",
+    "label": "NVC)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SBR",
+    "type": "Material",
+    "label": "SBR",
+    "category": "material"
+  },
+  {
+    "id": "MAT_silicone_",
+    "type": "Material",
+    "label": "silicone)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Hydrogels",
+    "type": "Material",
+    "label": "Hydrogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_interpenetrating_networks",
+    "type": "Material",
+    "label": "interpenetrating networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_bond_networks",
+    "type": "Material",
+    "label": "dynamic bond networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ideal_chains__FJC",
+    "type": "Material",
+    "label": "Ideal chains (FJC",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Gaussian",
+    "type": "Material",
+    "label": "Gaussian",
+    "category": "material"
+  },
+  {
+    "id": "MAT_WLC_",
+    "type": "Material",
+    "label": "WLC)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_real_chains_with_excluded_volume",
+    "type": "Material",
+    "label": "real chains with excluded volume",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ring_polymers",
+    "type": "Material",
+    "label": "ring polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEO_b_PPO_",
+    "type": "Material",
+    "label": "PEO-b-PPO)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bottlebrush_block_polymers",
+    "type": "Material",
+    "label": "bottlebrush block polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_protein_block_polymers",
+    "type": "Material",
+    "label": "protein block polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PHEMA",
+    "type": "Material",
+    "label": "PHEMA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PLGA",
+    "type": "Material",
+    "label": "PLGA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PVA",
+    "type": "Material",
+    "label": "PVA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEG",
+    "type": "Material",
+    "label": "PEG",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ELPs",
+    "type": "Material",
+    "label": "ELPs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_RLPs",
+    "type": "Material",
+    "label": "RLPs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polypeptides_from_NCA_polymerization",
+    "type": "Material",
+    "label": "polypeptides from NCA polymerization",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DNA",
+    "type": "Material",
+    "label": "DNA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_sodium_poly_",
+    "type": "Material",
+    "label": "sodium poly)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_counterions",
+    "type": "Material",
+    "label": "counterions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_salt_ions",
+    "type": "Material",
+    "label": "salt ions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_A",
+    "type": "Material",
+    "label": "N/A",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_nanocomposites___silica",
+    "type": "Material",
+    "label": "Polymer nanocomposites : silica",
+    "category": "material"
+  },
+  {
+    "id": "MAT_titania",
+    "type": "Material",
+    "label": "titania",
+    "category": "material"
+  },
+  {
+    "id": "MAT_C60",
+    "type": "Material",
+    "label": "C60",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Carbon_Nanotubes",
+    "type": "Material",
+    "label": "Carbon Nanotubes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_clay",
+    "type": "Material",
+    "label": "clay",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Graphene",
+    "type": "Material",
+    "label": "Graphene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_oxide_NPs_in_various_polymer_matri",
+    "type": "Material",
+    "label": "metal oxide NPs in various polymer matrices",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPTA",
+    "type": "Material",
+    "label": "PPTA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBZT",
+    "type": "Material",
+    "label": "PBZT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_co_polyaramid",
+    "type": "Material",
+    "label": "co-polyaramid",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Coiling_polymers_in_dilute_solution__pol",
+    "type": "Material",
+    "label": "Coiling polymers in dilute solution (polystyrene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyisobutylene_",
+    "type": "Material",
+    "label": "polyisobutylene)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Cyclic_allylic_sulfides",
+    "type": "Material",
+    "label": "Cyclic allylic sulfides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_allyl_sulfide_CTAs",
+    "type": "Material",
+    "label": "allyl sulfide CTAs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thiyl_radicals",
+    "type": "Material",
+    "label": "thiyl radicals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Associative_polymers",
+    "type": "Material",
+    "label": "Associative polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ionomers",
+    "type": "Material",
+    "label": "Ionomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_HEUR",
+    "type": "Material",
+    "label": "HEUR",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydrogen_bonding_polymers",
+    "type": "Material",
+    "label": "hydrogen-bonding polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Dual_polymer_networks",
+    "type": "Material",
+    "label": "Dual polymer networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phantom_networks",
+    "type": "Material",
+    "label": "phantom networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dendrimer_models",
+    "type": "Material",
+    "label": "dendrimer models",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Epoxidized_polybutadiene",
+    "type": "Material",
+    "label": "Epoxidized polybutadiene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_VAA__modified_PB",
+    "type": "Material",
+    "label": "VAA  modified PB",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Kremer_Grest_bead_spring_polymer_melt_wi",
+    "type": "Material",
+    "label": "Kremer-Grest bead-spring polymer melt with reversible crossl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thermosetting_PU_foams",
+    "type": "Material",
+    "label": "thermosetting PU foams",
+    "category": "material"
+  },
+  {
+    "id": "MAT_C_borax_15_mM_",
+    "type": "Material",
+    "label": "C_borax=15 mM)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DPHA",
+    "type": "Material",
+    "label": "DPHA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SEBS",
+    "type": "Material",
+    "label": "SEBS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_spiropyran",
+    "type": "Material",
+    "label": "spiropyran",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Single_domain_NdFeB_nanoparticles",
+    "type": "Material",
+    "label": "Single-domain NdFeB nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PAM",
+    "type": "Material",
+    "label": "PAM",
+    "category": "material"
+  },
+  {
+    "id": "MAT_gold_nanoparticles",
+    "type": "Material",
+    "label": "gold nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_acrylamide_monomer",
+    "type": "Material",
+    "label": "acrylamide monomer",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly_TUEG___Mn_9500",
+    "type": "Material",
+    "label": "Poly TUEG₃ (Mn=9500",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mw_22300_",
+    "type": "Material",
+    "label": "Mw=22300)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TUEG_",
+    "type": "Material",
+    "label": "TUEG₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_TUC_",
+    "type": "Material",
+    "label": "poly TUC₈",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TUC__",
+    "type": "Material",
+    "label": "TUC₁₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_UEG_",
+    "type": "Material",
+    "label": "poly UEG₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Non_isocyanate_polys",
+    "type": "Material",
+    "label": "Non-isocyanate polys",
+    "category": "material"
+  },
+  {
+    "id": "MAT_biscarbamate",
+    "type": "Material",
+    "label": "biscarbamate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_oligo_diol__OCD",
+    "type": "Material",
+    "label": "oligo diol (OCD",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mn_2000_",
+    "type": "Material",
+    "label": "Mn=2000)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_titanium_tert_butoxide_catalyst",
+    "type": "Material",
+    "label": "titanium tert-butoxide catalyst",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Vinylogous_urethane__VU_O",
+    "type": "Material",
+    "label": "Vinylogous urethane (VU_O",
+    "category": "material"
+  },
+  {
+    "id": "MAT_from_acetoacetate_",
+    "type": "Material",
+    "label": "from acetoacetate)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_vinylogous_urea__VUN",
+    "type": "Material",
+    "label": "vinylogous urea (VUN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_from_acetoacetamide_",
+    "type": "Material",
+    "label": "from acetoacetamide)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_trifunctional_amine_crosslinker",
+    "type": "Material",
+    "label": "poly trifunctional amine crosslinker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Carrageenan",
+    "type": "Material",
+    "label": "Carrageenan",
+    "category": "material"
+  },
+  {
+    "id": "MAT_M__4_20_10__Da_",
+    "type": "Material",
+    "label": "Mη=4.20×10⁵ Da)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaOH_urea_solvent",
+    "type": "Material",
+    "label": "NaOH/urea solvent",
+    "category": "material"
+  },
+  {
+    "id": "MAT_epichlorohydrin__crosslinker",
+    "type": "Material",
+    "label": "epichlorohydrin  crosslinker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_KCl",
+    "type": "Material",
+    "label": "KCl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_000_",
+    "type": "Material",
+    "label": "000)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_isopropylacrylamide",
+    "type": "Material",
+    "label": "N-isopropylacrylamide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PNIPAAm",
+    "type": "Material",
+    "label": "PNIPAAm",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polycation",
+    "type": "Material",
+    "label": "Polycation",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyanion",
+    "type": "Material",
+    "label": "polyanion",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ionic_Liquids",
+    "type": "Material",
+    "label": "Ionic Liquids",
+    "category": "material"
+  },
+  {
+    "id": "MAT_IL_",
+    "type": "Material",
+    "label": "IL)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dioctylphthalate",
+    "type": "Material",
+    "label": "dioctylphthalate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Organogels",
+    "type": "Material",
+    "label": "Organogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ionogels",
+    "type": "Material",
+    "label": "Ionogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fluorogels",
+    "type": "Material",
+    "label": "fluorogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_magnetogels",
+    "type": "Material",
+    "label": "magnetogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bigels_",
+    "type": "Material",
+    "label": "bigels)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Acrylamide__AAm",
+    "type": "Material",
+    "label": "Acrylamide (AAm",
+    "category": "material"
+  },
+  {
+    "id": "MAT_15_wt__",
+    "type": "Material",
+    "label": "15 wt%)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaAc_3H_O_crystals",
+    "type": "Material",
+    "label": "NaAc·3H₂O crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DMAPS",
+    "type": "Material",
+    "label": "DMAPS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_agar",
+    "type": "Material",
+    "label": "agar",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CMC",
+    "type": "Material",
+    "label": "CMC",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Na_S_O__5H_O",
+    "type": "Material",
+    "label": "Na₂S₂O₃·5H₂O",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MgSO__7H_O",
+    "type": "Material",
+    "label": "MgSO₄·7H₂O",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly_2_ethyl_trimethylammonium_chloride_",
+    "type": "Material",
+    "label": "Poly[2-ethyl]trimethylammonium chloride (PAETC",
+    "category": "material"
+  },
+  {
+    "id": "MAT_25_wt__polymer_",
+    "type": "Material",
+    "label": "25 wt% polymer)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Review_covering_ions",
+    "type": "Material",
+    "label": "Review covering ions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solvents",
+    "type": "Material",
+    "label": "solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_monomers",
+    "type": "Material",
+    "label": "monomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_6_pyridinetricarboxaldehyde____",
+    "type": "Material",
+    "label": "6-pyridinetricarboxaldehyde + α",
+    "category": "material"
+  },
+  {
+    "id": "MAT___dinitroalkanes",
+    "type": "Material",
+    "label": "ω-dinitroalkanes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DMSO_solvent",
+    "type": "Material",
+    "label": "DMSO solvent",
+    "category": "material"
+  },
+  {
+    "id": "MAT_triethylamine_catalyst",
+    "type": "Material",
+    "label": "triethylamine catalyst",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Review_covering_TENG_materials__FEP",
+    "type": "Material",
+    "label": "Review covering TENG materials (FEP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_liquid_metals",
+    "type": "Material",
+    "label": "liquid metals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymers_",
+    "type": "Material",
+    "label": "polymers)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEO",
+    "type": "Material",
+    "label": "PEO",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PCL",
+    "type": "Material",
+    "label": "PCL",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Chitosan",
+    "type": "Material",
+    "label": "Chitosan",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PVP",
+    "type": "Material",
+    "label": "PVP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PVC",
+    "type": "Material",
+    "label": "PVC",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PVDF",
+    "type": "Material",
+    "label": "PVDF",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiClO_",
+    "type": "Material",
+    "label": "LiClO₄",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaSCN",
+    "type": "Material",
+    "label": "NaSCN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_choline",
+    "type": "Material",
+    "label": "choline",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phosphonium_",
+    "type": "Material",
+    "label": "phosphonium)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PILs",
+    "type": "Material",
+    "label": "PILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_GelMA",
+    "type": "Material",
+    "label": "GelMA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_monomers",
+    "type": "Material",
+    "label": "various monomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_styrene_MMA_copolymers",
+    "type": "Material",
+    "label": "styrene/MMA copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Review_covering_polymers",
+    "type": "Material",
+    "label": "Review covering polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_gels",
+    "type": "Material",
+    "label": "gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_polymers",
+    "type": "Material",
+    "label": "ionic polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ferrogels",
+    "type": "Material",
+    "label": "ferrogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_paper",
+    "type": "Material",
+    "label": "paper",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Review_covering_nylon_fibers",
+    "type": "Material",
+    "label": "Review covering nylon fibers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_polymer_metal_composites",
+    "type": "Material",
+    "label": "ionic polymer-metal composites",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conducting_polymers",
+    "type": "Material",
+    "label": "conducting polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_piezoelectrics",
+    "type": "Material",
+    "label": "piezoelectrics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_magnetostrictive_materials",
+    "type": "Material",
+    "label": "magnetostrictive materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_pneumatic_actuators",
+    "type": "Material",
+    "label": "pneumatic actuators",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Copper_foil",
+    "type": "Material",
+    "label": "Copper foil",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyurethane",
+    "type": "Material",
+    "label": "Polyurethane",
+    "category": "material"
+  },
+  {
+    "id": "MAT_supercapacitor_material",
+    "type": "Material",
+    "label": "supercapacitor material",
+    "category": "material"
+  },
+  {
+    "id": "MAT_FDC2214_chip",
+    "type": "Material",
+    "label": "FDC2214 chip",
+    "category": "material"
+  },
+  {
+    "id": "MAT_STM32",
+    "type": "Material",
+    "label": "STM32",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ag_nanowires",
+    "type": "Material",
+    "label": "Ag nanowires",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conductive_polymers",
+    "type": "Material",
+    "label": "conductive polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_pyrrolidinium",
+    "type": "Material",
+    "label": "pyrrolidinium",
+    "category": "material"
+  },
+  {
+    "id": "MAT_etc__",
+    "type": "Material",
+    "label": "etc.)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Li_Na_salts",
+    "type": "Material",
+    "label": "Li/Na salts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_protic_ILs",
+    "type": "Material",
+    "label": "protic ILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_doped_carbons_from_ILs",
+    "type": "Material",
+    "label": "N-doped carbons from ILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Aqueous_electrolytes",
+    "type": "Material",
+    "label": "Aqueous electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_organic_electrolytes",
+    "type": "Material",
+    "label": "organic electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solid_state_quasi_solid_state_electrolyt",
+    "type": "Material",
+    "label": "solid-state/quasi-solid-state electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_redox_active_electrolytes",
+    "type": "Material",
+    "label": "redox-active electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_gelators",
+    "type": "Material",
+    "label": "polymer gelators",
+    "category": "material"
+  },
+  {
+    "id": "MAT_molecular_gelators",
+    "type": "Material",
+    "label": "molecular gelators",
+    "category": "material"
+  },
+  {
+    "id": "MAT_colloidal_particles",
+    "type": "Material",
+    "label": "colloidal particles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_sol_gel_materials",
+    "type": "Material",
+    "label": "sol-gel materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_in_salt",
+    "type": "Material",
+    "label": "polymer-in-salt",
+    "category": "material"
+  },
+  {
+    "id": "MAT_single_ion_conducting_polymers",
+    "type": "Material",
+    "label": "single-ion conducting polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_gel_polymer_electrolytes",
+    "type": "Material",
+    "label": "gel polymer electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_inorganic_fillers",
+    "type": "Material",
+    "label": "inorganic fillers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Carbon_materials",
+    "type": "Material",
+    "label": "Carbon materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MXenes",
+    "type": "Material",
+    "label": "MXenes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_nitrides",
+    "type": "Material",
+    "label": "metal nitrides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_black_phosphorus",
+    "type": "Material",
+    "label": "black phosphorus",
+    "category": "material"
+  },
+  {
+    "id": "MAT_gel_electrolytes__aqueous",
+    "type": "Material",
+    "label": "gel electrolytes (aqueous",
+    "category": "material"
+  },
+  {
+    "id": "MAT_organic",
+    "type": "Material",
+    "label": "organic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_redox_active_",
+    "type": "Material",
+    "label": "redox-active)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Aqueous",
+    "type": "Material",
+    "label": "Aqueous",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solid_state",
+    "type": "Material",
+    "label": "solid-state",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_redox_electrolytes_for_supercapacito",
+    "type": "Material",
+    "label": "and redox electrolytes for supercapacitors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEDOT_PSS",
+    "type": "Material",
+    "label": "PEDOT:PSS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_salt_loaded_",
+    "type": "Material",
+    "label": "salt-loaded)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Liquid_electrolytes__organic_solvents",
+    "type": "Material",
+    "label": "Liquid electrolytes (organic solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_I__I___redox_couples_",
+    "type": "Material",
+    "label": "I⁻/I₃⁻ redox couples)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_composites_",
+    "type": "Material",
+    "label": "composites)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solid_state_transport_materials__inorgan",
+    "type": "Material",
+    "label": "solid-state transport materials (inorganic conductors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_organic_hole_transport_materials",
+    "type": "Material",
+    "label": "organic hole-transport materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_perovskites_",
+    "type": "Material",
+    "label": "perovskites)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_zwitterionic_gels",
+    "type": "Material",
+    "label": "zwitterionic gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_EMIM_DCA_",
+    "type": "Material",
+    "label": "EMIM-DCA)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_EMIM_TFSI",
+    "type": "Material",
+    "label": "EMIM-TFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Pyr__TFSI",
+    "type": "Material",
+    "label": "Pyr₁₃TFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_EMIM_BF_",
+    "type": "Material",
+    "label": "EMIM-BF₄",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_matrices",
+    "type": "Material",
+    "label": "polymer matrices",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PAA",
+    "type": "Material",
+    "label": "PAA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEMA",
+    "type": "Material",
+    "label": "PEMA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ACN",
+    "type": "Material",
+    "label": "ACN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MPN",
+    "type": "Material",
+    "label": "MPN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_iodide_salts__LiI",
+    "type": "Material",
+    "label": "various iodide salts (LiI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaI",
+    "type": "Material",
+    "label": "NaI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CsI",
+    "type": "Material",
+    "label": "CsI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TPAI_",
+    "type": "Material",
+    "label": "TPAI)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fillers__V_O_",
+    "type": "Material",
+    "label": "fillers (V₂O₅",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SiO_",
+    "type": "Material",
+    "label": "SiO₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TiO_",
+    "type": "Material",
+    "label": "TiO₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BMIM_TFSI",
+    "type": "Material",
+    "label": "BMIM-TFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEA",
+    "type": "Material",
+    "label": "PEA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyethylene",
+    "type": "Material",
+    "label": "Polyethylene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_piperidinium",
+    "type": "Material",
+    "label": "piperidinium",
+    "category": "material"
+  },
+  {
+    "id": "MAT_morpholinium",
+    "type": "Material",
+    "label": "morpholinium",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ether_aryl_substituted_ammoniums____cycl",
+    "type": "Material",
+    "label": "ether/aryl-substituted ammoniums) + cyclooctene monomers via",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TFSI_f_PIL_N",
+    "type": "Material",
+    "label": "TFSI-f-PIL_N",
+    "category": "material"
+  },
+  {
+    "id": "MAT__p_IM__DCA_____aprotic_ILs___EMIM__BF__",
+    "type": "Material",
+    "label": "[p-IM][DCA]) + aprotic ILs ([EMIM][BF₄]",
+    "category": "material"
+  },
+  {
+    "id": "MAT__EMIM__TCB_",
+    "type": "Material",
+    "label": "[EMIM][TCB]",
+    "category": "material"
+  },
+  {
+    "id": "MAT__EMIM__DCA__",
+    "type": "Material",
+    "label": "[EMIM][DCA])",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phosphonium",
+    "type": "Material",
+    "label": "phosphonium",
+    "category": "material"
+  },
+  {
+    "id": "MAT_imidazolium",
+    "type": "Material",
+    "label": "imidazolium",
+    "category": "material"
+  },
+  {
+    "id": "MAT_benzimidazolium_types",
+    "type": "Material",
+    "label": "benzimidazolium types",
+    "category": "material"
+  },
+  {
+    "id": "MAT_diamine___dihalide_monomers",
+    "type": "Material",
+    "label": "diamine + dihalide monomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_IL_monomers",
+    "type": "Material",
+    "label": "IL monomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PZT_O__",
+    "type": "Material",
+    "label": "PZT O₃)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BaTiO_",
+    "type": "Material",
+    "label": "BaTiO₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PMN_PT",
+    "type": "Material",
+    "label": "PMN-PT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PZN_PT_relaxor_ferroelectric_single_crys",
+    "type": "Material",
+    "label": "PZN-PT relaxor ferroelectric single crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_P_copolymer____EMIM__TFSI____LiTFSI___ph",
+    "type": "Material",
+    "label": "P copolymer + [EMIM][TFSI] + LiTFSI + photoinitiator",
+    "category": "material"
+  },
+  {
+    "id": "MAT_KNN",
+    "type": "Material",
+    "label": "KNN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BaTiO__PbZrO__PbTiO___ternary_system",
+    "type": "Material",
+    "label": "BaTiO₃–PbZrO₃–PbTiO₃  ternary system",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PbTiO_",
+    "type": "Material",
+    "label": "PbTiO₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PZT",
+    "type": "Material",
+    "label": "PZT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PZT_ceramics",
+    "type": "Material",
+    "label": "PZT ceramics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PMN_PT_PZN_PT_relaxor_crystals",
+    "type": "Material",
+    "label": "PMN-PT/PZN-PT relaxor crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lead_free_ceramics__KNN",
+    "type": "Material",
+    "label": "lead-free ceramics (KNN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BNT_",
+    "type": "Material",
+    "label": "BNT)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_AlN_ScAlN_thin_films",
+    "type": "Material",
+    "label": "AlN/ScAlN thin films",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiNbO_",
+    "type": "Material",
+    "label": "LiNbO₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiNbO___lithium_niobate",
+    "type": "Material",
+    "label": "LiNbO₃ (lithium niobate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bandgap_3_8_eV_",
+    "type": "Material",
+    "label": "bandgap 3.8 eV)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_La__",
+    "type": "Material",
+    "label": "La³⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ce__",
+    "type": "Material",
+    "label": "Ce³⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Pr__",
+    "type": "Material",
+    "label": "Pr³⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Sm__",
+    "type": "Material",
+    "label": "Sm³⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Eu__",
+    "type": "Material",
+    "label": "Eu³⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Gd___",
+    "type": "Material",
+    "label": "Gd³⁺)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ZnO_nanowires_nanowalls_nanohelices",
+    "type": "Material",
+    "label": "ZnO nanowires/nanowalls/nanohelices",
+    "category": "material"
+  },
+  {
+    "id": "MAT_GaN_nanowires",
+    "type": "Material",
+    "label": "GaN nanowires",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MoS__monolayers",
+    "type": "Material",
+    "label": "MoS₂ monolayers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BaTiO__nanoparticles",
+    "type": "Material",
+    "label": "BaTiO₃ nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Silk",
+    "type": "Material",
+    "label": "Silk",
+    "category": "material"
+  },
+  {
+    "id": "MAT_M13_bacteriophage",
+    "type": "Material",
+    "label": "M13 bacteriophage",
+    "category": "material"
+  },
+  {
+    "id": "MAT_odd_numbered_Nylons__Nylon_11",
+    "type": "Material",
+    "label": "odd-numbered Nylons (Nylon-11",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Nylon_7_",
+    "type": "Material",
+    "label": "Nylon-7)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PDLA",
+    "type": "Material",
+    "label": "PDLA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyurea",
+    "type": "Material",
+    "label": "Polyurea",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Nylon",
+    "type": "Material",
+    "label": "Nylon",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polypeptides",
+    "type": "Material",
+    "label": "polypeptides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyesters",
+    "type": "Material",
+    "label": "Polyesters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Collagen",
+    "type": "Material",
+    "label": "Collagen",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PHAs__PHB",
+    "type": "Material",
+    "label": "PHAs (PHB",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PHBV_",
+    "type": "Material",
+    "label": "PHBV)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Keratin",
+    "type": "Material",
+    "label": "Keratin",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ZnO_nanowires",
+    "type": "Material",
+    "label": "ZnO nanowires",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MGSBS",
+    "type": "Material",
+    "label": "MGSBS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bipyrazole_crystals",
+    "type": "Material",
+    "label": "bipyrazole crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Bi_Te__Sb_Te__thermoelectrics",
+    "type": "Material",
+    "label": "Bi₂Te₃/Sb₂Te₃ thermoelectrics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2_3_wt__",
+    "type": "Material",
+    "label": "2-3 wt%)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaCl_aqueous_electrolytes",
+    "type": "Material",
+    "label": "NaCl aqueous electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BaTiO__nanocrystals",
+    "type": "Material",
+    "label": "BaTiO₃ nanocrystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT___glycine",
+    "type": "Material",
+    "label": "β-glycine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydroxyapatite",
+    "type": "Material",
+    "label": "hydroxyapatite",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PHB_PHBV",
+    "type": "Material",
+    "label": "PHB/PHBV",
+    "category": "material"
+  },
+  {
+    "id": "MAT_odd_numbered_nylons",
+    "type": "Material",
+    "label": "odd-numbered nylons",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ZnO",
+    "type": "Material",
+    "label": "ZnO",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MoS_",
+    "type": "Material",
+    "label": "MoS₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BiFeO_",
+    "type": "Material",
+    "label": "BiFeO₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_boron_nitride_nanotubes",
+    "type": "Material",
+    "label": "boron nitride nanotubes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_piezoelectric_polymers",
+    "type": "Material",
+    "label": "piezoelectric polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Decellularized_cartilage_ECM____diphenyl",
+    "type": "Material",
+    "label": "Decellularized cartilage ECM  + diphenylalanine  peptide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fibrin_sealant",
+    "type": "Material",
+    "label": "fibrin sealant",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbon_dots",
+    "type": "Material",
+    "label": "carbon dots",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPy",
+    "type": "Material",
+    "label": "PPy",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Au_nanoparticles_nanorods_nanowires",
+    "type": "Material",
+    "label": "Au nanoparticles/nanorods/nanowires",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ag_Zn_Ti_B_Sr_Mg_Cu_Pt_MoS_",
+    "type": "Material",
+    "label": "Ag/Zn/Ti/B/Sr/Mg/Cu/Pt/MoS₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__nanofibers",
+    "type": "Material",
+    "label": "Poly  nanofibers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_L_PLLA",
+    "type": "Material",
+    "label": "L-PLLA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_HFPD__CH_OH",
+    "type": "Material",
+    "label": "HFPD ₃CH₂OH",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4_hexafluoropentane_1",
+    "type": "Material",
+    "label": "4-hexafluoropentane-1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_5_diol__ferroelectric_molecular_crystal",
+    "type": "Material",
+    "label": "5-diol) ferroelectric molecular crystal",
+    "category": "material"
+  },
+  {
+    "id": "MAT_HFPD__CH_OH__ferroelectric_molecular_cry",
+    "type": "Material",
+    "label": "HFPD ₃CH₂OH) ferroelectric molecular crystal filler + WPU  e",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__PHB",
+    "type": "Material",
+    "label": "Poly (PHB",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mn_500_kDa",
+    "type": "Material",
+    "label": "Mn≈500 kDa",
+    "category": "material"
+  },
+  {
+    "id": "MAT_non_piezoelectric_control_",
+    "type": "Material",
+    "label": "non-piezoelectric control)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DL_alanine_racemic_amino_acid_single_cry",
+    "type": "Material",
+    "label": "DL-alanine racemic amino acid single crystals and polycrysta",
+    "category": "material"
+  },
+  {
+    "id": "MAT_3_8_eV_bandgap",
+    "type": "Material",
+    "label": "3.8 eV bandgap",
+    "category": "material"
+  },
+  {
+    "id": "MAT_prototypical_ferroelectric_",
+    "type": "Material",
+    "label": "prototypical ferroelectric)",
+    "category": "material"
+  },
+  {
+    "id": "MAT___LiIO_",
+    "type": "Material",
+    "label": "α-LiIO₃",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Amino_acids__glycine",
+    "type": "Material",
+    "label": "Amino acids (glycine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DL_alanine_",
+    "type": "Material",
+    "label": "DL-alanine)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_peptides",
+    "type": "Material",
+    "label": "peptides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_elastin",
+    "type": "Material",
+    "label": "elastin",
+    "category": "material"
+  },
+  {
+    "id": "MAT_M13_phage_",
+    "type": "Material",
+    "label": "M13 phage)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polysaccharides__chitin",
+    "type": "Material",
+    "label": "polysaccharides (chitin",
+    "category": "material"
+  },
+  {
+    "id": "MAT___amino_sulfonamides",
+    "type": "Material",
+    "label": "β-amino sulfonamides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_vinyl_sulfonamides",
+    "type": "Material",
+    "label": "vinyl sulfonamides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_covalent_adaptable_networks",
+    "type": "Material",
+    "label": "covalent adaptable networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Lactide",
+    "type": "Material",
+    "label": "Lactide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_rac___butyrolactone",
+    "type": "Material",
+    "label": "rac-β-butyrolactone",
+    "category": "material"
+  },
+  {
+    "id": "MAT___caprolactone",
+    "type": "Material",
+    "label": "ε-caprolactone",
+    "category": "material"
+  },
+  {
+    "id": "MAT_yttrium_amine_bis_catalyst",
+    "type": "Material",
+    "label": "yttrium amine bis catalyst",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Dynamic_covalent_polymer_networks",
+    "type": "Material",
+    "label": "Dynamic covalent polymer networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Vitrimers",
+    "type": "Material",
+    "label": "Vitrimers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_transesterification_networks",
+    "type": "Material",
+    "label": "transesterification networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_transcarbamoylation_networks",
+    "type": "Material",
+    "label": "transcarbamoylation networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Diels_Alder_networks",
+    "type": "Material",
+    "label": "Diels-Alder networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_disulfide_networks",
+    "type": "Material",
+    "label": "disulfide networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_imine_networks",
+    "type": "Material",
+    "label": "imine networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_boronic_ester_networks",
+    "type": "Material",
+    "label": "boronic ester networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Stenhouse_salts",
+    "type": "Material",
+    "label": "Stenhouse salts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_photoacid_generators",
+    "type": "Material",
+    "label": "photoacid generators",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polylipoates",
+    "type": "Material",
+    "label": "Polylipoates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trithiocarbonate_RAFT_agents",
+    "type": "Material",
+    "label": "trithiocarbonate RAFT agents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Dynamic_bonds__hydrogen_bonds",
+    "type": "Material",
+    "label": "Dynamic bonds (hydrogen bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_ligand_coordination",
+    "type": "Material",
+    "label": "metal-ligand coordination",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_interactions",
+    "type": "Material",
+    "label": "ionic interactions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_host_guest",
+    "type": "Material",
+    "label": "host-guest",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_covalent__Diels_Alder",
+    "type": "Material",
+    "label": "dynamic covalent: Diels-Alder",
+    "category": "material"
+  },
+  {
+    "id": "MAT_disulfide",
+    "type": "Material",
+    "label": "disulfide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_imine",
+    "type": "Material",
+    "label": "imine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_boronic_ester",
+    "type": "Material",
+    "label": "boronic ester",
+    "category": "material"
+  },
+  {
+    "id": "MAT_transesterification_",
+    "type": "Material",
+    "label": "transesterification)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_5_Furandicarboxylic_acid__FDCA",
+    "type": "Material",
+    "label": "5-Furandicarboxylic acid (FDCA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bio_based_",
+    "type": "Material",
+    "label": "bio-based)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_butanediol",
+    "type": "Material",
+    "label": "butanediol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_aliphatic_linear_dibasic_acid",
+    "type": "Material",
+    "label": "aliphatic linear dibasic acid",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PSS_____PDADMA__",
+    "type": "Material",
+    "label": "PSS ) + PDADMA )",
+    "category": "material"
+  },
+  {
+    "id": "MAT_KBr_salt",
+    "type": "Material",
+    "label": "KBr salt",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Nafion_",
+    "type": "Material",
+    "label": "Nafion)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_interpenetrating_polymer_networks",
+    "type": "Material",
+    "label": "interpenetrating polymer networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_two_crystal_phase",
+    "type": "Material",
+    "label": "two-crystal phase",
+    "category": "material"
+  },
+  {
+    "id": "MAT_semi_crystalline_networks",
+    "type": "Material",
+    "label": "semi-crystalline networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Dynamic_Covalent_Networks",
+    "type": "Material",
+    "label": "Dynamic Covalent Networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bilayer_composites",
+    "type": "Material",
+    "label": "bilayer composites",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4D_printed_heterostructures",
+    "type": "Material",
+    "label": "4D-printed heterostructures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PTU_4__thiourethane_polymer_from_4",
+    "type": "Material",
+    "label": "PTU-4 (thiourethane polymer from 4",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4__thiobisbenzenethiol____hexamethylene_",
+    "type": "Material",
+    "label": "4'-thiobisbenzenethiol  + hexamethylene diisocyanate + pheno",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_thiourethane_crosslinks",
+    "type": "Material",
+    "label": "dynamic thiourethane crosslinks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Fifteen_triboelectric_material_pairs__Cu",
+    "type": "Material",
+    "label": "Fifteen triboelectric material pairs: Cu",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PET",
+    "type": "Material",
+    "label": "PET",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PTFE",
+    "type": "Material",
+    "label": "PTFE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_FEP",
+    "type": "Material",
+    "label": "FEP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiCl_or_CaCl__",
+    "type": "Material",
+    "label": "LiCl or CaCl₂)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_aerogels",
+    "type": "Material",
+    "label": "aerogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_foams",
+    "type": "Material",
+    "label": "foams",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fibrous_media",
+    "type": "Material",
+    "label": "fibrous media",
+    "category": "material"
+  },
+  {
+    "id": "MAT_textile_yarn_structural_designs",
+    "type": "Material",
+    "label": "textile/yarn structural designs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbon_fiber",
+    "type": "Material",
+    "label": "carbon fiber",
+    "category": "material"
+  },
+  {
+    "id": "MAT_stainless_steel_fiber",
+    "type": "Material",
+    "label": "stainless steel fiber",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Fluttering_TENG__with_flexible_film_betw",
+    "type": "Material",
+    "label": "Fluttering TENG  with flexible film between parallel electro",
+    "category": "material"
+  },
+  {
+    "id": "MAT_charge_exciting_F_TENG",
+    "type": "Material",
+    "label": "charge exciting F-TENG",
+    "category": "material"
+  },
+  {
+    "id": "MAT_BaTiO__La_nanoparticles",
+    "type": "Material",
+    "label": "BaTiO₃:La nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly__nanofiber_membrane",
+    "type": "Material",
+    "label": "poly  nanofiber membrane",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Tribovoltaic_nanogenerators___semiconduc",
+    "type": "Material",
+    "label": "Tribovoltaic nanogenerators : semiconductor-based frictional",
+    "category": "material"
+  },
+  {
+    "id": "MAT_GaN",
+    "type": "Material",
+    "label": "GaN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_organic_semiconductors_",
+    "type": "Material",
+    "label": "organic semiconductors)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_semiconductor_contacts",
+    "type": "Material",
+    "label": "metal-semiconductor contacts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_p_n_junctions",
+    "type": "Material",
+    "label": "p-n junctions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Triboelectric_nanogenerators_with_variou",
+    "type": "Material",
+    "label": "Triboelectric nanogenerators with various material pairs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_power_management_system",
+    "type": "Material",
+    "label": "power management system",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TENG_for_marine_applications__wave_energ",
+    "type": "Material",
+    "label": "TENG for marine applications: wave energy harvesters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_self_powered_ocean_sensors",
+    "type": "Material",
+    "label": "self-powered ocean sensors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_marine_electrochemical_technologies",
+    "type": "Material",
+    "label": "marine electrochemical technologies",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Angle_resolved_TENG___metal_balls",
+    "type": "Material",
+    "label": "Angle-resolved TENG : metal balls",
+    "category": "material"
+  },
+  {
+    "id": "MAT_inverted_conical_unit",
+    "type": "Material",
+    "label": "inverted conical unit",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fluorinated_ethylene_propylene__film",
+    "type": "Material",
+    "label": "fluorinated ethylene propylene  film",
+    "category": "material"
+  },
+  {
+    "id": "MAT_multiple_sector_like_electrodes",
+    "type": "Material",
+    "label": "multiple sector-like electrodes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Molecular_crystals",
+    "type": "Material",
+    "label": "Molecular crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_flexible_crystals",
+    "type": "Material",
+    "label": "flexible crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_photoresponsive_crystals",
+    "type": "Material",
+    "label": "photoresponsive crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_multicomponent_pharmaceutical_crystals",
+    "type": "Material",
+    "label": "multicomponent pharmaceutical crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_tribo_piezoelectric_hybrid_nanogenerator",
+    "type": "Material",
+    "label": "tribo-piezoelectric hybrid nanogenerator",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polytetrafluoroethylene__nanoparticles",
+    "type": "Material",
+    "label": "polytetrafluoroethylene  nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_elastic_material_based_TENG",
+    "type": "Material",
+    "label": "elastic-material-based TENG",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Contact_separation_mode_TENG__with_vario",
+    "type": "Material",
+    "label": "Contact-separation mode TENG  with various dielectric materi",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymers",
+    "type": "Material",
+    "label": "Polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_SMILES_sequences",
+    "type": "Material",
+    "label": "polymer SMILES sequences",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Fe_N",
+    "type": "Material",
+    "label": "Fe/N",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Metal_and_alloy_slabs_with_adsorbates",
+    "type": "Material",
+    "label": "Metal and alloy slabs with adsorbates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_oxides",
+    "type": "Material",
+    "label": "oxides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_clusters",
+    "type": "Material",
+    "label": "clusters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2D_materials",
+    "type": "Material",
+    "label": "2D materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_small_molecules",
+    "type": "Material",
+    "label": "small molecules",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Metal_organic_frameworks__for_CO__captur",
+    "type": "Material",
+    "label": "Metal-organic frameworks  for CO₂ capture",
+    "category": "material"
+  },
+  {
+    "id": "MAT__160",
+    "type": "Material",
+    "label": ">160",
+    "category": "material"
+  },
+  {
+    "id": "MAT_000_hypothetical_MOFs",
+    "type": "Material",
+    "label": "000 hypothetical MOFs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_tens_of_thousands_of_synthesized_MOFs",
+    "type": "Material",
+    "label": "tens of thousands of synthesized MOFs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymeric_systems",
+    "type": "Material",
+    "label": "Polymeric systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_reaction_engineering",
+    "type": "Material",
+    "label": "polymer reaction engineering",
+    "category": "material"
+  },
+  {
+    "id": "MAT_antimicrobial_polymers",
+    "type": "Material",
+    "label": "antimicrobial polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymers_with_various_architectures__lin",
+    "type": "Material",
+    "label": "Polymers with various architectures (linear",
+    "category": "material"
+  },
+  {
+    "id": "MAT_branched",
+    "type": "Material",
+    "label": "branched",
+    "category": "material"
+  },
+  {
+    "id": "MAT_star",
+    "type": "Material",
+    "label": "star",
+    "category": "material"
+  },
+  {
+    "id": "MAT_network_",
+    "type": "Material",
+    "label": "network)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_molecular_mass_distribution",
+    "type": "Material",
+    "label": "molecular mass distribution",
+    "category": "material"
+  },
+  {
+    "id": "MAT_isocyanates",
+    "type": "Material",
+    "label": "isocyanates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_chain_extenders",
+    "type": "Material",
+    "label": "chain extenders",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Solid_state_electrolytes___lithium_based",
+    "type": "Material",
+    "label": "Solid-state electrolytes : lithium-based",
+    "category": "material"
+  },
+  {
+    "id": "MAT_sodium_based",
+    "type": "Material",
+    "label": "sodium-based",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_electrolytes",
+    "type": "Material",
+    "label": "polymer electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ceramic_electrolytes",
+    "type": "Material",
+    "label": "ceramic electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conducting_polymers__PPy",
+    "type": "Material",
+    "label": "conducting polymers (PPy",
+    "category": "material"
+  },
+  {
+    "id": "MAT_perovskites",
+    "type": "Material",
+    "label": "perovskites",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Neutral_organic_molecules_in_various_sol",
+    "type": "Material",
+    "label": "Neutral organic molecules in various solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Semicrystalline_polymers",
+    "type": "Material",
+    "label": "Semicrystalline polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_liquid_crystalline_cybotactic_nematics",
+    "type": "Material",
+    "label": "liquid crystalline cybotactic nematics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBS",
+    "type": "Material",
+    "label": "PBS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEF__and_aromatic__vanillin",
+    "type": "Material",
+    "label": "PEF) and aromatic (vanillin",
+    "category": "material"
+  },
+  {
+    "id": "MAT_furan",
+    "type": "Material",
+    "label": "furan",
+    "category": "material"
+  },
+  {
+    "id": "MAT_terpenoid_based_",
+    "type": "Material",
+    "label": "terpenoid-based)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bio_based_monomers_from_renewable_resour",
+    "type": "Material",
+    "label": "bio-based monomers from renewable resources",
+    "category": "material"
+  },
+  {
+    "id": "MAT_high_temp_polymers_",
+    "type": "Material",
+    "label": "high-temp polymers)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Calcium_phosphate__clusters",
+    "type": "Material",
+    "label": "Calcium phosphate  clusters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydroxyapatite__nanorods",
+    "type": "Material",
+    "label": "hydroxyapatite  nanorods",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bio_based_monomers__diacid",
+    "type": "Material",
+    "label": "bio-based monomers (diacid",
+    "category": "material"
+  },
+  {
+    "id": "MAT_diol",
+    "type": "Material",
+    "label": "diol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_diamine",
+    "type": "Material",
+    "label": "diamine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_diisocyanate_",
+    "type": "Material",
+    "label": "diisocyanate)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_protein_based",
+    "type": "Material",
+    "label": "protein-based",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polysaccharide_based_",
+    "type": "Material",
+    "label": "polysaccharide-based)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Linear_and_ring_polymers_in_nanopores_na",
+    "type": "Material",
+    "label": "Linear and ring polymers in nanopores/nanochannels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Star_polymers_with_varying_functionality",
+    "type": "Material",
+    "label": "Star polymers with varying functionality",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Knotted_polymers",
+    "type": "Material",
+    "label": "Knotted polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_ammonium_phosphonium_based_PILs",
+    "type": "Material",
+    "label": "various ammonium/phosphonium-based PILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Homopolymers_in_good_solvents",
+    "type": "Material",
+    "label": "Homopolymers in good solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Entangled_polymer_melts",
+    "type": "Material",
+    "label": "Entangled polymer melts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Linear_and_ring_polymers_in_nanochannels",
+    "type": "Material",
+    "label": "Linear and ring polymers in nanochannels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Telechelic_reversible_associating_polyme",
+    "type": "Material",
+    "label": "Telechelic reversible associating polymer gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_all_polymer_piezo_ionic_electric_electro",
+    "type": "Material",
+    "label": "all-polymer piezo-ionic-electric electronics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Au_nanoparticles_",
+    "type": "Material",
+    "label": "Au nanoparticles)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_networks_with_varying_architectu",
+    "type": "Material",
+    "label": "polymer networks with varying architectures (linear",
+    "category": "material"
+  },
+  {
+    "id": "MAT_covalent_crosslink",
+    "type": "Material",
+    "label": "covalent-crosslink",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trapped_entanglement_",
+    "type": "Material",
+    "label": "trapped-entanglement)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Benzylic_ether_based_trifunctional_alken",
+    "type": "Material",
+    "label": "Benzylic ether-based trifunctional alkenes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dithiols__1",
+    "type": "Material",
+    "label": "dithiols (1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2_ethanedithiol",
+    "type": "Material",
+    "label": "2-ethanedithiol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_6_hexanedithiol",
+    "type": "Material",
+    "label": "6-hexanedithiol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_10_decanedithiol_",
+    "type": "Material",
+    "label": "10-decanedithiol)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thiol_ene_networks_with_dynamic_ether_li",
+    "type": "Material",
+    "label": "thiol-ene networks with dynamic ether linkages",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymeric_networks",
+    "type": "Material",
+    "label": "Polymeric networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_relaxing_media",
+    "type": "Material",
+    "label": "relaxing media",
+    "category": "material"
+  },
+  {
+    "id": "MAT_A_A_b_B_B_ternary_blends",
+    "type": "Material",
+    "label": "A/A-b-B/B ternary blends",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_chains_in_various_solvent_condit",
+    "type": "Material",
+    "label": "Polymer chains in various solvent conditions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Entangled_star_branched_polymer_melts",
+    "type": "Material",
+    "label": "Entangled star-branched polymer melts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Transient_polymer_networks_with_reversib",
+    "type": "Material",
+    "label": "Transient polymer networks with reversible crosslinks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Entangled_polymer_melts_and_concentrated",
+    "type": "Material",
+    "label": "Entangled polymer melts and concentrated solutions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Wormlike_micellar_solutions__surfactant_",
+    "type": "Material",
+    "label": "Wormlike micellar solutions (surfactant self-assembled aggre",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CPyCl_NaSal_systems_",
+    "type": "Material",
+    "label": "CPyCl/NaSal systems)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_wide_range_of_molecular_weights",
+    "type": "Material",
+    "label": "wide range of molecular weights",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Entangled_polymer_melts_and_solutions",
+    "type": "Material",
+    "label": "Entangled polymer melts and solutions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_nanocomposites__with_rod_shaped_",
+    "type": "Material",
+    "label": "Polymer nanocomposites  with rod-shaped nanoparticles in pol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_volume_fractions_0_8__10_",
+    "type": "Material",
+    "label": "volume fractions 0.8%-10%",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_dilute_solutions",
+    "type": "Material",
+    "label": "Polymer dilute solutions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_linear_and_branched_polymers",
+    "type": "Material",
+    "label": "linear and branched polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_benzalcyanoacetate_based_Michael_accepto",
+    "type": "Material",
+    "label": "benzalcyanoacetate-based Michael-acceptors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_tetrathiol_crosslinker_PTMP",
+    "type": "Material",
+    "label": "tetrathiol crosslinker PTMP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_catalyst_free",
+    "type": "Material",
+    "label": "catalyst-free",
+    "category": "material"
+  },
+  {
+    "id": "MAT_room_temperature_dynamic_bonds",
+    "type": "Material",
+    "label": "room-temperature dynamic bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_benzalcyanoacetate__based_Michael_accept",
+    "type": "Material",
+    "label": "benzalcyanoacetate -based Michael acceptors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_tetrathiol_crosslinkers",
+    "type": "Material",
+    "label": "tetrathiol crosslinkers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ditopic_BCA_Michael_acceptor",
+    "type": "Material",
+    "label": "ditopic BCA Michael acceptor",
+    "category": "material"
+  },
+  {
+    "id": "MAT_pentaerythritol_tetrakis_tetrathiol_cros",
+    "type": "Material",
+    "label": "pentaerythritol tetrakis tetrathiol crosslinker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dithiol_chain_extender",
+    "type": "Material",
+    "label": "dithiol chain extender",
+    "category": "material"
+  },
+  {
+    "id": "MAT_E__coli_bacteria_with_fluorescently_labe",
+    "type": "Material",
+    "label": "E. coli bacteria with fluorescently labeled flagella",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Single_chain_nanoparticles",
+    "type": "Material",
+    "label": "Single-chain nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly__P4VP",
+    "type": "Material",
+    "label": "poly (P4VP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_60_kDa_",
+    "type": "Material",
+    "label": "60 kDa)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phosphotungstic_acid__as_noncovalent_cro",
+    "type": "Material",
+    "label": "phosphotungstic acid  as noncovalent crosslinker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_homopolymers",
+    "type": "Material",
+    "label": "homopolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_random_copolymers",
+    "type": "Material",
+    "label": "random copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ionic_polymers__polys",
+    "type": "Material",
+    "label": "Ionic polymers: polys",
+    "category": "material"
+  },
+  {
+    "id": "MAT_eutectogels",
+    "type": "Material",
+    "label": "eutectogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mixed_ionic_electronic_conducting_polyme",
+    "type": "Material",
+    "label": "mixed ionic-electronic conducting polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_quaternary_tannic_acid____tannic_acid__g",
+    "type": "Material",
+    "label": "quaternary tannic acid  — tannic acid  grafted with quaterna",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Folded_proteins",
+    "type": "Material",
+    "label": "Folded proteins",
+    "category": "material"
+  },
+  {
+    "id": "MAT_coarse_grained_protein_models",
+    "type": "Material",
+    "label": "coarse-grained protein models",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Extracellular_matrix__porous_environment",
+    "type": "Material",
+    "label": "Extracellular matrix  porous environments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_computational_cell_migration_models",
+    "type": "Material",
+    "label": "computational cell migration models",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hyperbranched_poly__as_dual_function_mac",
+    "type": "Material",
+    "label": "hyperbranched poly  as dual-function macromonomer",
+    "category": "material"
+  },
+  {
+    "id": "MAT_silicone",
+    "type": "Material",
+    "label": "silicone",
+    "category": "material"
+  },
+  {
+    "id": "MAT_compliant_electrodes__carbon_grease",
+    "type": "Material",
+    "label": "compliant electrodes (carbon grease",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly___oleogels",
+    "type": "Material",
+    "label": "Poly ) oleogels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thioctic_acid____natural_small_molecule_",
+    "type": "Material",
+    "label": "thioctic acid  — natural small molecule with disulfide bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_disulfide_covalent_networks",
+    "type": "Material",
+    "label": "dynamic disulfide covalent networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_common_oils_as_gelation_media",
+    "type": "Material",
+    "label": "various common oils as gelation media",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_isopropyl_acrylamide",
+    "type": "Material",
+    "label": "N-isopropyl acrylamide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_sodium_hyaluronate",
+    "type": "Material",
+    "label": "sodium hyaluronate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_calcium_cations",
+    "type": "Material",
+    "label": "calcium cations",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_covalent_boronic_ester_bonds",
+    "type": "Material",
+    "label": "dynamic covalent boronic ester bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_boron_nitrogen__coordination",
+    "type": "Material",
+    "label": "boron-nitrogen  coordination",
+    "category": "material"
+  },
+  {
+    "id": "MAT_chain_extenders_containing_boron_and_nit",
+    "type": "Material",
+    "label": "chain extenders containing boron and nitrogen",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_boronate_ester_bonds",
+    "type": "Material",
+    "label": "dynamic boronate ester bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_liquid_crystal_oligomers",
+    "type": "Material",
+    "label": "liquid crystal oligomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mesogens_with_positive_diamagnetic_aniso",
+    "type": "Material",
+    "label": "mesogens with positive diamagnetic anisotropy",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ROMP_derived_magnetic_polys",
+    "type": "Material",
+    "label": "ROMP-derived magnetic polys",
+    "category": "material"
+  },
+  {
+    "id": "MAT_biphenyl_and_pyrene_____stacking_units",
+    "type": "Material",
+    "label": "biphenyl and pyrene π-π stacking units",
+    "category": "material"
+  },
+  {
+    "id": "MAT_azobenzene_photoresponsive_units",
+    "type": "Material",
+    "label": "azobenzene photoresponsive units",
+    "category": "material"
+  },
+  {
+    "id": "MAT_perylene_diimide_derivatives",
+    "type": "Material",
+    "label": "perylene diimide derivatives",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_conductors",
+    "type": "Material",
+    "label": "ionic conductors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_resistors",
+    "type": "Material",
+    "label": "ionic resistors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_capacitors",
+    "type": "Material",
+    "label": "capacitors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_memristors",
+    "type": "Material",
+    "label": "memristors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_transistors",
+    "type": "Material",
+    "label": "transistors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bipolar_junction_transistors",
+    "type": "Material",
+    "label": "bipolar junction transistors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TENGs",
+    "type": "Material",
+    "label": "TENGs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_urethane_group_based_polymer_matrix",
+    "type": "Material",
+    "label": "urethane group-based polymer matrix",
+    "category": "material"
+  },
+  {
+    "id": "MAT_potential_hydrogen_bonds__and_metal_coor",
+    "type": "Material",
+    "label": "potential hydrogen bonds  and metal-coordination bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_DLP_based_3D_printing_materials",
+    "type": "Material",
+    "label": "DLP-based 3D printing materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PUCD_IL__vs_PUCB_IL",
+    "type": "Material",
+    "label": "PUCD/IL  vs PUCB/IL",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_other_ILs_for_comparison",
+    "type": "Material",
+    "label": "various other ILs for comparison",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dual_ion",
+    "type": "Material",
+    "label": "dual-ion",
+    "category": "material"
+  },
+  {
+    "id": "MAT_redox_flow_",
+    "type": "Material",
+    "label": "redox flow)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_supercapacitors",
+    "type": "Material",
+    "label": "supercapacitors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thermoelectric_cells",
+    "type": "Material",
+    "label": "thermoelectric cells",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CO__electroreduction",
+    "type": "Material",
+    "label": "CO₂ electroreduction",
+    "category": "material"
+  },
+  {
+    "id": "MAT_H__production",
+    "type": "Material",
+    "label": "H₂ production",
+    "category": "material"
+  },
+  {
+    "id": "MAT_heat_transfer_fluids",
+    "type": "Material",
+    "label": "heat transfer fluids",
+    "category": "material"
+  },
+  {
+    "id": "MAT_phase_change_materials",
+    "type": "Material",
+    "label": "phase-change materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CO__capture_conversion",
+    "type": "Material",
+    "label": "CO₂ capture/conversion",
+    "category": "material"
+  },
+  {
+    "id": "MAT_nanoporous_electrodes__supercapacitors",
+    "type": "Material",
+    "label": "nanoporous electrodes (supercapacitors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_batteries_",
+    "type": "Material",
+    "label": "batteries)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_confined_IL_lubricants",
+    "type": "Material",
+    "label": "confined IL lubricants",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_2__N_2_methacryloyloxyethyl_N",
+    "type": "Material",
+    "label": "poly(2-(N-2-methacryloyloxyethyl-N",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_dimethyl_ammonioethanesulfonate_",
+    "type": "Material",
+    "label": "N-dimethyl)ammonioethanesulfonate)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_4__N_2_methacryloyloxyethyl_N",
+    "type": "Material",
+    "label": "poly(4-(N-2-methacryloyloxyethyl-N",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_dimethyl_ammoniobutanesulfonate_",
+    "type": "Material",
+    "label": "N-dimethyl)ammoniobutanesulfonate)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Charged_polymer_gels_with_immobilized_io",
+    "type": "Material",
+    "label": "Charged polymer gels with immobilized ionic species",
+    "category": "material"
+  },
+  {
+    "id": "MAT_model_gels_with_controlled_network_struc",
+    "type": "Material",
+    "label": "model gels with controlled network structure",
+    "category": "material"
+  },
+  {
+    "id": "MAT_3D_topologies_",
+    "type": "Material",
+    "label": "3D topologies)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_nonimidazolium_nuclei",
+    "type": "Material",
+    "label": "nonimidazolium nuclei",
+    "category": "material"
+  },
+  {
+    "id": "MAT_step_growth_PILs",
+    "type": "Material",
+    "label": "step-growth PILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cross_linked_CILs",
+    "type": "Material",
+    "label": "cross-linked CILs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Electronic_skins",
+    "type": "Material",
+    "label": "Electronic skins",
+    "category": "material"
+  },
+  {
+    "id": "MAT_functional_components__sensing",
+    "type": "Material",
+    "label": "functional components (sensing",
+    "category": "material"
+  },
+  {
+    "id": "MAT_power",
+    "type": "Material",
+    "label": "power",
+    "category": "material"
+  },
+  {
+    "id": "MAT_therapy_",
+    "type": "Material",
+    "label": "therapy)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_interface_components__adhesion",
+    "type": "Material",
+    "label": "interface components (adhesion",
+    "category": "material"
+  },
+  {
+    "id": "MAT_energy_mass_transfer_",
+    "type": "Material",
+    "label": "energy/mass transfer)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_skin_adhesion_materials",
+    "type": "Material",
+    "label": "skin adhesion materials",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Organic_salts_cyclopropenium_salts",
+    "type": "Material",
+    "label": "Organic salts cyclopropenium salts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SIEn_X__with_nine_equivalent_linear_alky",
+    "type": "Material",
+    "label": "SIEn·X) with nine equivalent linear alkyl chains",
+    "category": "material"
+  },
+  {
+    "id": "MAT_discotic_mesogens_with_cyclopropenium_co",
+    "type": "Material",
+    "label": "discotic mesogens with cyclopropenium core",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_electrolytes__PEO_based",
+    "type": "Material",
+    "label": "Polymer electrolytes: PEO-based",
+    "category": "material"
+  },
+  {
+    "id": "MAT_gel_electrolytes",
+    "type": "Material",
+    "label": "gel electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_composite_electrolytes",
+    "type": "Material",
+    "label": "composite electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lithium_salts__LiTFSI",
+    "type": "Material",
+    "label": "lithium salts (LiTFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiPF__",
+    "type": "Material",
+    "label": "LiPF₆)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_homopolymer_PECs_with_varying_chain_leng",
+    "type": "Material",
+    "label": "homopolymer PECs with varying chain length",
+    "category": "material"
+  },
+  {
+    "id": "MAT_side_chain_chemistry",
+    "type": "Material",
+    "label": "side chain chemistry",
+    "category": "material"
+  },
+  {
+    "id": "MAT_backbone_chemistry",
+    "type": "Material",
+    "label": "backbone chemistry",
+    "category": "material"
+  },
+  {
+    "id": "MAT_anions_covalently_bound_to_polymer_chain",
+    "type": "Material",
+    "label": "anions covalently bound to polymer chains",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Bottlebrush_macromolecules",
+    "type": "Material",
+    "label": "Bottlebrush macromolecules",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ethylene_5_iodomethyl_2_norbornene_1_hex",
+    "type": "Material",
+    "label": "Ethylene/5-iodomethyl-2-norbornene/1-hexene terpolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_CF_SO__",
+    "type": "Material",
+    "label": "CF₃SO₃⁻",
+    "category": "material"
+  },
+  {
+    "id": "MAT_or_Tf_N__counteranions",
+    "type": "Material",
+    "label": "or Tf₂N⁻ counteranions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__PBO",
+    "type": "Material",
+    "label": "Poly (PBO",
+    "category": "material"
+  },
+  {
+    "id": "MAT___s_4__LiTFSI",
+    "type": "Material",
+    "label": "ε_s=4)/LiTFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly__PPO",
+    "type": "Material",
+    "label": "poly (PPO",
+    "category": "material"
+  },
+  {
+    "id": "MAT___s_7__LiTFSI",
+    "type": "Material",
+    "label": "ε_s=7)/LiTFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly__PECH",
+    "type": "Material",
+    "label": "poly (PECH",
+    "category": "material"
+  },
+  {
+    "id": "MAT___s_15__LiTFSI",
+    "type": "Material",
+    "label": "ε_s=15)/LiTFSI",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiTFSI_doped_polymer_matrix_functionaliz",
+    "type": "Material",
+    "label": "LiTFSI-doped polymer matrix functionalized with zwitterionic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_electrolytes",
+    "type": "Material",
+    "label": "poly electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_in_situ_polymerized_1",
+    "type": "Material",
+    "label": "in situ-polymerized 1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_3_dioxolane",
+    "type": "Material",
+    "label": "3-dioxolane",
+    "category": "material"
+  },
+  {
+    "id": "MAT_anchored_anion_clusters",
+    "type": "Material",
+    "label": "anchored anion clusters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lithium_metal_anode",
+    "type": "Material",
+    "label": "lithium metal anode",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiFePO__cathode",
+    "type": "Material",
+    "label": "LiFePO₄ cathode",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiNi___Co___Mn___O__high_voltage_cathode",
+    "type": "Material",
+    "label": "LiNi₀.₅Co₀.₂Mn₀.₃O₂ high-voltage cathode",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Ion_selective_membranes_in_charged_confi",
+    "type": "Material",
+    "label": "Ion-selective membranes in charged confined channels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_electrolyte_solutions_with_finite_size_i",
+    "type": "Material",
+    "label": "electrolyte solutions with finite-size ions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Core_shell_soft_particles",
+    "type": "Material",
+    "label": "Core-shell soft particles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_liquid_crystal_phase_with_fluorine_chain",
+    "type": "Material",
+    "label": "liquid-crystal phase with fluorine-chain association",
+    "category": "material"
+  },
+  {
+    "id": "MAT_continuous_percolating_phase_with_flexib",
+    "type": "Material",
+    "label": "continuous percolating phase with flexible chain entanglemen",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Iontronic_devices__ionic_sensors",
+    "type": "Material",
+    "label": "Iontronic devices: ionic sensors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_neuromorphic_sensors",
+    "type": "Material",
+    "label": "neuromorphic sensors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_artificial_synapses",
+    "type": "Material",
+    "label": "artificial synapses",
+    "category": "material"
+  },
+  {
+    "id": "MAT_energy_harvesters",
+    "type": "Material",
+    "label": "energy harvesters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_power_generators",
+    "type": "Material",
+    "label": "power generators",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hierarchical_hydrogen_bond__association",
+    "type": "Material",
+    "label": "hierarchical hydrogen bond  association",
+    "category": "material"
+  },
+  {
+    "id": "MAT_topological_entanglements_as_complementa",
+    "type": "Material",
+    "label": "topological entanglements as complementary crosslinks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Electronic_textiles",
+    "type": "Material",
+    "label": "Electronic textiles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conductive_fibers",
+    "type": "Material",
+    "label": "conductive fibers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_energy_harvesting_storage_textiles",
+    "type": "Material",
+    "label": "energy harvesting/storage textiles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_sensing_textiles",
+    "type": "Material",
+    "label": "sensing textiles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PEO_LiTFSI_polymer_electrolyte_system",
+    "type": "Material",
+    "label": "PEO/LiTFSI polymer electrolyte system",
+    "category": "material"
+  },
+  {
+    "id": "MAT_neutral_polymers_with_lithium_salts",
+    "type": "Material",
+    "label": "neutral polymers with lithium salts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Comblike_polymers_with_PEO_side_chains_a",
+    "type": "Material",
+    "label": "Comblike polymers with PEO side chains and different backbon",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPEOMA",
+    "type": "Material",
+    "label": "PPEOMA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPEOCL",
+    "type": "Material",
+    "label": "PPEOCL",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PNBCEM",
+    "type": "Material",
+    "label": "PNBCEM",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPEOSt",
+    "type": "Material",
+    "label": "PPEOSt",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiClO__salt",
+    "type": "Material",
+    "label": "LiClO₄ salt",
+    "category": "material"
+  },
+  {
+    "id": "MAT_imidazolium_cations",
+    "type": "Material",
+    "label": "imidazolium cations",
+    "category": "material"
+  },
+  {
+    "id": "MAT_centipede_like_structures",
+    "type": "Material",
+    "label": "centipede-like structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_salt_complexes__PEO_based",
+    "type": "Material",
+    "label": "Polymer-salt complexes: PEO-based",
+    "category": "material"
+  },
+  {
+    "id": "MAT_comb_like_polymers",
+    "type": "Material",
+    "label": "comb-like polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_network_polymers",
+    "type": "Material",
+    "label": "network polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_proton_conducting_polymers",
+    "type": "Material",
+    "label": "proton-conducting polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mixed_ionic_electronic_conductors",
+    "type": "Material",
+    "label": "mixed ionic-electronic conductors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solvent_free_polymer_electrolytes",
+    "type": "Material",
+    "label": "solvent-free polymer electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Single_ion_conducting_polymers",
+    "type": "Material",
+    "label": "Single-ion conducting polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_glassy_polymer_electrolytes",
+    "type": "Material",
+    "label": "glassy polymer electrolytes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PIL_content_ranging_3_2_70_4_mol_",
+    "type": "Material",
+    "label": "PIL content ranging 3.2-70.4 mol%",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_neutral_block",
+    "type": "Material",
+    "label": "poly neutral block",
+    "category": "material"
+  },
+  {
+    "id": "MAT_protic_ILs___p_MIM__DCA_",
+    "type": "Material",
+    "label": "protic ILs: [p-MIM][DCA]",
+    "category": "material"
+  },
+  {
+    "id": "MAT__p_IM__DCA_",
+    "type": "Material",
+    "label": "[p-IM][DCA]",
+    "category": "material"
+  },
+  {
+    "id": "MAT_aprotic_IL___EMIM__DCA_",
+    "type": "Material",
+    "label": "aprotic IL: [EMIM][DCA]",
+    "category": "material"
+  },
+  {
+    "id": "MAT_six_ions_ranging_hard_to_soft__cations__",
+    "type": "Material",
+    "label": "six ions ranging hard to soft: cations [p-IM]⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT__p_MIM__",
+    "type": "Material",
+    "label": "[p-MIM]⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT__EMIM__",
+    "type": "Material",
+    "label": "[EMIM]⁺",
+    "category": "material"
+  },
+  {
+    "id": "MAT_anions__BF___",
+    "type": "Material",
+    "label": "anions [BF₄]⁻",
+    "category": "material"
+  },
+  {
+    "id": "MAT__TCB__",
+    "type": "Material",
+    "label": "[TCB]⁻",
+    "category": "material"
+  },
+  {
+    "id": "MAT__DCA__",
+    "type": "Material",
+    "label": "[DCA]⁻",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly_2_vinylpyridinium___P2VPPS",
+    "type": "Material",
+    "label": "Poly-2-vinylpyridinium) (P2VPPS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyzwitterion_",
+    "type": "Material",
+    "label": "polyzwitterion)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyanion_",
+    "type": "Material",
+    "label": "polyanion)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_miscible_polyzwitterion_polyanion_blends",
+    "type": "Material",
+    "label": "miscible polyzwitterion/polyanion blends at varying molar ra",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymers_under_stretching",
+    "type": "Material",
+    "label": "Polymers under stretching",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lattice_polymer_models",
+    "type": "Material",
+    "label": "lattice polymer models",
+    "category": "material"
+  },
+  {
+    "id": "MAT_stimulus_responsive__heat",
+    "type": "Material",
+    "label": "stimulus-responsive (heat",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__P4VPy",
+    "type": "Material",
+    "label": "Poly (P4VPy",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mw_50000_",
+    "type": "Material",
+    "label": "Mw=50000)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_maleic_acid_alt_ethylene_copolymer__MA_a",
+    "type": "Material",
+    "label": "maleic acid-alt-ethylene copolymer (MA-alt-E",
+    "category": "material"
+  },
+  {
+    "id": "MAT_from_hydrolysis_of_MAH_alt_E_",
+    "type": "Material",
+    "label": "from hydrolysis of MAH-alt-E)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_interpolymer_complexes_via_acid_base_H_b",
+    "type": "Material",
+    "label": "interpolymer complexes via acid-base H-bonding",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Semicrystalline_polymers__PE",
+    "type": "Material",
+    "label": "Semicrystalline polymers (PE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_iPP",
+    "type": "Material",
+    "label": "iPP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_nylon",
+    "type": "Material",
+    "label": "nylon",
+    "category": "material"
+  },
+  {
+    "id": "MAT_flow_induced_crystallization__systems",
+    "type": "Material",
+    "label": "flow-induced crystallization  systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_blends_in_viscoelastic_solvents",
+    "type": "Material",
+    "label": "Polymer blends in viscoelastic solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_solutions_undergoing_stress_indu",
+    "type": "Material",
+    "label": "polymer solutions undergoing stress-induced demixing",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Semicrystalline_polymers__HDPE",
+    "type": "Material",
+    "label": "Semicrystalline polymers (HDPE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LLDPE",
+    "type": "Material",
+    "label": "LLDPE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LDPE",
+    "type": "Material",
+    "label": "LDPE",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PB_1",
+    "type": "Material",
+    "label": "PB-1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_P4M1P",
+    "type": "Material",
+    "label": "P4M1P",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBAT",
+    "type": "Material",
+    "label": "PBAT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PBN",
+    "type": "Material",
+    "label": "PBN",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cold_crystallized_thin_films_on_silicon_",
+    "type": "Material",
+    "label": "cold-crystallized thin films on silicon substrates (with/wit",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SAM_modification_",
+    "type": "Material",
+    "label": "SAM modification)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_MDI_BDO_hard_segments",
+    "type": "Material",
+    "label": "MDI/BDO hard segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PTMO_soft_segments",
+    "type": "Material",
+    "label": "PTMO soft segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_two_polymorphs__triclinic_Form_II__and_p",
+    "type": "Material",
+    "label": "two polymorphs: triclinic Form II  and paracrystalline Form ",
+    "category": "material"
+  },
+  {
+    "id": "MAT_18_series__X___2",
+    "type": "Material",
+    "label": "18 series (X = 2",
+    "category": "material"
+  },
+  {
+    "id": "MAT______OCO____COO______and_PE_2",
+    "type": "Material",
+    "label": "−[−ₓ−OCO−₁₆−COO−]ₙ−) and PE-2",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__of_various_molecular_weights__9k",
+    "type": "Material",
+    "label": "Poly  of various molecular weights (9k",
+    "category": "material"
+  },
+  {
+    "id": "MAT_36k",
+    "type": "Material",
+    "label": "36k",
+    "category": "material"
+  },
+  {
+    "id": "MAT_110k_",
+    "type": "Material",
+    "label": "110k)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_two_crystal_forms_____stable",
+    "type": "Material",
+    "label": "two crystal forms: α (stable",
+    "category": "material"
+  },
+  {
+    "id": "MAT_requires_strict_up_down_order_of_polar_c",
+    "type": "Material",
+    "label": "requires strict up-down order of polar chains) and α' (kinet",
+    "category": "material"
+  },
+  {
+    "id": "MAT_no_up_down_order_requirement_",
+    "type": "Material",
+    "label": "no up-down order requirement)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Atactic_stereoirregular_polymers_that_ca",
+    "type": "Material",
+    "label": "Atactic/stereoirregular polymers that can crystallize",
+    "category": "material"
+  },
+  {
+    "id": "MAT_precision_polymers_with_regularly_spaced",
+    "type": "Material",
+    "label": "precision polymers with regularly spaced substituents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymers_with_specific_ordering_features",
+    "type": "Material",
+    "label": "polymers with specific ordering features enabling crystalliz",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polythiourethanes",
+    "type": "Material",
+    "label": "Polythiourethanes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thiourethane_bonds",
+    "type": "Material",
+    "label": "thiourethane bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carboxyl__and_amide__functional_groups",
+    "type": "Material",
+    "label": "carboxyl  and amide  functional groups",
+    "category": "material"
+  },
+  {
+    "id": "MAT_LiFePO4_cathode",
+    "type": "Material",
+    "label": "LiFePO4 cathode",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lithium_ion_battery",
+    "type": "Material",
+    "label": "lithium-ion battery",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Two_component_supramolecular_adhesives_f",
+    "type": "Material",
+    "label": "Two-component supramolecular adhesives from small organic mo",
+    "category": "material"
+  },
+  {
+    "id": "MAT_water_as_modulator_cross_linker",
+    "type": "Material",
+    "label": "water as modulator/cross-linker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Diaminoglyoxime__tetrafunctional_cross_l",
+    "type": "Material",
+    "label": "Diaminoglyoxime  tetrafunctional cross-linker",
+    "category": "material"
+  },
+  {
+    "id": "MAT_triple_dynamic_bonds__oxime_carbamate___",
+    "type": "Material",
+    "label": "triple dynamic bonds: oxime-carbamate + amidine-urea + hydro",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2__bipyridine__4",
+    "type": "Material",
+    "label": "2'-bipyridine]-4",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4__dicarbohydrazide",
+    "type": "Material",
+    "label": "4'-dicarbohydrazide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_intramolecular_rotatable_conjugated_stru",
+    "type": "Material",
+    "label": "intramolecular rotatable conjugated structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_H_bonding_sites",
+    "type": "Material",
+    "label": "H-bonding sites",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Aliphatic_quaternary_ammonium_salts",
+    "type": "Material",
+    "label": "Aliphatic quaternary ammonium salts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_alkyl_chain_lengths_and_counteri",
+    "type": "Material",
+    "label": "various alkyl chain lengths and counterions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Supramolecular_poly_network_from_thiocti",
+    "type": "Material",
+    "label": "Supramolecular poly network from thioctic acid  derivatives",
+    "category": "material"
+  },
+  {
+    "id": "MAT_oligopeptide_modified_1",
+    "type": "Material",
+    "label": "oligopeptide-modified 1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2_dithiolane_building_blocks",
+    "type": "Material",
+    "label": "2-dithiolane building blocks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_electron_rich_groups__hydroxyl",
+    "type": "Material",
+    "label": "electron-rich groups (hydroxyl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ester",
+    "type": "Material",
+    "label": "ester",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbonyl",
+    "type": "Material",
+    "label": "carbonyl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amide_",
+    "type": "Material",
+    "label": "amide)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amine_initiators__triethylamine",
+    "type": "Material",
+    "label": "amine initiators (triethylamine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TEA__as_chain_end_groups",
+    "type": "Material",
+    "label": "TEA) as chain-end groups",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amine_ester_complexes",
+    "type": "Material",
+    "label": "amine-ester complexes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Clusteroluminogens__polymers__natural__s",
+    "type": "Material",
+    "label": "Clusteroluminogens: polymers (natural: starch",
+    "category": "material"
+  },
+  {
+    "id": "MAT_proteins",
+    "type": "Material",
+    "label": "proteins",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_clusters",
+    "type": "Material",
+    "label": "metal clusters",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Graft_type_polymer_electrolyte_membranes",
+    "type": "Material",
+    "label": "Graft-type polymer electrolyte membranes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ion_channel_structures",
+    "type": "Material",
+    "label": "ion channel structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydrophilic_hydrophobic_phase_separated_",
+    "type": "Material",
+    "label": "hydrophilic-hydrophobic phase-separated systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_electrolytes__CuCl_",
+    "type": "Material",
+    "label": "electrolytes (CuCl₂",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NaCl_",
+    "type": "Material",
+    "label": "NaCl)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Star_polymers_with_varying_functionaliti",
+    "type": "Material",
+    "label": "Star polymers with varying functionalities",
+    "category": "material"
+  },
+  {
+    "id": "MAT_confined_within_slit_geometry",
+    "type": "Material",
+    "label": "confined within slit geometry",
+    "category": "material"
+  },
+  {
+    "id": "MAT_solvents_of_varying_quality__athermal",
+    "type": "Material",
+    "label": "solvents of varying quality (athermal",
+    "category": "material"
+  },
+  {
+    "id": "MAT_good",
+    "type": "Material",
+    "label": "good",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poor_",
+    "type": "Material",
+    "label": "poor)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mica_and_metal_surfaces_modified_with_se",
+    "type": "Material",
+    "label": "Mica and metal surfaces modified with self-assembled monolay",
+    "category": "material"
+  },
+  {
+    "id": "MAT_electrolyte_solutions",
+    "type": "Material",
+    "label": "electrolyte solutions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_P3HT____SBS__blends_for_stretchable_elec",
+    "type": "Material",
+    "label": "P3HT  + SBS  blends for stretchable electronics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Thioacetic_acid___trans_2_hexenal",
+    "type": "Material",
+    "label": "Thioacetic acid + trans-2-hexenal",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thio_Michael_addition_products",
+    "type": "Material",
+    "label": "thio-Michael addition products",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Enones___alkyl_aryl_thiols",
+    "type": "Material",
+    "label": "Enones + alkyl/aryl thiols",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amino_acid_catalysts",
+    "type": "Material",
+    "label": "amino acid catalysts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_2_ethyl_isocyanate",
+    "type": "Material",
+    "label": "2-ethyl isocyanate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_allyl_isocyanate",
+    "type": "Material",
+    "label": "allyl isocyanate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_thiols__alkyl",
+    "type": "Material",
+    "label": "various thiols (alkyl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_aryl",
+    "type": "Material",
+    "label": "aryl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydroxyl",
+    "type": "Material",
+    "label": "hydroxyl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carboxylic_acid",
+    "type": "Material",
+    "label": "carboxylic acid",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amine",
+    "type": "Material",
+    "label": "amine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_amino_acid_",
+    "type": "Material",
+    "label": "amino acid)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Thiol_Michael_addition_systems",
+    "type": "Material",
+    "label": "Thiol-Michael addition systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_vinyl_sulfone",
+    "type": "Material",
+    "label": "vinyl sulfone",
+    "category": "material"
+  },
+  {
+    "id": "MAT_maleimide",
+    "type": "Material",
+    "label": "maleimide",
+    "category": "material"
+  },
+  {
+    "id": "MAT_acrylamide_acceptors",
+    "type": "Material",
+    "label": "acrylamide acceptors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_thiol_donors",
+    "type": "Material",
+    "label": "various thiol donors",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Hydroxyl_terminated_polybutadiene",
+    "type": "Material",
+    "label": "Hydroxyl-terminated polybutadiene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Michael_addition_systems__acetoacetates",
+    "type": "Material",
+    "label": "Michael addition systems: acetoacetates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_maleimides",
+    "type": "Material",
+    "label": "maleimides",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cysteine",
+    "type": "Material",
+    "label": "cysteine",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymer_architectures_from_linear_to_hyp",
+    "type": "Material",
+    "label": "polymer architectures from linear to hyperbranched to networ",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Thia_Michael_addition_systems__thiols___",
+    "type": "Material",
+    "label": "Thia-Michael addition systems: thiols + electron-deficient a",
+    "category": "material"
+  },
+  {
+    "id": "MAT_organosulfur_compounds",
+    "type": "Material",
+    "label": "organosulfur compounds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_rubbery_phase___entangled_phase_with_nan",
+    "type": "Material",
+    "label": "rubbery phase + entangled phase with nano crystalline domain",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PVP_PAAm_system",
+    "type": "Material",
+    "label": "PVP/PAAm system",
+    "category": "material"
+  },
+  {
+    "id": "MAT_modulus_matched_biphasic_design",
+    "type": "Material",
+    "label": "modulus-matched biphasic design",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Non_faradaic_junction__sensors__ionic_co",
+    "type": "Material",
+    "label": "Non-faradaic junction  sensors: ionic conductor + electronic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metals",
+    "type": "Material",
+    "label": "metals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbon_",
+    "type": "Material",
+    "label": "carbon)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_P_relaxor_ferroelectric_copolymers",
+    "type": "Material",
+    "label": "P relaxor ferroelectric copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_biodegradable_PUs",
+    "type": "Material",
+    "label": "biodegradable PUs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polar_active_polymers",
+    "type": "Material",
+    "label": "Polar active polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_one_end_fixed_boundary_conditions",
+    "type": "Material",
+    "label": "one-end-fixed boundary conditions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Adsorption_active_polymer_chain_with_fre",
+    "type": "Material",
+    "label": "Adsorption-active polymer chain with free end attached to ha",
+    "category": "material"
+  },
+  {
+    "id": "MAT_two_component_brush_system",
+    "type": "Material",
+    "label": "two-component brush system",
+    "category": "material"
+  },
+  {
+    "id": "MAT_charged_polymers_grafted_to_solid_liquid",
+    "type": "Material",
+    "label": "charged polymers grafted to solid-liquid interface",
+    "category": "material"
+  },
+  {
+    "id": "MAT_monovalent_salt_solutions",
+    "type": "Material",
+    "label": "monovalent salt solutions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Cyclobutane_based_mechanophore_cross_lin",
+    "type": "Material",
+    "label": "Cyclobutane-based mechanophore cross-linkers (C1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cis_diaryl_substituted_cyclobutane_",
+    "type": "Material",
+    "label": "cis-diaryl substituted cyclobutane)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_side_chain_cross_linked_networks_via_RAF",
+    "type": "Material",
+    "label": "side-chain cross-linked networks via RAFT polymerization",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polyampholyte_gels",
+    "type": "Material",
+    "label": "Polyampholyte gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_alternating",
+    "type": "Material",
+    "label": "alternating",
+    "category": "material"
+  },
+  {
+    "id": "MAT_random",
+    "type": "Material",
+    "label": "random",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_diblock_charge_sequences",
+    "type": "Material",
+    "label": "and diblock charge sequences",
+    "category": "material"
+  },
+  {
+    "id": "MAT_charged_polymer_networks_with_both_posit",
+    "type": "Material",
+    "label": "charged polymer networks with both positive and negative cha",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Trifunctional_alkene_monomer_with_benzyl",
+    "type": "Material",
+    "label": "Trifunctional alkene monomer with benzylic ether groups + di",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Triply_periodic_minimal_surface__structu",
+    "type": "Material",
+    "label": "Triply periodic minimal surface  structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_materials__metals",
+    "type": "Material",
+    "label": "various materials (metals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ceramics",
+    "type": "Material",
+    "label": "ceramics",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymers__fabricated_via_additive_manufa",
+    "type": "Material",
+    "label": "polymers) fabricated via additive manufacturing",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Achiral_bead_spring_rods_with_marginal_b",
+    "type": "Material",
+    "label": "Achiral bead-spring rods with marginal backbone flexibility",
+    "category": "material"
+  },
+  {
+    "id": "MAT_continuous_spread_in_contour_length",
+    "type": "Material",
+    "label": "continuous spread in contour length",
+    "category": "material"
+  },
+  {
+    "id": "MAT_log_normal_rod_length_distributions",
+    "type": "Material",
+    "label": "log-normal rod length distributions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polystyrene_randomly_sulfonated_with_SO_",
+    "type": "Material",
+    "label": "Polystyrene randomly sulfonated with SO₃⁻ fractions f = 0.20",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPO380_DAB_CAT_Fe_and_PPO640_DAB_CAT_Fe_",
+    "type": "Material",
+    "label": "PPO380-DAB-CAT-Fe and PPO640-DAB-CAT-Fe networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Multicomponent_polymer_systems__homopoly",
+    "type": "Material",
+    "label": "Multicomponent polymer systems: homopolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Graft_polymer_melts",
+    "type": "Material",
+    "label": "Graft polymer melts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_variable_grafting_density",
+    "type": "Material",
+    "label": "variable grafting density",
+    "category": "material"
+  },
+  {
+    "id": "MAT_flexible_backbone___rigid_side_chains_vs",
+    "type": "Material",
+    "label": "flexible backbone + rigid side chains vs rigid backbone + fl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trapped_entanglement_dominated_polymer_n",
+    "type": "Material",
+    "label": "trapped-entanglement-dominated polymer networks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_three_architectures__linear",
+    "type": "Material",
+    "label": "three architectures: linear",
+    "category": "material"
+  },
+  {
+    "id": "MAT_covalent_crosslinked",
+    "type": "Material",
+    "label": "covalent-crosslinked",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trapped_entanglement_dominated",
+    "type": "Material",
+    "label": "trapped-entanglement-dominated",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Conjugated_and_ladder_like_polymers_with",
+    "type": "Material",
+    "label": "Conjugated and ladder-like polymers with ribbon-like shape",
+    "category": "material"
+  },
+  {
+    "id": "MAT_torsional_polymer_chains",
+    "type": "Material",
+    "label": "torsional polymer chains",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly_and_similar_conjugated_polymers",
+    "type": "Material",
+    "label": "poly and similar conjugated polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Water_models__SPC",
+    "type": "Material",
+    "label": "Water models (SPC",
+    "category": "material"
+  },
+  {
+    "id": "MAT_SPC_E",
+    "type": "Material",
+    "label": "SPC/E",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TIP4P",
+    "type": "Material",
+    "label": "TIP4P",
+    "category": "material"
+  },
+  {
+    "id": "MAT_TIP4P_2005_",
+    "type": "Material",
+    "label": "TIP4P/2005)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_molecular_nucleation_systems",
+    "type": "Material",
+    "label": "molecular nucleation systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_AB_graft_copolymers__n__adsorbed_at_immi",
+    "type": "Material",
+    "label": "AB graft copolymers _n) adsorbed at immiscible glassy A/B ho",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ternary_systems",
+    "type": "Material",
+    "label": "ternary systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Bicyclic_cyclobutane_mechanophore_contai",
+    "type": "Material",
+    "label": "Bicyclic cyclobutane mechanophore-containing polymer network",
+    "category": "material"
+  },
+  {
+    "id": "MAT_double_network__gels",
+    "type": "Material",
+    "label": "double-network  gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_reactive_strand_extension__systems",
+    "type": "Material",
+    "label": "reactive strand extension  systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_P5_and_P12_copolymers",
+    "type": "Material",
+    "label": "P5 and P12 copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_End_functional_f_arm_star_polymers",
+    "type": "Material",
+    "label": "End-functional f-arm star polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_reversible_gel_systems",
+    "type": "Material",
+    "label": "reversible gel systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_associative_polymer_stars_in_implicit_so",
+    "type": "Material",
+    "label": "associative polymer stars in implicit solvent",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polystyrene_melt",
+    "type": "Material",
+    "label": "polystyrene melt",
+    "category": "material"
+  },
+  {
+    "id": "MAT_relaxing_polymeric_media",
+    "type": "Material",
+    "label": "relaxing polymeric media",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__gel_films_containing_glycerol",
+    "type": "Material",
+    "label": "Poly  gel films containing glycerol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Miscible_polymer_blends_with_strong_spec",
+    "type": "Material",
+    "label": "Miscible polymer blends with strong specific interactions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_novolac_resins_with_isotactic_syndiotact",
+    "type": "Material",
+    "label": "novolac resins with isotactic/syndiotactic poly",
+    "category": "material"
+  },
+  {
+    "id": "MAT_electron_donor_acceptor_complex_blends",
+    "type": "Material",
+    "label": "electron donor-acceptor complex blends",
+    "category": "material"
+  },
+  {
+    "id": "MAT_reversible_hydrogen_bonds_for_self_heali",
+    "type": "Material",
+    "label": "reversible hydrogen bonds for self-healing",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Nanoparticle_systems",
+    "type": "Material",
+    "label": "Nanoparticle systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_colloidal_nanoparticles",
+    "type": "Material",
+    "label": "colloidal nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hierarchical_nanostructures",
+    "type": "Material",
+    "label": "hierarchical nanostructures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_N_dimethyl_ammonioethanesulfonate___and_",
+    "type": "Material",
+    "label": "N-dimethyl)ammonioethanesulfonate)  and poly",
+    "category": "material"
+  },
+  {
+    "id": "MAT_lamellar_structures",
+    "type": "Material",
+    "label": "lamellar structures",
+    "category": "material"
+  },
+  {
+    "id": "MAT_single_crystals",
+    "type": "Material",
+    "label": "single crystals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_spherulites",
+    "type": "Material",
+    "label": "spherulites",
+    "category": "material"
+  },
+  {
+    "id": "MAT_shish_kebabs",
+    "type": "Material",
+    "label": "shish kebabs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly_copolymers",
+    "type": "Material",
+    "label": "Poly copolymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hard_segment___soft_segment_microphase_s",
+    "type": "Material",
+    "label": "hard segment + soft segment microphase-separated systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_commercial_PU_formulations",
+    "type": "Material",
+    "label": "commercial PU formulations",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4_1_weight_ratio",
+    "type": "Material",
+    "label": "4:1 weight ratio",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PTMO_amine_MW__1238_g_mol",
+    "type": "Material",
+    "label": "PTMO-amine MW ~1238 g/mol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_C_mpyr_TFSI_",
+    "type": "Material",
+    "label": "C₂mpyr TFSI)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_two_component_IPN_systems",
+    "type": "Material",
+    "label": "two-component IPN systems",
+    "category": "material"
+  },
+  {
+    "id": "MAT_IPDI__gradually_substituted_for_PPDI__1",
+    "type": "Material",
+    "label": "IPDI  gradually substituted for PPDI (1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4_phenylene_diisocyanate__in_hard_segmen",
+    "type": "Material",
+    "label": "4-phenylene diisocyanate) in hard segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Poly__and_poly",
+    "type": "Material",
+    "label": "Poly  and poly",
+    "category": "material"
+  },
+  {
+    "id": "MAT_conjugated_polymers_with_anisotropic_int",
+    "type": "Material",
+    "label": "conjugated polymers with anisotropic interchain interactions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Various_weakly_scattering_biological_and",
+    "type": "Material",
+    "label": "Various weakly scattering biological and soft matter samples",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dual_Tg_design",
+    "type": "Material",
+    "label": "dual Tg design",
+    "category": "material"
+  },
+  {
+    "id": "MAT_pearl_necklace_chain__conformations",
+    "type": "Material",
+    "label": "pearl-necklace chain  conformations",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ferroelectric_polymer",
+    "type": "Material",
+    "label": "ferroelectric polymer",
+    "category": "material"
+  },
+  {
+    "id": "MAT___crystal_polymorphs",
+    "type": "Material",
+    "label": "γ crystal polymorphs",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Supramolecular_polymers",
+    "type": "Material",
+    "label": "Supramolecular polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_noncovalent_interactions______stacking",
+    "type": "Material",
+    "label": "noncovalent interactions (π-π stacking",
+    "category": "material"
+  },
+  {
+    "id": "MAT_H_bonding",
+    "type": "Material",
+    "label": "H-bonding",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metal_coordination",
+    "type": "Material",
+    "label": "metal coordination",
+    "category": "material"
+  },
+  {
+    "id": "MAT_van_der_Waals",
+    "type": "Material",
+    "label": "van der Waals",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydrophobic",
+    "type": "Material",
+    "label": "hydrophobic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_host_guest_",
+    "type": "Material",
+    "label": "host-guest)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Bisphenol_A_polycarbonate",
+    "type": "Material",
+    "label": "Bisphenol A polycarbonate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_semicrystalline_biodegradable_polymer",
+    "type": "Material",
+    "label": "semicrystalline biodegradable polymer",
+    "category": "material"
+  },
+  {
+    "id": "MAT_crystalline_domain_cross_links",
+    "type": "Material",
+    "label": "crystalline domain cross-links",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Physically_cross_linked_networks_of_semi",
+    "type": "Material",
+    "label": "Physically cross-linked networks of semiflexible polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bead_spring_model__1000_chains",
+    "type": "Material",
+    "label": "bead-spring model (1000 chains",
+    "category": "material"
+  },
+  {
+    "id": "MAT_30_beads_each_",
+    "type": "Material",
+    "label": "30 beads each)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cohesive_energy___bending_stiffness",
+    "type": "Material",
+    "label": "cohesive energy + bending stiffness",
+    "category": "material"
+  },
+  {
+    "id": "MAT_star_polymers_with_up_to_12_entanglement",
+    "type": "Material",
+    "label": "star polymers with up to 12 entanglements per arm",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Crystalline_polymer_semiconductor_P3PT",
+    "type": "Material",
+    "label": "Crystalline polymer semiconductor P3PT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_semicrystalline_PDPP3T",
+    "type": "Material",
+    "label": "semicrystalline PDPP3T",
+    "category": "material"
+  },
+  {
+    "id": "MAT_semiparacrystalline_PM6",
+    "type": "Material",
+    "label": "semiparacrystalline PM6",
+    "category": "material"
+  },
+  {
+    "id": "MAT_nearly_amorphous_IDTBT",
+    "type": "Material",
+    "label": "nearly amorphous IDTBT",
+    "category": "material"
+  },
+  {
+    "id": "MAT_insulating_polymer_SEBS",
+    "type": "Material",
+    "label": "insulating polymer SEBS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Transient_networks_of_uniform_polymer_ch",
+    "type": "Material",
+    "label": "Transient networks of uniform polymer chains reversibly cros",
+    "category": "material"
+  },
+  {
+    "id": "MAT_three_network_types__covalent",
+    "type": "Material",
+    "label": "three network types: covalent",
+    "category": "material"
+  },
+  {
+    "id": "MAT_thermo_reversible",
+    "type": "Material",
+    "label": "thermo-reversible",
+    "category": "material"
+  },
+  {
+    "id": "MAT_entangled",
+    "type": "Material",
+    "label": "entangled",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Glasses__under_cyclic_shear_deformation",
+    "type": "Material",
+    "label": "Glasses  under cyclic shear deformation",
+    "category": "material"
+  },
+  {
+    "id": "MAT_varying_degrees_of_polymerization",
+    "type": "Material",
+    "label": "varying degrees of polymerization",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ionic_clusters_as_transient_cross_links",
+    "type": "Material",
+    "label": "ionic clusters as transient cross-links",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Associating_copolymer_melts_with_high_at",
+    "type": "Material",
+    "label": "Associating copolymer melts with high attractive sticker fra",
+    "category": "material"
+  },
+  {
+    "id": "MAT_local_clustering_and_disordered_micropha",
+    "type": "Material",
+    "label": "local clustering and disordered microphase ordering",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Gels",
+    "type": "Material",
+    "label": "Gels",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_polymer_topologies__linear",
+    "type": "Material",
+    "label": "various polymer topologies (linear",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ring",
+    "type": "Material",
+    "label": "ring",
+    "category": "material"
+  },
+  {
+    "id": "MAT_slide_ring",
+    "type": "Material",
+    "label": "slide-ring",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polyrotaxane_",
+    "type": "Material",
+    "label": "polyrotaxane)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_trapped_and_transient_entanglements",
+    "type": "Material",
+    "label": "trapped and transient entanglements",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymerlike_networks__with_varying_defec",
+    "type": "Material",
+    "label": "Polymerlike networks  with varying defects",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dispersity",
+    "type": "Material",
+    "label": "dispersity",
+    "category": "material"
+  },
+  {
+    "id": "MAT_topologies",
+    "type": "Material",
+    "label": "topologies",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_length_scales",
+    "type": "Material",
+    "label": "and length scales",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_nanocomposite__poly____silica_na",
+    "type": "Material",
+    "label": "Polymer nanocomposite: poly  + silica nanoparticles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PPG_DME",
+    "type": "Material",
+    "label": "PPG-DME",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Model_polymer_chains_in_various_solvent_",
+    "type": "Material",
+    "label": "Model polymer chains in various solvent conditions (theta",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poor_solvents_",
+    "type": "Material",
+    "label": "poor solvents)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Metallo_supramolecular_networks_with_pen",
+    "type": "Material",
+    "label": "Metallo-supramolecular networks with pendant group cross-lin",
+    "category": "material"
+  },
+  {
+    "id": "MAT_different_metal_ions",
+    "type": "Material",
+    "label": "different metal ions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_low_degree_of_entanglements",
+    "type": "Material",
+    "label": "low degree of entanglements",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Tetra_arm_polymer_gels_with_controlled_h",
+    "type": "Material",
+    "label": "Tetra-arm polymer gels with controlled homogeneous network s",
+    "category": "material"
+  },
+  {
+    "id": "MAT_varying_network_connectivity_p__and_poly",
+    "type": "Material",
+    "label": "varying network connectivity p  and polymer concentration c",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polycatenane_chains__and_catenane_ribbon",
+    "type": "Material",
+    "label": "Polycatenane chains  and catenane ribbons",
+    "category": "material"
+  },
+  {
+    "id": "MAT_modeled_with_rigid_rings",
+    "type": "Material",
+    "label": "modeled with rigid rings",
+    "category": "material"
+  },
+  {
+    "id": "MAT_poly____unentangled_glassy_polymer_films",
+    "type": "Material",
+    "label": "poly  — unentangled glassy polymer films",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Soft_repulsive_spheres_model",
+    "type": "Material",
+    "label": "Soft repulsive spheres model",
+    "category": "material"
+  },
+  {
+    "id": "MAT_covering_granular_matter",
+    "type": "Material",
+    "label": "covering granular matter",
+    "category": "material"
+  },
+  {
+    "id": "MAT_emulsions",
+    "type": "Material",
+    "label": "emulsions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hard_soft_colloids",
+    "type": "Material",
+    "label": "hard/soft colloids",
+    "category": "material"
+  },
+  {
+    "id": "MAT_molecular_glasses",
+    "type": "Material",
+    "label": "molecular glasses",
+    "category": "material"
+  },
+  {
+    "id": "MAT_General_glass_forming_liquids",
+    "type": "Material",
+    "label": "General glass-forming liquids",
+    "category": "material"
+  },
+  {
+    "id": "MAT_including_silica",
+    "type": "Material",
+    "label": "including silica",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polymers",
+    "type": "Material",
+    "label": "polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_metallic_glasses",
+    "type": "Material",
+    "label": "metallic glasses",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Mean_field_Mari_Kurchan_model",
+    "type": "Material",
+    "label": "Mean-field Mari-Kurchan model",
+    "category": "material"
+  },
+  {
+    "id": "MAT_finite_dimensional_glass_forming_models",
+    "type": "Material",
+    "label": "finite-dimensional glass-forming models",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polydispersity__7___with_small_tracer_pa",
+    "type": "Material",
+    "label": "polydispersity ~7%) with small tracer particles  in index/de",
+    "category": "material"
+  },
+  {
+    "id": "MAT_S_chiral_oligo__with_chiral_butoxy_side_",
+    "type": "Material",
+    "label": "S-chiral oligo  with chiral butoxy side chains",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hydrogen_bonded_dimers_self_assembling_i",
+    "type": "Material",
+    "label": "hydrogen-bonded dimers self-assembling into helical stacks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Bidimensional_bidisperse_granular_disks",
+    "type": "Material",
+    "label": "Bidimensional bidisperse granular disks",
+    "category": "material"
+  },
+  {
+    "id": "MAT_vibrated_below_jamming",
+    "type": "Material",
+    "label": "vibrated below jamming",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Sorbitol_and_xylitol",
+    "type": "Material",
+    "label": "Sorbitol and xylitol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Peptide_amphiphile_V3A3K3_with_16_carbon",
+    "type": "Material",
+    "label": "Peptide amphiphile V3A3K3 with 16-carbon alkyl chain",
+    "category": "material"
+  },
+  {
+    "id": "MAT_anionic_perylene_monoimide_amphiphile",
+    "type": "Material",
+    "label": "anionic perylene-monoimide amphiphile",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Janus_dendrimer_molecules_with__3",
+    "type": "Material",
+    "label": "Janus dendrimer molecules with (3",
+    "category": "material"
+  },
+  {
+    "id": "MAT_5__patterned_hydrophobic_aliphatic_chain",
+    "type": "Material",
+    "label": "5)-patterned hydrophobic aliphatic chains and (3",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4__patterned_hydrophilic_oligo__on_pheno",
+    "type": "Material",
+    "label": "4)-patterned hydrophilic oligo  on phenolic acid units",
+    "category": "material"
+  },
+  {
+    "id": "MAT_mixed_linear_sterically_hindered_fatty_a",
+    "type": "Material",
+    "label": "mixed linear/sterically hindered fatty acid dimer",
+    "category": "material"
+  },
+  {
+    "id": "MAT_isopropyl_substituted",
+    "type": "Material",
+    "label": "isopropyl-substituted",
+    "category": "material"
+  },
+  {
+    "id": "MAT_blocks_with__20_backbone_bonds_and_large",
+    "type": "Material",
+    "label": "blocks with ≤20 backbone bonds and large interaction paramet",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Model_soap_foam_consisting_of_compressib",
+    "type": "Material",
+    "label": "Model soap foam consisting of compressible spherical bubbles",
+    "category": "material"
+  },
+  {
+    "id": "MAT_driven_by_Ostwald_ripening",
+    "type": "Material",
+    "label": "driven by Ostwald ripening",
+    "category": "material"
+  },
+  {
+    "id": "MAT_General_polymer_chains_in___solvents",
+    "type": "Material",
+    "label": "General polymer chains in θ-solvents",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polystyrene_variants__cyclic_PS",
+    "type": "Material",
+    "label": "Polystyrene variants: cyclic PS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_linear_PS",
+    "type": "Material",
+    "label": "linear PS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_six_arm_star_PS",
+    "type": "Material",
+    "label": "six-arm star PS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_adamantane_doped_PS",
+    "type": "Material",
+    "label": "adamantane-doped PS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PS_with_various_end_groups",
+    "type": "Material",
+    "label": "PS with various end groups",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Highly_monodisperse_atactic_styrene_olig",
+    "type": "Material",
+    "label": "Highly monodisperse atactic styrene oligomers (11 monomers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_PDI_1_0029_",
+    "type": "Material",
+    "label": "PDI 1.0029)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ultrastable_glasses__prepared_by_PVD_and",
+    "type": "Material",
+    "label": "ultrastable glasses  prepared by PVD and normal glasses  by ",
+    "category": "material"
+  },
+  {
+    "id": "MAT_aprotic_IL__EMIM__DCA_",
+    "type": "Material",
+    "label": "aprotic IL [EMIM][DCA]",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_various_cation_anion_combinations",
+    "type": "Material",
+    "label": "and various cation-anion combinations",
+    "category": "material"
+  },
+  {
+    "id": "MAT_General_polymer_systems___immiscible_pol",
+    "type": "Material",
+    "label": "General polymer systems : immiscible polymer interfaces",
+    "category": "material"
+  },
+  {
+    "id": "MAT_concentrated_polymer_solution_surfaces",
+    "type": "Material",
+    "label": "concentrated polymer solution surfaces",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Random_tree_like_objects__randomly_branc",
+    "type": "Material",
+    "label": "Random tree-like objects (randomly branching polymers",
+    "category": "material"
+  },
+  {
+    "id": "MAT_ideal_trees_",
+    "type": "Material",
+    "label": "ideal trees)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_models_for_bacterial_DNA",
+    "type": "Material",
+    "label": "models for bacterial DNA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_chromosomal_DNA_during_interphase",
+    "type": "Material",
+    "label": "chromosomal DNA during interphase",
+    "category": "material"
+  },
+  {
+    "id": "MAT_viral_RNA",
+    "type": "Material",
+    "label": "viral RNA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_embedded_in_inert_brush",
+    "type": "Material",
+    "label": "embedded in inert brush",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Random_copolymers_bearing_flexible_diol_",
+    "type": "Material",
+    "label": "Random copolymers bearing flexible diol groups or rigid amid",
+    "category": "material"
+  },
+  {
+    "id": "MAT_designed_to_suppress_ester_driven_transe",
+    "type": "Material",
+    "label": "designed to suppress ester-driven transesterification)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_NMP",
+    "type": "Material",
+    "label": "NMP",
+    "category": "material"
+  },
+  {
+    "id": "MAT_RAFT_surface_initiated_polymerization",
+    "type": "Material",
+    "label": "RAFT surface-initiated polymerization",
+    "category": "material"
+  },
+  {
+    "id": "MAT_uncharged_and_charged_brushes",
+    "type": "Material",
+    "label": "uncharged and charged brushes",
+    "category": "material"
+  },
+  {
+    "id": "MAT_various_architectures__linear",
+    "type": "Material",
+    "label": "various architectures (linear",
+    "category": "material"
+  },
+  {
+    "id": "MAT_bottlebrush_",
+    "type": "Material",
+    "label": "bottlebrush)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Stiff_nanorings__threaded_by_polymer_cha",
+    "type": "Material",
+    "label": "Stiff nanorings  threaded by polymer chains in polymer melts",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4__dicarbohydrazide__as_chain_extender",
+    "type": "Material",
+    "label": "4′-dicarbohydrazide  as chain extender",
+    "category": "material"
+  },
+  {
+    "id": "MAT_supramolecular_hydrogen_bond_dynamic_net",
+    "type": "Material",
+    "label": "supramolecular hydrogen bond dynamic network",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Polymer_networks_with_spring_like_aromat",
+    "type": "Material",
+    "label": "Polymer networks with spring-like aromatic foldamers (ortho-",
+    "category": "material"
+  },
+  {
+    "id": "MAT_oPs__in_backbones",
+    "type": "Material",
+    "label": "oPs) in backbones",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cross_linked_with_dynamic_Diels_Alder__a",
+    "type": "Material",
+    "label": "cross-linked with dynamic Diels-Alder  adducts or nondynamic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Dynamic_covalent_polymer_networks__with_",
+    "type": "Material",
+    "label": "Dynamic covalent polymer networks  with >30 types of dynamic",
+    "category": "material"
+  },
+  {
+    "id": "MAT_transesterification",
+    "type": "Material",
+    "label": "transesterification",
+    "category": "material"
+  },
+  {
+    "id": "MAT_etc_",
+    "type": "Material",
+    "label": "etc.",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Thioctic_amide__derivatives___primary_am",
+    "type": "Material",
+    "label": "Thioctic amide  derivatives — primary amide derivative of th",
+    "category": "material"
+  },
+  {
+    "id": "MAT_flexible_H_bonding__and_2_ureido_4_H__py",
+    "type": "Material",
+    "label": "flexible H-bonding) and 2-ureido-4[H]-pyrimidinone (UPy",
+    "category": "material"
+  },
+  {
+    "id": "MAT_rigid_quadruple_H_bonding__hard_segments",
+    "type": "Material",
+    "label": "rigid quadruple H-bonding) hard segments",
+    "category": "material"
+  },
+  {
+    "id": "MAT_microscale_physical_cross_linking",
+    "type": "Material",
+    "label": "microscale physical cross-linking",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_dynamic_hydrogen_bonding_interaction",
+    "type": "Material",
+    "label": "and dynamic hydrogen-bonding interactions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_5_furan_diformylhydrazide__FDHA",
+    "type": "Material",
+    "label": "5-furan diformylhydrazide (FDHA",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hard_phase_building_unit_with_dynamic_H_",
+    "type": "Material",
+    "label": "hard phase building unit with dynamic H-bond network)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Vicinal_amino_alcohol__modified_polybuta",
+    "type": "Material",
+    "label": "Vicinal amino alcohol -modified polybutadiene",
+    "category": "material"
+  },
+  {
+    "id": "MAT_synthesized_by_epoxidation_of_PB_followe",
+    "type": "Material",
+    "label": "synthesized by epoxidation of PB followed by ring-opening re",
+    "category": "material"
+  },
+  {
+    "id": "MAT_also_applicable_to_SBS",
+    "type": "Material",
+    "label": "also applicable to SBS",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_biomass_derived_compounds",
+    "type": "Material",
+    "label": "and biomass-derived compounds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Supramolecular_polymer_networks__incorpo",
+    "type": "Material",
+    "label": "Supramolecular polymer networks  incorporating three distinc",
+    "category": "material"
+  },
+  {
+    "id": "MAT_single_hydrogen_bonding",
+    "type": "Material",
+    "label": "single hydrogen bonding",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_quadruple_hydrogen_bonding",
+    "type": "Material",
+    "label": "and quadruple hydrogen bonding",
+    "category": "material"
+  },
+  {
+    "id": "MAT_hexamethylene_diisocyanate",
+    "type": "Material",
+    "label": "hexamethylene diisocyanate",
+    "category": "material"
+  },
+  {
+    "id": "MAT_and_various_lengths_of_linear_aliphatic_",
+    "type": "Material",
+    "label": "and various lengths of linear aliphatic diols",
+    "category": "material"
+  },
+  {
+    "id": "MAT_carbohydrates",
+    "type": "Material",
+    "label": "carbohydrates",
+    "category": "material"
+  },
+  {
+    "id": "MAT_fatty_acids",
+    "type": "Material",
+    "label": "fatty acids",
+    "category": "material"
+  },
+  {
+    "id": "MAT_cholesterol",
+    "type": "Material",
+    "label": "cholesterol",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Supramolecular_polymer_double_network__i",
+    "type": "Material",
+    "label": "Supramolecular-polymer double-network  ionic gel with 1",
+    "category": "material"
+  },
+  {
+    "id": "MAT_3_2",
+    "type": "Material",
+    "label": "3:2",
+    "category": "material"
+  },
+  {
+    "id": "MAT_4_dibenzylidene_sorbitol__supramolecular",
+    "type": "Material",
+    "label": "4-dibenzylidene sorbitol  supramolecular network + covalentl",
+    "category": "material"
+  },
+  {
+    "id": "MAT_urea_",
+    "type": "Material",
+    "label": "urea)",
+    "category": "material"
+  },
+  {
+    "id": "MAT_polycarbonate_diol_soft_segment",
+    "type": "Material",
+    "label": "polycarbonate diol soft segment",
+    "category": "material"
+  },
+  {
+    "id": "MAT_Soft_materials_with_various_dynamic_bond",
+    "type": "Material",
+    "label": "Soft materials with various dynamic bonds: H-bonds",
+    "category": "material"
+  },
+  {
+    "id": "MAT_host_guest_interactions",
+    "type": "Material",
+    "label": "host-guest interactions",
+    "category": "material"
+  },
+  {
+    "id": "MAT_dynamic_covalent_bonds__Diels_Alder",
+    "type": "Material",
+    "label": "dynamic covalent bonds (Diels-Alder",
+    "category": "material"
+  },
+  {
+    "id": "MAT_vinylogous_urethane_",
+    "type": "Material",
+    "label": "vinylogous urethane)",
+    "category": "material"
+  }
+]
